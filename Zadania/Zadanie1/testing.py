@@ -1,8 +1,13 @@
 import flags
+import struct
+import binascii
+import flags as flag
 
-print(flags.SYN+flags.CRC_KEY)
-print(len(flags.SYN+flags.CRC_KEY))
-num = int(flags.SYN+flags.CRC_KEY, 2)
-print(num)
-binNum = bin(num)
-print(binNum)
+intFlag = int((flag.SYN + flag.CRC_KEY).encode(), 2)
+"{0:b}".format(intFlag)
+print(bin(intFlag) == bin(17))
+print(str(bin(intFlag)))
+print("{0:08b}".format(intFlag))
+strFlag = "{0:08b}".format(intFlag)
+print(strFlag[:4])
+print(strFlag[4:])
