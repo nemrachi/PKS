@@ -8,15 +8,15 @@ import receiver
 
 
 while True:
-    userInput = input("Choose wisely: (h - help)\n")
+    userInput = input("Choose wisely:\n(h - help)\n")
 
-    #
+    # --------------------------------------------------
     # Sender
-    #
+    # --------------------------------------------------
     if userInput == "0":
         print("You choose to be sender")
         while True:
-            packetSize = input("Choose packet size (max 1487): ")
+            packetSize = input("Choose packet size (max 1487B): ")  # -13 -> 8 UDP header, 5 my header
             if packetSize is '':
                 sender = Sender()
                 break
@@ -24,23 +24,24 @@ while True:
                 print("Wrong input")
                 continue
             else:
-                sender = Sender("127.0.0.1", packetSize)
+                sender = Sender("127.0.0.1", int(packetSize))
             break
-    # message = input("Type message, you want to send:\n")
-    #
+
+    # --------------------------------------------------
     # Receiver
-    #
+    # --------------------------------------------------
     elif userInput == "1":
         print("You choose to be receiver")
         receiver = Receiver()
-    #
+
+    # --------------------------------------------------
     # Help
-    #
+    # --------------------------------------------------
     elif userInput == "h":
         print("Help:\n\t0 - sender\n\t1 - receiver\n\th - print this text\n\te - exit")
-    #
+    # --------------------------------------------------
     # Exit
-    #
+    # --------------------------------------------------
     elif userInput == "e":
         print("ending program")
         break
