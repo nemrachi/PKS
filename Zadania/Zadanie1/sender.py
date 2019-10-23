@@ -17,12 +17,21 @@ class Sender:
 
     def __init__(self, host="127.0.0.1", packetSize=MAX_PACKET_SIZE):
         self.host = host
-        self.packetSize = packetSize  # bytes
+        if MAX_PACKET_SIZE != packetSize:
+            self.packetSize = packetSize + 13
+        else:
+            self.packetSize = packetSize
         print("sender packet size set: ", self.packetSize)
         print("sender host: ", self.host, "\n")
 
         self.senderSocket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        self.init_connection()
+
+        try:
+            self.init_connection()
+        except Exception as e:
+            print(e)
+        finally:
+            self.senderSocket.close()
 
     def init_connection(self):
         try:
@@ -84,11 +93,9 @@ class Sender:
 
     def get_num_of_packets(self, dataLen):
         count = 1
-
-        while dataLen > self.packetSize:
-            dataLen = dataLen - self.packetSize
+        while dataLen > (self.packetSize - 13):
+            dataLen = dataLen - (self.packetSize - 13)
             count += 1
-
         return count
 
     def easy_sending_one_file(self):
@@ -123,11 +130,67 @@ class Sender:
 
                     if strFlag[:4] == flag.ACK:
                         msgInput = msgInput.encode()
+                        rangeFrom = 0
+                        rangeTo = self.packetSize - 13
+
+                        # upravit v receiverovi!!!!!
+                        for x in range(1, numPackets+1):
+                            if x == numPackets:
+                                intFlag = int((flag.FIN_DATA + flag.STRING).encode(), 2)
+                            elif x == 1:
+                                intFlag = int((flag.SYN_DATA + flag.STRING).encode(), 2)
+                            else:
+                                intFlag = int((flag.DATA + flag.STRING).encode(), 2)
+                            print('sending ', x, '. packet')
+                            msgDataPacket = struct.pack('=IB', x, intFlag) + msgInput[rangeFrom:rangeTo]
+                            print(msgDataPacket)
+                            self.senderSocket.sendto(msgDataPacket, (self.host, self.port))
+
+                            rangeFrom = rangeTo
+                            rangeTo = rangeTo + (self.packetSize - 13)
+                        break
+
+            print("\nMessage send\n")
+
+        # --------------------------------------------------
+        # File
+        # --------------------------------------------------
+        elif userInput == 'f':
+            pathInput = input("Path to file: ")
+            splitted = pathInput.split('\\')
+            fileName = splitted[len(splitted) - 1]
+            splitted = fileName.split('.')
+            fileType = splitted[1]
+
+
+
+            intFlag = int((flag.METADATA + flag.STRING).encode(), 2)
+            # v tomto packete poslem pocet packetov a co to je za typ(to je v hlavicke - flag)
+            numPackets = self.get_num_of_packets(len(msgInput))
+
+            metadataPacket = struct.pack('=IBI', 1, intFlag, numPackets)
+            print("metadata packet:", metadataPacket)
+            print("num of packets:", numPackets, "\n")
+
+            self.senderSocket.sendto(metadataPacket, (self.host, self.port))
+
+            while True:
+                print("Waiting for ACK...")
+                data, addr = self.senderSocket.recvfrom(self.packetSize)
+
+                if data:
+                    unpackedData = struct.unpack('=IB', data)
+                    print("Received ACK: ", unpackedData)
+                    strFlag = "{0:08b}".format(unpackedData[1])
+                    print("flag:", strFlag, "\n")
+
+                    if strFlag[:4] == flag.ACK:
+                        msgInput = msgInput.encode()
                         intFlag = int((flag.DATA + flag.STRING).encode(), 2)
 
                         rangeFrom = 0
                         rangeTo = self.packetSize
-                        for x in range(1, numPackets+1):
+                        for x in range(1, numPackets + 1):
                             print('sending ', x, '. packet')
                             msgDataPacket = struct.pack('=IB', x, intFlag) + msgInput[rangeFrom:rangeTo]
                             print(msgDataPacket)
@@ -138,12 +201,6 @@ class Sender:
                         break
 
             print("\nMessage send\n")
-
-        # --------------------------------------------------
-        # File
-        # --------------------------------------------------
-        elif userInput == 'f':
-            print("user choose m")
 
         # --------------------------------------------------
         # Something else

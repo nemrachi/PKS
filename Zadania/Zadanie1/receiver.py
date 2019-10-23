@@ -1,5 +1,6 @@
 import socket
 import struct
+import math
 import traceback
 
 import flags as flag
@@ -23,7 +24,14 @@ class Receiver:
         print("receiver host:", self.host, "\n")
 
         self.receiverSocket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        self.handshake()
+
+        try:
+            self.handshake()
+        except Exception as e:
+            print(e)
+        finally:
+            print("Receiver closing...")
+            self.receiverSocket.close()
 
     def handshake(self):
         self.receiverSocket.bind((self.host, self.port))
@@ -46,7 +54,7 @@ class Receiver:
                         self.CRC_key = unpackedData[2]
                         print("CRC from received data:", self.CRC_key)
 
-                    self.packetSize = unpackedData[3] + 13
+                    self.packetSize = unpackedData[3]
                     print("receiver packet size:", self.packetSize, "\n")
 
                     print("sending SYNACK packet...")
@@ -70,6 +78,7 @@ class Receiver:
                                 break
 
                 self.receive()
+                break
 
     def receive(self):
         # first metadata
@@ -89,20 +98,32 @@ class Receiver:
                 if strFlag[:4] == flag.METADATA:
                     if strFlag[4:] == flag.STRING:
                         print("\nreceiver will be getting string")
+                        print('num of packets:', numPackets)
 
                         intFlag = int((flag.ACK + flag.NONE).encode(), 2)
                         ackPacket = struct.pack('=IB', 1, intFlag)
                         self.receiverSocket.sendto(ackPacket, self.senderInfo)
 
-                        try:
-                            for x in range(1, (numPackets + 1)):
+                        numOfBags = math.ceil(numPackets/10)
+                        print(numOfBags)
+
+                        controlArr = [0] * numPackets
+
+                        for y in range(1, numOfBags+1):
+                            print(y, '. bag of packets')
+                            for x in range(1, (10 + 1)):
+                                if x == numPackets + 1:
+                                    break
                                 print(x, '. packet')
                                 data, addr = self.receiverSocket.recvfrom(self.packetSize)
-                                (header), unpackedData = struct.unpack('=IB', data[:5]), data[5:self.packetSize+1]
+                                (header), unpackedData = struct.unpack('=IB', data[:5]), data[5:self.packetSize + 1]
+                                controlArr[(header[0]-1)] = 1
                                 print(header)
                                 print(unpackedData)
-                        except socket.timeout:
-                            print(socket.timeout)
+
+                            print(controlArr)
+                            if y == numOfBags:
+                                break
                     else:
-                        print('tu bude nieco druhe')
+                        print('tu budu files')
                 break
