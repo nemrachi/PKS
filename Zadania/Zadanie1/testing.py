@@ -1,11 +1,18 @@
 import os
+import socket
+import re
+# s = input()
+# splitted = s.split('\\')
+# print(splitted)
+#
+# inputFile = open(s, 'r+b')
+# # inputFile = inputFile.read()
+#
+# print(os.path.getsize(s))
+#
 
-folders = []
-path = 'C:\\Users\\emari\\Pictures\\kirb.jpg'
 
-s = 'C:\\Users\\emari\\Pictures\\kirb.jpg'
-splitted = s.split('\\')
-
-fileName = splitted[len(splitted)-1]
-
-
+ip = "127.0.0.1"
+print(re.findall("[0-9]", ip))
+listRE = re.findall("[0-9]", ip)
+print(len(listRE))
