@@ -1,18 +1,45 @@
-import os
-import socket
-import re
-# s = input()
-# splitted = s.split('\\')
-# print(splitted)
+import threading
+import time
+
+# answer = ''
+# timers = 3
 #
-# inputFile = open(s, 'r+b')
-# # inputFile = inputFile.read()
 #
-# print(os.path.getsize(s))
+# def work(answer1):
+#     t = threading.Timer(3, work)
+#     t.start()
+#     print("stackoverflow")
+#     if answer1 is not '':
+#         t.join()
 #
+#
+# work(answer)
+#
+# while True:
+#     answer = input("Input something: ")
+#     print("\t", answer)
 
 
-ip = "127.0.0.1"
-print(re.findall("[0-9]", ip))
-listRE = re.findall("[0-9]", ip)
-print(len(listRE))
+def wannaBeMain():
+    sending = False
+
+    def getInputeWhileKA():
+        x = input("Enter")
+        print("\t", x)
+        nonlocal sending
+        sending = True
+
+    def keepAlive():
+        while not sending:
+            try:
+                print('keepalive')
+                time.sleep(4)
+            except:
+                print('error')
+
+    inputThread = threading.Thread(target=getInputeWhileKA())
+    inputThread.start()
+    keepAlive()
+
+
+wannaBeMain()
