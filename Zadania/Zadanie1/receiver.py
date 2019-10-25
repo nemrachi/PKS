@@ -33,7 +33,7 @@ class Receiver:
         self.CRC_key = ''
         self.senderInfo = None
         self.receivingBool = False
-        self.connectBool = False
+        flag.connectBool = False
 
         print("\nreceiver packet size set:", self.packetSize)
         print("receiver host:", self.host)
@@ -45,9 +45,11 @@ class Receiver:
 
         except CloseException:
             print("Receiver closing connection...\nBye bye")
+            flag.connectBool = False
 
         except socket.timeout:
             print("TIMEOUT")
+            flag.connectBool = False
             print("Receiver closing connection...\nBye bye")
 
         except Exception as e:
@@ -103,7 +105,6 @@ class Receiver:
             break
 
         print("Handshake done\n\n")
-        self.connectBool = True
 
         # self.receive()
 
@@ -111,7 +112,7 @@ class Receiver:
         # receive metadata or keep-alive packet or closing packet
         print("\n\tAfter successful handshake starting receiving\n")
 
-        while self.connectBool:
+        while flag.connectBool:
             self.receiverSocket.settimeout(60)
             data, addr = self.receiverSocket.recvfrom(self.packetSize)
             self.receiverSocket.settimeout(None)
@@ -120,48 +121,100 @@ class Receiver:
                 unpackedData = struct.unpack('=IBI', data)
                 strFlag = "{0:08b}".format(unpackedData[1])
 
-                if strFlag[:4] == flag.METADATA:  # toto treba skontrolovat a prerobit
+                if strFlag[:4] == flag.SYN_DATA and strFlag[4:] == flag.NONE:
+                    self.receiverSocket.settimeout(60)
+                    data, addr = self.receiverSocket.recvfrom(self.packetSize)
+                    self.receiverSocket.settimeout(None)
 
-                    print("\nReceived metadata for...")
-                    numPackets = unpackedData[2]
+                    if data:
+                        unpackedData = struct.unpack('=IBI', data)
+                        strFlag = "{0:08b}".format(unpackedData[1])
 
-                    if strFlag[4:] == flag.STRING:
-                        print("...string")
-                        print('number of packets:', numPackets)
+                        bagEnd = 0
+                        corruptedPacketsNum = ''
 
-                        intFlag = int((flag.ACK + flag.NONE).encode(), 2)
-                        ackPacket = struct.pack('=IB', 1, intFlag)
-                        self.receiverSocket.sendto(ackPacket, self.senderInfo)
+                        if strFlag[:4] == flag.METADATA:  # toto treba skontrolovat a prerobit
 
-                        numOfBags = math.ceil(numPackets / 10)
-                        print(numOfBags)
+                            print("\nReceived metadata for...")
+                            numPackets = unpackedData[2]
+                            intFlag = int((flag.ACK + flag.NONE).encode(), 2)
+                            ackPacket = struct.pack('=IB', 1, intFlag)
+                            self.receiverSocket.sendto(ackPacket, self.senderInfo)
 
-                        controlArr = [0] * numPackets
+                            if strFlag[4:] == flag.STRING:
+                                print("...string")
+                                print('number of packets:', numPackets)
 
-                        wholeData = ''
+                                numOfBags = math.ceil(numPackets / 10)
+                                controlArr = [0] * numPackets
+                                wholeData = ''
 
-                        for y in range(1, numOfBags + 1):
-                            print(y, '. bag of packets')
-                            for x in range(1, (10 + 1)):
-                                if x == numPackets + 1:
-                                    break
-                                print(x, '. packet')
-                                data, addr = self.receiverSocket.recvfrom(self.packetSize)
-                                if not data:
-                                    break
-                                (header), unpackedData = struct.unpack('=IB', data[:5]), data[5:self.packetSize + 1]
-                                wholeData = wholeData + unpackedData.decode()
-                                controlArr[(header[0] - 1)] = 1
-                                print(header)
-                                print(unpackedData)
+                                while flag.connectBool:
+                                    self.receiverSocket.settimeout(60)
+                                    data = self.receiverSocket.recvfrom(self.packetSize)[0]
+                                    self.receiverSocket.settimeout(None)
 
-                            print(controlArr)
-                            if y == numOfBags:
-                                break
+                                    if data:
+                                        (header), unpackedData = struct.unpack('=IB', data[:5]), data[
+                                                                                                 5:self.packetSize + 1]
+                                        strFlag = "{0:08b}".format(header[1])
 
-                        print("Received message: ", wholeData)
-                    else:
-                        print('tu budu files')
+                                        if strFlag[:4] == flag.SYN_DATA or strFlag[:4] == flag.DATA:
+                                            wholeData = wholeData + unpackedData.decode()
+                                            controlArr[(header[0] - 1)] = 1
+                                            continue
+
+                                        elif strFlag[:4] == flag.FIN_DATA:
+                                            wholeData = wholeData + unpackedData.decode()
+                                            controlArr[(header[0] - 1)] = 1
+                                            bagEnd = header[0]
+
+                                        while True:
+                                            if bagEnd == 10 or bagEnd == numPackets:
+                                                for i in range(len(controlArr)):
+                                                    if controlArr[i] == 0:
+                                                        corruptedPacketsNum = corruptedPacketsNum + str(i + 1)
+
+                                                intFlag = int((flag.ACK + flag.CORRUPTED).encode(), 2)
+                                                ackPacket = struct.pack('=IB', 1, intFlag) + corruptedPacketsNum
+                                                self.receiverSocket.sendto(ackPacket, (self.host, self.port))
+
+                                                while flag.connectBool:
+                                                    self.receiverSocket.settimeout(60)
+                                                    data = self.receiverSocket.recvfrom(self.packetSize)[0]
+                                                    self.receiverSocket.settimeout(None)
+
+                                                    if data:
+
+                                        continue
+
+
+
+
+                                for y in range(1, numOfBags + 1):
+                                    print(y, '. bag of packets')
+                                    for x in range(1, (10 + 1)):
+                                        if x == numPackets + 1:
+                                            break
+                                        print(x, '. packet')
+                                        data, addr = self.receiverSocket.recvfrom(self.packetSize)
+                                        if not data:
+                                            break
+                                        (header), unpackedData = struct.unpack('=IB', data[:5]), data[
+                                                                                                 5:self.packetSize + 1]
+                                        wholeData = wholeData + unpackedData.decode()
+                                        controlArr[(header[0] - 1)] = 1
+                                        print(header)
+                                        print(unpackedData)
+
+                                    print(controlArr)
+                                    if y == numOfBags:
+                                        break
+
+                                print("Received message: ", wholeData)
+                                continue
+                            else:
+                                print('tu budu files')
 
                 elif strFlag[:4] == flag.SYN and strFlag[4:] == flag.KEEP_ALIVE:
                     print('\nI am still alive')
@@ -178,5 +231,5 @@ class Receiver:
     def receiver_process(self):
         self.handshake()
 
-        if self.connectBool:
+        if flag.connectBool:
             self.receive()
