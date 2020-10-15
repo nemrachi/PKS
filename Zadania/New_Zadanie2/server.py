@@ -39,11 +39,11 @@ class Server:
     def handshake(self):
         print("Handshake...")
         data, addr = self.serverSocket.recvfrom(self.packetSize)
-        self.clientSocket.settimeout(40)
+        self.serverSocket.settimeout(40)
 
         if data:
-            unpackedData =  struct.unpack(g.HEADER_FORMAT, data)
-            g.logger.info("Server.recv: " + unpackedData)
+            header, unpackedData =  struct.unpack(g.HEADER_FORMAT, data[:9]), data[9:]
+            g.logger.info("Server.recv: " + str(unpackedData))
 
             if validator.validateFlag(flag.SYN + flag.METADATA, self.charToFlag(unpackedData[1])):
                 print(unpackedData)
@@ -54,9 +54,9 @@ class Server:
 
 
 
-    def flagToChar(self, flag: str):
-        return chr(int((flag).encode(), 2))
+    def flagToChar(self, flag: str) -> int:
+        return int(flag)
 
 
-    def charToFlag(self, char):
-        return str(ord(char))
+    def charToFlag(self, char: int):
+        return str(char)

@@ -65,16 +65,16 @@ class Client:
         self.clientSocket.sendto(packet, self.serverAddr)
         self.clientSocket.settimeout(40)
         
-        g.logger.info("Client.send: " + packet)
+        g.logger.info("Client.send: " + str(packet))
 
         while True:
-            print("\nWaiting for SYNACK packet...")
+            print("\tWaiting for SYNACK packet...")
             data, addr = self.clientSocket.recvfrom(self.packetSize)
             # self.clientSocket.settimeout(None)
 
             if data:
                 unpackedData = struct.unpack(g.HEADER_FORMAT, data)
-                g.logger.info("Client.recv: " + unpackedData)
+                g.logger.info("Client.recv: " + str(unpackedData))
                 
                 if validator.validateFlag(flag.SYN + flag.ACK, self.charToFlag(unpackedData[1])):
                     print("\tReceived SYNACK packet")
@@ -84,7 +84,7 @@ class Client:
                     
                     self.clientSocket.sendto(packet, self.serverAddr)
 
-                    g.logger.info("Client.send: " + packet)
+                    g.logger.info("Client.send: " + str(packet))
                     break
         
         print("Handshake done\n\n")
@@ -108,8 +108,8 @@ class Client:
 
 
     def flagToChar(self, flag: str) -> int:
-        return chr(int(flag))
+        return int(flag)
 
 
-    def charToFlag(self, char):
-        return str(ord(char))
+    def charToFlag(self, char: int):
+        return str(char)

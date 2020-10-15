@@ -8,7 +8,7 @@ PACKETS_PACK_SIZE = 20
 MAX_PORT_NUM = 65535
 
 # formats
-HEADER_FORMAT = '=Ibi'   # I - for a packet order, B - for a flag, i - crcvalue
+HEADER_FORMAT = '=IBi'   # I - for a packet order, B - for a flag, i - crcvalue
 
 
 # source: https://gist.github.com/oysstu/68072c44c02879a2abf94ef350d1c7c6
