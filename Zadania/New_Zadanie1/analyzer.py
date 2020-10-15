@@ -2,40 +2,22 @@ from datetime import date
 import os
 from socket import fromshare
 import struct
+from types import FrameType
 from scapy.all import *
 from protocols import getProtocols
-
-# ...zoznam vsetkych IP adries vysielajucich uzlov a ich pocty
-ip_list = []
-ip_count = []
-# ...premenne pri ARP komunikacii (pocet komunikacii a IP adresy)
-arp_num = 0
-arp_src_ip = []
-arp_targ_ip = []
-arp_frames = {0: {'source_ip': '', 'target_ip': ''}}
-# ...premenne pri komunikacii protokolv nad TCP/UDP (pocet a pary portov)
-communication_number = 0
-port_pairs = {0: {'ports': (), 'ip_pairs': ()}}
-# ...premenne pri ICMP komunikacii (pocet a pary IP adries)
-icmp_num = 0
-icmp_frames = {0: {'ip_pairs': ()}}
-# ...premenne pri TFTP komunikacii
-tftp_num = 0
-tftp_src_port = []
-tftp_frames = {0: {'ports': (), 'ip_pairs': ()}}
 
 
 class Analyzer:
 
-    def __init__(self, dump, outChoice):
+    def __init__(self, dump, traceName, outChoice):
         self.dump = dump
-        self.outFile, self.stdout = None, None
-        if (outChoice == "f"):
-            self.stdout = sys.stdout
-            self.outFile = open("analyzer_output.txt", "w")
-            sys.stdout = self.outFile
-
+        self.outputFile = None
         self.outputChoice = outChoice
+
+        if (self.outputChoice == "f"):
+            self.path = os.path.dirname(__file__) + "\outputFiles\\" + traceName + ".txt" 
+            self.outputFile = open(self.path, "w")
+
         self.protocols = getProtocols()
         
 
@@ -47,90 +29,92 @@ class Analyzer:
 
             frameCount += 1
 
-            lenPcapApi = len(baFrame)
-            lenFrame = len(baFrame) + 4 if (len(baFrame) > 60) else 64
+            lenPcapApi = len(baFrame) # frames lenght from pcap api
+            lenFrame = len(baFrame) + 4 if (len(baFrame) > 60) else 64 # real frames lenght
             
-            destMac, sourceMac, frameType = self.getMacAddressessAndType(baFrame)
-            frameTypeName, etherType, protocol = self.getFrameType(frameType, baFrame)
-            # protocol, sourceIp, destIp = self.getProtocolAndIp(baFrame)
+            destMac, sourceMac, frameType = self.getMacAddressessAndFrameType(baFrame)
+            frameTypeName, protocol = self.getFrameType(frameType, baFrame)
 
-            print("ramec " + str(frameCount))
-            print("dlzka ramca poskytnuta pcap API - " + str(lenPcapApi) + " B")
-            print("dlzka ramca prenasaneho po mediu - " + str(lenFrame) + " B")
-            print(etherType, frameTypeName, protocol)
-            print("zdrojová MAC adresa: " + destMac)
-            print("cielova MAC adresa: " + sourceMac)
-            print("\n")
+            if (self.outputChoice == "f"):
+                self.printInfoToFile(frameCount, lenPcapApi, lenFrame, frameTypeName, sourceMac, destMac, protocol, baFrame)
+            else:
+                self.printInfo(frameCount, lenPcapApi, lenFrame, frameTypeName, sourceMac, destMac, protocol, baFrame)
+
+        if (self.outputChoice == "f"):
+            self.outputFile.close()
 
 
-    def getMacAddressessAndType(self, frameData: bytearray) -> Tuple[str, str, str]:
+    def getMacAddressessAndFrameType(self, frameData: bytearray) -> Tuple[str, str, str]:
         destMac, sourceMac, type = struct.unpack("!6s6sH", frameData[:14])
-        destMac = map("{:02X}".format, sourceMac)
+        destMac = map("{:02X}".format, destMac)
         sourceMac = map("{:02X}".format, sourceMac)
         destMac = " ".join(destMac)
         sourceMac = " ".join(sourceMac)
         return destMac, sourceMac,  type
 
 
-    def getFrameType(self, type: str, data: bytearray) -> str:
+    def getFrameType(self, type: str, data: bytearray):
         if type > 1500:
-            etherType = self.getEtherType(type)
-            return "Ether II", etherType, None
+            return "Ether II", self.getEtherProtocol(type)
         else:
-            ieeeType, protocol = self.getIeeeType(type, data)
-            return "IEE 802.3", ieeeType, protocol
+            return self.getIeeeType(data)
 
-    def getEtherType(self, type: str) -> str:
+
+    # Ether II protocol
+    def getEtherProtocol(self, type: str) -> str:
         return self.protocols[self.hex2(type)]
 
-    # IEEE 802.2 LLC, IEEE 802.2 SNAP, IEEE 802.3 Raw
-    def getIeeeType(self, type: str, data: bytearray) -> Tuple[str, str]:
-        ieeeType, protocol = None, None
-        payload = struct.unpack("!BB", data[14:16])
-        info = map("{:02X}".format, payload)
-        info = "".join(info)
 
-        print("payload: " + str(payload))
-        print("info: " + str(info))
+    # 802.3 LLC+SNAP, 802.3 LLC, 802.3 Raw
+    def getIeeeType(self, data: bytearray) -> Tuple[str, str]:
+        ieeeType = None
+        llHeader = struct.unpack("!BB", data[14:16])
+        llHeader = map("{:02x}".format, llHeader)
+        llHeader = "".join(llHeader)
+
+        protocol = self.protocols[llHeader[:2]]
+
+        if (protocol == "SNAP"): # SNAP
+            ieeeType = self.protocols[llHeader]
+            protocol = None
+            # inner protocol
+        elif (protocol == "Global DSAP"): # RAW
+            ieeeType = self.protocols[llHeader]
+            protocol = None
+            # inner protocol
+        else: # LLC
+            ieeeType = self.protocols["e0e0"]
 
         return ieeeType, protocol
-
-
-
-    def getProtocolAndIp(self, frameData: bytearray):
-        protocol, sourceIp, destIp = struct.unpack("!", frameData[26:])
-
-    def checkFilter(self, filter) -> bool:
-        if filter == "":
-            return False
-
-        for ptKey in self.protocols:
-            if ptKey == filter:
-                return True
-
-        return False
-
-
-    
-
-    def ieeeTypes(self, type, frameData):
-        etherType, protocol = None, None
-        payload = struct.unpack("!BB", frameData[:2])
-        bytes = map("{:02x}".format, payload)
-        bytes = "".join(bytes).upper()
-
-        protocol = list(self.protocols.keys())[list(self.protocols.values()).index(payload[0])]
-        try:
-            type = list(self.protocols.keys())[list(self.protocols.values()).index(bytes)]
-        except ValueError:
-            type = "IEEE 802.2 - LLC"
-
-        if type == "IEEE 802.2 - LLC SNAP":
-            ether_type = get_snap_ethertype(data)
-
-        return type, protocol, ether_type
 
 
     def hex2(self, n):
         x = "{:02x}".format(n)
         return ('0' * (len(x) % 2)) + x
+
+
+    def printInfo(self, count, lenApi, lenFrame, frameType, sourceMac, destMac, protocol, frame):
+        print("ramec " + str(count))
+        print("dlzka ramca poskytnuta pcap API - " + str(lenApi) + " B")
+        print("dlzka ramca prenasaneho po mediu - " + str(lenFrame) + " B")
+        print(frameType)
+        print("zdrojova MAC adresa: " + sourceMac)
+        print("cielova MAC adresa: " + destMac)
+        if (protocol != None):
+            print(protocol)
+        print(hexdump(frame, True))
+        print("\n")
+
+
+    def printInfoToFile(self, count, lenApi, lenFrame, frameType, sourceMac, destMac, protocol, frame):
+        self.outputFile.write("ramec " + str(count) + "\n")
+        self.outputFile.write("dlzka ramca poskytnuta pcap API - " + str(lenApi) + " B" + "\n")
+        self.outputFile.write("dlzka ramca prenasaneho po mediu - " + str(lenFrame) + " B" + "\n")
+        self.outputFile.write(frameType + "\n")
+        self.outputFile.write("zdrojova MAC adresa: " + sourceMac + "\n")
+        self.outputFile.write("cielova MAC adresa: " + destMac + "\n")
+
+        if (protocol != None):
+            self.outputFile.write(protocol + "\n")
+
+        self.outputFile.write(hexdump(frame, True) + "\n\n")

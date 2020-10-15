@@ -1,5 +1,7 @@
 import os
 
+
+# get frame types and protocols from txt file and save them in dictionary
 def getProtocols() -> dict:
     protocols = {}
 
@@ -13,7 +15,7 @@ def getProtocols() -> dict:
         for l in lines:
             if (l[0] != "#"):
                 sl = l.split(" ", 1)
-                protocols[sl[0]] = sl[1].rstrip()
+                protocols[sl[0]] = sl[1].rstrip() # key is hex number of frame/protocol
 
     else:
         print(">>> Can't open the file or the file doesn't exists.\n")

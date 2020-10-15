@@ -1,9 +1,7 @@
 # frames
-aaaa Ethernet II
-bbbb IEEE 802.3 
-cccc IEEE 802.3 - LLC
-dddd IEEE 802.3 - LLC SNAP
-eeee IEEE 802.3 – Raw
+aaaa IEEE 802.3 LLC + SNAP
+e0e0 IEEE 802.3 LLC
+ffff Novell 802.3 RAW
 # protocols
 00 Null SAP
 02 LLC Sublayer Management / Individual
@@ -50,3 +48,6 @@ ff Global DSAP
 89 NBMS
 a1 SNMP
 0208 RIP
+88a7 Unknown
+88cc LLDP 802.1
+9000 Loopback
