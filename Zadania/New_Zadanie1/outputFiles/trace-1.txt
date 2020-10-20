@@ -1,0 +1,542 @@
+ramec 1
+dlzka ramca poskytnuta pcap API - 42 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 D0 59 A9 3D 68
+cielova MAC adresa: FF FF FF FF FF FF
+ARP
+0000  FF FF FF FF FF FF 00 D0 59 A9 3D 68 08 06 00 01  ........Y.=h....
+0010  08 00 06 04 00 01 00 D0 59 A9 3D 68 C0 A8 01 69  ........Y.=h...i
+0020  00 00 00 00 00 00 C0 A8 01 01                    ..........
+
+ramec 2
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 D0 59 A9 3D 68
+ARP
+0000  00 D0 59 A9 3D 68 00 06 25 DA AF 73 08 06 00 01  ..Y.=h..%..s....
+0010  08 00 06 04 00 02 00 06 25 DA AF 73 C0 A8 01 01  ........%..s....
+0020  00 D0 59 A9 3D 68 C0 A8 01 69 00 00 00 00 00 00  ..Y.=h...i......
+0030  00 00 00 00 00 00 00 00 00 00 00 00              ............
+
+ramec 3
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 D0 59 A9 3D 68
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 D0 59 A9 3D 68 08 00 45 00  ..%..s..Y.=h..E.
+0010  00 30 00 F3 40 00 80 06 3A F3 C0 A8 01 69 C7 02  .0..@...:....i..
+0020  35 CE 04 21 02 77 64 D1 7E 0B 00 00 00 00 70 02  5..!.wd.~.....p.
+0030  FA F0 DF D7 00 00 02 04 05 B4 01 01 04 02        ..............
+
+ramec 4
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 D0 59 A9 3D 68
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 D0 59 A9 3D 68 08 00 45 00  ..%..s..Y.=h..E.
+0010  00 30 00 F4 40 00 80 06 3A F2 C0 A8 01 69 C7 02  .0..@...:....i..
+0020  35 CE 04 21 02 77 64 D1 7E 0B 00 00 00 00 70 02  5..!.wd.~.....p.
+0030  FA F0 DF D7 00 00 02 04 05 B4 01 01 04 02        ..............
+
+ramec 5
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 D0 59 A9 3D 68
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 D0 59 A9 3D 68 08 00 45 00  ..%..s..Y.=h..E.
+0010  00 30 00 F5 40 00 80 06 3A F1 C0 A8 01 69 C7 02  .0..@...:....i..
+0020  35 CE 04 21 02 77 64 D1 7E 0B 00 00 00 00 70 02  5..!.wd.~.....p.
+0030  FA F0 DF D7 00 00 02 04 05 B4 01 01 04 02        ..............
+
+ramec 6
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 80 AD 73 8D CE
+cielova MAC adresa: FF FF FF FF FF FF
+ARP
+0000  FF FF FF FF FF FF 00 80 AD 73 8D CE 08 06 00 01  .........s......
+0010  08 00 06 04 00 01 00 80 AD 73 8D CE C0 A8 01 68  .........s.....h
+0020  00 00 00 00 00 00 C0 A8 01 75 00 00 00 00 00 00  .........u......
+0030  00 00 00 00 00 00 00 00 00 00 00 00              ............
+
+ramec 7
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 D0 59 A9 3D 68
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 D0 59 A9 3D 68 08 00 45 00  ..%..s..Y.=h..E.
+0010  00 30 00 F8 40 00 80 06 C2 3A C0 A8 01 69 80 77  .0..@....:...i.w
+0020  F5 0C 04 22 00 50 65 14 99 A6 00 00 00 00 70 02  ...".Pe.......p.
+0030  FA F0 4D 6C 00 00 02 04 05 B4 01 01 04 02        ..Ml..........
+
+ramec 8
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 D0 59 A9 3D 68
+IPv4
+0000  00 D0 59 A9 3D 68 00 06 25 DA AF 73 08 00 45 60  ..Y.=h..%..s..E`
+0010  00 30 00 00 40 00 37 06 0B D3 80 77 F5 0C C0 A8  .0..@.7....w....
+0020  01 69 00 50 04 22 AC A5 3F B3 65 14 99 A7 70 12  .i.P."..?.e...p.
+0030  16 D0 45 23 00 00 02 04 05 B4 01 01 04 02        ..E#..........
+
+ramec 9
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 D0 59 A9 3D 68
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 D0 59 A9 3D 68 08 00 45 00  ..%..s..Y.=h..E.
+0010  00 28 00 F9 40 00 80 06 C2 41 C0 A8 01 69 80 77  .(..@....A...i.w
+0020  F5 0C 04 22 00 50 65 14 99 A7 AC A5 3F B4 50 10  ...".Pe.....?.P.
+0030  FA F0 8D C6 00 00                                ......
+
+ramec 10
+dlzka ramca poskytnuta pcap API - 686 B
+dlzka ramca prenasaneho po mediu - 690 B
+Ether II
+zdrojova MAC adresa: 00 D0 59 A9 3D 68
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 D0 59 A9 3D 68 08 00 45 00  ..%..s..Y.=h..E.
+0010  02 A0 00 FA 40 00 80 06 BF C8 C0 A8 01 69 80 77  ....@........i.w
+0020  F5 0C 04 22 00 50 65 14 99 A7 AC A5 3F B4 50 18  ...".Pe.....?.P.
+0030  FA F0 7E 4F 00 00 47 45 54 20 2F 65 74 68 65 72  ..~O..GET /ether
+0040  65 61 6C 2D 6C 61 62 73 2F 48 54 54 50 2D 65 74  eal-labs/HTTP-et
+0050  68 65 72 65 61 6C 2D 6C 61 62 2D 66 69 6C 65 33  hereal-lab-file3
+0060  2E 68 74 6D 6C 20 48 54 54 50 2F 31 2E 31 0D 0A  .html HTTP/1.1..
+0070  48 6F 73 74 3A 20 67 61 69 61 2E 63 73 2E 75 6D  Host: gaia.cs.um
+0080  61 73 73 2E 65 64 75 0D 0A 55 73 65 72 2D 41 67  ass.edu..User-Ag
+0090  65 6E 74 3A 20 4D 6F 7A 69 6C 6C 61 2F 35 2E 30  ent: Mozilla/5.0
+00a0  20 28 57 69 6E 64 6F 77 73 3B 20 55 3B 20 57 69   (Windows; U; Wi
+00b0  6E 64 6F 77 73 20 4E 54 20 35 2E 31 3B 20 65 6E  ndows NT 5.1; en
+00c0  2D 55 53 3B 20 72 76 3A 31 2E 30 2E 32 29 20 47  -US; rv:1.0.2) G
+00d0  65 63 6B 6F 2F 32 30 30 33 30 32 30 38 20 4E 65  ecko/20030208 Ne
+00e0  74 73 63 61 70 65 2F 37 2E 30 32 0D 0A 41 63 63  tscape/7.02..Acc
+00f0  65 70 74 3A 20 74 65 78 74 2F 78 6D 6C 2C 61 70  ept: text/xml,ap
+0100  70 6C 69 63 61 74 69 6F 6E 2F 78 6D 6C 2C 61 70  plication/xml,ap
+0110  70 6C 69 63 61 74 69 6F 6E 2F 78 68 74 6D 6C 2B  plication/xhtml+
+0120  78 6D 6C 2C 74 65 78 74 2F 68 74 6D 6C 3B 71 3D  xml,text/html;q=
+0130  30 2E 39 2C 74 65 78 74 2F 70 6C 61 69 6E 3B 71  0.9,text/plain;q
+0140  3D 30 2E 38 2C 76 69 64 65 6F 2F 78 2D 6D 6E 67  =0.8,video/x-mng
+0150  2C 69 6D 61 67 65 2F 70 6E 67 2C 69 6D 61 67 65  ,image/png,image
+0160  2F 6A 70 65 67 2C 69 6D 61 67 65 2F 67 69 66 3B  /jpeg,image/gif;
+0170  71 3D 30 2E 32 2C 74 65 78 74 2F 63 73 73 2C 2A  q=0.2,text/css,*
+0180  2F 2A 3B 71 3D 30 2E 31 0D 0A 41 63 63 65 70 74  /*;q=0.1..Accept
+0190  2D 4C 61 6E 67 75 61 67 65 3A 20 65 6E 2D 75 73  -Language: en-us
+01a0  2C 20 65 6E 3B 71 3D 30 2E 35 30 0D 0A 41 63 63  , en;q=0.50..Acc
+01b0  65 70 74 2D 45 6E 63 6F 64 69 6E 67 3A 20 67 7A  ept-Encoding: gz
+01c0  69 70 2C 20 64 65 66 6C 61 74 65 2C 20 63 6F 6D  ip, deflate, com
+01d0  70 72 65 73 73 3B 71 3D 30 2E 39 0D 0A 41 63 63  press;q=0.9..Acc
+01e0  65 70 74 2D 43 68 61 72 73 65 74 3A 20 49 53 4F  ept-Charset: ISO
+01f0  2D 38 38 35 39 2D 31 2C 20 75 74 66 2D 38 3B 71  -8859-1, utf-8;q
+0200  3D 30 2E 36 36 2C 20 2A 3B 71 3D 30 2E 36 36 0D  =0.66, *;q=0.66.
+0210  0A 4B 65 65 70 2D 41 6C 69 76 65 3A 20 33 30 30  .Keep-Alive: 300
+0220  0D 0A 43 6F 6E 6E 65 63 74 69 6F 6E 3A 20 6B 65  ..Connection: ke
+0230  65 70 2D 61 6C 69 76 65 0D 0A 49 66 2D 4D 6F 64  ep-alive..If-Mod
+0240  69 66 69 65 64 2D 53 69 6E 63 65 3A 20 53 61 74  ified-Since: Sat
+0250  2C 20 32 38 20 41 75 67 20 32 30 30 34 20 31 37  , 28 Aug 2004 17
+0260  3A 30 30 3A 34 30 20 47 4D 54 0D 0A 49 66 2D 4E  :00:40 GMT..If-N
+0270  6F 6E 65 2D 4D 61 74 63 68 3A 20 22 31 62 38 63  one-Match: "1b8c
+0280  33 2D 31 31 39 34 2D 63 35 37 38 66 65 30 30 22  3-1194-c578fe00"
+0290  0D 0A 43 61 63 68 65 2D 43 6F 6E 74 72 6F 6C 3A  ..Cache-Control:
+02a0  20 6D 61 78 2D 61 67 65 3D 30 0D 0A 0D 0A         max-age=0....
+
+ramec 11
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 D0 59 A9 3D 68
+IPv4
+0000  00 D0 59 A9 3D 68 00 06 25 DA AF 73 08 00 45 60  ..Y.=h..%..s..E`
+0010  00 28 8F 2E 40 00 37 06 7C AC 80 77 F5 0C C0 A8  .(..@.7.|..w....
+0020  01 69 00 50 04 22 AC A5 3F B4 65 14 9C 1F 50 10  .i.P."..?.e...P.
+0030  1B 28 6B 17 00 00 BA 96 00 00 D2 40              .(k........@
+
+ramec 12
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 D0 59 A9 3D 68
+IPv4
+0000  00 D0 59 A9 3D 68 00 06 25 DA AF 73 08 00 45 60  ..Y.=h..%..s..E`
+0010  05 DC 8F 2F 40 00 37 06 76 F7 80 77 F5 0C C0 A8  .../@.7.v..w....
+0020  01 69 00 50 04 22 AC A5 3F B4 65 14 9C 1F 50 10  .i.P."..?.e...P.
+0030  1B 28 5E D0 00 00 48 54 54 50 2F 31 2E 31 20 32  .(^...HTTP/1.1 2
+0040  30 30 20 4F 4B 0D 0A 44 61 74 65 3A 20 53 61 74  00 OK..Date: Sat
+0050  2C 20 32 38 20 41 75 67 20 32 30 30 34 20 31 37  , 28 Aug 2004 17
+0060  3A 31 39 3A 33 37 20 47 4D 54 0D 0A 53 65 72 76  :19:37 GMT..Serv
+0070  65 72 3A 20 41 70 61 63 68 65 2F 32 2E 30 2E 34  er: Apache/2.0.4
+0080  30 20 28 52 65 64 20 48 61 74 20 4C 69 6E 75 78  0 (Red Hat Linux
+0090  29 0D 0A 4C 61 73 74 2D 4D 6F 64 69 66 69 65 64  )..Last-Modified
+00a0  3A 20 53 61 74 2C 20 32 38 20 41 75 67 20 32 30  : Sat, 28 Aug 20
+00b0  30 34 20 31 37 3A 31 38 3A 35 33 20 47 4D 54 0D  04 17:18:53 GMT.
+00c0  0A 45 54 61 67 3A 20 22 31 62 61 35 63 2D 31 31  .ETag: "1ba5c-11
+00d0  39 34 2D 36 39 65 64 39 34 30 22 0D 0A 41 63 63  94-69ed940"..Acc
+00e0  65 70 74 2D 52 61 6E 67 65 73 3A 20 62 79 74 65  ept-Ranges: byte
+00f0  73 0D 0A 43 6F 6E 74 65 6E 74 2D 4C 65 6E 67 74  s..Content-Lengt
+0100  68 3A 20 34 35 30 30 0D 0A 4B 65 65 70 2D 41 6C  h: 4500..Keep-Al
+0110  69 76 65 3A 20 74 69 6D 65 6F 75 74 3D 31 30 2C  ive: timeout=10,
+0120  20 6D 61 78 3D 31 30 30 0D 0A 43 6F 6E 6E 65 63   max=100..Connec
+0130  74 69 6F 6E 3A 20 4B 65 65 70 2D 41 6C 69 76 65  tion: Keep-Alive
+0140  0D 0A 43 6F 6E 74 65 6E 74 2D 54 79 70 65 3A 20  ..Content-Type: 
+0150  74 65 78 74 2F 68 74 6D 6C 3B 20 63 68 61 72 73  text/html; chars
+0160  65 74 3D 49 53 4F 2D 38 38 35 39 2D 31 0D 0A 0D  et=ISO-8859-1...
+0170  0A 3C 68 74 6D 6C 3E 3C 68 65 61 64 3E 20 0A 3C  .<html><head> .<
+0180  74 69 74 6C 65 3E 48 69 73 74 6F 72 69 63 61 6C  title>Historical
+0190  20 44 6F 63 75 6D 65 6E 74 73 3A 54 48 45 20 42   Documents:THE B
+01a0  49 4C 4C 20 4F 46 20 52 49 47 48 54 53 3C 2F 74  ILL OF RIGHTS</t
+01b0  69 74 6C 65 3E 3C 2F 68 65 61 64 3E 0A 0A 0A 3C  itle></head>...<
+01c0  62 6F 64 79 20 62 67 63 6F 6C 6F 72 3D 22 23 66  body bgcolor="#f
+01d0  66 66 66 66 66 22 20 6C 69 6E 6B 3D 22 23 33 33  fffff" link="#33
+01e0  30 30 30 30 22 20 76 6C 69 6E 6B 3D 22 23 36 36  0000" vlink="#66
+01f0  36 36 33 33 22 3E 0A 3C 70 3E 3C 62 72 3E 0A 3C  6633">.<p><br>.<
+0200  2F 70 3E 0A 3C 70 3E 3C 2F 70 3E 3C 63 65 6E 74  /p>.<p></p><cent
+0210  65 72 3E 3C 62 3E 54 48 45 20 42 49 4C 4C 20 4F  er><b>THE BILL O
+0220  46 20 52 49 47 48 54 53 3C 2F 62 3E 3C 62 72 3E  F RIGHTS</b><br>
+0230  0A 20 20 3C 65 6D 3E 41 6D 65 6E 64 6D 65 6E 74  .  <em>Amendment
+0240  73 20 31 2D 31 30 20 6F 66 20 74 68 65 20 43 6F  s 1-10 of the Co
+0250  6E 73 74 69 74 75 74 69 6F 6E 3C 2F 65 6D 3E 0A  nstitution</em>.
+0260  3C 2F 63 65 6E 74 65 72 3E 0A 0A 3C 70 3E 54 68  </center>..<p>Th
+0270  65 20 43 6F 6E 76 65 6E 74 69 6F 6E 73 20 6F 66  e Conventions of
+0280  20 61 20 6E 75 6D 62 65 72 20 6F 66 20 74 68 65   a number of the
+0290  20 53 74 61 74 65 73 20 68 61 76 69 6E 67 2C 20   States having, 
+02a0  61 74 20 74 68 65 20 74 69 6D 65 20 6F 66 20 61  at the time of a
+02b0  64 6F 70 74 69 6E 67 0A 74 68 65 20 43 6F 6E 73  dopting.the Cons
+02c0  74 69 74 75 74 69 6F 6E 2C 20 65 78 70 72 65 73  titution, expres
+02d0  73 65 64 20 61 20 64 65 73 69 72 65 2C 20 69 6E  sed a desire, in
+02e0  20 6F 72 64 65 72 20 74 6F 20 70 72 65 76 65 6E   order to preven
+02f0  74 20 6D 69 73 63 6F 6E 73 74 72 75 63 74 69 6F  t misconstructio
+0300  6E 0A 6F 72 20 61 62 75 73 65 20 6F 66 20 69 74  n.or abuse of it
+0310  73 20 70 6F 77 65 72 73 2C 20 74 68 61 74 20 66  s powers, that f
+0320  75 72 74 68 65 72 20 64 65 63 6C 61 72 61 74 6F  urther declarato
+0330  72 79 20 61 6E 64 20 72 65 73 74 72 69 63 74 69  ry and restricti
+0340  76 65 20 63 6C 61 75 73 65 73 0A 73 68 6F 75 6C  ve clauses.shoul
+0350  64 20 62 65 20 61 64 64 65 64 2C 20 61 6E 64 20  d be added, and 
+0360  61 73 20 65 78 74 65 6E 64 69 6E 67 20 74 68 65  as extending the
+0370  20 67 72 6F 75 6E 64 20 6F 66 20 70 75 62 6C 69   ground of publi
+0380  63 20 63 6F 6E 66 69 64 65 6E 63 65 20 69 6E 20  c confidence in 
+0390  74 68 65 0A 47 6F 76 65 72 6E 6D 65 6E 74 20 77  the.Government w
+03a0  69 6C 6C 20 62 65 73 74 20 69 6E 73 75 72 65 20  ill best insure 
+03b0  74 68 65 20 62 65 6E 65 66 69 63 65 6E 74 20 65  the beneficent e
+03c0  6E 64 73 20 6F 66 20 69 74 73 20 69 6E 73 74 69  nds of its insti
+03d0  74 75 74 69 6F 6E 3B 20 3C 2F 70 3E 3C 70 3E 20  tution; </p><p> 
+03e0  20 52 65 73 6F 6C 76 65 64 2C 20 62 79 20 74 68   Resolved, by th
+03f0  65 20 53 65 6E 61 74 65 20 61 6E 64 20 48 6F 75  e Senate and Hou
+0400  73 65 20 6F 66 20 52 65 70 72 65 73 65 6E 74 61  se of Representa
+0410  74 69 76 65 73 20 6F 66 20 74 68 65 20 55 6E 69  tives of the Uni
+0420  74 65 64 0A 53 74 61 74 65 73 20 6F 66 20 41 6D  ted.States of Am
+0430  65 72 69 63 61 2C 20 69 6E 20 43 6F 6E 67 72 65  erica, in Congre
+0440  73 73 20 61 73 73 65 6D 62 6C 65 64 2C 20 74 77  ss assembled, tw
+0450  6F 2D 74 68 69 72 64 73 20 6F 66 20 62 6F 74 68  o-thirds of both
+0460  20 48 6F 75 73 65 73 20 63 6F 6E 63 75 72 72 69   Houses concurri
+0470  6E 67 2C 0A 74 68 61 74 20 74 68 65 20 66 6F 6C  ng,.that the fol
+0480  6C 6F 77 69 6E 67 20 61 72 74 69 63 6C 65 73 20  lowing articles 
+0490  62 65 20 70 72 6F 70 6F 73 65 64 20 74 6F 20 74  be proposed to t
+04a0  68 65 20 4C 65 67 69 73 6C 61 74 75 72 65 73 20  he Legislatures 
+04b0  6F 66 20 74 68 65 20 73 65 76 65 72 61 6C 0A 53  of the several.S
+04c0  74 61 74 65 73 2C 20 61 73 20 61 6D 65 6E 64 6D  tates, as amendm
+04d0  65 6E 74 73 20 74 6F 20 74 68 65 20 43 6F 6E 73  ents to the Cons
+04e0  74 69 74 75 74 69 6F 6E 20 6F 66 20 74 68 65 20  titution of the 
+04f0  55 6E 69 74 65 64 20 53 74 61 74 65 73 3B 20 61  United States; a
+0500  6C 6C 20 6F 72 20 61 6E 79 0A 6F 66 20 77 68 69  ll or any.of whi
+0510  63 68 20 61 72 74 69 63 6C 65 73 2C 20 77 68 65  ch articles, whe
+0520  6E 20 72 61 74 69 66 69 65 64 20 62 79 20 74 68  n ratified by th
+0530  72 65 65 2D 66 6F 75 72 74 68 73 20 6F 66 20 74  ree-fourths of t
+0540  68 65 20 73 61 69 64 20 4C 65 67 69 73 6C 61 74  he said Legislat
+0550  75 72 65 73 2C 0A 74 6F 20 62 65 20 76 61 6C 69  ures,.to be vali
+0560  64 20 74 6F 20 61 6C 6C 20 69 6E 74 65 6E 74 73  d to all intents
+0570  20 61 6E 64 20 70 75 72 70 6F 73 65 73 20 61 73   and purposes as
+0580  20 70 61 72 74 20 6F 66 20 74 68 65 20 73 61 69   part of the sai
+0590  64 20 43 6F 6E 73 74 69 74 75 74 69 6F 6E 2C 0A  d Constitution,.
+05a0  6E 61 6D 65 6C 79 3A 20 20 20 20 3C 2F 70 3E 3C  namely:    </p><
+05b0  70 3E 3C 61 20 6E 61 6D 65 3D 22 31 22 3E 3C 73  p><a name="1"><s
+05c0  74 72 6F 6E 67 3E 3C 68 33 3E 41 6D 65 6E 64 6D  trong><h3>Amendm
+05d0  65 6E 74 20 49 3C 2F 68 33 3E 3C 2F 73 74 72 6F  ent I</h3></stro
+05e0  6E 67 3E 3C 2F 61 3E 0A 0A 3C                    ng></a>..<
+
+ramec 13
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 D0 59 A9 3D 68
+IPv4
+0000  00 D0 59 A9 3D 68 00 06 25 DA AF 73 08 00 45 60  ..Y.=h..%..s..E`
+0010  05 DC 8F 30 40 00 37 06 76 F6 80 77 F5 0C C0 A8  ...0@.7.v..w....
+0020  01 69 00 50 04 22 AC A5 45 68 65 14 9C 1F 50 10  .i.P."..Ehe...P.
+0030  1B 28 DD 82 00 00 70 3E 3C 2F 70 3E 3C 70 3E 43  .(....p></p><p>C
+0040  6F 6E 67 72 65 73 73 20 73 68 61 6C 6C 20 6D 61  ongress shall ma
+0050  6B 65 20 6E 6F 20 6C 61 77 20 72 65 73 70 65 63  ke no law respec
+0060  74 69 6E 67 20 61 6E 20 65 73 74 61 62 6C 69 73  ting an establis
+0070  68 6D 65 6E 74 20 6F 66 0A 72 65 6C 69 67 69 6F  hment of.religio
+0080  6E 2C 20 6F 72 20 70 72 6F 68 69 62 69 74 69 6E  n, or prohibitin
+0090  67 20 74 68 65 20 66 72 65 65 20 65 78 65 72 63  g the free exerc
+00a0  69 73 65 20 74 68 65 72 65 6F 66 3B 20 6F 72 0A  ise thereof; or.
+00b0  61 62 72 69 64 67 69 6E 67 20 74 68 65 20 66 72  abridging the fr
+00c0  65 65 64 6F 6D 20 6F 66 20 73 70 65 65 63 68 2C  eedom of speech,
+00d0  20 6F 72 20 6F 66 20 74 68 65 20 70 72 65 73 73   or of the press
+00e0  3B 20 6F 72 20 74 68 65 0A 72 69 67 68 74 20 6F  ; or the.right o
+00f0  66 20 74 68 65 20 70 65 6F 70 6C 65 20 70 65 61  f the people pea
+0100  63 65 61 62 6C 79 20 74 6F 20 61 73 73 65 6D 62  ceably to assemb
+0110  6C 65 2C 20 61 6E 64 20 74 6F 20 70 65 74 69 74  le, and to petit
+0120  69 6F 6E 0A 74 68 65 20 67 6F 76 65 72 6E 6D 65  ion.the governme
+0130  6E 74 20 66 6F 72 20 61 20 72 65 64 72 65 73 73  nt for a redress
+0140  20 6F 66 20 67 72 69 65 76 61 6E 63 65 73 2E 0A   of grievances..
+0150  0A 3C 2F 70 3E 3C 70 3E 3C 61 20 6E 61 6D 65 3D  .</p><p><a name=
+0160  22 32 22 3E 3C 73 74 72 6F 6E 67 3E 3C 68 33 3E  "2"><strong><h3>
+0170  41 6D 65 6E 64 6D 65 6E 74 20 49 49 3C 2F 68 33  Amendment II</h3
+0180  3E 3C 2F 73 74 72 6F 6E 67 3E 3C 2F 61 3E 0A 0A  ></strong></a>..
+0190  3C 70 3E 3C 2F 70 3E 3C 70 3E 41 20 77 65 6C 6C  <p></p><p>A well
+01a0  20 72 65 67 75 6C 61 74 65 64 20 6D 69 6C 69 74   regulated milit
+01b0  69 61 2C 20 62 65 69 6E 67 20 6E 65 63 65 73 73  ia, being necess
+01c0  61 72 79 20 74 6F 20 74 68 65 20 73 65 63 75 72  ary to the secur
+01d0  69 74 79 0A 6F 66 20 61 20 66 72 65 65 20 73 74  ity.of a free st
+01e0  61 74 65 2C 20 74 68 65 20 72 69 67 68 74 20 6F  ate, the right o
+01f0  66 20 74 68 65 20 70 65 6F 70 6C 65 20 74 6F 20  f the people to 
+0200  6B 65 65 70 20 61 6E 64 20 62 65 61 72 0A 61 72  keep and bear.ar
+0210  6D 73 2C 20 73 68 61 6C 6C 20 6E 6F 74 20 62 65  ms, shall not be
+0220  20 69 6E 66 72 69 6E 67 65 64 2E 0A 0A 3C 2F 70   infringed...</p
+0230  3E 3C 70 3E 3C 61 20 6E 61 6D 65 3D 22 33 22 3E  ><p><a name="3">
+0240  3C 73 74 72 6F 6E 67 3E 3C 68 33 3E 41 6D 65 6E  <strong><h3>Amen
+0250  64 6D 65 6E 74 20 49 49 49 3C 2F 68 33 3E 3C 2F  dment III</h3></
+0260  73 74 72 6F 6E 67 3E 3C 2F 61 3E 0A 0A 3C 70 3E  strong></a>..<p>
+0270  3C 2F 70 3E 3C 70 3E 4E 6F 20 73 6F 6C 64 69 65  </p><p>No soldie
+0280  72 20 73 68 61 6C 6C 2C 20 69 6E 20 74 69 6D 65  r shall, in time
+0290  20 6F 66 20 70 65 61 63 65 20 62 65 20 71 75 61   of peace be qua
+02a0  72 74 65 72 65 64 20 69 6E 20 61 6E 79 20 68 6F  rtered in any ho
+02b0  75 73 65 2C 0A 77 69 74 68 6F 75 74 20 74 68 65  use,.without the
+02c0  20 63 6F 6E 73 65 6E 74 20 6F 66 20 74 68 65 20   consent of the 
+02d0  6F 77 6E 65 72 2C 20 6E 6F 72 20 69 6E 20 74 69  owner, nor in ti
+02e0  6D 65 20 6F 66 20 77 61 72 2C 20 62 75 74 0A 69  me of war, but.i
+02f0  6E 20 61 20 6D 61 6E 6E 65 72 20 74 6F 20 62 65  n a manner to be
+0300  20 70 72 65 73 63 72 69 62 65 64 20 62 79 20 6C   prescribed by l
+0310  61 77 2E 0A 0A 3C 2F 70 3E 3C 70 3E 3C 61 20 6E  aw...</p><p><a n
+0320  61 6D 65 3D 22 34 22 3E 3C 73 74 72 6F 6E 67 3E  ame="4"><strong>
+0330  3C 68 33 3E 41 6D 65 6E 64 6D 65 6E 74 20 49 56  <h3>Amendment IV
+0340  3C 2F 68 33 3E 3C 2F 73 74 72 6F 6E 67 3E 3C 2F  </h3></strong></
+0350  61 3E 0A 0A 3C 70 3E 3C 2F 70 3E 3C 70 3E 54 68  a>..<p></p><p>Th
+0360  65 20 72 69 67 68 74 20 6F 66 20 74 68 65 20 70  e right of the p
+0370  65 6F 70 6C 65 20 74 6F 20 62 65 20 73 65 63 75  eople to be secu
+0380  72 65 20 69 6E 20 74 68 65 69 72 20 70 65 72 73  re in their pers
+0390  6F 6E 73 2C 20 68 6F 75 73 65 73 2C 0A 70 61 70  ons, houses,.pap
+03a0  65 72 73 2C 20 61 6E 64 20 65 66 66 65 63 74 73  ers, and effects
+03b0  2C 20 61 67 61 69 6E 73 74 20 75 6E 72 65 61 73  , against unreas
+03c0  6F 6E 61 62 6C 65 20 73 65 61 72 63 68 65 73 20  onable searches 
+03d0  61 6E 64 20 73 65 69 7A 75 72 65 73 2C 0A 73 68  and seizures,.sh
+03e0  61 6C 6C 20 6E 6F 74 20 62 65 20 76 69 6F 6C 61  all not be viola
+03f0  74 65 64 2C 20 61 6E 64 20 6E 6F 20 77 61 72 72  ted, and no warr
+0400  61 6E 74 73 20 73 68 61 6C 6C 20 69 73 73 75 65  ants shall issue
+0410  2C 20 62 75 74 20 75 70 6F 6E 0A 70 72 6F 62 61  , but upon.proba
+0420  62 6C 65 20 63 61 75 73 65 2C 20 73 75 70 70 6F  ble cause, suppo
+0430  72 74 65 64 20 62 79 20 6F 61 74 68 20 6F 72 20  rted by oath or 
+0440  61 66 66 69 72 6D 61 74 69 6F 6E 2C 20 61 6E 64  affirmation, and
+0450  0A 70 61 72 74 69 63 75 6C 61 72 6C 79 20 64 65  .particularly de
+0460  73 63 72 69 62 69 6E 67 20 74 68 65 20 70 6C 61  scribing the pla
+0470  63 65 20 74 6F 20 62 65 20 73 65 61 72 63 68 65  ce to be searche
+0480  64 2C 20 61 6E 64 20 74 68 65 0A 70 65 72 73 6F  d, and the.perso
+0490  6E 73 20 6F 72 20 74 68 69 6E 67 73 20 74 6F 20  ns or things to 
+04a0  62 65 20 73 65 69 7A 65 64 2E 0A 0A 3C 2F 70 3E  be seized...</p>
+04b0  3C 70 3E 3C 61 20 6E 61 6D 65 3D 22 35 22 3E 3C  <p><a name="5"><
+04c0  73 74 72 6F 6E 67 3E 3C 68 33 3E 41 6D 65 6E 64  strong><h3>Amend
+04d0  6D 65 6E 74 20 56 3C 2F 68 33 3E 3C 2F 73 74 72  ment V</h3></str
+04e0  6F 6E 67 3E 3C 2F 61 3E 0A 0A 3C 70 3E 3C 2F 70  ong></a>..<p></p
+04f0  3E 3C 70 3E 4E 6F 20 70 65 72 73 6F 6E 20 73 68  ><p>No person sh
+0500  61 6C 6C 20 62 65 20 68 65 6C 64 20 74 6F 20 61  all be held to a
+0510  6E 73 77 65 72 20 66 6F 72 20 61 20 63 61 70 69  nswer for a capi
+0520  74 61 6C 2C 20 6F 72 20 6F 74 68 65 72 77 69 73  tal, or otherwis
+0530  65 0A 69 6E 66 61 6D 6F 75 73 20 63 72 69 6D 65  e.infamous crime
+0540  2C 20 75 6E 6C 65 73 73 20 6F 6E 20 61 20 70 72  , unless on a pr
+0550  65 73 65 6E 74 6D 65 6E 74 20 6F 72 20 69 6E 64  esentment or ind
+0560  69 63 74 6D 65 6E 74 20 6F 66 20 61 20 67 72 61  ictment of a gra
+0570  6E 64 0A 6A 75 72 79 2C 20 65 78 63 65 70 74 20  nd.jury, except 
+0580  69 6E 20 63 61 73 65 73 20 61 72 69 73 69 6E 67  in cases arising
+0590  20 69 6E 20 74 68 65 20 6C 61 6E 64 20 6F 72 20   in the land or 
+05a0  6E 61 76 61 6C 20 66 6F 72 63 65 73 2C 0A 6F 72  naval forces,.or
+05b0  20 69 6E 20 74 68 65 20 6D 69 6C 69 74 69 61 2C   in the militia,
+05c0  20 77 68 65 6E 20 69 6E 20 61 63 74 75 61 6C 20   when in actual 
+05d0  73 65 72 76 69 63 65 20 69 6E 20 74 69 6D 65 20  service in time 
+05e0  6F 66 20 77 61 72 0A 6F 72 20                    of war.or 
+
+ramec 14
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 D0 59 A9 3D 68
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 D0 59 A9 3D 68 08 00 45 00  ..%..s..Y.=h..E.
+0010  00 28 00 FB 40 00 80 06 C2 3F C0 A8 01 69 80 77  .(..@....?...i.w
+0020  F5 0C 04 22 00 50 65 14 9C 1F AC A5 4B 1C 50 10  ...".Pe.....K.P.
+0030  FA F0 7F E6 00 00                                ......
+
+ramec 15
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 D0 59 A9 3D 68
+IPv4
+0000  00 D0 59 A9 3D 68 00 06 25 DA AF 73 08 00 45 60  ..Y.=h..%..s..E`
+0010  05 DC 8F 31 40 00 37 06 76 F5 80 77 F5 0C C0 A8  ...1@.7.v..w....
+0020  01 69 00 50 04 22 AC A5 4B 1C 65 14 9C 1F 50 10  .i.P."..K.e...P.
+0030  1B 28 1D 86 00 00 70 75 62 6C 69 63 20 64 61 6E  .(....public dan
+0040  67 65 72 3B 20 6E 6F 72 20 73 68 61 6C 6C 20 61  ger; nor shall a
+0050  6E 79 20 70 65 72 73 6F 6E 20 62 65 20 73 75 62  ny person be sub
+0060  6A 65 63 74 20 66 6F 72 20 74 68 65 0A 73 61 6D  ject for the.sam
+0070  65 20 6F 66 66 65 6E 73 65 20 74 6F 20 62 65 20  e offense to be 
+0080  74 77 69 63 65 20 70 75 74 20 69 6E 20 6A 65 6F  twice put in jeo
+0090  70 61 72 64 79 20 6F 66 20 6C 69 66 65 20 6F 72  pardy of life or
+00a0  20 6C 69 6D 62 3B 0A 6E 6F 72 20 73 68 61 6C 6C   limb;.nor shall
+00b0  20 62 65 20 63 6F 6D 70 65 6C 6C 65 64 20 69 6E   be compelled in
+00c0  20 61 6E 79 20 63 72 69 6D 69 6E 61 6C 20 63 61   any criminal ca
+00d0  73 65 20 74 6F 20 62 65 20 61 20 77 69 74 6E 65  se to be a witne
+00e0  73 73 0A 61 67 61 69 6E 73 74 20 68 69 6D 73 65  ss.against himse
+00f0  6C 66 2C 20 6E 6F 72 20 62 65 20 64 65 70 72 69  lf, nor be depri
+0100  76 65 64 20 6F 66 20 6C 69 66 65 2C 20 6C 69 62  ved of life, lib
+0110  65 72 74 79 2C 20 6F 72 20 70 72 6F 70 65 72 74  erty, or propert
+0120  79 2C 0A 77 69 74 68 6F 75 74 20 64 75 65 20 70  y,.without due p
+0130  72 6F 63 65 73 73 20 6F 66 20 6C 61 77 3B 20 6E  rocess of law; n
+0140  6F 72 20 73 68 61 6C 6C 20 70 72 69 76 61 74 65  or shall private
+0150  20 70 72 6F 70 65 72 74 79 20 62 65 0A 74 61 6B   property be.tak
+0160  65 6E 20 66 6F 72 20 70 75 62 6C 69 63 20 75 73  en for public us
+0170  65 2C 20 77 69 74 68 6F 75 74 20 6A 75 73 74 20  e, without just 
+0180  63 6F 6D 70 65 6E 73 61 74 69 6F 6E 2E 0A 0A 3C  compensation...<
+0190  2F 70 3E 3C 70 3E 3C 61 20 6E 61 6D 65 3D 22 36  /p><p><a name="6
+01a0  22 3E 3C 73 74 72 6F 6E 67 3E 3C 68 33 3E 41 6D  "><strong><h3>Am
+01b0  65 6E 64 6D 65 6E 74 20 56 49 3C 2F 68 33 3E 3C  endment VI</h3><
+01c0  2F 73 74 72 6F 6E 67 3E 3C 2F 61 3E 0A 0A 3C 70  /strong></a>..<p
+01d0  3E 3C 2F 70 3E 3C 70 3E 49 6E 20 61 6C 6C 20 63  ></p><p>In all c
+01e0  72 69 6D 69 6E 61 6C 20 70 72 6F 73 65 63 75 74  riminal prosecut
+01f0  69 6F 6E 73 2C 20 74 68 65 20 61 63 63 75 73 65  ions, the accuse
+0200  64 20 73 68 61 6C 6C 20 65 6E 6A 6F 79 20 74 68  d shall enjoy th
+0210  65 20 72 69 67 68 74 0A 74 6F 20 61 20 73 70 65  e right.to a spe
+0220  65 64 79 20 61 6E 64 20 70 75 62 6C 69 63 20 74  edy and public t
+0230  72 69 61 6C 2C 20 62 79 20 61 6E 20 69 6D 70 61  rial, by an impa
+0240  72 74 69 61 6C 20 6A 75 72 79 20 6F 66 20 74 68  rtial jury of th
+0250  65 20 73 74 61 74 65 0A 61 6E 64 20 64 69 73 74  e state.and dist
+0260  72 69 63 74 20 77 68 65 72 65 69 6E 20 74 68 65  rict wherein the
+0270  20 63 72 69 6D 65 20 73 68 61 6C 6C 20 68 61 76   crime shall hav
+0280  65 20 62 65 65 6E 20 63 6F 6D 6D 69 74 74 65 64  e been committed
+0290  2C 20 77 68 69 63 68 0A 64 69 73 74 72 69 63 74  , which.district
+02a0  20 73 68 61 6C 6C 20 68 61 76 65 20 62 65 65 6E   shall have been
+02b0  20 70 72 65 76 69 6F 75 73 6C 79 20 61 73 63 65   previously asce
+02c0  72 74 61 69 6E 65 64 20 62 79 20 6C 61 77 2C 20  rtained by law, 
+02d0  61 6E 64 0A 74 6F 20 62 65 20 69 6E 66 6F 72 6D  and.to be inform
+02e0  65 64 20 6F 66 20 74 68 65 20 6E 61 74 75 72 65  ed of the nature
+02f0  20 61 6E 64 20 63 61 75 73 65 20 6F 66 20 74 68   and cause of th
+0300  65 20 61 63 63 75 73 61 74 69 6F 6E 3B 0A 74 6F  e accusation;.to
+0310  20 62 65 20 63 6F 6E 66 72 6F 6E 74 65 64 20 77   be confronted w
+0320  69 74 68 20 74 68 65 20 77 69 74 6E 65 73 73 65  ith the witnesse
+0330  73 20 61 67 61 69 6E 73 74 20 68 69 6D 3B 20 74  s against him; t
+0340  6F 20 68 61 76 65 0A 63 6F 6D 70 75 6C 73 6F 72  o have.compulsor
+0350  79 20 70 72 6F 63 65 73 73 20 66 6F 72 20 6F 62  y process for ob
+0360  74 61 69 6E 69 6E 67 20 77 69 74 6E 65 73 73 65  taining witnesse
+0370  73 20 69 6E 20 68 69 73 20 66 61 76 6F 72 2C 0A  s in his favor,.
+0380  61 6E 64 20 74 6F 20 68 61 76 65 20 74 68 65 20  and to have the 
+0390  61 73 73 69 73 74 61 6E 63 65 20 6F 66 20 63 6F  assistance of co
+03a0  75 6E 73 65 6C 20 66 6F 72 20 68 69 73 20 64 65  unsel for his de
+03b0  66 65 6E 73 65 2E 0A 0A 3C 2F 70 3E 3C 70 3E 3C  fense...</p><p><
+03c0  61 20 6E 61 6D 65 3D 22 37 22 3E 3C 73 74 72 6F  a name="7"><stro
+03d0  6E 67 3E 3C 68 33 3E 41 6D 65 6E 64 6D 65 6E 74  ng><h3>Amendment
+03e0  20 56 49 49 3C 2F 68 33 3E 3C 2F 73 74 72 6F 6E   VII</h3></stron
+03f0  67 3E 3C 2F 61 3E 0A 0A 3C 70 3E 3C 2F 70 3E 3C  g></a>..<p></p><
+0400  70 3E 49 6E 20 73 75 69 74 73 20 61 74 20 63 6F  p>In suits at co
+0410  6D 6D 6F 6E 20 6C 61 77 2C 20 77 68 65 72 65 20  mmon law, where 
+0420  74 68 65 20 76 61 6C 75 65 20 69 6E 20 63 6F 6E  the value in con
+0430  74 72 6F 76 65 72 73 79 20 73 68 61 6C 6C 0A 65  troversy shall.e
+0440  78 63 65 65 64 20 74 77 65 6E 74 79 20 64 6F 6C  xceed twenty dol
+0450  6C 61 72 73 2C 20 74 68 65 20 72 69 67 68 74 20  lars, the right 
+0460  6F 66 20 74 72 69 61 6C 20 62 79 20 6A 75 72 79  of trial by jury
+0470  20 73 68 61 6C 6C 20 62 65 0A 70 72 65 73 65 72   shall be.preser
+0480  76 65 64 2C 20 61 6E 64 20 6E 6F 20 66 61 63 74  ved, and no fact
+0490  20 74 72 69 65 64 20 62 79 20 61 20 6A 75 72 79   tried by a jury
+04a0  2C 20 73 68 61 6C 6C 20 62 65 20 6F 74 68 65 72  , shall be other
+04b0  77 69 73 65 0A 72 65 65 78 61 6D 69 6E 65 64 20  wise.reexamined 
+04c0  69 6E 20 61 6E 79 20 63 6F 75 72 74 20 6F 66 20  in any court of 
+04d0  74 68 65 20 55 6E 69 74 65 64 20 53 74 61 74 65  the United State
+04e0  73 2C 20 74 68 61 6E 20 61 63 63 6F 72 64 69 6E  s, than accordin
+04f0  67 0A 74 6F 20 74 68 65 20 72 75 6C 65 73 20 6F  g.to the rules o
+0500  66 20 74 68 65 20 63 6F 6D 6D 6F 6E 20 6C 61 77  f the common law
+0510  2E 0A 0A 3C 2F 70 3E 3C 70 3E 3C 61 20 6E 61 6D  ...</p><p><a nam
+0520  65 3D 22 38 22 3E 3C 73 74 72 6F 6E 67 3E 3C 68  e="8"><strong><h
+0530  33 3E 41 6D 65 6E 64 6D 65 6E 74 20 56 49 49 49  3>Amendment VIII
+0540  3C 2F 68 33 3E 3C 2F 73 74 72 6F 6E 67 3E 3C 2F  </h3></strong></
+0550  61 3E 0A 0A 3C 70 3E 3C 2F 70 3E 3C 70 3E 45 78  a>..<p></p><p>Ex
+0560  63 65 73 73 69 76 65 20 62 61 69 6C 20 73 68 61  cessive bail sha
+0570  6C 6C 20 6E 6F 74 20 62 65 20 72 65 71 75 69 72  ll not be requir
+0580  65 64 2C 20 6E 6F 72 20 65 78 63 65 73 73 69 76  ed, nor excessiv
+0590  65 20 66 69 6E 65 73 0A 69 6D 70 6F 73 65 64 2C  e fines.imposed,
+05a0  20 6E 6F 72 20 63 72 75 65 6C 20 61 6E 64 20 75   nor cruel and u
+05b0  6E 75 73 75 61 6C 20 70 75 6E 69 73 68 6D 65 6E  nusual punishmen
+05c0  74 73 20 69 6E 66 6C 69 63 74 65 64 2E 0A 0A 3C  ts inflicted...<
+05d0  2F 70 3E 3C 70 3E 3C 61 20 6E 61 6D 65 3D 22 39  /p><p><a name="9
+05e0  22 3E 3C 73 74 72 6F 6E 67 3E                    "><strong>
+
+ramec 16
+dlzka ramca poskytnuta pcap API - 489 B
+dlzka ramca prenasaneho po mediu - 493 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 D0 59 A9 3D 68
+IPv4
+0000  00 D0 59 A9 3D 68 00 06 25 DA AF 73 08 00 45 40  ..Y.=h..%..s..E@
+0010  01 DB 8F 32 40 00 37 06 7B 15 80 77 F5 0C C0 A8  ...2@.7.{..w....
+0020  01 69 00 50 04 22 AC A5 50 D0 65 14 9C 1F 50 18  .i.P."..P.e...P.
+0030  1B 28 49 75 00 00 3C 68 33 3E 41 6D 65 6E 64 6D  .(Iu..<h3>Amendm
+0040  65 6E 74 20 49 58 3C 2F 68 33 3E 3C 2F 73 74 72  ent IX</h3></str
+0050  6F 6E 67 3E 3C 2F 61 3E 0A 0A 3C 70 3E 3C 2F 70  ong></a>..<p></p
+0060  3E 3C 70 3E 54 68 65 20 65 6E 75 6D 65 72 61 74  ><p>The enumerat
+0070  69 6F 6E 20 69 6E 20 74 68 65 20 43 6F 6E 73 74  ion in the Const
+0080  69 74 75 74 69 6F 6E 2C 20 6F 66 20 63 65 72 74  itution, of cert
+0090  61 69 6E 20 72 69 67 68 74 73 2C 20 73 68 61 6C  ain rights, shal
+00a0  6C 0A 6E 6F 74 20 62 65 20 63 6F 6E 73 74 72 75  l.not be constru
+00b0  65 64 20 74 6F 20 64 65 6E 79 20 6F 72 20 64 69  ed to deny or di
+00c0  73 70 61 72 61 67 65 20 6F 74 68 65 72 73 20 72  sparage others r
+00d0  65 74 61 69 6E 65 64 20 62 79 20 74 68 65 20 70  etained by the p
+00e0  65 6F 70 6C 65 2E 0A 0A 3C 2F 70 3E 3C 70 3E 3C  eople...</p><p><
+00f0  61 20 6E 61 6D 65 3D 22 31 30 22 3E 3C 73 74 72  a name="10"><str
+0100  6F 6E 67 3E 3C 68 33 3E 41 6D 65 6E 64 6D 65 6E  ong><h3>Amendmen
+0110  74 20 58 3C 2F 68 33 3E 3C 2F 73 74 72 6F 6E 67  t X</h3></strong
+0120  3E 3C 2F 61 3E 0A 0A 3C 70 3E 3C 2F 70 3E 0A 3C  ></a>..<p></p>.<
+0130  70 3E 54 68 65 20 70 6F 77 65 72 73 20 6E 6F 74  p>The powers not
+0140  20 64 65 6C 65 67 61 74 65 64 20 74 6F 20 74 68   delegated to th
+0150  65 20 55 6E 69 74 65 64 20 53 74 61 74 65 73 20  e United States 
+0160  62 79 20 74 68 65 20 43 6F 6E 73 74 69 74 75 74  by the Constitut
+0170  69 6F 6E 2C 20 6E 6F 72 20 70 72 6F 68 69 62 69  ion, nor prohibi
+0180  74 65 64 20 0A 20 20 62 79 20 69 74 20 74 6F 20  ted .  by it to 
+0190  74 68 65 20 73 74 61 74 65 73 2C 20 61 72 65 20  the states, are 
+01a0  72 65 73 65 72 76 65 64 20 74 6F 20 74 68 65 20  reserved to the 
+01b0  73 74 61 74 65 73 20 72 65 73 70 65 63 74 69 76  states respectiv
+01c0  65 6C 79 2C 20 6F 72 20 74 6F 20 74 68 65 20 70  ely, or to the p
+01d0  65 6F 70 6C 65 2E 3C 2F 70 3E 0A 3C 2F 62 6F 64  eople.</p>.</bod
+01e0  79 3E 3C 2F 68 74 6D 6C 3E                       y></html>
+
+ramec 17
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 D0 59 A9 3D 68
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 D0 59 A9 3D 68 08 00 45 00  ..%..s..Y.=h..E.
+0010  00 28 00 FC 40 00 80 06 C2 3E C0 A8 01 69 80 77  .(..@....>...i.w
+0020  F5 0C 04 22 00 50 65 14 9C 1F AC A5 52 83 50 10  ...".Pe.....R.P.
+0030  FA F0 78 7F 00 00                                ..x...
+

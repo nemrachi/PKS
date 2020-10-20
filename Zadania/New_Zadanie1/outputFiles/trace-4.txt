@@ -1,0 +1,2127 @@
+ramec 1
+dlzka ramca poskytnuta pcap API - 92 B
+dlzka ramca prenasaneho po mediu - 96 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 30 C1 61 EB ED
+IPv4
+0000  00 30 C1 61 EB ED 00 08 74 4F 36 23 08 00 45 00  .0.a....tO6#..E.
+0010  00 4E 02 AA 00 00 80 11 00 00 C0 A8 01 66 C0 A8  .N...........f..
+0020  01 68 10 D0 00 A1 00 3A 80 16 30 30 02 01 00 04  .h.....:..00....
+0030  06 70 75 62 6C 69 63 A0 23 02 02 18 E1 02 01 00  .public.#.......
+0040  02 01 00 30 17 30 15 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 05 00              ............
+
+ramec 2
+dlzka ramca poskytnuta pcap API - 93 B
+dlzka ramca prenasaneho po mediu - 97 B
+Ether II
+zdrojova MAC adresa: 00 30 C1 61 EB ED
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 30 C1 61 EB ED 08 00 45 00  ..tO6#.0.a....E.
+0010  00 4F ED 88 00 00 3C 11 0C F7 C0 A8 01 68 C0 A8  .O....<......h..
+0020  01 66 00 A1 10 D0 00 3B 6E 10 30 31 02 01 00 04  .f.....;n.01....
+0030  06 70 75 62 6C 69 63 A2 24 02 02 18 E1 02 01 00  .public.$.......
+0040  02 01 00 30 18 30 16 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 04 01 10           .............
+
+ramec 3
+dlzka ramca poskytnuta pcap API - 92 B
+dlzka ramca prenasaneho po mediu - 96 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 30 C1 61 EB ED
+IPv4
+0000  00 30 C1 61 EB ED 00 08 74 4F 36 23 08 00 45 00  .0.a....tO6#..E.
+0010  00 4E 02 AB 00 00 80 11 00 00 C0 A8 01 66 C0 A8  .N...........f..
+0020  01 68 10 D1 00 A1 00 3A 7F 15 30 30 02 01 00 04  .h.....:..00....
+0030  06 70 75 62 6C 69 63 A0 23 02 02 18 E2 02 01 00  .public.#.......
+0040  02 01 00 30 17 30 15 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 05 00              ............
+
+ramec 4
+dlzka ramca poskytnuta pcap API - 93 B
+dlzka ramca prenasaneho po mediu - 97 B
+Ether II
+zdrojova MAC adresa: 00 30 C1 61 EB ED
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 30 C1 61 EB ED 08 00 45 00  ..tO6#.0.a....E.
+0010  00 4F ED 89 00 00 3C 11 0C F6 C0 A8 01 68 C0 A8  .O....<......h..
+0020  01 66 00 A1 10 D1 00 3B 6D 0F 30 31 02 01 00 04  .f.....;m.01....
+0030  06 70 75 62 6C 69 63 A2 24 02 02 18 E2 02 01 00  .public.$.......
+0040  02 01 00 30 18 30 16 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 04 01 10           .............
+
+ramec 5
+dlzka ramca poskytnuta pcap API - 92 B
+dlzka ramca prenasaneho po mediu - 96 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 30 C1 61 EB ED
+IPv4
+0000  00 30 C1 61 EB ED 00 08 74 4F 36 23 08 00 45 00  .0.a....tO6#..E.
+0010  00 4E 02 AC 00 00 80 11 00 00 C0 A8 01 66 C0 A8  .N...........f..
+0020  01 68 10 D2 00 A1 00 3A 7E 14 30 30 02 01 00 04  .h.....:~.00....
+0030  06 70 75 62 6C 69 63 A0 23 02 02 18 E3 02 01 00  .public.#.......
+0040  02 01 00 30 17 30 15 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 05 00              ............
+
+ramec 6
+dlzka ramca poskytnuta pcap API - 93 B
+dlzka ramca prenasaneho po mediu - 97 B
+Ether II
+zdrojova MAC adresa: 00 30 C1 61 EB ED
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 30 C1 61 EB ED 08 00 45 00  ..tO6#.0.a....E.
+0010  00 4F ED 8A 00 00 3C 11 0C F5 C0 A8 01 68 C0 A8  .O....<......h..
+0020  01 66 00 A1 10 D2 00 3B 6C 0E 30 31 02 01 00 04  .f.....;l.01....
+0030  06 70 75 62 6C 69 63 A2 24 02 02 18 E3 02 01 00  .public.$.......
+0040  02 01 00 30 18 30 16 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 04 01 10           .............
+
+ramec 7
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 30 02 AF 40 00 80 06 00 00 C0 A8 01 66 80 77  .0..@........f.w
+0020  F5 0C 10 D3 00 50 FD 1D 3C A1 00 00 00 00 70 02  .....P..<.....p.
+0030  FA F0 05 BA 00 00 02 04 05 B4 01 01 04 02        ..............
+
+ramec 8
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 30 00 00 40 00 37 06 0C 36 80 77 F5 0C C0 A8  .0..@.7..6.w....
+0020  01 66 00 50 10 D3 8C 57 C6 B7 FD 1D 3C A2 70 12  .f.P...W....<.p.
+0030  16 D0 96 BA 00 00 02 04 05 B4 01 01 04 02        ..............
+
+ramec 9
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 B0 40 00 80 06 00 00 C0 A8 01 66 80 77  .(..@........f.w
+0020  F5 0C 10 D3 00 50 FD 1D 3C A2 8C 57 C6 B8 50 10  .....P..<..W..P.
+0030  FA F0 37 AD 00 00                                ..7...
+
+ramec 10
+dlzka ramca poskytnuta pcap API - 555 B
+dlzka ramca prenasaneho po mediu - 559 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  02 1D 02 B1 40 00 80 06 00 00 C0 A8 01 66 80 77  ....@........f.w
+0020  F5 0C 10 D3 00 50 FD 1D 3C A2 8C 57 C6 B8 50 18  .....P..<..W..P.
+0030  FA F0 39 A2 00 00 47 45 54 20 2F 65 74 68 65 72  ..9...GET /ether
+0040  65 61 6C 2D 6C 61 62 73 2F 6C 61 62 32 2D 34 2E  eal-labs/lab2-4.
+0050  68 74 6D 6C 20 48 54 54 50 2F 31 2E 31 0D 0A 48  html HTTP/1.1..H
+0060  6F 73 74 3A 20 67 61 69 61 2E 63 73 2E 75 6D 61  ost: gaia.cs.uma
+0070  73 73 2E 65 64 75 0D 0A 55 73 65 72 2D 41 67 65  ss.edu..User-Age
+0080  6E 74 3A 20 4D 6F 7A 69 6C 6C 61 2F 35 2E 30 20  nt: Mozilla/5.0 
+0090  28 57 69 6E 64 6F 77 73 3B 20 55 3B 20 57 69 6E  (Windows; U; Win
+00a0  64 6F 77 73 20 4E 54 20 35 2E 31 3B 20 65 6E 2D  dows NT 5.1; en-
+00b0  55 53 3B 20 72 76 3A 31 2E 30 2E 32 29 20 47 65  US; rv:1.0.2) Ge
+00c0  63 6B 6F 2F 32 30 30 32 31 31 32 30 20 4E 65 74  cko/20021120 Net
+00d0  73 63 61 70 65 2F 37 2E 30 31 0D 0A 41 63 63 65  scape/7.01..Acce
+00e0  70 74 3A 20 74 65 78 74 2F 78 6D 6C 2C 61 70 70  pt: text/xml,app
+00f0  6C 69 63 61 74 69 6F 6E 2F 78 6D 6C 2C 61 70 70  lication/xml,app
+0100  6C 69 63 61 74 69 6F 6E 2F 78 68 74 6D 6C 2B 78  lication/xhtml+x
+0110  6D 6C 2C 74 65 78 74 2F 68 74 6D 6C 3B 71 3D 30  ml,text/html;q=0
+0120  2E 39 2C 74 65 78 74 2F 70 6C 61 69 6E 3B 71 3D  .9,text/plain;q=
+0130  30 2E 38 2C 76 69 64 65 6F 2F 78 2D 6D 6E 67 2C  0.8,video/x-mng,
+0140  69 6D 61 67 65 2F 70 6E 67 2C 69 6D 61 67 65 2F  image/png,image/
+0150  6A 70 65 67 2C 69 6D 61 67 65 2F 67 69 66 3B 71  jpeg,image/gif;q
+0160  3D 30 2E 32 2C 74 65 78 74 2F 63 73 73 2C 2A 2F  =0.2,text/css,*/
+0170  2A 3B 71 3D 30 2E 31 0D 0A 41 63 63 65 70 74 2D  *;q=0.1..Accept-
+0180  4C 61 6E 67 75 61 67 65 3A 20 65 6E 2D 75 73 2C  Language: en-us,
+0190  20 65 6E 3B 71 3D 30 2E 35 30 0D 0A 41 63 63 65   en;q=0.50..Acce
+01a0  70 74 2D 45 6E 63 6F 64 69 6E 67 3A 20 67 7A 69  pt-Encoding: gzi
+01b0  70 2C 20 64 65 66 6C 61 74 65 2C 20 63 6F 6D 70  p, deflate, comp
+01c0  72 65 73 73 3B 71 3D 30 2E 39 0D 0A 41 63 63 65  ress;q=0.9..Acce
+01d0  70 74 2D 43 68 61 72 73 65 74 3A 20 49 53 4F 2D  pt-Charset: ISO-
+01e0  38 38 35 39 2D 31 2C 20 75 74 66 2D 38 3B 71 3D  8859-1, utf-8;q=
+01f0  30 2E 36 36 2C 20 2A 3B 71 3D 30 2E 36 36 0D 0A  0.66, *;q=0.66..
+0200  4B 65 65 70 2D 41 6C 69 76 65 3A 20 33 30 30 0D  Keep-Alive: 300.
+0210  0A 43 6F 6E 6E 65 63 74 69 6F 6E 3A 20 6B 65 65  .Connection: kee
+0220  70 2D 61 6C 69 76 65 0D 0A 0D 0A                 p-alive....
+
+ramec 11
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 28 74 4A 40 00 37 06 97 F3 80 77 F5 0C C0 A8  .(tJ@.7....w....
+0020  01 66 00 50 10 D3 8C 57 C6 B8 FD 1D 3E 97 50 10  .f.P...W....>.P.
+0030  19 20 BF 39 00 00 19 A3 A3 00 A5 3C              . .9.......<
+
+ramec 12
+dlzka ramca poskytnuta pcap API - 1057 B
+dlzka ramca prenasaneho po mediu - 1061 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  04 13 74 4B 40 00 37 06 94 07 80 77 F5 0C C0 A8  ..tK@.7....w....
+0020  01 66 00 50 10 D3 8C 57 C6 B8 FD 1D 3E 97 50 18  .f.P...W....>.P.
+0030  19 20 A6 22 00 00 48 54 54 50 2F 31 2E 31 20 32  . ."..HTTP/1.1 2
+0040  30 30 20 4F 4B 0D 0A 44 61 74 65 3A 20 54 75 65  00 OK..Date: Tue
+0050  2C 20 32 33 20 53 65 70 20 32 30 30 33 20 30 35  , 23 Sep 2003 05
+0060  3A 33 38 3A 34 34 20 47 4D 54 0D 0A 53 65 72 76  :38:44 GMT..Serv
+0070  65 72 3A 20 41 70 61 63 68 65 2F 32 2E 30 2E 34  er: Apache/2.0.4
+0080  30 20 28 52 65 64 20 48 61 74 20 4C 69 6E 75 78  0 (Red Hat Linux
+0090  29 0D 0A 4C 61 73 74 2D 4D 6F 64 69 66 69 65 64  )..Last-Modified
+00a0  3A 20 54 75 65 2C 20 32 33 20 53 65 70 20 32 30  : Tue, 23 Sep 20
+00b0  30 33 20 30 35 3A 33 38 3A 30 30 20 47 4D 54 0D  03 05:38:00 GMT.
+00c0  0A 45 54 61 67 3A 20 22 31 62 66 66 39 2D 32 62  .ETag: "1bff9-2b
+00d0  31 2D 39 61 30 35 37 65 30 30 22 0D 0A 41 63 63  1-9a057e00"..Acc
+00e0  65 70 74 2D 52 61 6E 67 65 73 3A 20 62 79 74 65  ept-Ranges: byte
+00f0  73 0D 0A 43 6F 6E 74 65 6E 74 2D 4C 65 6E 67 74  s..Content-Lengt
+0100  68 3A 20 36 38 39 0D 0A 4B 65 65 70 2D 41 6C 69  h: 689..Keep-Ali
+0110  76 65 3A 20 74 69 6D 65 6F 75 74 3D 31 30 2C 20  ve: timeout=10, 
+0120  6D 61 78 3D 31 30 30 0D 0A 43 6F 6E 6E 65 63 74  max=100..Connect
+0130  69 6F 6E 3A 20 4B 65 65 70 2D 41 6C 69 76 65 0D  ion: Keep-Alive.
+0140  0A 43 6F 6E 74 65 6E 74 2D 54 79 70 65 3A 20 74  .Content-Type: t
+0150  65 78 74 2F 68 74 6D 6C 3B 20 63 68 61 72 73 65  ext/html; charse
+0160  74 3D 49 53 4F 2D 38 38 35 39 2D 31 0D 0A 0D 0A  t=ISO-8859-1....
+0170  3C 68 74 6D 6C 3E 0A 3C 68 65 61 64 3E 0A 3C 74  <html>.<head>.<t
+0180  69 74 6C 65 3E 4C 61 62 32 2D 34 20 66 69 6C 65  itle>Lab2-4 file
+0190  3A 20 45 6D 62 65 64 64 65 64 20 55 52 4C 73 3C  : Embedded URLs<
+01a0  2F 74 69 74 6C 65 3E 0A 3C 6D 65 74 61 20 68 74  /title>.<meta ht
+01b0  74 70 2D 65 71 75 69 76 3D 22 43 6F 6E 74 65 6E  tp-equiv="Conten
+01c0  74 2D 54 79 70 65 22 20 63 6F 6E 74 65 6E 74 3D  t-Type" content=
+01d0  22 74 65 78 74 2F 68 74 6D 6C 3B 20 63 68 61 72  "text/html; char
+01e0  73 65 74 3D 69 73 6F 2D 38 38 35 39 2D 31 22 3E  set=iso-8859-1">
+01f0  0A 3C 2F 68 65 61 64 3E 0A 0A 3C 62 6F 64 79 20  .</head>..<body 
+0200  62 67 63 6F 6C 6F 72 3D 22 23 46 46 46 46 46 46  bgcolor="#FFFFFF
+0210  22 20 74 65 78 74 3D 22 23 30 30 30 30 30 30 22  " text="#000000"
+0220  3E 0A 0A 3C 70 3E 0A 3C 69 6D 67 20 73 72 63 3D  >..<p>.<img src=
+0230  22 68 74 74 70 3A 2F 2F 77 77 77 2E 61 77 2D 62  "http://www.aw-b
+0240  63 2E 63 6F 6D 2F 63 61 74 61 6C 6F 67 2F 69 6D  c.com/catalog/im
+0250  61 67 65 73 2F 70 65 61 72 73 6F 6E 2D 6C 6F 67  ages/pearson-log
+0260  6F 2D 66 6F 6F 74 65 72 2E 67 69 66 22 20 57 49  o-footer.gif" WI
+0270  44 54 48 3D 22 37 30 22 20 48 45 49 47 48 54 3D  DTH="70" HEIGHT=
+0280  22 34 31 22 20 3E 20 3C 2F 70 3E 0A 3C 70 3E 54  "41" > </p>.<p>T
+0290  68 69 73 20 6C 69 74 74 6C 65 20 48 54 4D 4C 20  his little HTML 
+02a0  66 69 6C 65 20 69 73 20 62 65 69 6E 67 20 73 65  file is being se
+02b0  72 76 65 64 20 62 79 20 67 61 69 61 2E 63 73 2E  rved by gaia.cs.
+02c0  75 6D 61 73 73 2E 65 64 75 2E 20 3C 62 72 3E 0A  umass.edu. <br>.
+02d0  49 74 20 63 6F 6E 74 61 69 6E 73 20 74 77 6F 20  It contains two 
+02e0  65 6D 62 65 64 64 65 64 20 69 6D 61 67 65 73 2E  embedded images.
+02f0  20 54 68 65 20 69 6D 61 67 65 20 61 62 6F 76 65   The image above
+0300  2C 20 66 72 6F 6D 20 74 68 65 20 77 65 62 20 73  , from the web s
+0310  69 74 65 20 6F 66 20 3C 62 72 3E 0A 6F 75 72 20  ite of <br>.our 
+0320  70 75 62 6C 69 73 68 65 72 2C 20 69 73 20 73 65  publisher, is se
+0330  72 76 65 64 20 62 79 20 74 68 65 20 73 65 72 76  rved by the serv
+0340  65 72 20 77 77 77 2E 70 65 61 72 73 6F 6E 65 64  er www.pearsoned
+0350  2E 63 6F 6D 2E 20 20 54 68 65 20 69 6D 61 67 65  .com.  The image
+0360  20 6F 66 20 6F 75 72 20 3C 62 72 3E 0A 62 6F 6F   of our <br>.boo
+0370  6B 20 62 65 6C 6F 77 20 69 73 20 73 74 6F 72 65  k below is store
+0380  64 20 61 74 20 74 68 65 20 77 77 77 20 73 65 72  d at the www ser
+0390  76 65 72 20 6D 61 6E 69 63 2E 63 73 2E 75 6D 61  ver manic.cs.uma
+03a0  73 73 2E 65 64 75 3A 3C 2F 70 3E 0A 3C 70 20 61  ss.edu:</p>.<p a
+03b0  6C 69 67 6E 3D 22 6C 65 66 74 22 3E 3C 69 6D 67  lign="left"><img
+03c0  20 73 72 63 3D 22 68 74 74 70 3A 2F 2F 6D 61 6E   src="http://man
+03d0  69 63 2E 63 73 2E 75 6D 61 73 73 2E 65 64 75 2F  ic.cs.umass.edu/
+03e0  7E 6B 75 72 6F 73 65 2F 63 6F 76 65 72 2E 6A 70  ~kurose/cover.jp
+03f0  67 22 20 77 69 64 74 68 3D 22 31 36 38 22 20 68  g" width="168" h
+0400  65 69 67 68 74 3D 22 32 32 30 22 3E 3C 2F 70 3E  eight="220"></p>
+0410  0A 3C 2F 62 6F 64 79 3E 0A 3C 2F 68 74 6D 6C 3E  .</body>.</html>
+0420  0A                                               .
+
+ramec 13
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 30 02 B6 40 00 80 06 00 00 C0 A8 01 66 A5 C1  .0..@........f..
+0020  7B DA 10 D4 00 50 FD 1E 78 E8 00 00 00 00 70 02  {....P..x.....p.
+0030  FA F0 1D 59 00 00 02 04 05 B4 01 01 04 02        ...Y..........
+
+ramec 14
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 30 02 BB 40 00 80 06 00 00 C0 A8 01 66 86 F1  .0..@........f..
+0020  06 52 10 D5 00 50 FD 1E FB E4 00 00 00 00 70 02  .R...P........p.
+0030  FA F0 2E B4 00 00 02 04 05 B4 01 01 04 02        ..............
+
+ramec 15
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 30 46 D9 40 00 32 06 1E 45 A5 C1 7B DA C0 A8  .0F.@.2..E..{...
+0020  01 66 00 50 10 D4 5A 6B 25 A7 FD 1E 78 E9 70 12  .f.P..Zk%...x.p.
+0030  FD 5C 9B 19 00 00 01 01 04 02 02 04 05 64        .\...........d
+
+ramec 16
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 BE 40 00 80 06 00 00 C0 A8 01 66 A5 C1  .(..@........f..
+0020  7B DA 10 D4 00 50 FD 1E 78 E9 5A 6B 25 A8 50 10  {....P..x.Zk%.P.
+0030  FD 5C E3 C4 00 00                                .\....
+
+ramec 17
+dlzka ramca poskytnuta pcap API - 625 B
+dlzka ramca prenasaneho po mediu - 629 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  02 63 02 BF 40 00 80 06 00 00 C0 A8 01 66 A5 C1  .c..@........f..
+0020  7B DA 10 D4 00 50 FD 1E 78 E9 5A 6B 25 A8 50 18  {....P..x.Zk%.P.
+0030  FD 5C E5 FF 00 00 47 45 54 20 2F 63 61 74 61 6C  .\....GET /catal
+0040  6F 67 2F 69 6D 61 67 65 73 2F 70 65 61 72 73 6F  og/images/pearso
+0050  6E 2D 6C 6F 67 6F 2D 66 6F 6F 74 65 72 2E 67 69  n-logo-footer.gi
+0060  66 20 48 54 54 50 2F 31 2E 31 0D 0A 48 6F 73 74  f HTTP/1.1..Host
+0070  3A 20 77 77 77 2E 61 77 2D 62 63 2E 63 6F 6D 0D  : www.aw-bc.com.
+0080  0A 55 73 65 72 2D 41 67 65 6E 74 3A 20 4D 6F 7A  .User-Agent: Moz
+0090  69 6C 6C 61 2F 35 2E 30 20 28 57 69 6E 64 6F 77  illa/5.0 (Window
+00a0  73 3B 20 55 3B 20 57 69 6E 64 6F 77 73 20 4E 54  s; U; Windows NT
+00b0  20 35 2E 31 3B 20 65 6E 2D 55 53 3B 20 72 76 3A   5.1; en-US; rv:
+00c0  31 2E 30 2E 32 29 20 47 65 63 6B 6F 2F 32 30 30  1.0.2) Gecko/200
+00d0  32 31 31 32 30 20 4E 65 74 73 63 61 70 65 2F 37  21120 Netscape/7
+00e0  2E 30 31 0D 0A 41 63 63 65 70 74 3A 20 74 65 78  .01..Accept: tex
+00f0  74 2F 78 6D 6C 2C 61 70 70 6C 69 63 61 74 69 6F  t/xml,applicatio
+0100  6E 2F 78 6D 6C 2C 61 70 70 6C 69 63 61 74 69 6F  n/xml,applicatio
+0110  6E 2F 78 68 74 6D 6C 2B 78 6D 6C 2C 74 65 78 74  n/xhtml+xml,text
+0120  2F 68 74 6D 6C 3B 71 3D 30 2E 39 2C 74 65 78 74  /html;q=0.9,text
+0130  2F 70 6C 61 69 6E 3B 71 3D 30 2E 38 2C 76 69 64  /plain;q=0.8,vid
+0140  65 6F 2F 78 2D 6D 6E 67 2C 69 6D 61 67 65 2F 70  eo/x-mng,image/p
+0150  6E 67 2C 69 6D 61 67 65 2F 6A 70 65 67 2C 69 6D  ng,image/jpeg,im
+0160  61 67 65 2F 67 69 66 3B 71 3D 30 2E 32 2C 74 65  age/gif;q=0.2,te
+0170  78 74 2F 63 73 73 2C 2A 2F 2A 3B 71 3D 30 2E 31  xt/css,*/*;q=0.1
+0180  0D 0A 41 63 63 65 70 74 2D 4C 61 6E 67 75 61 67  ..Accept-Languag
+0190  65 3A 20 65 6E 2D 75 73 2C 20 65 6E 3B 71 3D 30  e: en-us, en;q=0
+01a0  2E 35 30 0D 0A 41 63 63 65 70 74 2D 45 6E 63 6F  .50..Accept-Enco
+01b0  64 69 6E 67 3A 20 67 7A 69 70 2C 20 64 65 66 6C  ding: gzip, defl
+01c0  61 74 65 2C 20 63 6F 6D 70 72 65 73 73 3B 71 3D  ate, compress;q=
+01d0  30 2E 39 0D 0A 41 63 63 65 70 74 2D 43 68 61 72  0.9..Accept-Char
+01e0  73 65 74 3A 20 49 53 4F 2D 38 38 35 39 2D 31 2C  set: ISO-8859-1,
+01f0  20 75 74 66 2D 38 3B 71 3D 30 2E 36 36 2C 20 2A   utf-8;q=0.66, *
+0200  3B 71 3D 30 2E 36 36 0D 0A 4B 65 65 70 2D 41 6C  ;q=0.66..Keep-Al
+0210  69 76 65 3A 20 33 30 30 0D 0A 43 6F 6E 6E 65 63  ive: 300..Connec
+0220  74 69 6F 6E 3A 20 6B 65 65 70 2D 61 6C 69 76 65  tion: keep-alive
+0230  0D 0A 52 65 66 65 72 65 72 3A 20 68 74 74 70 3A  ..Referer: http:
+0240  2F 2F 67 61 69 61 2E 63 73 2E 75 6D 61 73 73 2E  //gaia.cs.umass.
+0250  65 64 75 2F 65 74 68 65 72 65 61 6C 2D 6C 61 62  edu/ethereal-lab
+0260  73 2F 6C 61 62 32 2D 34 2E 68 74 6D 6C 0D 0A 0D  s/lab2-4.html...
+0270  0A                                               .
+
+ramec 18
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 2C 46 64 40 00 33 06 B2 16 86 F1 06 52 C0 A8  .,Fd@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 24 FD 1E FB E5 60 12  .f.P.. ..$....`.
+0030  C0 00 78 B4 00 00 02 04 05 B4 F5 62              ..x........b
+
+ramec 19
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 C0 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FB E5 20 C1 E5 25 50 10  .R...P.... ..%P.
+0030  FA F0 4F 6C 00 00                                ..Ol..
+
+ramec 20
+dlzka ramca poskytnuta pcap API - 609 B
+dlzka ramca prenasaneho po mediu - 613 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  02 53 02 C1 40 00 80 06 00 00 C0 A8 01 66 86 F1  .S..@........f..
+0020  06 52 10 D5 00 50 FD 1E FB E5 20 C1 E5 25 50 18  .R...P.... ..%P.
+0030  FA F0 51 97 00 00 47 45 54 20 2F 7E 6B 75 72 6F  ..Q...GET /~kuro
+0040  73 65 2F 63 6F 76 65 72 2E 6A 70 67 20 48 54 54  se/cover.jpg HTT
+0050  50 2F 31 2E 31 0D 0A 48 6F 73 74 3A 20 6D 61 6E  P/1.1..Host: man
+0060  69 63 2E 63 73 2E 75 6D 61 73 73 2E 65 64 75 0D  ic.cs.umass.edu.
+0070  0A 55 73 65 72 2D 41 67 65 6E 74 3A 20 4D 6F 7A  .User-Agent: Moz
+0080  69 6C 6C 61 2F 35 2E 30 20 28 57 69 6E 64 6F 77  illa/5.0 (Window
+0090  73 3B 20 55 3B 20 57 69 6E 64 6F 77 73 20 4E 54  s; U; Windows NT
+00a0  20 35 2E 31 3B 20 65 6E 2D 55 53 3B 20 72 76 3A   5.1; en-US; rv:
+00b0  31 2E 30 2E 32 29 20 47 65 63 6B 6F 2F 32 30 30  1.0.2) Gecko/200
+00c0  32 31 31 32 30 20 4E 65 74 73 63 61 70 65 2F 37  21120 Netscape/7
+00d0  2E 30 31 0D 0A 41 63 63 65 70 74 3A 20 74 65 78  .01..Accept: tex
+00e0  74 2F 78 6D 6C 2C 61 70 70 6C 69 63 61 74 69 6F  t/xml,applicatio
+00f0  6E 2F 78 6D 6C 2C 61 70 70 6C 69 63 61 74 69 6F  n/xml,applicatio
+0100  6E 2F 78 68 74 6D 6C 2B 78 6D 6C 2C 74 65 78 74  n/xhtml+xml,text
+0110  2F 68 74 6D 6C 3B 71 3D 30 2E 39 2C 74 65 78 74  /html;q=0.9,text
+0120  2F 70 6C 61 69 6E 3B 71 3D 30 2E 38 2C 76 69 64  /plain;q=0.8,vid
+0130  65 6F 2F 78 2D 6D 6E 67 2C 69 6D 61 67 65 2F 70  eo/x-mng,image/p
+0140  6E 67 2C 69 6D 61 67 65 2F 6A 70 65 67 2C 69 6D  ng,image/jpeg,im
+0150  61 67 65 2F 67 69 66 3B 71 3D 30 2E 32 2C 74 65  age/gif;q=0.2,te
+0160  78 74 2F 63 73 73 2C 2A 2F 2A 3B 71 3D 30 2E 31  xt/css,*/*;q=0.1
+0170  0D 0A 41 63 63 65 70 74 2D 4C 61 6E 67 75 61 67  ..Accept-Languag
+0180  65 3A 20 65 6E 2D 75 73 2C 20 65 6E 3B 71 3D 30  e: en-us, en;q=0
+0190  2E 35 30 0D 0A 41 63 63 65 70 74 2D 45 6E 63 6F  .50..Accept-Enco
+01a0  64 69 6E 67 3A 20 67 7A 69 70 2C 20 64 65 66 6C  ding: gzip, defl
+01b0  61 74 65 2C 20 63 6F 6D 70 72 65 73 73 3B 71 3D  ate, compress;q=
+01c0  30 2E 39 0D 0A 41 63 63 65 70 74 2D 43 68 61 72  0.9..Accept-Char
+01d0  73 65 74 3A 20 49 53 4F 2D 38 38 35 39 2D 31 2C  set: ISO-8859-1,
+01e0  20 75 74 66 2D 38 3B 71 3D 30 2E 36 36 2C 20 2A   utf-8;q=0.66, *
+01f0  3B 71 3D 30 2E 36 36 0D 0A 4B 65 65 70 2D 41 6C  ;q=0.66..Keep-Al
+0200  69 76 65 3A 20 33 30 30 0D 0A 43 6F 6E 6E 65 63  ive: 300..Connec
+0210  74 69 6F 6E 3A 20 6B 65 65 70 2D 61 6C 69 76 65  tion: keep-alive
+0220  0D 0A 52 65 66 65 72 65 72 3A 20 68 74 74 70 3A  ..Referer: http:
+0230  2F 2F 67 61 69 61 2E 63 73 2E 75 6D 61 73 73 2E  //gaia.cs.umass.
+0240  65 64 75 2F 65 74 68 65 72 65 61 6C 2D 6C 61 62  edu/ethereal-lab
+0250  73 2F 6C 61 62 32 2D 34 2E 68 74 6D 6C 0D 0A 0D  s/lab2-4.html...
+0260  0A                                               .
+
+ramec 21
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 28 46 DA 40 00 32 06 1E 4C A5 C1 7B DA C0 A8  .(F.@.2..L..{...
+0020  01 66 00 50 10 D4 5A 6B 25 A8 FD 1E 7B 24 50 10  .f.P..Zk%...{$P.
+0030  FD 5C C5 52 00 00 27 65 00 00 D2 B7              .\.R..'e....
+
+ramec 22
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1438 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 8C 46 DB 40 00 32 06 18 E7 A5 C1 7B DA C0 A8  ..F.@.2.....{...
+0020  01 66 00 50 10 D4 5A 6B 25 A8 FD 1E 7B 24 50 10  .f.P..Zk%...{$P.
+0030  FD 5C 44 BA 00 00 48 54 54 50 2F 31 2E 31 20 32  .\D...HTTP/1.1 2
+0040  30 30 20 4F 4B 0D 0A 53 65 72 76 65 72 3A 20 4E  00 OK..Server: N
+0050  65 74 73 63 61 70 65 2D 45 6E 74 65 72 70 72 69  etscape-Enterpri
+0060  73 65 2F 33 2E 36 20 53 50 33 0D 0A 44 61 74 65  se/3.6 SP3..Date
+0070  3A 20 53 75 6E 2C 20 32 31 20 53 65 70 20 32 30  : Sun, 21 Sep 20
+0080  30 33 20 30 36 3A 30 30 3A 33 35 20 47 4D 54 0D  03 06:00:35 GMT.
+0090  0A 43 6F 6E 74 65 6E 74 2D 74 79 70 65 3A 20 69  .Content-type: i
+00a0  6D 61 67 65 2F 67 69 66 0D 0A 45 74 61 67 3A 20  mage/gif..Etag: 
+00b0  22 36 66 63 31 34 39 2D 64 31 64 2D 33 65 66 30  "6fc149-d1d-3ef0
+00c0  62 33 66 38 22 0D 0A 4C 61 73 74 2D 6D 6F 64 69  b3f8"..Last-modi
+00d0  66 69 65 64 3A 20 57 65 64 2C 20 31 38 20 4A 75  fied: Wed, 18 Ju
+00e0  6E 20 32 30 30 33 20 31 38 3A 34 38 3A 32 34 20  n 2003 18:48:24 
+00f0  47 4D 54 0D 0A 43 6F 6E 74 65 6E 74 2D 6C 65 6E  GMT..Content-len
+0100  67 74 68 3A 20 33 33 35 37 0D 0A 41 63 63 65 70  gth: 3357..Accep
+0110  74 2D 72 61 6E 67 65 73 3A 20 62 79 74 65 73 0D  t-ranges: bytes.
+0120  0A 43 6F 6E 6E 65 63 74 69 6F 6E 3A 20 6B 65 65  .Connection: kee
+0130  70 2D 61 6C 69 76 65 0D 0A 0D 0A 47 49 46 38 39  p-alive....GIF89
+0140  61 46 00 29 00 F7 00 00 D3 BA 18 99 C6 E7 93 C4  aF.)............
+0150  DD 01 78 C2 00 6A BB 15 28 7A 00 76 C2 F4 FB FC  ..x..j..(z.v....
+0160  37 47 93 57 A6 D7 D4 D9 E8 FA FE FD 74 8D 6B D9  7G.W........t.k.
+0170  E9 F7 CC D4 E5 01 76 BD 00 57 AC 24 38 8C A2 C9  ......v..W.$8...
+0180  E6 4C 49 6F C2 C3 D8 B6 D8 E9 24 38 92 68 A8 D7  .LIo......$8.h..
+0190  01 7A BD D5 E5 EB 90 9A C6 4B 55 9A 00 12 A7 1C  .z.......KU.....
+01a0  34 8B B9 C6 D9 00 62 B3 15 76 BA 48 99 C9 AA D5  4.....b..v.H....
+01b0  E6 55 99 C7 68 74 A6 FA DB 01 56 9A 8E 78 B8 E4  .U..ht....V..x..
+01c0  89 8C BC 37 96 C8 00 47 A7 00 62 E0 85 95 BE 00  ...7...G..b.....
+01d0  5C B2 4A 5B A1 DF CC 15 D1 DD 27 83 B2 65 A8 AC  \.J[......'..e..
+01e0  C8 00 64 B9 AD 99 30 4B 60 9B E2 E4 EE 00 6A B5  ..d...0K`.....j.
+01f0  21 35 8E 08 1D 83 7A 89 B3 39 8D C5 37 45 8B 00  !5....z..9..7E..
+0200  6C C1 A8 B5 D7 23 35 84 01 76 C6 01 72 CB 00 72  l....#5..v..r..r
+0210  BE C7 D8 36 9B A4 CA 15 2D 94 EA E6 27 00 5E DE  ...6....-...'.^.
+0220  05 1B 9E FF E5 00 1C 83 CF C4 CC E4 1A 2E 88 A3  ................
+0230  C8 52 FF FF 00 00 39 A4 8F BF DF C9 E3 F4 26 36  .R....9.......&6
+0240  7C EE F2 FA 00 6C CD 18 7B C1 00 07 73 00 01 6B  |....l..{...s..k
+0250  00 64 DB 22 88 C9 6E 73 83 5C 6A A0 2A 7B B4 0C  .d."..ns.\j.*{..
+0260  73 BB 00 00 54 19 2C 7F 4C 99 D3 28 3B 8C 89 BC  s...T.,.L..(;...
+0270  DD F1 F5 FA 0E 22 83 0C 25 98 2F 8E CB 5E A1 CD  ....."..%./..^..
+0280  AA B3 CD A2 C9 DE 79 B9 D6 20 35 8A 00 5D E6 00  ......y.. 5..]..
+0290  62 AC CA E4 EC 2D 8A B3 1A 31 91 1B 32 85 04 76  b....-...1..2..v
+02a0  BE 00 12 74 BE AC 27 EA EE F6 3C 50 92 03 1B 7C  ...t..'...<P...|
+02b0  27 82 AC 84 B6 DB 23 3A 85 EE F9 FB 85 BB DD B3  '.....#:........
+02c0  BB D3 00 5E BB 3E 4A 98 55 9F D2 FF F5 01 7C 76  ...^.>J.U.....|v
+02d0  53 C4 DC EF B7 DE F1 F2 F5 F5 13 26 82 00 72 C5  S..........&..r.
+02e0  D8 EF F9 00 6A DC 15 2C 8D 03 72 B5 8D 8F 3A 00  ....j..,..r...:.
+02f0  54 B0 14 2B 85 75 79 B4 0B 7D C3 2C 39 83 49 A1  T..+.uy..}.,9.I.
+0300  D4 FF F5 0A EC F1 18 00 75 B9 B9 D6 39 00 6F B9  ........u...9.o.
+0310  00 6B D4 97 85 3F 00 70 D9 E5 F2 FD 0C 7A CC E4  .k...?.p.....z..
+0320  EC EF 24 35 8E 07 76 C0 2E 41 94 01 13 7A 00 72  ..$5..v..A...z.r
+0330  C1 0E 75 C2 8A C4 E4 23 2C 85 8C B4 DC 03 7A C8  ..u....#,.....z.
+0340  6F AC D4 25 35 8A 0A 1D 7C E3 EA 1F E1 C4 0B 2A  o..%5...|......*
+0350  8B C4 89 79 44 28 37 8C E9 F1 EF 84 B4 D4 9A A2  ...yD(7.........
+0360  BC 15 1F 71 0B 1A 75 F2 FA F4 2A 8D D4 20 33 8F  ...q..u...*.. 3.
+0370  38 9A A2 04 75 C4 00 57 B8 54 5E 9F 00 11 6B 00  8...u..W.T^...k.
+0380  65 D4 04 77 B9 21 84 C5 6B 5E 5A 0C 73 C9 47 4C  e..w.!..k^Z.s.GL
+0390  8C 04 1B 74 00 4E AD 08 71 B6 27 37 85 6A AD 7E  ...t.N..q.'7.j.~
+03a0  06 70 BD 1F 37 86 14 27 8E 00 3E 9F 1F 38 8C 28  .p..7..'..>..8.(
+03b0  34 8D 90 9A B9 DA DC ED B1 D0 E2 CF CF DE DC E4  4...............
+03c0  20 10 7B BB 0E 30 8C 5B 5A 65 03 73 C0 3F 8B C2   .{..0.[Ze.s.?..
+03d0  9D CF E7 F3 F0 0F FF F2 10 B1 AE CF 28 3F 86 0B  ............(?..
+03e0  69 B0 79 B0 D3 7D B6 CD 9A BF 56 28 89 C2 41 93  i.y..}....V(..A.
+03f0  D0 2D 87 C7 31 39 96 1D 1B 80 80 85 B2 91 8F BA  .-..19..........
+0400  2D 80 BE 15 22 7D EF D3 02 D6 CE 26 E7 F7 F3 E5  -..."}.....&....
+0410  FE FF EB F4 F5 1A 81 C0 32 39 A3 65 73 AD 7D 80  ........29.es.}.
+0420  9F E1 E0 EB D8 DF 1D 91 B4 D9 22 31 86 08 15 77  .........."1...w
+0430  5C A9 DD 09 17 85 3B 8D 9F 1D 31 89 3F 51 9C 22  \.....;...1.?Q."
+0440  36 8C 00 76 C0 FF FF FF 21 F9 04 00 00 00 00 00  6..v....!.......
+0450  2C 00 00 00 00 46 00 29 00 00 08 FF 00 B7 20 E0  ,....F.)...... .
+0460  47 B0 A0 C1 83 08 13 2A 5C C8 B0 61 98 78 A0 98  G......*\..a.x..
+0470  EC 9B 48 B1 A2 C5 8B 18 33 6A DC C8 91 09 C1 7D  ..H.....3j.....}
+0480  FD 42 86 DC C7 84 C9 9A 08 11 44 86 C4 A1 32 02  .B........D...2.
+0490  4B 95 38 70 DC 62 86 52 64 04 66 27 53 86 44 B9  K.8p.b.Rd.f'S.D.
+04a0  06 47 4D 95 40 81 32 71 C1 0F 64 BF 54 FD 98 0C  .GM.@.2q..d.T...
+04b0  CB 41 26 54 0E 9F 4C 42 CD 09 15 EA 0B CA 1F 70  .A&T..LB.......p
+04c0  42 A5 B3 A9 68 2A D5 7D 11 3C 59 70 34 75 8E A3  B...h*.}.<Yp4u..
+04d0  94 63 A9 86 BA 73 2B 82 9E 08 39 54 85 8D C0 84  .c...s+...9T....
+04e0  16 13 95 43 8B F6 C3 91 AC 00 39 0F 4B 1C F4 E1  ...C......9.K...
+04f0  71 E7 4B 2A 14 1A 88 F8 B0 53 00 07 13 65 28 36  q.K*.....S...e(6
+0500  A8 0A E9 88 87 33 22 68 E2 55 D5 43 26 9D 33 0F  .....3"h.U.C&.3.
+0510  3A 7E C4 81 4B 4B 47 1F 1F 2E AC 38 4A 96 EE D1  :~..KKG....8J...
+0520  96 39 C6 1C 85 31 C7 CC 51 BF 35 49 89 1A 0D 93  .9...1..Q.5I....
+0530  C3 CE BF 47 A0 1C FC E3 61 05 D4 3F 0A E6 7C FC  ...G....a..?..|.
+0540  31 64 E1 8E B0 7F 0A 78 8D 0E B5 EB 9F 06 14 FF  1d.....x........
+0550  64 F0 52 EA E0 99 8E 4D 24 D2 91 FF 29 D0 A9 8E  d.R....M$...)...
+0560  39 22 FF 64 F1 52 14 2A DA 3F 63 73 D2 F9 E6 91  9".d.R.*.?cs....
+0570  23 02 EE BC 20 D7 F0 E6 F1 DE 8B 15 EB 57 30 33  #... ........W03
+0580  9C 7F 8E 58 90 CC 30 1A B8 17 C6 1D 0B FA A6 88  ...X..0.........
+0590  17 E6 FC F3 45 28 11 FC B3 81                    ....E(....
+
+ramec 23
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1438 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 8C 46 DC 40 00 32 06 18 E6 A5 C1 7B DA C0 A8  ..F.@.2.....{...
+0020  01 66 00 50 10 D4 5A 6B 2B 0C FD 1E 7B 24 50 18  .f.P..Zk+...{$P.
+0030  FD 5C C5 9E 00 00 17 CA BC 52 C0 1C CF 14 C2 8B  .\.......R......
+0040  15 57 F0 F3 0F 09 73 CC 21 C3 3F 9D 94 88 C0 3F  .W....s.!.?....?
+0050  3F 90 61 5F 6E 7A F5 13 86 2A C6 FD E1 45 01 BF  ?.a_nz...*...E..
+0060  5D 11 C7 88 AA 20 60 CF 2D 86 FC 90 81 21 63 10  ].... `.-....!c.
+0070  61 05 37 77 FC F1 8F 05 5E A0 F1 4F 3E 8E DC 33  a.7w....^..O>..3
+0080  CF 3F 76 5C E1 48 0E 2B D6 60 45 18 71 5C 11 CD  .?v\.H.+.`E.q\..
+0090  14 A1 F0 D2 C7 39 07 50 70 05 28 0B 74 60 C8 8B  .....9.Pp.(.t`..
+00a0  F8 85 64 4C 0E C6 F1 B3 4B 2D 1E D0 72 07 13 FF  ..dL....K-..r...
+00b0  D4 E1 40 03 11 85 B2 85 07 5E B0 70 00 2F 38 DC  ..@......^.p./8.
+00c0  E1 1B 3F 44 28 F0 87 2A 16 18 32 8B 7B 1A D0 C2  ..?D(..*..2.{...
+00d0  4B 3C FF 78 32 4C 18 16 58 71 CE 3F 64 5C E1 C0  K<.x2L..Xq.?d\..
+00e0  16 52 FC F3 DA 14 FB AC 79 9F 6E 6E 62 29 AA 33  .R......y.nnb).3
+00f0  E6 DC 53 80 21 78 92 FF 40 06 02 52 F4 63 05 05  ..S.!x..@..R.c..
+0100  63 90 40 C1 70 F9 F4 F6 CF 73 1A 78 F1 83 1E 1D  c.@.p....s.x....
+0110  E4 60 05 76 2C 5C 51 C3 3F 08 CC 11 46 18 57 6C  .`.v,\Q.?...F.Wl
+0120  F3 CF 30 56 44 13 EC 89 76 38 50 2A 9B A8 F6 F3  ..0VD...v8P*....
+0130  E6 8A 08 5C 91 8F 22 DC 90 81 27 3F 5E F0 52 EA  ...\.."...'?^.R.
+0140  17 0B 10 C1 82 0E FF A0 61 C5 30 4A 3A E2 DB 06  ........a.0J:...
+0150  56 58 70 8B 2A 56 78 31 CF 14 57 DC 91 9D 17 64  VXp.*Vx1..W....d
+0160  94 98 9D 15 73 58 7B 05 2F CF FC 63 83 21 A6 C2  ....sX{./..c.!..
+0170  08 12 0E 7A E4 A0 E4 2E 77 44 60 01 6F 61 FC 63  ...z....wD`.oa.c
+0180  4E 29 1B 64 2A CB 26 FE 5D C1 C2 3F 52 5C E1 C2  N).d*.&.]..?R\..
+0190  3F 2E 78 D1 C7 3F 61 58 B1 C5 12 3C 18 13 EF 87  ?.x..?aX...<....
+01a0  24 FC A3 C3 1D A5 28 70 40 01 64 F0 62 03 11 73  $.....(p@.d.b..s
+01b0  DC 81 E3 3F AF 72 AB 97 27 9C FD B1 87 0B 77 E8  ...?.r..'.....w.
+01c0  E1 49 04 64 80 62 C3 33 0E B0 A3 E5 12 2C 5C 5A  .I.d.b.3.....,\Z
+01d0  F5 02 F1 A8 BC C0 2E 73 CC D2 89 0F A1 18 E3 C1  .......s........
+01e0  14 07 A0 91 8E 21 B7 F0 B2 45 1D 63 14 42 C1 17  .....!...E.c.B..
+01f0  AA 14 EA 01 0B B4 64 FF 4A 82 0D DC 18 72 9B C4  ......d.J....r..
+0200  FD 78 92 0A 33 5F CC F2 C5 1A B8 85 C4 04 19 64  .x..3_.........d
+0210  38 B2 C6 17 71 3C DE 01 4E 5F 90 51 CA 0F 4C 14  8...q<..N_.Q..L.
+0220  A0 4C A3 AA DC F2 83 21 73 94 52 4A 28 05 34 C3  .L.....!s.RJ(.4.
+0230  0C 1C 73 F4 A8 47 28 64 BC 12 C1 2D 5F 7C D1 D6  ..s..G(d...-_|..
+0240  1A AA 18 B2 0F E3 A7 2E ED 49 32 6B 28 73 4B 2A  .........I2k(sK*
+0250  3D 85 B4 46 E7 5F 30 F1 83 31 4C DC 62 B8 31 6B  =..F._0..1L.b.1k
+0260  50 23 85 31 F6 28 C2 CC 5B 70 30 A1 07 33 38 D4  P#.1.(..[p0..38.
+0270  DE 81 1E 16 FC 20 D6 17 86 38 F2 FD 0F FD 24 23  ..... ...8....$#
+0280  51 E1 11 A8 7F 0B EF 84 B7 24 12 EF 38 78 62 8C  Q........$..8xb.
+0290  31 AF BC 15 86 1E C9 A4 42 7C 07 B7 28 82 00 8B  1.......B|..(...
+02a0  A0 08 01 16 50 80 70 F0 C4 2D 6E E1 AD 30 E0 EF  ....P.p..-n..0..
+02b0  15 F9 8B 40 2A 92 41 13 9D EC 44 28 DD 0A CA 6D  ...@*.A...D(...m
+02c0  50 12 81 30 68 0C 0E 45 28 03 12 46 C8 81 12 9A  P..0h..E(..F....
+02d0  70 84 28 4C 21 12 4C 58 C2 14 96 01 0E CE 8B 84  p.(L!.LX........
+02e0  14 5E A2 41 91 B4 09 28 1C B4 4F 08 57 D8 42 65  .^.A...(..O.W.Be
+02f0  48 61 02 D5 10 04 23 FF 68 40 07 00 BC 40 1D 25  Ha....#.h@...@.%
+0300  28 41 12 96 B8 C4 12 A8 83 15 00 A0 03 0D 32 21  (A............2!
+0310  88 6A 4C 20 12 CA E0 21 07 90 F0 C2 0A FE 04 2F  .jL ...!......./
+0320  44 89 43 32 7C F2 96 35 C0 41 84 2D FC C1 04 04  D.C2|..5.A.-....
+0330  41 03 00 94 20 10 4E 88 A3 1C 9D 10 88 6C AC 42  A... .N......l.B
+0340  1A F4 80 81 1E F5 28 8D 55 50 62 12 73 94 63 20  ......(.UPb.s.c 
+0350  4A C0 0A 1A 08 62 02 A5 E0 21 17 3B 90 0A D9 25  J....b...!.;...%
+0360  23 7D 79 B1 47 33 8C D1 81 32 B4 D0 1E D5 C8 04  #}y.G3...2......
+0370  00 92 00 47 27 4C C2 08 96 00 47 0C 4C A0 0F 3C  ...G'L....G.L..<
+0380  74 A1 07 54 E8 05 16 B0 B0 82 56 1E E1 95 AD C4  t..T......V.....
+0390  82 2A A9 60 8D 2E 70 41 1F 26 38 06 38 86 B0 0A  .*.`..pA.&8.8...
+03a0  40 D2 B1 04 00 C8 44 35 52 B1 42 2E C2 41 0F 7A  @.....D5R.B..A.z
+03b0  D8 87 0B EC A0 08 4B 22 41 0A C0 A0 01 2B 92 A0  ......K"A....+..
+03c0  0D 23 0C 61 94 78 40 06 15 56 C0 86 6E AE 00 0B  .#.a.x@..V..n...
+03d0  89 C0 04 15 C6 49 85 43 1C 22 08 41 00 82 3A CF  .....I.C.".A..:.
+03e0  19 04 71 52 41 13 89 48 C4 2A BB 79 84 15 24 22  ..qRA..H.*.y..$"
+03f0  08 78 30 41 0C 2C F1 FF C7 24 14 12 18 52 C8 07  .x0A.,...$...R..
+0400  17 15 E1 02 78 94 63 02 AE A0 C3 3A 86 D0 84 63  ....x.c....:...c
+0410  BC 21 18 89 E0 E6 0A 30 A1 09 73 0E E0 01 BE C0  .!.....0..s.....
+0420  80 46 33 3A 80 01 00 21 17 0F 78 80 1C 46 3A 52  .F3:...!..x..F:R
+0430  7F 74 94 A4 72 E0 28 06 7C 61 80 20 1C 82 0A AC  .t..r.(.|a. ....
+0440  3C 02 1B B0 90 8B 37 1C A3 09 43 58 07 1D 5C 31  <.....7...CX..\1
+0450  81 59 FC 41 0B 0C 88 C1 31 70 01 09 4D 60 E1 08  .Y.A....1p..M`..
+0460  BD A0 42 10 44 E1 0B 5F C8 E1 01 03 C8 85 3F FC  ..B.D.._......?.
+0470  61 8D 91 E6 02 08 D6 B0 46 48 B7 CA 55 7F 70 F5  a.......FH..U.p.
+0480  01 42 F0 C7 27 E4 80 01 03 00 C1 00 FE 90 AA 46  .B..'..........F
+0490  07 E0 8F 97 F6 A2 9B 89 80 04 2E 8E 11 03 06 C8  ................
+04a0  23 05 A7 80 A7 38 D3 79 D1 01 60 C0 1F 18 80 2A  #....8.y..`....*
+04b0  5A 07 60 8D 01 18 00 AD 53 4D AC 62 11 BB 58 B4  Z.`.....SM.b..X.
+04c0  3E A0 A5 20 15 82 63 15 9B D8 AD 1A E0 A5 98 48  >.. ..c........H
+04d0  84 26 30 10 02 25 08 A1 12 29 95 43 0F 5A D0 82  .&0..%...).C.Z..
+04e0  0F CC 60 06 2D 98 41 62 0D 40 80 D2 CA 81 AD 94  ..`.-.Ab.@......
+04f0  8D AD 6C FD 61 00 BF FF 3E E0 03 42 80 ED 6C 29  ..l.a...>..B..l)
+0500  1B D2 73 DA 22 1C 42 10 85 59 7B 90 02 01 88 01  ..s.".B..Y{.....
+0510  0A 7C 10 40 1A 00 41 80 DA 12 57 00 92 B8 01 62  .|.@..A...W....b
+0520  0F 1B 5B C6 C2 F6 B0 42 B8 84 01 2E 51 0C 54 BC  ..[....B....Q.T.
+0530  43 BB 5E 9D 2A 75 C5 FB 00 DA 26 36 17 42 30 43  C.^.*u....&6.B0C
+0540  16 84 5B 5B 21 10 00 1B FF 40 45 15 42 F0 8F 42  ..[[!....@E.B..B
+0550  B4 C0 00 18 B8 81 35 FE B1 09 3F 40 35 17 9F F0  ......5...?@5...
+0560  28 06 06 F0 89 CB 9E E2 01 A7 90 43 25 A0 2A DA  (..........C%.*.
+0570  37 84 A0 07 04 18 C7 3F 2E F0 01 0C 58 43 14 09  7......?....XC..
+0580  0E B0 49 31 B0 08 02 03 21 B1 18 B8 84 7A C3 2A  ..I1....!....z.*
+0590  DE 46 D0 F7 06 BA 50 01 18 60                    .F....P..`
+
+ramec 24
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 C2 40 00 80 06 00 00 C0 A8 01 66 A5 C1  .(..@........f..
+0020  7B DA 10 D4 00 50 FD 1E 7B 24 5A 6B 30 70 50 10  {....P..{$Zk0pP.
+0030  FD 5C E3 C4 00 00                                .\....
+
+ramec 25
+dlzka ramca poskytnuta pcap API - 912 B
+dlzka ramca prenasaneho po mediu - 916 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  03 82 46 DD 40 00 32 06 1A EF A5 C1 7B DA C0 A8  ..F.@.2.....{...
+0020  01 66 00 50 10 D4 5A 6B 30 70 FD 1E 7B 24 50 18  .f.P..Zk0p..{$P.
+0030  FD 5C B1 5E 00 00 D1 86 43 7C E0 06 2A 48 43 03  .\.^....C|..*HC.
+0040  1A D1 06 DC DE 20 B5 65 F5 C3 0D 6E D0 62 17 F7  ..... .e...n.b..
+0050  E0 B4 18 68 41 3D 48 41 8C 4B 7C 00 19 3D 00 AB  ...hA=HA.K|..=..
+0060  1F 08 70 83 19 54 42 08 7E 68 01 01 08 E0 87 4B  ..p..TB.~h.....K
+0070  C8 41 B1 E9 CD 02 89 4D DA 82 04 FC A3 05 8B C0  .A.....M........
+0080  C7 07 C4 50 0C 5D 80 01 1A 09 50 40 05 6E 20 01  ...P.]....P@.n .
+0090  54 CC 20 FF 01 22 08 01 6A 47 80 0D 3E 88 E3 03  T. .."..jG..>...
+00a0  DD 40 05 29 44 70 8D 16 00 E2 1F 19 C0 47 15 12  .@.)Dp.......G..
+00b0  20 81 71 7C C0 0F 80 48 03 36 00 D1 88 2C 88 60   .q|...H.6...,.`
+00c0  04 23 20 84 37 3E 70 08 2C 8F 38 B1 03 F0 F3 3F  .# .7>p.,.8....?
+00d0  C0 10 05 6C B4 E0 12 2D 18 C1 3F D0 D1 85 7F 44  ...l...-..?....D
+00e0  41 05 19 F8 F2 28 FE 21 82 65 78 A3 1D 20 10 75  A....(.!.ex.. .u
+00f0  15 A0 F1 8F 46 78 E3 1F 6D 98 C1 3F D2 80 0C 02  ....Fx..m..?....
+0100  A0 E3 1F 27 50 C1 37 F6 D0 05 10 D4 E2 02 A8 FE  ...'P.7.........
+0110  87 38 B8 F0 0F 40 7C 40 B7 59 DE B2 01 34 7D 86  .8...@|@.Y...4}.
+0120  0C 48 C0 0F 33 80 C0 1E 1C 40 0C 62 0C 02 11 4F  .H..3....@.b...O
+0130  C8 C3 01 5A 40 0C 58 90 02 02 13 5E 46 0A 1A D0  ...Z@.X....^F...
+0140  05 40 A0 42 05 67 F8 07 32 88 71 00 3E 34 82 00  .@.B.g..2.q.>4..
+0150  6D 98 30 31 FE 91 87 6E 9B E2 1F 2A C8 C3 3F 20  m.01...n...*..? 
+0160  A0 82 03 48 00 02 D0 BE B4 78 BB 3C F0 1E 9C A0  ...H.....x.<....
+0170  05 AD A8 C2 3F C4 A0 8B 16 A4 01 DC 50 18 B7 2E  ....?.......P...
+0180  DC 91 87 07 FC 63 07 B8 3D 2D 31 42 A0 06 09 FC  .....c..=-1B....
+0190  83 00 8D FF F8 87 00 20 30 E5 7F 9C 81 00 FF 90  ....... 0.......
+01a0  84 1F DA F0 E7 19 40 A1 0E 10 F0 C3 01 02 80 F0  ......@.........
+01b0  C4 46 5B BC 06 30 F3 3F 1E 30 F3 16 44 61 14 06  .F[..0.?.0..Da..
+01c0  6F 44 23 2A D0 80 27 04 60 0F 8D 20 C6 18 4E 70  oD#*..'.`.. ..Np
+01d0  83 4D EB 62 00 1F 68 81 04 F6 F0 81 5F B7 61 DF  .M.b..h....._.a.
+01e0  62 68 C1 28 3E E0 72 5D 94 1D 02 17 A8 35 1F 70  bh.(>.r].....5.p
+01f0  DE 82 31 9C 3B E1 5A F6 2A 4B 21 80 8A 7F 80 40  ..1.;.Z.*K!....@
+0200  17 1F 30 39 04 A0 30 70 3F A0 68 19 75 27 C6 AA  ..09..0p?.h.u'..
+0210  25 B0 8C 4E 20 A2 E2 60 B8 C6 AE CB 20 80 7F 8C  %..N ..`.... ...
+0220  00 08 0B 30 45 30 F0 81 EE 58 2C C3 0D 51 20 46  ...0E0...X,..Q F
+0230  23 32 40 88 65 40 63 01 10 40 B7 04 1A 01 F7 B0  #2@.e@c..@......
+0240  3E 00 08 33 30 03 22 FE 21 81 13 10 E2 1F 0D B8  >..30.".!.......
+0250  C1 07 08 01 8D 33 40 E3 00 E3 B8 81 1B 2A 70 81  .....3@......*p.
+0260  0A 1C 00 04 1F 70 83 08 62 71 82 0F 40 A1 16 02  .....p..bq..@...
+0270  B8 40 03 06 31 03 31 20 42 0C 5C C0 C7 3F DC 70  .@..1.1 B.\..?.p
+0280  8A 19 88 40 00 01 10 C1 07 AA 50 87 98 43 60 10  ...@......P..C`.
+0290  85 F8 C5 FA 25 7C 7E E9 F6 4E A3 0B 33 98 C6 3B  ....%|~..N..3..;
+02a0  AA 00 E1 4A 4C 79 07 9C 48 FF 34 66 D0 03 33 5C  ...JLy..H.4f..3\
+02b0  A2 0D D3 A8 7E EA CD 40 80 D3 BE 23 1C 6D 40 00  ....~..@...#.m@.
+02c0  B9 20 7B BF F0 0E 04 00 09 C5 00 09 9C F0 62 B6  . {...........b.
+02d0  D0 0A A7 05 09 A3 50 0C D3 D0 03 3D 00 02 A7 B0  ......P....=....
+02e0  65 3F 57 5B 81 75 09 10 36 65 04 70 09 B9 90 0B  e?W[.u..6e.p....
+02f0  10 36 7E 97 00 82 3D 70 09 42 90 5D C8 F0 09 97  .6~...=p.B.]....
+0300  30 65 A2 F0 09 40 30 65 03 70 03 B9 25 0A 53 16  0e...@0e.p..%.S.
+0310  83 27 B8 08 FE B0 08 53 26 04 9F E0 5E 25 38 00  .'.....S&...^%8.
+0320  EE B5 65 FE 90 81 58 35 52 03 A0 60 1D F5 00 A2  ..e...X5R..`....
+0330  00 04 17 25 07 B9 E0 51 95 86 01 48 98 0B B5 35  ...%...Q...H...5
+0340  55 6C 15 52 9F 70 0A B9 C0 52 88 F5 58 B9 50 58  Ul.R.p...R..X.PX
+0350  1D E5 51 E5 E5 84 EA 84 51 86 65 69 71 27 5B 8C  ..Q.....Q.eiq'[.
+0360  15 5E E6 35 55 E5 D5 86 6F C8 5B 73 C8 86 E2 A5  .^.5U...o.[s....
+0370  58 71 18 5B 3F B7 5B 7C D8 87 7E F8 87 7C 98 5E  Xq.[?.[|..~..|.^
+0380  90 00 88 84 58 88 86 48 59 42 F0 0B 01 01 00 3B  ....X..HYB.....;
+
+ramec 26
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 28 46 65 40 00 33 06 B2 19 86 F1 06 52 C0 A8  .(Fe@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 25 FD 1E FE 10 50 10  .f.P.. ..%....P.
+0030  C0 00 8E 46 00 00 B4 3A 00 00 79 21              ...F...:..y!
+
+ramec 27
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 C5 40 00 80 06 00 00 C0 A8 01 66 80 77  .(..@........f.w
+0020  F5 0C 10 D3 00 50 FD 1D 3E 97 8C 57 CA A3 50 10  .....P..>..W..P.
+0030  F7 05 37 AD 00 00                                ..7...
+
+ramec 28
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 C6 40 00 80 06 00 00 C0 A8 01 66 A5 C1  .(..@........f..
+0020  7B DA 10 D4 00 50 FD 1E 7B 24 5A 6B 33 CA 50 10  {....P..{$Zk3.P.
+0030  FA 02 E3 C4 00 00                                ......
+
+ramec 29
+dlzka ramca poskytnuta pcap API - 85 B
+dlzka ramca prenasaneho po mediu - 89 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 47 46 AB 40 00 33 06 B1 B4 86 F1 06 52 C0 A8  .GF.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 25 FD 1E FE 10 50 18  .f.P.. ..%....P.
+0030  C0 00 A5 B2 00 00 48 54 54 50 2F 31 2E 30 20 32  ......HTTP/1.0 2
+0040  30 30 20 44 6F 63 75 6D 65 6E 74 20 66 6F 6C 6C  00 Document foll
+0050  6F 77 73 0D 0A                                   ows..
+
+ramec 30
+dlzka ramca poskytnuta pcap API - 91 B
+dlzka ramca prenasaneho po mediu - 95 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 4D 46 AC 40 00 33 06 B1 AD 86 F1 06 52 C0 A8  .MF.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 44 FD 1E FE 10 50 18  .f.P.. ..D....P.
+0030  C0 00 CB E4 00 00 44 61 74 65 3A 20 54 75 65 2C  ......Date: Tue,
+0040  20 32 33 20 53 65 70 20 32 30 30 33 20 30 35 3A   23 Sep 2003 05:
+0050  33 38 3A 34 34 20 47 4D 54 0D 0A                 38:44 GMT..
+
+ramec 31
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 C7 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C1 E5 69 50 10  .R...P.... ..iP.
+0030  FA AC 4F 6C 00 00                                ..Ol..
+
+ramec 32
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 78 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 3C 46 AD 40 00 33 06 B1 BD 86 F1 06 52 C0 A8  .<F.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 69 FD 1E FE 10 50 18  .f.P.. ..i....P.
+0030  C0 00 EE 50 00 00 53 65 72 76 65 72 3A 20 4E 43  ...P..Server: NC
+0040  53 41 2F 31 2E 35 2E 32 0D 0A                    SA/1.5.2..
+
+ramec 33
+dlzka ramca poskytnuta pcap API - 100 B
+dlzka ramca prenasaneho po mediu - 104 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 56 46 AE 40 00 33 06 B1 A2 86 F1 06 52 C0 A8  .VF.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 7D FD 1E FE 10 50 18  .f.P.. ..}....P.
+0030  C0 00 AE 36 00 00 4C 61 73 74 2D 6D 6F 64 69 66  ...6..Last-modif
+0040  69 65 64 3A 20 54 75 65 2C 20 32 33 20 53 65 70  ied: Tue, 23 Sep
+0050  20 32 30 30 33 20 30 34 3A 35 36 3A 33 38 20 47   2003 04:56:38 G
+0060  4D 54 0D 0A                                      MT..
+
+ramec 34
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 C8 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C1 E5 AB 50 10  .R...P.... ...P.
+0030  FA 6A 4F 6C 00 00                                .jOl..
+
+ramec 35
+dlzka ramca poskytnuta pcap API - 80 B
+dlzka ramca prenasaneho po mediu - 84 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 42 46 AF 40 00 33 06 B1 B5 86 F1 06 52 C0 A8  .BF.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 AB FD 1E FE 10 50 18  .f.P.. .......P.
+0030  C0 00 D6 39 00 00 43 6F 6E 74 65 6E 74 2D 74 79  ...9..Content-ty
+0040  70 65 3A 20 69 6D 61 67 65 2F 6A 70 65 67 0D 0A  pe: image/jpeg..
+
+ramec 36
+dlzka ramca poskytnuta pcap API - 77 B
+dlzka ramca prenasaneho po mediu - 81 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 3F 46 B0 40 00 33 06 B1 B7 86 F1 06 52 C0 A8  .?F.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 C5 FD 1E FE 10 50 18  .f.P.. .......P.
+0030  C0 00 D5 3B 00 00 43 6F 6E 74 65 6E 74 2D 6C 65  ...;..Content-le
+0040  6E 67 74 68 3A 20 31 35 36 34 32 0D 0A           ngth: 15642..
+
+ramec 37
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 C9 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C1 E5 DC 50 10  .R...P.... ...P.
+0030  FA 39 4F 6C 00 00                                .9Ol..
+
+ramec 38
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 2A 46 B1 40 00 33 06 B1 CB 86 F1 06 52 C0 A8  .*F.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 DC FD 1E FE 10 50 18  .f.P.. .......P.
+0030  C0 00 80 7B 00 00 0D 0A 34 ED 00 24              ...{....4..$
+
+ramec 39
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 B2 40 00 33 06 AC 18 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 E5 DE FD 1E FE 10 50 10  .f.P.. .......P.
+0030  C0 00 40 11 00 00 FF D8 FF E0 00 10 4A 46 49 46  ..@.........JFIF
+0040  00 01 02 01 00 48 00 48 00 00 FF ED 11 0E 50 68  .....H.H......Ph
+0050  6F 74 6F 73 68 6F 70 20 33 2E 30 00 38 42 49 4D  otoshop 3.0.8BIM
+0060  03 E9 0A 50 72 69 6E 74 20 49 6E 66 6F 00 00 00  ...Print Info...
+0070  00 78 00 03 00 00 00 48 00 48 00 00 00 00 02 D8  .x.....H.H......
+0080  02 28 FF E1 FF E2 02 F9 02 46 03 47 05 28 03 FC  .(.......F.G.(..
+0090  00 02 00 00 00 48 00 48 00 00 00 00 02 D8 02 28  .....H.H.......(
+00a0  00 01 00 00 00 64 00 00 00 01 00 03 03 03 00 00  .....d..........
+00b0  00 01 7D 00 00 01 00 01 00 00 00 00 00 00 00 00  ..}.............
+00c0  00 00 00 00 40 08 00 19 01 90 00 00 00 00 00 00  ....@...........
+00d0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+00e0  00 00 00 00 00 00 00 00 00 00 38 42 49 4D 03 ED  ..........8BIM..
+00f0  0A 52 65 73 6F 6C 75 74 69 6F 6E 00 00 00 00 10  .Resolution.....
+0100  00 48 00 00 00 01 00 01 00 48 00 00 00 01 00 01  .H.......H......
+0110  38 42 49 4D 04 0D 18 46 58 20 47 6C 6F 62 61 6C  8BIM...FX Global
+0120  20 4C 69 67 68 74 69 6E 67 20 41 6E 67 6C 65 00   Lighting Angle.
+0130  00 00 00 04 00 00 00 1E 38 42 49 4D 04 19 12 46  ........8BIM...F
+0140  58 20 47 6C 6F 62 61 6C 20 41 6C 74 69 74 75 64  X Global Altitud
+0150  65 00 00 00 00 04 00 00 00 1E 38 42 49 4D 03 F3  e.........8BIM..
+0160  0B 50 72 69 6E 74 20 46 6C 61 67 73 00 00 00 09  .Print Flags....
+0170  00 00 00 00 00 00 00 00 01 00 38 42 49 4D 04 0A  ..........8BIM..
+0180  0E 43 6F 70 79 72 69 67 68 74 20 46 6C 61 67 00  .Copyright Flag.
+0190  00 00 00 01 00 00 38 42 49 4D 27 10 14 4A 61 70  ......8BIM'..Jap
+01a0  61 6E 65 73 65 20 50 72 69 6E 74 20 46 6C 61 67  anese Print Flag
+01b0  73 00 00 00 00 0A 00 01 00 00 00 00 00 00 00 02  s...............
+01c0  38 42 49 4D 03 F5 17 43 6F 6C 6F 72 20 48 61 6C  8BIM...Color Hal
+01d0  66 74 6F 6E 65 20 53 65 74 74 69 6E 67 73 00 00  ftone Settings..
+01e0  00 48 00 2F 66 66 00 01 00 6C 66 66 00 06 00 00  .H./ff...lff....
+01f0  00 00 00 01 00 2F 66 66 00 01 00 A1 99 9A 00 06  ...../ff........
+0200  00 00 00 00 00 01 00 32 00 00 00 01 00 5A 00 00  .......2.....Z..
+0210  00 06 00 00 00 00 00 01 00 35 00 00 00 01 00 2D  .........5.....-
+0220  00 00 00 06 00 00 00 00 00 01 38 42 49 4D 03 F8  ..........8BIM..
+0230  17 43 6F 6C 6F 72 20 54 72 61 6E 73 66 65 72 20  .Color Transfer 
+0240  53 65 74 74 69 6E 67 73 00 00 00 70 00 00 FF FF  Settings...p....
+0250  FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  ................
+0260  FF FF FF FF 03 E8 00 00 00 00 FF FF FF FF FF FF  ................
+0270  FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  ................
+0280  03 E8 00 00 00 00 FF FF FF FF FF FF FF FF FF FF  ................
+0290  FF FF FF FF FF FF FF FF FF FF FF FF 03 E8 00 00  ................
+02a0  00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF  ................
+02b0  FF FF FF FF FF FF FF FF 03 E8 00 00 38 42 49 4D  ............8BIM
+02c0  04 08 06 47 75 69 64 65 73 00 00 00 00 10 00 00  ...Guides.......
+02d0  00 01 00 00 02 40 00 00 02 40 00 00 00 00 38 42  .....@...@....8B
+02e0  49 4D 04 1E 0D 55 52 4C 20 6F 76 65 72 72 69 64  IM...URL overrid
+02f0  65 73 00 00 00 04 00 00 00 00 38 42 49 4D 04 1A  es........8BIM..
+0300  06 53 6C 69 63 65 73 00 00 00 00 71 00 00 00 06  .Slices....q....
+0310  00 00 00 00 00 00 00 00 00 00 00 DC 00 00 00 A8  ................
+0320  00 00 00 08 00 6B 00 75 00 72 00 6F 00 73 00 65  .....k.u.r.o.s.e
+0330  00 32 00 65 00 00 00 01 00 00 00 00 00 00 00 00  .2.e............
+0340  00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00  ................
+0350  00 00 00 00 00 00 00 A8 00 00 00 DC 00 00 00 00  ................
+0360  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0370  00 00 00 00 00 00 00 00 00 00 00 00 00 00 38 42  ..............8B
+0380  49 4D 04 11 11 49 43 43 20 55 6E 74 61 67 67 65  IM...ICC Untagge
+0390  64 20 46 6C 61 67 00 00 00 01 01 00 38 42 49 4D  d Flag......8BIM
+03a0  04 14 17 4C 61 79 65 72 20 49 44 20 47 65 6E 65  ...Layer ID Gene
+03b0  72 61 74 6F 72 20 42 61 73 65 00 00 00 04 00 00  rator Base......
+03c0  00 03 38 42 49 4D 04 0C 15 4E 65 77 20 57 69 6E  ..8BIM...New Win
+03d0  64 6F 77 73 20 54 68 75 6D 62 6E 61 69 6C 00 00  dows Thumbnail..
+03e0  0C DC 00 00 00 01 00 00 00 56 00 00 00 70 00 00  .........V...p..
+03f0  01 04 00 00 71 C0 00 00 0C C0 00 18 00 01 FF D8  ....q...........
+0400  FF E0 00 10 4A 46 49 46 00 01 02 01 00 48 00 48  ....JFIF.....H.H
+0410  00 00 FF EE 00 0E 41 64 6F 62 65 00 64 80 00 00  ......Adobe.d...
+0420  00 01 FF DB 00 84 00 0C 08 08 08 09 08 0C 09 09  ................
+0430  0C 11 0B 0A 0B 11 15 0F 0C 0C 0F 15 18 13 13 15  ................
+0440  13 13 18 11 0C 0C 0C 0C 0C 0C 11 0C 0C 0C 0C 0C  ................
+0450  0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C  ................
+0460  0C 0C 0C 0C 0C 0C 0C 01 0D 0B 0B 0D 0E 0D 10 0E  ................
+0470  0E 10 14 0E 0E 0E 14 14 0E 0E 0E 0E 14 11 0C 0C  ................
+0480  0C 0C 0C 11 11 0C 0C 0C 0C 0C 0C 11 0C 0C 0C 0C  ................
+0490  0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C  ................
+04a0  0C 0C 0C 0C 0C 0C 0C 0C FF C0 00 11 08 00 70 00  ..............p.
+04b0  56 03 01 22 00 02 11 01 03 11 01 FF DD 00 04 00  V.."............
+04c0  06 FF C4 01 3F 00 00 01 05 01 01 01 01 01 01 00  ....?...........
+04d0  00 00 00 00 00 00 03 00 01 02 04 05 06 07 08 09  ................
+04e0  0A 0B 01 00 01 05 01 01 01 01 01 01 00 00 00 00  ................
+04f0  00 00 00 01 00 02 03 04 05 06 07 08 09 0A 0B 10  ................
+0500  00 01 04 01 03 02 04 02 05 07 06 08 05 03 0C 33  ...............3
+0510  01 00 02 11 03 04 21 12 31 05 41 51 61 13 22 71  ......!.1.AQa."q
+0520  81 32 06 14 91 A1 B1 42 23 24 15 52 C1 62 33 34  .2.....B#$.R.b34
+0530  72 82 D1 43 07 25 92 53 F0 E1 F1 63 73 35 16 A2  r..C.%.S...cs5..
+0540  B2 83 26 44 93 54 64 45 C2 A3 74 36 17 D2 55 E2  ..&D.TdE..t6..U.
+0550  65 F2 B3 84 C3 D3 75 E3 F3 46 27 94 A4 85 B4 95  e.....u..F'.....
+0560  C4 D4 E4 F4 A5 B5 C5 D5 E5 F5 56 66 76 86 96 A6  ..........Vfv...
+0570  B6 C6 D6 E6 F6 37 47 57 67 77 87 97 A7 B7 C7 D7  .....7GWgw......
+0580  E7 F7 11 00 02 02 01 02 04 04 03 04 05 06 07 07  ................
+0590  06 05 35 01 00 02 11 03 21 31 12 04 41 51 61 71  ..5.....!1..AQaq
+05a0  22 13 05 32 81 91 14 A1 B1 42 23 C1 52 D1 F0 33  "..2.....B#.R..3
+05b0  24 62 E1 72 82 92 43 53 15 63 73 34 F1 25 06 16  $b.r..CS.cs4.%..
+05c0  A2 B2 83 07 26 35 C2 D2 44 93 54 A3 17 64 45 55  ....&5..D.T..dEU
+05d0  36 74 65 E2 F2 B3 84 C3 D3 75 E3 F3 46 94 A4 85  6te......u..F...
+05e0  B4 95 C4 D4 E4 F4 A5 B5 C5 D5                    ..........
+
+ramec 40
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 CA 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C1 EB 92 50 10  .R...P.... ...P.
+0030  FA F0 4F 6C 00 00                                ..Ol..
+
+ramec 41
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 B3 40 00 33 06 AC 17 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 EB 92 FD 1E FE 10 50 10  .f.P.. .......P.
+0030  C0 00 33 E1 00 00 E5 F5 56 66 76 86 96 A6 B6 C6  ..3.....Vfv.....
+0040  D6 E6 F6 27 37 47 57 67 77 87 97 A7 B7 C7 FF DA  ...'7GWgw.......
+0050  00 0C 03 01 00 02 11 03 11 00 3F 00 C1 49 75 63  ..........?..Iuc
+0060  EA 1C 80 7F 68 44 FF 00 C0 FF 00 EA 65 17 7D 45  ....hD......e.}E
+0070  87 86 0C F0 49 D7 F9 92 3F F4 6A D4 FF 00 4A F2  ....I...?.j...J.
+0080  5F E7 7F E6 65 FF 00 BC 72 BF D1 BC DF F9 BF F9  _...e...r.......
+0090  F0 FF 00 BE 79 64 A4 2E B2 BF A9 56 E3 D8 DB 9B  ....yd.....V....
+00a0  9F B5 CC 32 1D E8 C8 D7 4D 7F 4C 88 3E A7 64 3A  ...2....M.L.>.d:
+00b0  B0 3F 69 00 36 56 C0 3D 0F CD A8 EE A4 7F 3D F9  .?i.6V.=......=.
+00c0  BF F4 D0 FF 00 4A F2 7F E7 7F E6 65 FF 00 D5 69  .....J.....e...i
+00d0  1F 0D E6 BA C3 FE 76 3F FB F7 8F 90 94 AE D3 FE  ......v?........
+00e0  69 E6 6E DD FB 4D B3 EA 9C 8F E8 E3 F9 C2 36 39  i.n..M........69
+00f0  DF CE EE FA 3F 98 85 57 D4 9B 6A 69 6D 7D 48 00  ....?..W..jim}H.
+0100  5C C7 9F D0 7E 75 64 BA BF F0 DF CB 4B FD 2B C9  \...~ud.....K.+.
+0110  FF 00 9D FF 00 9B 97 FF 00 55 AB FD 1B CC FE E7  .........U......
+0120  FC EC 7F F7 EF 21 21 34 8F 15 D9 1F A9 D9 24 B8  .....!!4......$.
+0130  FE D3 12 EF A5 FA B8 D6 6C 19 5A FE 97 FD 3B 77  ........l.Z...;w
+0140  A7 6F D5 0C 96 8D 83 A9 88 D9 63 23 EC E0 FB 6D  .o........c#...m
+0150  3B ED 1A DB FB DF E6 25 FE 95 E4 FF 00 CE 8F F1  ;......%........
+0160  72 FF 00 EA B5 7F A3 79 9F DC 3F 6E 3F FD 58 F1  r......y..?n?.X.
+0170  A9 2E AF FE 61 E9 FF 00 28 79 7F 32 7F F4 B2 5F  ....a...(y.2..._
+0180  F3 0F FF 00 36 1F F8 0F FE A6 47 FD 2B C9 7F 9D  ....6.....G.+...
+0190  FF 00 99 97 FE F1 1F E8 DE 6F FC DF FC F8 7F DF  .........o......
+01a0  3C A2 4B AB FF 00 98 7A 4F ED 0D 3F E2 7F F5 32  <.K....zO..?...2
+01b0  49 7F A5 79 2F F3 BF F3 32 FF 00 DE 2B FD 1B CD  I..y/...2...+...
+01c0  FF 00 9B FF 00 9F 8F FE F9 FF D0 ED 4B 9E 35 D9  ............K.5.
+01d0  20 69 ED 32 A0 CB 1A 6C 73 C9 81 C0 94 52 E8 69   i.2...ls....R.i
+01e0  74 F0 34 85 91 73 33 19 93 75 CC 66 43 EE 02 A7  t.4..s3..u.fC...
+01f0  60 FA 61 EF A3 D2 2C D9 9A CB AA 61 F4 2C B9 8F  `.a...,....a.,..
+0200  37 E4 FA 19 1F A4 C9 7F D8 7D 05 97 11 7E 0D C9  7........}...~..
+0210  4A 9D 4B 9D 2C 0D 69 92 F2 06 88 BE 41 62 53 67  J.K.,.i.....AbSg
+0220  5E 76 4D 6E F4 DA CA 98 41 75 7E 86 D7 3D 81 D8  ^vMn....Au~..=..
+0230  ED 16 BE 6C FD 5E CB EA BB 22 C7 D7 B3 F5 5F B3  ...l.^..."...._.
+0240  EC 4B 07 A9 75 CC 8A 69 71 A0 B9 B9 4D AC D5 90  .K..u..iq...M...
+0250  DA 36 86 EF 14 3F 22 C7 87 59 B1 94 D0 DB 6F FB  .6...?"..Y....o.
+0260  2D 8F FE 93 E9 FF 00 86 FC F7 7B 67 B8 FB 56 F1  -.........{g..V.
+0270  8E C5 DA 04 1E 12 D4 83 D8 AC 5C 1B FE B0 BD D4  ..........\.....
+0280  D7 71 D8 CF D5 DA F7 D9 8C E1 66 C3 53 6D C9 C8  .q........f.Sm..
+0290  7B F7 33 1D B7 59 97 EB 62 3E 8F FB 4F EC BB D2  {.3..Y..b>..O...
+02a0  F4 FF 00 9E 6C D3 D7 A9 CD BE DC 4A ED BA A7 DD  ....l......J....
+02b0  6D 95 03 EE 65 7B 31 DB 4B 1B E9 6E 6B AD C7 C8  m...e{1.K..nk...
+02c0  F5 3D 5A 69 FF 00 B9 F8 9F F7 61 2F 6F 5A B1 B5  .=Zi......a/oZ..
+02d0  AB 8F 4B A2 ED 0D 41 09 F9 83 FE BA AC 71 7F 5F  ..K...A......q._
+02e0  A8 D8 F6 B7 ED 84 9A CB 59 E8 1A 99 B0 53 5D F6  ........Y....S].
+02f0  BA 8F 51 CD B1 BE BD B4 E6 62 7A 17 FE 96 8C DC  ..Q......bz.....
+0300  AC 5F 53 F4 29 DB 7F D6 0B 2D 14 B9 82 A6 BC 81  ._S.)....-......
+0310  75 82 9D 2B 69 68 7E EC 77 FA 9B 6F B6 FF 00 D2  u..+ih~.w..o....
+0320  B1 FF 00 F7 0A EA D9 FF 00 5D 5C 1E 23 ED 57 18  .........]\.#.W.
+0330  EC 5D 78 3A F9 A4 B1 69 B3 EB 00 A6 A3 E8 9A EF  .]x:...i........
+0340  15 30 5F B9 86 C0 4D 4D C8 77 A1 5E EB 76 BB D6  .0_...MM.w.^.v..
+0350  77 D9 5A EC CD BE AD BE B7 FA 4F 4F EC F7 3A 4E  w.Z.......OO..:N
+0360  66 4E 57 DA 86 4C 6E A2 C6 B2 1A D0 D0 D2 E6 7A  fNW..Ln........z
+0370  96 52 1C D7 D8 DB D9 56 EF D1 DF FE 11 03 0A 04  .R.....V........
+0380  D8 34 91 3B 35 45 BE 92 49 26 AE 7F FF D1 EC EE  .4.;5E..I&......
+0390  63 00 1B 46 D7 38 C6 9A 27 B6 8F 50 91 EA 39 AD  c..F.8..'..P..9.
+03a0  73 36 6D 1C 0D 43 BD 4F DE DF A2 72 2C DE D7 38  s6m..C.O...r,..8
+03b0  6E 0D FD D3 FD E9 1B 1A 01 92 41 83 01 DA 2C B0  n.........A...,.
+03c0  48 36 1B 84 02 28 A0 AE 8B AC F5 1C EC 87 4B AC  H6...(........K.
+03d0  25 AE 6B 40 80 06 D6 44 6D FF 00 A4 8B E8 5A 5A  %.k@...Dm.....ZZ
+03e0  E6 BF 21 C5 AE 6E D1 B5 AD 6C 7F 29 BB 47 D3 53  ..!..n...l.).G.S
+03f0  A9 BB 6B 6B 7C A4 FC 4E AB 95 FA E1 D6 BA ED 39  ..kk|..N.......9
+0400  6D C1 E8 B9 14 E1 0C 76 55 66 5E 4D EE AE B2 5F  m......vUf^M..._
+0410  77 AC EC 6C 7A 5F 93 B9 B6 31 F5 50 FB 6D D9 57  w..lz_...1.P.m.W
+0420  F8 3F E7 7F 31 49 0E 39 CB 86 35 FE 2C 7F EF 56  .?..1I.9..5.,..V
+0430  4B 86 22 CD FD A5 E9 1B 46 56 A5 F9 44 BB B1 0C  K.".....FV..D...
+0440  61 1C 6B CB 7F 79 48 E3 DA 47 BB 21 FB B7 07 87  a.k..yH..G.!....
+0450  06 B4 41 0D F4 FE 8F EE 7F 84 DA BC DC F5 CF AF  ..A.............
+0460  81 E1 E7 AE 61 82 3B 7A D8 BB 75 FD EA FD 2F 4D  ....a.;z..u.../M
+0470  CA C6 3F D6 8F AE F4 B8 9B 7A 87 4A C9 06 3D B7  ..?......z.J..=.
+0480  3E 90 04 08 FF 00 01 F6 77 7B FF 00 3D 4D F7 6C  >.......w{..=M.l
+0490  FB 88 8F A4 3F F4 06 3F 77 17 59 1F AC FF 00 F4  ....?..?w.Y.....
+04a0  27 D0 3D 0C 8F FB 94 FF 00 12 76 33 F0 91 ED 6A  '.=.......v3...j
+04b0  76 D3 7E EA DE FB CE E6 80 1E D0 D1 B5 DA EE 77  v.~............w
+04c0  F5 77 7D 0D CB CF F3 7E B3 FD 73 BF 20 DB 8D D4  .w}....~..s. ...
+04d0  7A 6E 15 20 43 28 AA EA 1C DE FE F7 BF 21 B7 59  zn. C(.......!.Y
+04e0  65 9F DA D9 FF 00 06 BA DF AA FD 6B 27 AA 62 5D  e..........k'.b]
+04f0  56 7B 1A DE A3 80 E6 57 92 EA 88 35 58 2C 67 AD  V{.....W...5X,g.
+0500  8D 95 43 DB EC FD 3D 5E FF 00 67 FE 8C 4C C9 8B  ..C...=^..g..L..
+0510  2C 23 C5 28 80 3F BA 3F EF 57 42 78 E4 68 12 7F  ,#.(.?.?.WBx.h..
+0520  C2 BF FB A7 41 B4 64 35 C4 7D A9 F0 46 9E D6 E9  ....A.d5.}..F...
+0530  FE 70 72 2D 35 BA A6 16 B9 FB E5 C5 D3 B5 AC 02  .pr-5...........
+0540  7E 96 D6 33 DB EE 77 BD 48 6A E2 7C 34 49 DC 47  ~..3..w.Hj.|4I.G
+0550  89 01 42 64 4E F5 F6 44 32 08 81 B5 FD A5 92 49  ..BdN..D2......I
+0560  24 9A B9 FF D2 EE 52 51 DE 3E FF 00 82 7D CD F1  $.....RQ.>...}..
+0570  8F 8A CA 6E AE BC F3 EB 39 16 75 CE B2 43 C3 83  ...n....9.u..C..
+0580  2F E9 EC 10 49 DA 5B 8B 96 1D 5F 07 E8 BF 76 F6  /...I.[..._...v.
+0590  2F 43 5E 73 D7 24 75 BF AC 02 C3 33 9D 88 64 0E  /C^s.$u....3..d.
+05a0  C7 1F 25 D5 FE 73 3F 35 5A E4 63 79 AB C0 B5 F9  ..%..s?5Z.cy....
+05b0  A9 70 E3 27 B7 76 B6 05 0C 39 94 59 60 0F AE B7  .p.'.v...9.Y`...
+05c0  6E 76 E8 D2 01 D1 ED 77 B7 E9 25 F5 96 90 33 99  nv.....w..%...3.
+05d0  68 1A DD 5C B9 C3 F3 9C 1C E6 EE FF 00 33 62 96  h..\.........3b.
+05e0  1C 07 00 78 2D F7 11 1A 11 FD                    ...x-.....
+
+ramec 42
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 B4 40 00 33 06 AC 16 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 F1 46 FD 1E FE 10 50 10  .f.P.. ..F....P.
+0030  C0 00 11 DE 00 00 5F CD 56 7E B0 D2 F7 63 63 DB  ......_.V~...cc.
+0040  B4 C3 09 6B 8F F5 DA C7 33 FE A1 CA F4 65 28 F3  ...k....3....e(.
+0050  D8 A3 2E B1 94 7C 3F 4A 5F F3 A4 C5 38 42 5F 0E  .....|?J_...8B_.
+0060  CD 38 8D A7 19 FF 00 5B F4 63 FF 00 36 2F 3A 5B  .8.....[.c..6/:[
+0070  A1 5D D7 D4 6B 07 DB 3A C5 7D DB 5F 4D 79 F8 1C  .]..k..:.}._My..
+0080  5D BF F7 D5 C5 96 68 BB 4F A9 00 0C FE B3 E3 E9  ].....h.O.......
+0090  F4 C9 31 DB EC BF BC A5 F8 A0 AC 1F 50 D2 F8 61  ..1.........P..a
+00a0  BC A7 C9 EA 99 F4 67 C7 54 8F D2 68 F8 95 24 D0  ......g.T..h..$.
+00b0  26 7B C4 2C 27 69 74 93 11 31 E4 65 24 94 FF 00  &{.,'it..1.e$...
+00c0  FF D3 ED F5 FD EF 97 8A 6D 3B FD E9 E6 02 69 8E  ........m;....i.
+00d0  3E E5 94 DD 50 90 34 E3 93 1A 8F B9 79 FF 00 58  >...P.4.....y..X
+00e0  7B 2E EB 7F 58 1F 50 3B 59 99 86 C7 40 31 BE BC  {...X.P;Y...@1..
+00f0  7C 9A EE 73 BD F5 FF 00 84 6A F4 1D 3E 07 BA F3  |..s.....j..>...
+0100  FC DA 8B FA F7 D6 06 40 DC EE A1 8C 5A DD A1 C4  .......@....Z...
+0110  97 53 93 F4 58 ED 95 FF 00 6E DF 62 B9 F0 EF F7  .S..X....n.b....
+0120  40 E9 A1 6B 73 B6 70 90 05 DF 44 38 FB 6B A6 EC  @..ks.p...D8.k..
+0130  82 61 8C 61 DE F3 EE 60 68 F7 3F 73 98 DD BB B6  .a.a...`h.?s....
+0140  6D F6 32 CB 96 B6 28 C6 CF E9 EE AC 58 72 2A C8  m.2...(.....Xr*.
+0150  67 E8 9E C2 0C 86 FD 17 7B DC CF D2 D0 E6 7E 91  g.......{.....~.
+0160  BF C8 54 33 40 68 AE 86 1D E2 5A EB 1E 0E E2 40  ..T3@h....Z....@
+0170  3F A3 6E E3 FD 5B AC F6 7B 3F 71 64 74 83 67 4A  ?.n..[..{?qdt.gJ
+0180  2F 0C 7B DD 5D 8F 36 3D AC 30 07 D2 0C 7D 3F BB  /.{.].6=.0...}?.
+0190  6B 2B 7F FD 75 38 8C 9C D6 6C 99 70 E9 2C 55 38  k+..u8...l.p.,U8
+01a0  7F 76 1F 2F F8 6D 80 71 72 78 31 61 CD 46 19 AF  .v./.m.qrx1a.F..
+01b0  1E 43 FD 69 FC DF F5 3F D1 E2 6C DF 81 46 23 FD  .C.i...?..l..F#.
+01c0  3C A3 76 E8 98 63 19 04 78 B2 C3 6B 9A E5 D3 7D  <.v..c..x..k...}
+01d0  4D 35 FE D4 EB 82 B0 E0 D0 CE 9C 46 E8 98 38 DE  M5.........F..8.
+01e0  DD CE 6F E7 20 FE AF D5 F0 C8 DA 09 68 0E DA DD  ..o. .......h...
+01f0  20 38 7F 3D 4F EE EC 76 E6 5B 4F F8 3F F8 A5 67   8.=O..v.[O.?..g
+0200  EA 95 6C A7 AC 75 FA 01 0E 7D 7F B3 C1 23 49 68  ..l..u...}...#Ih
+0210  C6 2D 05 3F 3F 37 EF F2 E4 4C C8 66 81 1C 51 F4  .-.??7...L.f..Q.
+0220  FB 7F DF 87 0C 63 FE 2C DA F1 E4 87 2F 9B 8B 18  .....c.,..../...
+0230  8F B3 3F 96 43 8B DC FE EC F8 A5 2F F1 A0 F4 C9  ..?.C....../....
+0240  81 25 C4 76 1D FC D2 33 1E DE 7B 26 3E D6 80 DE  .%.v...3..{&>...
+0250  78 13 E3 FB CB 39 B2 C9 24 30 00 AC 9D 4B 4E BE  x....9..$0...KN.
+0260  71 FB DF F7 F4 92 53 FF D4 ED CF E4 50 2D 93 20  q.....S.....P-. 
+0270  9F 92 94 ED 1A FD E3 80 87 76 46 35 05 A2 EB 1B  .........vF5....
+0280  56 F0 4B 5C E3 0D 21 A5 AD 77 BB E8 FD 2B 16 50  V.K\..!..w...+.P
+0290  6E A4 1E 0B 92 EB 9D 37 AB E1 F5 9C BC EC 0E 98  n......7........
+02a0  7A C6 2F 55 75 16 3E BA EC F4 DD 55 F4 B1 F8 F1  z./Uu.>....U....
+02b0  6B 5B BB D4 C7 B5 B6 7A BE EF D0 FF 00 A5 FE 6D  k[.....z.......m
+02c0  74 F4 F5 0E 9F 73 DB 55 39 35 59 63 C4 B6 B6 3A  t....s.U95Yc...:
+02d0  5C 47 BB DD B4 7B BF C1 D8 9A BE A1 86 F6 D0 ED  \G...{..........
+02e0  E4 7D AE B7 5F 4E E0 46 EA DB B3 7D 8F FC D6 6D  .}.._N.F...}...m
+02f0  F5 6A FA 5F E9 13 E1 29 40 92 06 E0 82 0F 62 B6  .j._...)@.....b.
+0300  40 4A B5 AA 36 0F 88 78 0C 9C 8E B2 DB 77 DD F5  @J..6..x.....w..
+0310  57 2D AF 7E F3 0D B6 D2 08 63 76 3F E8 50 EF 63  W-.~.....cv?.P.c
+0320  1A EF 67 F5 FF 00 46 AB 3F 2F 34 B9 A5 DF 55 F3  ..g...F.?/4...U.
+0330  5A 5E 06 D0 1D 78 DD 03 E9 34 7D 93 F3 97 A4 1E  Z^...x...4}.....
+0340  A7 D3 98 C2 E3 97 53 5A DF A4 77 80 04 7B 79 FE  ......SZ..w..{y.
+0350  4B 9C AC 7D A1 AD B1 B4 3A D0 2E 73 4B 85 7B BD  K..}....:..sK.{.
+0360  C5 AD 21 AF 7E DF DD 6B 9C A7 C5 CD 64 C5 7E DC  ..!.~..k....d.~.
+0370  78 2F 7E 1D 3E 5F FB D6 3C D8 A3 9A BD D9 7B 9C  x/~.>_..<.....{.
+0380  3F 2F 17 F5 BF EF 9F 35 C6 EA FD 57 1C D6 EA 3E  ?/.....5...W...>
+0390  AC E6 82 C1 B1 A7 76 44 1D D0 1B BB F5 5F 73 BD  ......vD....._s.
+03a0  8B AE FA A9 87 99 FA FF 00 5A EA 18 A7 07 33 AB  .........Z....3.
+03b0  D8 C3 F6 43 33 55 14 30 53 8C D7 87 FB FD 4B 3D  ...C3U.0S.....K=
+03c0  EF 7E F5 AF 67 54 C3 AE CB 2A B3 20 36 CA 89 6B  .~..gT...*. 6..k
+03d0  DA 49 99 0D 65 AF 6B 7F D2 7A 75 5B 55 B6 EC FC  .I..e.k..zu[U...
+03e0  CB 6B 50 7F 53 E9 EC A8 5C EB C7 A6 E7 9A F7 00  .kP.S...\.......
+03f0  4F BD B1 BD 8E 11 B9 9B 77 6F F7 7F 83 FD 22 8E  O.......wo....".
+0400  79 25 30 7D 15 C5 B9 03 E6 5D 11 54 0C EC 47 60  y%0}.....].T..G`
+0410  4E CD A4 CE 68 77 28 16 67 E1 D5 7B F1 ED B4 55  N...hw(.g..{...U
+0420  6B 18 DB 1C 1F ED 1B 5F F4 7D C7 E0 8D 5D 95 DA  k......_.}...]..
+0430  CD F5 38 3D 92 46 E6 EA 25 A7 6B 87 F6 5C A2 A3  ..8=.F..%.k..\..
+0440  D9 7D 85 CC C8 F0 1A A4 9D 24 12 FF 00 FF D5 ED  .}.......$......
+0450  C3 BB F8 68 D4 2B 71 B1 AD 21 D6 D5 5D CE 68 1B  ...h.+q..!..].h.
+0460  4B DA 1D 10 77 7B 67 E8 A2 F8 08 FF 00 62 69 04  K...w{g......bi.
+0470  1E 09 9E 7F 05 94 DD 61 F6 7C 66 B8 BC 54 CD FB  .......a.|f..T..
+0480  83 A4 34 49 30 5A D7 69 F9 CD DE ED AF 4D 66 2E  ..4I0Z.i.....Mf.
+0490  2D 8C 02 CA 6B 7B 1A 36 86 B9 A0 80 D2 23 6B 7F  -...k{.6.....#k.
+04a0  77 DA 89 ED 05 CD 1A 92 13 F7 D7 83 FE BA 23 67  w.............#g
+04b0  BA A9 0B B1 71 09 DC EA 2B F6 C1 6F B4 7E 68 86  ....q...+..o.~h.
+04c0  38 47 E7 B1 BF 43 F7 11 45 75 97 8B 4B 5A 6D 68  8G...C..Eu..KZmh
+04d0  2D 6B C8 1B 83 5D 0E 73 03 BE 96 D7 6D 48 70 27  -k...].s....mHp'
+04e0  86 98 4E CF A2 27 BC 9F C5 2B 3D D5 41 8B B1 F1  ..N..'...+=.A...
+04f0  DC F3 63 AA 61 7B 84 39 E5 A2 48 E7 DC 7F 3B E8  ..c.a{.9..H...;.
+0500  A6 76 36 2B 9A 18 FA 6B 73 44 C3 5C D0 46 AD F4  .v6+...ksD.\.F..
+0510  5D F4 BF 7A 9F D1 7F C5 A2 A4 85 95 52 37 63 E3  ]..z........R7c.
+0520  BC 87 3E A6 39 CD E1 CE 68 24 46 9F 4B E9 76 4F  ..>.9...h$F.K.vO
+0530  5D 55 54 DD B5 31 B5 B6 67 6B 44 09 E2 7F E8 A9  ]UT..1..gkD.....
+0540  A8 58 5E 04 B7 81 A9 F1 49 4C D2 4D 22 37 76 89  .X^.....IL.M"7v.
+0550  9F 24 92 53 FF D9 38 42 49 4D 04 21 1A 56 65 72  .$.S..8BIM.!.Ver
+0560  73 69 6F 6E 20 63 6F 6D 70 61 74 69 62 69 6C 69  sion compatibili
+0570  74 79 20 69 6E 66 6F 00 00 00 00 55 00 00 00 01  ty info....U....
+0580  01 00 00 00 0F 00 41 00 64 00 6F 00 62 00 65 00  ......A.d.o.b.e.
+0590  20 00 50 00 68 00 6F 00 74 00 6F 00 73 00 68 00   .P.h.o.t.o.s.h.
+05a0  6F 00 70 00 00 00 13 00 41 00 64 00 6F 00 62 00  o.p.....A.d.o.b.
+05b0  65 00 20 00 50 00 68 00 6F 00 74 00 6F 00 73 00  e. .P.h.o.t.o.s.
+05c0  68 00 6F 00 70 00 20 00 36 00 2E 00 30 00 00 00  h.o.p. .6...0...
+05d0  01 00 38 42 49 4D 04 06 0C 4A 50 45 47 20 51 75  ..8BIM...JPEG Qu
+05e0  61 6C 69 74 79 00 00 00 00 07                    ality.....
+
+ramec 43
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 CB 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C1 F6 FA 50 10  .R...P.... ...P.
+0030  FA F0 4F 6C 00 00                                ..Ol..
+
+ramec 44
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 B5 40 00 33 06 AC 15 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 F6 FA FD 1E FE 10 50 10  .f.P.. .......P.
+0030  C0 00 CB 52 00 00 00 04 00 00 00 01 01 00 FF EE  ...R............
+0040  00 0E 41 64 6F 62 65 00 64 00 00 00 00 01 FF DB  ..Adobe.d.......
+0050  00 84 00 06 04 04 04 05 04 06 05 05 06 09 06 05  ................
+0060  06 09 0B 08 06 06 08 0B 0C 0A 0A 0B 0A 0A 0C 10  ................
+0070  0C 0C 0C 0C 0C 0C 10 0C 0C 0C 0C 0C 0C 0C 0C 0C  ................
+0080  0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C  ................
+0090  0C 0C 0C 01 07 07 07 0D 0C 0D 18 10 10 18 14 0E  ................
+00a0  0E 0E 14 14 0E 0E 0E 0E 14 11 0C 0C 0C 0C 0C 11  ................
+00b0  11 0C 0C 0C 0C 0C 0C 11 0C 0C 0C 0C 0C 0C 0C 0C  ................
+00c0  0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C 0C  ................
+00d0  0C 0C 0C 0C FF C0 00 11 08 00 DC 00 A8 03 01 11  ................
+00e0  00 02 11 01 03 11 01 FF DD 00 04 00 15 FF C4 01  ................
+00f0  A2 00 00 00 07 01 01 01 01 01 00 00 00 00 00 00  ................
+0100  00 00 04 05 03 02 06 01 00 07 08 09 0A 0B 01 00  ................
+0110  02 02 03 01 01 01 01 01 00 00 00 00 00 00 00 01  ................
+0120  00 02 03 04 05 06 07 08 09 0A 0B 10 00 02 01 03  ................
+0130  03 02 04 02 06 07 03 04 02 06 02 73 01 02 03 11  ...........s....
+0140  04 00 05 21 12 31 41 51 06 13 61 22 71 81 14 32  ...!.1AQ..a"q..2
+0150  91 A1 07 15 B1 42 23 C1 52 D1 E1 33 16 62 F0 24  .....B#.R..3.b.$
+0160  72 82 F1 25 43 34 53 92 A2 B2 63 73 C2 35 44 27  r..%C4S...cs.5D'
+0170  93 A3 B3 36 17 54 64 74 C3 D2 E2 08 26 83 09 0A  ...6.Tdt....&...
+0180  18 19 84 94 45 46 A4 B4 56 D3 55 28 1A F2 E3 F3  ....EF..V.U(....
+0190  C4 D4 E4 F4 65 75 85 95 A5 B5 C5 D5 E5 F5 66 76  ....eu........fv
+01a0  86 96 A6 B6 C6 D6 E6 F6 37 47 57 67 77 87 97 A7  ........7GWgw...
+01b0  B7 C7 D7 E7 F7 38 48 58 68 78 88 98 A8 B8 C8 D8  .....8HXhx......
+01c0  E8 F8 29 39 49 59 69 79 89 99 A9 B9 C9 D9 E9 F9  ..)9IYiy........
+01d0  2A 3A 4A 5A 6A 7A 8A 9A AA BA CA DA EA FA 11 00  *:JZjz..........
+01e0  02 02 01 02 03 05 05 04 05 06 04 08 03 03 6D 01  ..............m.
+01f0  00 02 11 03 04 21 12 31 41 05 51 13 61 22 06 71  .....!.1A.Q.a".q
+0200  81 91 32 A1 B1 F0 14 C1 D1 E1 23 42 15 52 62 72  ..2.......#B.Rbr
+0210  F1 33 24 34 43 82 16 92 53 25 A2 63 B2 C2 07 73  .3$4C...S%.c...s
+0220  D2 35 E2 44 83 17 54 93 08 09 0A 18 19 26 36 45  .5.D..T......&6E
+0230  1A 27 64 74 55 37 F2 A3 B3 C3 28 29 D3 E3 F3 84  .'dtU7....()....
+0240  94 A4 B4 C4 D4 E4 F4 65 75 85 95 A5 B5 C5 D5 E5  .......eu.......
+0250  F5 46 56 66 76 86 96 A6 B6 C6 D6 E6 F6 47 57 67  .FVfv........GWg
+0260  77 87 97 A7 B7 C7 D7 E7 F7 38 48 58 68 78 88 98  w........8HXhx..
+0270  A8 B8 C8 D8 E8 F8 39 49 59 69 79 89 99 A9 B9 C9  ......9IYiy.....
+0280  D9 E9 F9 2A 3A 4A 5A 6A 7A 8A 9A AA BA CA DA EA  ...*:JZjz.......
+0290  FA FF DA 00 0C 03 01 00 02 11 03 11 00 3F 00 80  .............?..
+02a0  67 7E F9 EB B1 57 62 AE C5 5D 8A BB 15 76 2A EC  g~...Wb..]...v*.
+02b0  55 D8 AB B1 57 62 AE C5 5D 8A BB 15 76 2A EC 55  U...Wb..]...v*.U
+02c0  D8 AB B1 57 62 AE C5 5D 8A BF FF D0 80 67 7E F9  ...Wb..].....g~.
+02d0  EB B1 57 62 AE C5 5D 8A B6 01 20 90 2A 07 53 E1  ..Wb..]... .*.S.
+02e0  8A B8 AB 00 18 82 01 E8 7B 1C 56 9D C5 AB C6 87  ........{.V.....
+02f0  91 E8 29 BE F8 AD 38 02 7A 62 AE A1 A5 69 B7 4A  ..)...8.zb...i.J
+0300  F6 C5 69 C0 12 68 05 49 E8 06 2A EE 2D BE C7 E1  ..i..h.I..*.-...
+0310  FB 5B 74 F9 E2 B4 E0 09 20 01 52 7A 0C 55 C5 58  .[t..... .Rz.U.X
+0320  12 08 20 8E A0 E2 B4 EA 1A 03 4D 8F 43 8A B5 8A  .. .......M.C...
+0330  BB 15 76 2A EC 55 D8 AB B1 57 FF D1 83 FD 4A F7  ..v*.U...W....J.
+0340  FE 59 E5 FF 00 80 6F E9 9D DF 8B 0E F8 FC DE 07  .Y....o.........
+0350  C1 9F 71 77 D4 6F BF E5 9A 5F F9 16 DF D3 1F 16  ..qw.o..._......
+0360  1D F1 F9 AF 83 3E E2 EF A9 5E FF 00 CB 3C BF F0  .....>...^...<..
+0370  0D FD 31 F1 61 DF 1F 9A F8 33 EE 2D 7D 4E F3 FE  ..1.a....3.-}N..
+0380  59 E5 FF 00 80 6F E9 8F 8B 0E F8 FC D7 C1 9F 71  Y....o.........q
+0390  6F EA 57 BF F2 CF 2F FC 03 7F 4C 7C 58 77 C7 E6  o.W.../...L|Xw..
+03a0  BE 0C FB 8A 3E CA 7B CB 7D 3A F6 C9 ED 27 92 3B  ....>.{.}:...'.;
+03b0  B0 A4 28 56 55 59 12 BC 5C D1 79 37 1A FD 8A F0  ..(VUY..\.y7....
+03c0  6F DA CA E5 28 19 03 C5 1F 4F 9B 74 04 C4 48 E1  o...(....O.t..H.
+03d0  97 A9 52 EE F2 F2 E2 D3 4A 84 59 CD FE E3 53 81  ..R.....J.Y...S.
+03e0  56 56 64 7F DE 34 95 A5 36 AF 2E 2D 82 26 00 C8  VVd..4..6..-.&..
+03f0  F1 47 D5 E6 99 71 91 11 C2 7D 0A FF 00 A5 2F 8E  .G...q...}..../.
+0400  B9 36 A6 6D 6F 18 4A 92 A2 D4 B7 AD 10 94 30 1E  .6.mo.J.......0.
+0410  9C 9C 36 F4 F9 7E EF E1 FB 39 1A 87 07 0F 14 59  ..6..~...9.....Y
+0420  F1 4F 8F 8B 86 4A DA 56 BB 79 63 AB 5E DF 36 97  .O...J.V.yc.^.6.
+0430  24 B1 5F 4B EA 3D B5 19 40 01 DA 45 00 F1 EA AE  $._K.=..@..E....
+0440  55 81 A7 EC E4 72 42 12 88 1C 43 D2 9C 79 27 19  U....rB...C..y'.
+0450  13 C2 7D 45 01 6B 73 7B 06 8B 71 A7 7D 52 E1 8C  ..}E.ks{..q.}R..
+0460  EC 4D 40 61 1E FE 9E EC 9C 7E 26 5F 4B E0 35 FD  .M@a.....~&_K.5.
+0470  BC B6 46 06 62 5C 51 6B 8F 18 81 8F 0C 94 B4 66  ..F.b\Qk.......f
+0480  BD D3 B5 4B 6B E3 69 34 9E 83 72 E0 11 81 3B 11  ...Kk.i4..r...;.
+0490  B1 A7 BE 1C 92 84 A2 47 14 7E 6C 70 C6 70 90 3C  .......G.~lp.p.<
+04a0  25 17 A6 6A 17 B6 2F 7C E6 CE E2 5F AD F6 A3 00  %..j../|..._....
+04b0  76 71 49 47 13 CD 0F 3A B2 FF 00 93 90 9F 04 AB  vqIG...:........
+04c0  D5 1D 99 E3 33 8D FA 65 EA 43 2C B7 E9 69 61 02  ....3..e.C,..ia.
+04d0  5A CC AF 63 34 93 09 42 B8 24 C8 63 22 94 1F 0F  Z..c4..B.$.c"...
+04e0  1F 4F AE 4F 8A 16 4F 14 7D 5E 6C 2A 74 07 09 F4  .O.O..O.}^l*t...
+04f0  95 6B 9B ED 42 E2 7D 62 69 2C E7 66 D5 4D 6A C1  .k..B.}bi,.f.Mj.
+0500  D8 C7 FB F5 9B A9 5F 8B 65 E1 91 8F 00 11 1C 51  ......_.e......Q
+0510  F4 7B BF 9B C2 CA 5C 64 C8 F0 9F 5F FC 57 13 AF  .{....\d..._.W..
+0520  2F 6F 2E 34 EB 4B 3F A8 CC 3E AC C8 DC 98 31 03  /o.4.K?..>....1.
+0530  82 70 A4 63 8F C0 24 FB 72 7F 34 98 C7 80 48 9E  .p.c..$.r.4...H.
+0540  28 EE 99 99 98 81 C2 76 5D E6 4B FB CD 6A F5 6E  (......v].K..j.n
+0550  FF 00 47 CB 04 87 99 96 8A C4 3B 3C 8C FC B6 55  ..G.......;<...U
+0560  A7 C2 CA AD FC CC BC FF 00 6B 06 1E 08 0A E2 89  .........k......
+0570  F8 A3 51 C7 90 DF 09 09 4F D4 6F 7F E5 9E 5F F8  ..Q.....O.o..._.
+0580  06 FE 99 77 8B 0E F8 FC DA 3C 19 F7 17 7D 46 F7  ...w.....<...}F.
+0590  FE 59 E5 FF 00 80 6F E9 8F 8B 0E F8 FC D7 C1 9F  .Y....o.........
+05a0  71 77 D4 6F 7F E5 9A 5F F9 16 DF D3 1F 16 1D F1  qw.o..._........
+05b0  F9 AF 83 3E E2 EF A8 DE FF 00 CB 3C BF F0 0D FD  ...>.......<....
+05c0  31 F1 61 DF 1F 9A F8 33 EE 2E FA 8D EF FC B3 CB  1.a....3........
+05d0  FF 00 00 DF D3 1F 16 1D F1 F9 AF 83 3E E2 FF 00  ............>...
+05e0  FF D2 ED B6 DC 84 75 AF DA DF                    ......u...
+
+ramec 45
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 B6 40 00 33 06 AC 14 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C1 FC AE FD 1E FE 10 50 10  .f.P.. .......P.
+0030  C0 00 4F 39 00 00 39 72 EE 15 43 D7 A1 AE 34 B6  ..O9..9r..C...4.
+0040  A1 79 29 58 C0 AF 53 FA B0 80 B6 A5 6D 12 3A D5  .y)X..S.....m.:.
+0050  87 B9 C4 AA A1 B5 DE A8 EC BE C7 71 8A A8 CC 65  ...........q...e
+0060  8F E1 63 51 D4 11 8A DA 2E 00 CB 12 8A EF 4A 9F  ..cQ..........J.
+0070  A7 02 DA FE 47 C7 15 B7 72 3E 38 AD BB 91 F1 C5  ....G...r>8.....
+0080  6D DC 8F 8E 2B 6E E4 7C 71 5B 77 23 E3 8A DB 83  m...+n.|q[w#....
+0090  D7 A1 E9 D7 1A 5B 5A D2 38 60 3F 64 ED 5F 7C 69  .....[Z.8`?d._|i
+00a0  6D CF 56 53 BE FD B1 5B 6C 31 64 EB B1 1B E2 B6  m.VS...[l1d.....
+00b0  B5 19 AA 37 EA 29 F4 8C 69 6D BA 90 E3 7E A2 9F  ...7.)..im...~..
+00c0  76 2A D3 16 E5 B5 77 A7 E1 8A DA E6 05 BB 91 8A  v*....w.........
+00d0  DB FF D3 ED 9E A4 61 02 86 ED 4C E6 1D C2 F4 64  ......a...L....d
+00e0  A0 01 86 05 41 5F 48 0C 81 7C 36 FA 4E 48 20 A2  ....A_H..|6.NH .
+00f0  A0 E2 91 D4 EC 3F A6 04 AA E0 54 0C E7 D4 BA 08  .....?....T.....
+0100  3C 42 FF 00 5C 92 11 D9 14 BB 15 76 2A EC 55 C0  <B..\......v*.U.
+0110  83 D3 7C 55 6B B3 02 AA B4 AB 77 38 AB 91 8B 2E  ..|Uk.....w8....
+0120  FD 46 C7 15 6A 81 64 14 D8 30 FC 71 55 CE 2A 87  .F..j.d..0.qU.*.
+0130  C7 A8 FA 31 56 D4 D4 03 E3 8A AD 4D AA BE 07 F5  ...1V......M....
+0140  EF 8A BB 8B 73 F6 AD 6B 8A AE A0 FB B1 57 62 AE  ....s..k.....Wb.
+0150  C5 5F FF D4 ED 6D 67 01 EC 41 F1 06 99 CC 5B B8  ._...mg..A....[.
+0160  51 7B 29 56 A6 39 2B EC D8 DA A1 03 33 4A B5 5A  Q{)V.9+.....3J.Z
+0170  D3 7D B7 C2 84 4A DE 01 F0 32 ED E0 76 C6 92 88  .}...J...2..v...
+0180  5B A8 88 DB B7 6C 14 A8 6B 35 2F 72 CE 7F 66 A7  [....l..k5/r..f.
+0190  E9 38 4A 11 F9 14 BB A6 F8 AA C5 96 A4 55 68 A7  .8J..........Uh.
+01a0  A1 C5 57 90 08 A1 E9 8A AC 8C 71 66 4E DD 47 D3  ..W.......qfN.G.
+01b0  8A BA 50 78 D7 BA 9A 8C 55 CB B4 87 C1 85 46 15  ..Px....U.....F.
+01c0  6E 4F B3 5E EB BE 05 5D 8A B4 80 80 47 60 76 F9  nO.^...]....G`v.
+01d0  62 AD D0 56 BE 3D F1 57 62 AE C5 5D 8A BB 15 7F  b..V.=.Wb..]....
+01e0  FF D5 EE 1C BE 2A 7D 35 CE 5D DC 2D 99 B8 C4 C7  .....*}5.].-....
+01f0  BD 36 FA 71 0A C2 FC C5 2D D5 C6 B5 A0 E8 31 5C  .6.q....-.....1\
+0200  4B 69 6F AB CF 70 6F 67 B7 63 1C C6 0B 48 0C A6  Kio..pog.c...H..
+0210  24 90 7C 51 FA AE 53 9B 27 C7 C3 97 1C CA C2 00  $.|Q..S.'.......
+0220  8C A5 CF 87 FD F3 4E 42 49 11 FE 72 23 95 DF 96  ......NBI..r#...
+0230  2E D3 4B 82 49 F5 C3 AC CE 7F 41 E9 B7 32 FC 76  ..K.I.....A..2.v
+0240  C9 0C 3C EE 7D 4B B9 8C 8E D0 8A 72 4E 41 DD 59  ..<.}K.....rNA.Y
+0250  FD 3C 76 C8 2C FA 38 7E B9 7F 3B F9 BE 84 6F 0D  .<v.,.8~..;...o.
+0260  BE AE 2F A5 03 73 E7 DB 79 23 B2 8B 4E D1 AE 27  ../..s..y#..N..'
+0270  D5 2F 52 F4 9B 1F 56 38 FD 19 74 E9 56 2B 98 E5  ./R...V8..t.V+..
+0280  90 F2 41 C4 B7 C0 E3 ED FC 3F CF 84 69 AA EC FA  ..A......?..i...
+0290  47 0F FB 3F A5 1E 37 2A 1B EF FE C5 BD 0F F3 1E  G..?..7*........
+02a0  09 EC 25 D4 24 D2 EE 20 B2 9B 4C 9F 58 D3 E6 91  ..%.$.. ..L.X...
+02b0  E3 E5 71 05 A7 11 32 FA 63 E2 89 83 48 BC 39 FF  ..q...2.c...H.9.
+02c0  00 78 BF 16 33 D2 D1 AB DF 8B 82 5F E7 2C 73 D8  .x..3......_.,s.
+02d0  BA DA B8 91 92 7E 62 8B 68 65 7D 43 48 9E CD FE  .....~b.he}CH...
+02e0  AD 6D 7D 67 11 92 37 69 AD EE 67 4B 7A 9E 3F DD  .m}g..7i..gKz.?.
+02f0  49 13 CA 86 48 9B F6 5B ED 60 FC B5 F2 37 B9 8F  I...H..[.`...7..
+0300  FA 5F 52 7C 7A E6 1A F3 C7 9C 75 2D 32 CB 5A 87  ._R|z.....u-2.Z.
+0310  49 B4 F5 6F F4 A6 B0 12 4C EE 81 38 5F 49 4E 4A  I..o....L..8_INJ
+0320  AD D6 94 E1 FE CF 9F EC E3 A7 C0 24 47 11 DA 5C  ...........$G..\
+0330  5F EC 17 36 52 01 AE 62 90 9A A7 E6 85 9E 99 AA  _..6R..b........
+0340  3E 93 75 A7 BA DC DA 1B 71 A8 C6 93 24 8F 0B 5C  >.u.....q...$..\
+0350  9F 85 22 55 53 F5 8F 4D 0A C9 2F 12 9C 51 BE 1E  .."US..M../..Q..
+0360  6D 92 8E 90 C8 58 3F D5 FF 00 37 FD CA 0E A0 03  m....X?...7.....
+0370  54 9F F9 7F CD 12 6B 57 FA 8C 30 E9 D2 C3 67 A6  T.....kW..0...g.
+0380  DC 4D 67 25 FC 8E 9C 24 B8 81 F8 B2 46 83 E3 2B  .Mg%...$....F..+
+0390  C7 E3 E6 7E 1F D8 FB 59 4E 4C 5C 00 1B DE 5E AE  ...~...YNL\...^.
+03a0  16 C8 64 E2 27 6E 4C 62 CB 5A D5 AC 7C FB AE FD  ..d.'nLb.Z..|...
+03b0  6E E6 49 74 5B EB C3 A6 DA A3 B1 29 69 77 1D 8C  n.It[......)iw..
+03c0  57 10 84 AF D8 4B 90 F3 2F FC 66 48 FF 00 9F 32  W....K../.fH...2
+03d0  25 08 9C 71 A1 EA 03 8B FA D1 E2 E1 FF 00 62 D4  %..q..........b.
+03e0  26 44 CD F2 FA 7F D8 A1 6C 3F 34 ED B4 7F 2C E8  &D......l?4...,.
+03f0  50 DE C5 2E A5 A8 1D 1E DA FF 00 50 90 C8 04 85  P..........P....
+0400  65 1C 47 0E 41 8C F3 BF 17 7E 1F 0F D9 FB 7F 12  e.G.A....~......
+0410  E4 A5 A4 32 9C 88 F4 8E 23 18 B1 8E A3 86 22 F7  ...2....#.....".
+0420  3C 29 91 F3 C6 B3 69 AB 79 8A 4B AD 31 A5 D1 34  <)....i.y.K.1..4
+0430  64 B4 96 39 A3 96 20 EB 0C F1 F2 2E 50 8E 6D CD  d..9.. .....P.m.
+0440  5B D5 E3 FE EA 54 E1 95 FE 5E 26 31 A3 EA 95 B2  [....T...^&1....
+0450  F1 8D 9D BD 31 4D 67 F3 EE 9E 97 DA C5 8C 76 B3  ....1Mg.......v.
+0460  4D 71 A4 DC D9 D9 AA 82 A0 5C C9 7B 22 C4 BE 91  Mq.......\.{"...
+0470  3F B3 14 8D C2 5E 5F CB 95 8D 39 A0 6F EA 06 5F  ?....^_...9.o.._
+0480  D5 E1 6C 39 85 91 DD 5F EC 9A B5 F3 CA 4D 79 6D  ..l9..._.....Mym
+0490  FE E3 A5 4D 16 F6 F6 4D 32 CB 57 32 21 0F 71 13  ...M...M2.W2!.q.
+04a0  3A 0E 50 8F DE 24 52 49 13 C7 14 84 FD AF B4 AA  :.P..$RI........
+04b0  AD 89 D3 D0 E7 EA 03 8B 85 03 35 9E 5B 5F 0F 12  ..........5.[_..
+04c0  41 37 E6 4A DC C7 E5 ED 7E 7B 6B 8D 27 41 96 E6  A7.J....~{k.'A..
+04d0  E1 79 49 22 B3 5D 85 B4 9C 70 58 A3 AB 37 EF D1  .yI".]...pX..7..
+04e0  16 15 6F EF 64 E3 C1 72 F1 A5 AE 28 8F 54 AB FD  ..o.d..r...(.T..
+04f0  2F A8 35 F8 F7 47 94 53 6D 43 CD 90 E9 32 EA 3A  /.5..G.SmC...2.:
+0500  C5 FD 9D EC 57 16 7A 45 B5 E5 D6 99 EB 2C 91 A2  ....W.zE.....,..
+0510  49 70 E8 11 63 1F 07 D6 41 1F BC 71 F6 97 F7 7F  Ip..c...A..q....
+0520  B3 95 47 0F 15 44 11 BC 88 E2 FC 7F 0B 39 64 E1  ..G..D.......9d.
+0530  B2 7F 9A A8 DE 7E 9A 18 EF 22 BC D1 67 B6 D5 60  .....~..."..g..`
+0540  9A CE 0B 5D 38 CD 0B 99 CE A2 59 6D FF 00 78 A7  ...]8.....Ym..x.
+0550  84 7F 61 FD 60 DF DD 70 FD BC 1F 97 BA A3 E9 DF  ..a.`..p........
+0560  D5 FD 4F A9 7C 6E 76 37 FF 00 8A 4D FC BD AF 3E  ..O.|nv7...M...>
+0570  AE 2F D2 6B 29 2C 2E 74 DB A3 65 73 04 8E 92 7E  ./.k),.t..es...~
+0580  F1 63 49 79 23 A6 CC 84 4A 38 9C AF 2E 3E 1A DE  .cIy#...J8...>..
+0590  F8 87 13 64 27 C5 7B 55 26 D9 53 37 62 AF FF D6  ...d'.{U&.S7b...
+05a0  ED 49 75 01 E9 B5 73 98 A7 70 B6 EE 40 62 A2 9D  .Iu...s..p..@b..
+05b0  BA 9C 42 A5 1A C7 96 E5 D5 2D EC 2E 2D 2E CD 86  ..B......-..-...
+05c0  AD A6 CF F5 AD 3E F3 80 95 55 99 0C 72 24 91 92  .....>...U..r$..
+05d0  BE A4 52 C6 CC 8E BC 95 BF 69 5B 2D C7 97 86 EC  ..R......i[-....
+05e0  5C 65 F5 35 CE 1C 55 5B 10 87                    \e.5..U[..
+
+ramec 46
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 CC 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C2 02 62 50 10  .R...P.... ..bP.
+0030  FA F0 4F 6C 00 00                                ..Ol..
+
+ramec 47
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 B7 40 00 33 06 AC 13 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C2 02 62 FD 1E FE 10 50 10  .f.P.. ..b....P.
+0030  C0 00 9C C0 00 00 9F CB 1E 66 BA B9 B1 D5 2E 35  .........f.....5
+0040  5B 56 D6 B4 C9 64 7B 37 4B 37 5B 51 0C F1 7A 53  [V...d{7K7[Q..zS
+0050  42 E9 EB 19 5F 9F C2 FE A7 AA BC 19 7E CE 48 65  B..._.......~.He
+0060  80 04 00 78 65 FD 2F 57 DC C4 E3 91 A3 7E A1 E4  ...xe./W.....~..
+0070  83 B4 F2 60 D2 E7 B5 9D AF 0D C5 D2 C3 A8 0B C9  ...`............
+0080  3D 30 9E AC FA 95 C2 4F 24 A0 06 3C 15 5A 3E 09  =0.....O$..<.Z>.
+0090  1F C5 F0 FE D6 19 E7 E2 04 57 F3 7F D8 2C 71 57  .........W...,qW
+00a0  DB FE C9 4B 57 F2 6B D8 79 44 08 E6 69 DF 49 F2  ...KW.k.yD..i.I.
+00b0  E5 F6 94 91 24 64 34 C6 68 A3 F8 C5 09 E2 7F 71  ....$d4.h......q
+00c0  F6 3E 2F B7 93 C7 9E E7 FD 6C 91 9B 19 E2 A8 FF  .>/......l......
+00d0  00 56 06 2E 7F 20 EA 3A A6 9B 23 6A 7A B0 7B B9  .V... .:..#jz.{.
+00e0  34 DB 6B 1D 3A 58 ED F8 08 16 19 52 E7 9C C8 5D  4.k.:X.....R...]
+00f0  BD 69 5E 58 E2 F5 28 62 5E 29 F0 AA F2 C7 F3 02  .i^X..(b^)......
+0100  27 61 B7 11 94 BF DC A3 C1 24 6E 7A 2B 4B E4 0D  'a.......$nz+K..
+0110  46 EE D3 CC 3F 5F D5 C4 DA 8E BF F5 47 7B 84 83  F...?_......G{..
+0120  84 30 49 64 6B 18 8E 23 23 13 17 C2 BF 01 93 97  .0Idk..##.......
+0130  DA F8 FE 2C 03 52 01 8D 0D A1 7F EC 99 78 24 83  ...,.R.......x$.
+0140  67 79 7F BD 46 47 E5 FD 7E CB 5D 9F 58 B2 D4 6D  gy..FG..~.].X..m
+0150  62 9B 56 48 46 B5 6E F6 D2 34 2F 34 0B C1 66 82  b.VHF.n..4/4..f.
+0160  92 AB C4 C6 2F 81 95 DA 45 F8 55 B2 07 2C 4C 78  ..../...E.U..,Lx
+0170  48 3E 9F A7 7F F7 49 10 90 36 0F 3F A9 33 F2 FE  H>....I..6.?.3..
+0180  92 34 B8 2F 20 12 FA C2 7B DB 9B C0 D4 E3 4F AC  .4./ ...{.....O.
+0190  CA 64 E1 D4 D7 85 69 CB 2B C9 3E 22 3D C2 3F E9  .d....i.+.>"=.?.
+01a0  5B 21 1A F9 A5 DA 87 92 60 BE B0 F3 0D A4 D7 2C  [!......`......,
+01b0  BF A7 6E 56 F2 19 91 68 F6 B3 47 0C 51 C4 E8 6B  ..nV...h..G.Q..k
+01c0  F1 34 72 40 B2 FE CF F2 64 E3 9E 8C 4D 7D 03 87  .4r@....d...M}..
+01d0  FA CC 0E 2B 04 7F 39 0B A6 79 23 56 D1 3F 47 4B  ...+..9..y#V.?GK
+01e0  A3 EA 91 C7 75 6D A6 C1 A5 DF 8B 9B 76 92 1B 94  ....um......v...
+01f0  B5 A9 8A 50 89 24 6D 14 A8 5E 4F DB 65 65 7E 39  ...P.$m..^O.ee~9
+0200  39 6A 23 3B E2 1B 71 71 FF 00 55 8C 70 98 D5 1E  9j#;..qq..U.p...
+0210  9C 28 F9 7C AD 3C BA BE B3 70 F7 31 49 A6 EB D6  .(.|.<...p.1I...
+0220  B1 DB DF DA 3C 4C 64 0F 14 2D 08 68 E4 0F C7 83  ....<Ld..-.h....
+0230  2B D5 91 93 FD 9E 40 66 1C 20 75 81 F4 B2 38 F7  +.....@f. u...8.
+0240  3D D2 4B 34 EF CB 78 ED 1B CB 52 49 A8 C9 71 3E  =.K4..x...RI..q>
+0250  84 D2 C9 7B 2B 20 1F 5E 92 57 33 07 93 7F 80 C7  ...{+ .^.W3.....
+0260  72 7D 65 FB 5F CB 93 96 AA F8 B6 FA FF 00 D8 7E  r}e._..........~
+0270  22 C4 60 E5 BF D3 FE C9 5A D3 C8 D7 70 4F 67 6A  ".`.....Z...pOgj
+0280  DA 8A BE 81 A7 6A 12 6A 96 96 22 12 27 F5 5D DE  .....j.j..".'.].
+0290  54 8E 49 F9 F1 68 61 96 57 91 78 C4 AE DF 02 BB  T.I..ha.W.x.....
+02a0  7C 38 0E A0 10 4D 7A E5 1E 04 8C 47 BF D2 0F 13  |8...Mz....G....
+02b0  4D F9 73 61 71 A0 68 3A 25 F4 DF 59 B4 D1 84 A2  M.saq.h:%..Y....
+02c0  4F 83 81 9B D5 86 48 83 29 0D 58 9E 36 93 D4 47  O.....H.).X.6..G
+02d0  1C B8 BA 61 FC C9 12 94 87 F1 2F 80 0C 40 3F C2  ...a....../..@?.
+02e0  DD DF 91 AF 6F AC AE E2 BF D5 7E B1 77 79 A7 5B  ....o.....~.wy.[
+02f0  E9 D2 DD 98 42 96 FA B5 C3 4E 26 65 0F 42 EE AC  ....B....N&e.B..
+0300  15 C0 FD AF 8F FC 8C 03 50 01 14 36 12 E2 FF 00  ........P..6....
+0310  4C 10 70 93 CC F4 6B CD 9E 5D B7 69 AF F5 B9 2F  L.p...k..].i.../
+0320  9E D2 47 93 4E 9A DA 44 B6 7B AF 42 6D 3E 49 0A  ..G.N..D.{.Bm>I.
+0330  33 47 1D 5E 58 E4 F5 8A C8 07 0E 0B FB 78 70 E4  3G.^X........xp.
+0340  3B 46 AF EA EB C3 F5 AE 48 73 37 FC DF F6 2A 9F  ;F......Hs7...*.
+0350  97 F0 5F 88 35 9B EB C7 92 53 A9 6A 4F 73 04 F2  .._.5....S.jOs..
+0360  C0 D6 A6 48 C4 10 C5 CD 60 7F 8E 28 F9 46 CB 12  ...H....`..(.F..
+0370  BF C7 C1 79 60 D4 91 60 0F E1 8F F5 BB D3 84 1D  ...y`..`........
+0380  C9 EA 59 56 63 37 3B 15 7F FF D7 ED 8F 6B 03 F5  ..YVc7;......k..
+0390  41 5F 11 B6 72 F6 EE 10 52 C2 12 5F 4D 58 F1 24  A_..r...R.._MX.$
+03a0  0A 1C 92 15 EF E1 B8 9A CC DB C0 78 34 C0 A3 C8  ...........x4...
+03b0  6B F0 AD 0D 7A 15 6A 9F B2 29 96 60 94 63 2E 29  k...z.j..).`.c.)
+03c0  7F 0B 5E 68 99 46 87 54 15 D5 95 E4 F6 BA 74 8F  ..^h.F.T......t.
+03d0  00 92 F2 25 06 E5 7D 42 A3 92 C0 DF 09 2A 77 0D  ...%..}B.....*w.
+03e0  37 0C C9 C7 96 11 94 C0 35 09 7D 1B 7F 4C 7F D3  7.......5.}..L..
+03f0  BE 26 8C 98 E5 28 C4 91 EA 1F 56 FF 00 D0 FF 00  .&...(....V.....
+0400  AA 88 18 AE 35 DB 8D 6E 48 99 62 68 A1 E2 AC AE  ....5..nH.bh....
+0410  38 0E EC 0F 25 32 7C 45 78 D5 70 E4 86 01 8C 1F  8...%2|Ex.p.....
+0420  55 CB FC EF F8 9F E9 22 13 CC 66 46 D4 3F 1F D2  U......"..fF.?..
+0430  44 AC 1A D4 73 2D C5 BC 46 37 12 DC 19 C3 B0 21  D...s-..F7.....!
+0440  E3 92 5F DD 71 5E 54 AC 69 F1 FE CF F2 64 8C F0  .._.q^T.i....d..
+0450  91 C3 23 FC 30 E1 FE 8C A1 0F 5F 4F E3 97 A7 FD  ..#.0....._O....
+0460  93 11 0C A0 D8 1D 65 C5 FD 2E 29 7A 3F D2 C7 FE  ......e...)z?...
+0470  25 59 A7 F3 43 00 16 DE 08 DC 05 E6 C7 E2 52 77  %Y..C.........Rw
+0480  E5 C7 E2 07 6F 87 8F 2C 80 86 9C 75 91 FC 7F 55  ....o..,...u...U
+0490  99 96 7E E8 FE 3E 2B B5 21 AA 7E E2 E2 20 02 DA  ..~..>+.!.~.. ..
+04a0  70 96 55 E9 C8 90 44 A4 7C 5D 23 4F D9 6C 8E 0F  p.U...D.|]#O.l..
+04b0  0F 78 9F E3 F4 C7 FD E7 4F E3 93 2C DC 7B 11 FC  .x......O..,.{..
+04c0  1E AF F8 BF F4 A8 3B 4B BF 31 CF 20 81 84 4C E9  ......;K.1. ..L.
+04d0  14 2D 31 64 02 9E B0 6F 8C D1 BE D8 E3 F6 17 E1  .-1d...o........
+04e0  E3 FE 56 5F 97 16 9E 22 F7 FA A5 C3 BF F3 2B D3  ..V_..."......+.
+04f0  F4 FD 3F D2 69 C7 93 39 35 B7 28 DF F9 FF 00 1F  ..?.i..95.(.....
+0500  F6 28 8F AC 79 95 05 16 CE 27 03 7D 8A AD 48 1B  .(..y....'.}..H.
+0510  A7 DA DB FC 97 FF 00 85 CA 86 3D 39 FE 23 F8 FE  ..........=9.#..
+0520  2E 5F EC 5B 0C F3 FF 00 34 2B D8 8D 59 6F E7 7B  ._.[....4+..Yo.{
+0530  84 06 DE 45 AA BD 00 62 C8 A8 14 71 0C DC 41 AC  ...E...b...q..A.
+0540  9F F0 39 5E 6F 08 C0 08 FD 43 FE 3D E5 FD 46 78  ..9^o....C.=..Fx
+0550  BC 4E 33 7F 4F FD 23 FF 00 1E 40 D9 41 E6 0B 1B  .N3.O.#...@.A...
+0560  58 A2 48 63 95 CC 48 D3 3F ED 7A 8D 50 CB F1 48  X.Hc..H.?.z.P..H
+0570  7F BB EB 5F DB CC 9C B3 C1 92 44 92 46 E7 87 FA  ..._......D.F...
+0580  BF E9 7F 8F FD 8B 46 38 E6 84 40 00 1D BD 5F D6  ......F8..@..._.
+0590  FF 00 4D FC 3F EC 95 96 4F 33 A4 72 1F 4D 26 96  ..M.?...O3.r.M&.
+05a0  42 59 03 71 55 8C F1 D9 76 6F 89 79 0F F8 6C AC  BY.qU...vo.y..l.
+05b0  C7 4E 48 DC C4 0F F6 5F EC 59 83 9C 03 B5 9F F7  .NH...._.Y......
+05c0  3F 6A C9 EF BC C5 6C A5 E5 8E 23 17 26 50 76 0C  ?j....l...#.&Pv.
+05d0  68 58 87 15 7A 7D 81 C9 63 C9 43 16 09 EC 0C AF  hX..z}..c.C.....
+05e0  F1 E9 FA 7F 9D FC 4C 65 93 34                    ......Le.4
+
+ramec 48
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 B8 40 00 33 06 AC 12 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C2 08 16 FD 1E FE 10 50 10  .f.P.. .......P.
+0030  C0 00 C1 15 00 00 77 20 57 E3 CF FD 8A BD FC 7A  ......w W......z
+0040  CC CD 04 90 53 8A C7 1C 8D 16 DC 7D 65 AB 1A 9E  ....S......}e...
+0050  40 9D C2 28 5F B3 95 E1 96 28 82 0F 7C A3 C5 FD  @..(_....(..|...
+0060  0F C7 13 66 51 90 D1 1D C3 FD 3A F9 3F 4B 5C 69  ...fQ.....:.?K\i
+0070  F2 2C B1 08 A7 79 90 2C 48 C0 15 85 65 5E 47 9D  .,...y.,H...e^G.
+0080  77 25 01 6F F8 5C 88 F0 A3 90 51 B8 F0 9F F4 FC  w%.o.\....Q.....
+0090  3F CD FE B3 23 E2 4A 06 C5 1E 2F F6 1C 5F F1 28  ?...#.J.../.._.(
+00a0  58 EE 7C CC D3 87 95 23 51 40 A6 25 03 80 2C 50  X.|....#Q@.%..,P
+00b0  97 AF 2A B7 A7 F1 A8 1F B5 96 98 E9 AA 81 3F 8E  ..*...........?.
+00c0  2F 4F D3 FC 5E 96 B0 73 DD 90 3F 1C 3E 7F C3 EA  /O..^..s..?.>...
+00d0  56 F5 BC CE 8E 08 8A 17 56 E2 36 1C 4A 72 23 91  V.......V.6.Jr#.
+00e0  3F 19 E5 C2 A7 FD 7E 39 11 1D 39 1C E4 3F DF 7F  ?.....~9..9..?..
+00f0  B1 FE 2F F6 29 E2 CE 3A 47 F1 F1 47 69 DF 5E FA  ../.)..:G..Gi.^.
+0100  B1 37 C6 B7 06 49 0E C0 00 13 99 E0 36 27 F6 38  .7...I......6'.8
+0110  E6 36 7E 0E 2F 47 D3 51 FF 00 73 EA FF 00 64 DF  .6~./G.Q..s...d.
+0120  87 8B 87 D5 F5 59 FB FD 28 9C A5 B5 D8 AB FF D0  .....Y..(.......
+0130  EE 39 CB BB 84 BD 01 96 EA BD 85 4F DF 92 54 C3  .9.........O..T.
+0140  22 AD 33 05 52 C7 A0 15 C5 50 36 03 9C F2 48 7A  ".3.R....P6...Hz
+0150  81 F8 9C 91 40 47 E4 52 EC 55 D8 AB B6 C5 5D 8A  ....@G.R.U....].
+0160  BB 15 76 2A EC 55 A6 55 61 46 01 85 6B 42 2B B8  ..v*.U.UaF..kB+.
+0170  F9 E1 04 85 21 BC 0A EC 55 46 45 06 40 00 A7 8E  ....!...UFE.@...
+0180  15 56 C0 AE 26 80 9F 0C 55 A5 75 6E 98 AB 78 AB  .V..&...U.un..x.
+0190  FF D1 EC ED 76 AC 85 45 03 1F 1D B3 98 A7 70 D5  ....v..E......p.
+01a0  90 5F 8A 42 7A 9A 7D D8 95 08 82 AF D5 5B 15 53  ._.Bz.}......[.S
+01b0  BA 66 5B 72 0F DA 6D B1 0A B7 4F 4E 30 72 3D 5C  .f[r..m...ON0r=\
+01c0  93 F4 74 C4 AA 27 02 B1 CF CC 2F 39 C7 E4 EF 2B  ..t..'..../9...+
+01d0  DC 6B D2 5B 1B C1 03 C7 18 B7 0F C0 93 2B 71 1B  .k.[.........+q.
+01e0  D1 BA 65 98 B1 F1 CA 98 4E 5C 22 DF 36 DC 7F CE  ..e.....N\".6...
+01f0  44 FE 66 B6 A5 71 77 6F 7B 0C 36 D3 39 68 AC 5A  D.f..qwo{.6.9h.Z
+0200  08 E4 8E 25 3D 15 59 87 A8 69 E2 CD 9B 01 A6 85  ...%=.Y..i......
+0210  72 71 BC 69 28 DD 7F CE 40 FE 69 5C 44 C9 FA 4D  rq.i(...@.i\D..M
+0220  20 72 FC D6 58 60 8D 19 45 29 C4 0A 15 2B FE B0   r..X`..E)...+..
+0230  6C 23 4D 0E E4 78 D2 56 B3 FF 00 9C 8B FC D2 B6  l#M..x.V........
+0240  80 44 D7 B6 D7 44 11 49 67 B6 8C BD 05 36 25 78  .D...D.Ig....6%x
+0250  0F C3 01 D3 43 B9 23 34 93 3B 4F F9 C9 CF 3D C7  ....C.#4.;O...=.
+0260  7E 6E 2E AD 6C A7 B5 F4 F8 8B 25 46 8D 79 D0 7C  ~n..l.....%F.y.|
+0270  7C C1 69 3A FE CD 78 E4 4E 92 14 9F 1E 4C BB 40  |.i:..x.N....L.@
+0280  FF 00 9C A6 D2 66 99 62 D7 B4 79 6C E3 E2 39 5D  .....f.b..yl..9]
+0290  5A B8 9C 73 00 F2 AC 6C 11 82 93 F6 68 CD 95 4B  Z..s...l....h..K
+02a0  46 7A 16 63 3F 78 63 3E 6C FF 00 9C 9A F3 3D ED  Fz.c?xc>l.....=.
+02b0  DA AF 96 6D D3 49 B2 4E AD 70 A9 71 3C 87 C4 D4  ...m.I.N.p.q<...
+02c0  70 41 FE 4A F2 FF 00 5F 2C 86 92 23 9E EC 25 9C  pA.J..._,..#..%.
+02d0  F4 41 69 7F F3 92 BE 7F B7 BA B2 3A 80 B6 BD B4  .Ai........:....
+02e0  80 FF 00 A6 46 22 11 49 3A 9F F2 C6 C8 C3 B7 05  ....F".I:.......
+02f0  C9 1D 2C 3A 28 CF 27 D2 5E 56 F3 46 8F E6 7D 12  ..,:(.'.^V.F..}.
+0300  DF 59 D2 25 32 59 DC 56 81 C7 19 11 94 D1 91 D7  .Y.%2Y.V........
+0310  F6 59 4E 6B E7 03 13 45 C9 8C 81 16 13 5C 83 25  .YNk...E.....\.%
+0320  25 F8 A6 27 C3 0A AA E0 57 62 AA 71 6F C8 FB E1  %..'....Wb.qo...
+0330  2A A9 81 5F FF D2 EE 0C 88 DF 69 41 F9 E7 2E EE  *.._......iA....
+0340  14 5A CE 1F D9 AA 1F F2 4E 1B 55 A6 0B 95 FB 0E  .Z......N.U.....
+0350  18 78 1D 8E 36 AA 73 0B 87 5E 2D 19 E5 D8 8D C6  .x..6.s..^-.....
+0360  15 46 22 84 45 51 D1 45 32 2A DE 2A F2 3F CE A8  .F".EQ.E2*.*.?..
+0370  06 AB E7 0F 22 79 6E EE 62 74 8D 4E F5 BE BF 64  ...."yn.bt.N...d
+0380  8F C5 A4 A3 C6 AA C4 0E C1 4B AA B5 7F 6B 36 5D  .........K...k6]
+0390  9D 11 64 B8 BA A3 B0 79 B2 DE F9 1D 89 23 C9 3A  ..d....y.....#.:
+03a0  6F 1A 9A 7F A4 6A 1E 3F F3 11 9B E1 82 24 3A 93  o....j.?.....$:.
+03b0  9E 40 A9 DC DF 79 3A 25 0E BE 47 D3 19 3B FF 00  .@...y:%..G..;..
+03c0  A4 6A 1B 1F FA 48 CB B1 69 21 2D 8F 37 1F 3E B2  .j...H..i!-.7.>.
+03d0  70 16 06 CB F4 B9 3C B9 AA 5D AD AD 8F 90 34 E9  p.....<..]....4.
+03e0  A6 6E A0 5C 6A 00 28 FE 66 63 71 45 5F 9E 1C FA  .n.\j.(.fcqE_...
+03f0  5C 38 A3 C5 39 70 86 3A 6D 56 7C F3 E0 C7 1E 29  \8..9p.:mV|....)
+0400  28 DD DF F9 52 D2 E6 5B 6B 8F 22 69 A9 34 4C 55  (...R..[k."i.4LU
+0410  D4 DC 6A 1D 47 FD 1C 64 B1 E8 B1 4E 22 51 37 19  ..j.G..d...N"Q7.
+0420  30 CD AF CB 8E 66 12 8D 4A 2A 3F A6 BC 99 FF 00  0....f..J*?.....
+0430  52 3E 99 FF 00 49 1A 8F FD 94 65 9F C9 D0 EF 6B  R>...I....e....k
+0440  FE 55 9F 70 77 E9 AF 26 7F D4 8F A6 7F D2 46 A3  .U.pw..&......F.
+0450  FF 00 65 18 FF 00 27 43 BD 7F 95 27 DC 15 EC 75  ..e...'C...'...u
+0460  2F 25 5C DF 5B 5B 37 92 34 D5 59 E5 8E 26 65 B8  /%\.[[7.4.Y..&e.
+0470  D4 2A 03 B0 52 45 6E 3A EF 80 F6 74 00 4C 7B 4E  .*..REn:...t.L{N
+0480  64 D5 06 5F FF 00 38 EF 15 C6 99 E7 9F 39 79 7E  d.._..8......9y~
+0490  3B 86 7D 3E C5 DC 2C 67 A3 3C 37 0D 0A C9 EC DC  ;.}>..,g.<7.....
+04a0  05 0E 72 9A E0 28 17 A6 D3 9D CB DF 18 D0 13 E1  ..r..(..........
+04b0  9A E7 29 4A 01 B1 3E 38 4A AA E0 56 9C D1 09 F6  ..)J..>8J..V....
+04c0  C5 56 C2 29 18 F7 DF 15 5F 8A BF FF D3 EE 39 CB  .V.)...._.....9.
+04d0  BB 87 62 AE C5 5D 8A BB 15 76 2A F1 0F CC A6 AF  ..b..]...v*.....
+04e0  FC E4 0F 91 54 F2 F8 45 BD 2B B2 D0 DC BF 4F E3  ....T..E.+....O.
+04f0  9B 6E CE E4 5C 2D 57 37 9B 08 D1 5F F7 6C 58 48  .n..\-W7..._.lXH
+0500  5A B5 E8 18 1E 9C AB BD 73 79 19 F7 8A 75 73 C6  Z.......sy...us.
+0510  08 14 78 BF DF 2B 3C 2C A5 A2 95 08 3D 19 18 50  ..x..+<,....=..P
+0520  E5 F1 3D 43 44 A3 D0 86 6F F9 7B 6E 2D 74 8B 84  ..=CD...o.{n-t..
+0530  53 FD EC E5 8B 0E BC 42 A8 00 FE 39 A1 ED AC BC  S......B...9....
+0540  79 47 94 5E 97 D9 ED 3F 87 86 5F D2 9F FB 1A 09  yG.^...?.._.....
+0550  1F E6 55 9C 2B 25 8D DA 20 12 4A 25 49 5C 0F B5  ..U.+%.. .J%I\..
+0560  C1 81 42 7E 86 CD 97 B3 F9 09 8C E2 7F 87 86 5F  ..B~..........._
+0570  E9 9D 47 B5 78 40 94 26 06 F2 E2 8C BF CD FA 58  ..G.x@.&.......X
+0580  4F 1C E8 A9 E4 6D DC 71 A5 B4 66 8C BF EE 62 C3  O....m.q..f...b.
+0590  FE 62 61 FF 00 93 8B 91 90 D8 B3 C6 7D 41 E9 1F  .ba.........}A..
+05a0  92 32 01 F9 C7 E7 D8 F6 AB C9 74 7D FE 1B E6 E9  .2........t}....
+05b0  F7 E7 09 AD FA 47 BD EE B4 FC CB DD A7 34 8C FB  .....G.......4..
+05c0  E6 B4 39 6E 84 52 31 EF BE 25 57 E2 AA 57 06 88  ..9n.R1..%W..W..
+05d0  07 89 C2 15 51 45 14 0F 01 81 5B C5 5F FF D4 EE  ....QE....[._...
+05e0  39 CB BB 87 62 AE C5 5D 8A BB                    9...b..]..
+
+ramec 49
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 CD 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C2 0D CA 50 10  .R...P.... ...P.
+0030  FA F0 4F 6C 00 00                                ..Ol..
+
+ramec 50
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 B9 40 00 33 06 AC 11 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C2 0D CA FD 1E FE 10 50 10  .f.P.. .......P.
+0030  C0 00 7C 71 00 00 15 76 2A F0 4F 3D 6B 37 37 9F  ..|q...v*.O=k77.
+0040  F3 91 9E 57 D3 A5 81 22 8F 4A 9E D1 20 91 77 69  ...W...".J.. .wi
+0050  16 76 12 96 6A 81 D0 9E 21 7F E6 AC DB F6 7C 68  .v..j...!.....|h
+0060  5F 7B 83 A9 3B B0 99 09 8E 49 12 6A 44 8E 5B 9A  _{..;....I.jD.[.
+0070  34 66 09 19 49 A8 34 15 8C EF D3 8E 74 59 70 71  4f..I.4.....tYpq
+0080  0E 28 FA 8F BF C4 8F FC 5B A4 C1 A8 E0 3C 12 3C  .(......[....<.<
+0090  20 FF 00 47 C2 9F FD 53 4C 2D CA 94 F4 65 E2 56   ..G...SL-...e.V
+00a0  AC CB 52 28 54 C7 F0 B7 16 F8 01 DB 7A 3A B6 62  ..R(T.......z:.b
+00b0  44 DE E3 9F FC 7B F1 FC 0E 7C 85 6C 79 7F C7 7F  D....{...|.ly...
+00c0  A5 FF 00 55 22 CA 74 29 56 C8 43 0C 69 F6 DC 56  ...U".t)V.C.i..V
+00d0  B5 20 06 60 08 DE 9F AF 34 7D A1 2E 29 12 F4 7D  . .`....4}..)..}
+00e0  99 11 18 00 10 DF 98 96 E6 5D 15 26 51 B4 17 67  .........].&Q..g
+00f0  90 EE 39 A9 1F 8E D9 9F EC F4 FF 00 7C 47 F3 A1  ..9.........|G..
+0100  FE E5 D6 7B 57 88 9D 38 97 F3 32 7F BA 0F 38 E3  ...{W..8..2...8.
+0110  9D 8D 3E 7D 6E E3 8D 2D A3 34 75 FF 00 73 16 1F  ..>}n..-.4u..s..
+0120  F3 13 0F FC 9C 5C 8C C6 C5 9E 33 EA 0C CB F2 76  .....\....3....v
+0130  69 93 F3 F3 CD 31 A7 F7 72 B6 A7 EA F5 FD 9B B0  i....1..r.......
+0140  57 A6 DD 7F 9B 38 2D 67 D3 F1 7B CC 1F 53 E8 69  W....8-g..{..S.i
+0150  91 DA 9C 7A 0E B9 AD 73 15 00 A0 A7 86 05 76 2A  ...z...s......v*
+0160  A1 31 0D 3A 26 15 57 C0 AD 48 DC 51 9B C0 62 AF  .1.:&.W..H.Q..b.
+0170  FF D5 EE 39 CB BB 87 62 AE C5 5D 8A BB 15 76 2A  ...9...b..]...v*
+0180  F9 B7 CC 72 4C FF 00 F3 94 76 42 50 28 97 F6 0B  ...rL....vBP(...
+0190  18 1B 7C 1E 9C 64 57 DF 73 9B AD 0F D2 1C 0D 47  ..|..dW.s......G
+01a0  32 93 AC 53 71 79 2D E2 64 06 AA 04 17 09 32 52  2..Sqy-.d.....2R
+01b0  BB 83 13 16 6A 7D 39 D4 6D 7B 91 FE 74 65 8A 5F  ....j}9.m{..te._
+01c0  E9 DE 64 09 56 C2 5F E6 4E 39 A1 FF 00 2A D1 31  ..d.V._.N9...*.1
+01d0  09 21 58 E7 A4 88 F2 77 68 1A DC 71 E2 41 0A C9  .!X....wh..q.A..
+01e0  CA 33 CB 30 33 E1 DE C7 21 FD 31 97 D5 FE E9 D9  .3.03...!.1.....
+01f0  E9 B5 14 38 4D D9 FE 84 B0 FA 6B FC E8 32 1D 34  ...8M.....k..2.4
+0200  C6 C2 09 63 20 27 28 AA 6A 95 15 61 D7 8F 0E FF  ...c '(.j..a....
+0210  00 E6 D9 CE 6B FE A9 5F E3 FD 33 D6 F6 68 1C 11  ....k.._..3..h..
+0220  AF 2E EF F7 A9 87 9B 20 13 F9 77 52 4E 34 74 F4  ....... ..wRN4t.
+0230  E6 07 B1 0A C0 9F C3 2C EC 4C 9C 3A 98 7F 4A E2  .......,.L.:..J.
+0240  D5 ED 16 23 2D 1E 4F E8 D4 FF 00 D2 C8 3C B4 26  ...#-.O......<.&
+0250  7A 0D 3E 55 6D F0 C3 4B 68 AD 21 3F DC BD 87 FC  z.>Um..Kh.!?....
+0260  C4 C3 FF 00 27 17 21 31 B1 67 88 FA 83 39 FC 94  ....'.!1.g...9..
+0270  24 7E 75 F9 E0 76 2F 7B DB B8 BE F1 ED 9E 7D AD  $~u..v/{......}.
+0280  FA 47 BD F4 1D 3F 37 BF 66 B5 CB 76 2A EC 55 AE  .G...?7.f..v*.U.
+0290  09 CF 9D 3E 2F 1C 55 BC 55 64 E8 CF 19 55 EA 7C  ...>/.U.Ud...U.|
+02a0  71 0A FF 00 FF D6 ED 6B 10 AD 1A 35 1E 1B 9D F3  q......k...5....
+02b0  98 77 0D 71 70 4E DF 0D 69 50 4D 71 56 CF 35 E8  .w.qpN..iPMqV.5.
+02c0  C7 DC 31 AF EB 18 AA E3 23 AF 55 AF CB 15 5E AE  ..1.....#.U...^.
+02d0  AC 2A 0F 5C 0A DE 2A F9 E3 CE 21 7F E8 67 F4 62  .*.\..*...!..g.b
+02e0  A4 1A CF A7 57 70 77 00 03 D3 A6 6E 74 1F 48 70  ....Wpw....nt.Hp
+02f0  35 3C CB 16 FA BA 09 58 30 B3 7D C9 A9 77 03 AF  5<.....X0.}..w..
+0300  B1 19 DA 6F 5F C7 F2 FD 8F 1B 42 F7 F0 FF 00 D3  ...o_.....B.....
+0310  1F F8 A4 74 6D 0A 2F 00 60 40 C2 B5 8A EE 64 00  ...tm./.`@....d.
+0320  78 50 F2 19 49 C4 4F 3B 97 F5 B1 47 FE 3A E4 C7  xP..I.O;...G.:..
+0330  28 8F 23 18 FF 00 53 2C BF E3 CC 8E C4 4B 02 C0  (.#...S,.....K..
+0340  AD 2F 28 E4 31 90 E1 DC 85 27 89 AD 42 8E A3 F9  ./(.1....'..B...
+0350  7E 26 FF 00 27 38 8D 6D 19 C8 0F E1 32 7D 0B B3  ~&..'8.m....2}..
+0360  EE 30 81 3F C6 22 CA 67 B1 B3 B8 37 36 72 BF A9  .0.?.".g...76r..
+0370  04 AA 55 88 A8 34 61 43 4C C1 D3 E7 30 94 65 1F  ..U..4aCL...0.e.
+0380  AA 07 89 D9 6A 74 E3 2E 39 42 5F 4E 48 F0 BC 8F  ....jt..9B_NH...
+0390  52 D3 66 D3 EF E7 B2 9B ED C0 E5 49 1D 08 EC C3  R.f........I....
+03a0  FD 61 BE 7A 96 9F 2C 72 C0 4E 3C A4 1F 17 D4 E0  .a.z..,r.N<.....
+03b0  96 1C 86 12 E7 12 86 E3 97 53 45 A2 B4 85 FF 00  .........SE.....
+03c0  72 F6 3F F3 13 0F FC 9C 5C 84 C6 C5 B3 11 F5 06  r.?.....\.......
+03d0  61 F9 2E CE 3F 3B BC E8 03 B0 47 92 F8 32 01 50  a...?;....G..2.P
+03e0  C7 EB 84 82 C7 B7 1A 1C F3 AD 67 D3 F1 7D 13 4F  ..........g..}.O
+03f0  CD F4 0E 6B 5C B7 62 AE C5 5D 8A BB 15 76 2A FF  ...k\.b..]...v*.
+0400  00 FF D7 ED 67 D5 6A 29 3C 09 FA 7E 9C E6 1D C3  ....g.j)<..~....
+0410  61 5C 55 4B 57 C3 F6 6A 31 57 03 45 2A DC AA 36  a\UKW..j1W.E*..6
+0420  DF 7E B8 AB 71 A9 08 0A B7 CC F8 E2 AB 68 BC 41  .~..q........h.A
+0430  75 E3 B7 DB 18 AB 6A CE A3 91 F8 90 F4 F6 18 AB  u.....j.........
+0440  C3 3F 30 25 B5 7F F9 C8 DF 28 2C 48 BE B2 1B 21  .?0%.....(,H...!
+0450  3B 86 A9 62 66 62 A1 94 7D 82 AB FF 00 04 AC B9  ;..bfb..}.......
+0460  B6 EC FE 4E 0E AB 9B 14 F4 65 8A 53 1C 89 63 6E  ...N.....e.S..cn
+0470  49 24 B4 85 64 23 7A F4 06 56 FC 33 B7 B0 46 C7  I$..d#z..V.3..F.
+0480  24 BF AB E9 FD 10 78 BA 94 4E E3 14 3F AD EA FD  $.....x..N..?...
+0490  33 44 5A 84 BB 9E 28 23 B9 0F 75 23 85 8E 0B 4B  3DZ...(#..u#...K
+04a0  48 D4 1D F6 F8 DB D3 FF 00 88 E6 2E A6 5E 0E 33  H............^.3
+04b0  33 19 70 C4 7F 94 CB 2F F7 31 E3 73 34 90 F1 B2  3.p..../.1.s4...
+04c0  C7 1C 65 1E 29 1F F2 58 A3 FE EA 5E 1B 22 B8 F5  ..e.)..X...^."..
+04d0  65 BC 16 CE 92 84 E4 79 19 A4 2E D4 88 02 42 EC  e......y......B.
+04e0  38 7F AA 3F CA E5 9E 7F 29 EF C5 D7 FE 29 F4 DC  8..?....)....)..
+04f0  70 D8 47 A7 FC 4A 7B A1 47 2C C5 A3 B8 A9 B9 80  p.G..J{.G,......
+0500  22 CD 4D 91 9C A0 72 55 AA 4E DC A9 98 D3 E7 B3  ".M...rU.N......
+0510  99 13 B6 FC C2 59 E7 FF 00 2A DC DD AC 1A 85 A2  .....Y...*......
+0520  7A 97 2B 48 E7 8C 6C C5 5A A5 4E E7 F6 4E D9 D7  z.+H..l.Z.N..N..
+0530  7B 3B DA A2 20 E3 C9 E9 1F 54 65 FC 2F 0D ED 3F  {;.. ....Te./..?
+0540  63 4A 64 65 C4 38 8F D3 28 FF 00 13 10 8F CA 7A  cJde.8..(......z
+0550  B1 34 97 D1 B7 1D DA 59 A3 1F A9 89 FC 33 A5 97  .4.....Y.....3..
+0560  6A 60 1C 8F 17 F5 63 27 95 87 62 EA 4F 30 23 FD  j`....c'..b.O0#.
+0570  69 47 F5 A6 3A 3F 95 EC D3 53 B3 6B 9D 62 D5 19  iG..:?...S.k.b..
+0580  6E 21 A2 46 1E 42 4F A8 BB 56 8A 33 1B 27 6B 44  n!.F.BO..V.3.'kD
+0590  8A 8C 24 7E 51 73 30 F6 14 81 B9 64 80 FE AF 14  ..$~Qs0....d....
+05a0  D1 DF 92 C1 FF 00 E5 74 F9 DC A7 0F EF 6E F9 86  .......t.....n..
+05b0  FB 5C 7E BA DF 63 DF 97 1A FF 00 93 9C 66 B7 E9  .\~..c.......f..
+05c0  1E F7 A9 D3 F3 7B FE 6B 5C B7 62 AE C5 54 D2 65  .....{.k\.b..T.e
+05d0  69 1A 3A 10 CB D8 F8 62 AA 98 AB B1 57 FF D0 ED  i.:....b....W...
+05e0  B5 6D CB 50 F6 52 36 E9 9C C3                    .m.P.R6...
+
+ramec 51
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 BA 40 00 33 06 AC 10 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C2 13 7E FD 1E FE 10 50 10  .f.P.. ..~....P.
+0030  C0 00 7B EF 00 00 B8 71 2E 76 6F 84 F5 04 0A E2  ..{....q.vo.....
+0040  AD 2D 58 86 E4 7F 97 B6 C7 EE C5 5D C5 82 B9 0D  .-X........]....
+0050  D0 9E DF D3 15 73 31 D9 18 53 C4 8E 94 C5 57 11  .....s1..S....W.
+0060  C7 74 EA 7F 67 B1 C0 AF 99 F5 47 B9 6F F9 CA 0B  .t..g.....G.o...
+0070  7F AC 93 55 D5 6D 16 2E 40 0A 44 15 38 52 80 54  ...U.m..@.D.8R.T
+0080  01 D0 E6 EF 45 F4 87 5F A8 E6 50 91 45 6A F3 88  ....E.._..P.Ej..
+0090  AD 2D 25 BC 9C 96 D9 EB 43 BF 68 E3 F8 B6 FF 00  .-%.....C.h.....
+00a0  8C 99 DD 4B 8E AE 52 8E 38 FE 3F 8E 7E 9F F6 0F  ...K..R.8.?.~...
+00b0  0D 0F 0F 8A A1 19 65 97 F4 BF E2 31 FA BF D9 A7  ......e....1....
+00c0  D6 16 77 6E 1A 1B B9 45 BA 4B F0 A5 9D 88 8C 12  ..wn...E.K......
+00d0  06 CE 59 A3 D9 68 3E 1E 64 BB 7E CF DA CE 43 B7  ..Y..h>.d.~...C.
+00e0  75 50 B1 18 13 2E 1F 54 A5 3E 2F F3 3E AF F4 CF  uP.....T.>/.>...
+00f0  6F EC EE 8B 25 19 CC 46 3C 5E 98 46 1C 3F 4F F1  o...%..F<^.F.?O.
+0100  FD 1F E9 52 9F 3D 6A DA 8D 84 71 AE 8E EB 0C 56  ...R.=j...q....V
+0110  88 CD 70 02 F5 8C 90 BC 45 77 DF E3 2D FE 4B 66  ..p.....Ew..-.Kf
+0120  8B 4B 08 C8 D4 BF 89 E8 F5 B3 C9 08 DC 3F 87 EA  .K...........?..
+0130  FE AA 75 E4 6F 3B 5B F9 90 DB C6 E1 61 D5 23 99  ..u.o;[.....a.#.
+0140  DD A0 3F 67 89 80 A7 25 F1 5D BE 2C 8E AB 4C 71  ..?g...%.].,..Lq
+0150  5F F3 6B FD F2 74 9A B8 E7 AE 93 E2 FA 7F CD 66  _.k..t.........f
+0160  56 D0 E9 37 D6 11 5C C9 67 0C D2 15 1E B4 65 55  V..7..\.g.....eU
+0170  B8 BD 4A 91 CA 9B AF 20 68 73 18 CE 71 3B 4A 54  ..J.... hs..q;JT
+0180  E5 47 1C 26 3D 51 8D B1 8F 34 F9 30 AC 7F 5F D2  .G.&=Q...4.0.._.
+0190  A3 21 77 33 DA 2F 41 4E A6 31 FF 00 1A 67 51 D8  .!w3./AN.1...gQ.
+01a0  9D AB 86 55 8B 38 8D FF 00 06 5F F7 B9 3F E2 FF  ...U.8...._..?..
+01b0  00 D3 3C 97 6F F6 3E 78 DE 5D 34 A5 5F C7 87 FD  ..<.o.>x.]4._...
+01c0  F6 2F F8 8F F4 AC 4B 4A A9 D5 AC 6B FF 00 2D 10  ./....KJ...k..-.
+01d0  FF 00 C9 C5 CE C3 26 83 0D 1F 4B C3 E2 ED 1C FC  ......&...K.....
+01e0  40 71 16 43 F9 32 B5 FC F5 F3 81 27 EC B6 A2 40  @q.C.2.....'...@
+01f0  F7 37 A0 78 7B 9C F3 CD 67 D3 F1 7B ED 3F 37 D0  .7.x{...g..{.?7.
+0200  B9 AC 72 DD 8A AD 91 C2 21 63 F4 62 AB 60 42 01  ..r.....!c.b.`B.
+0210  76 FB 6D B9 C2 55 7B BA 20 AB 1A 0C 0A DA B0 60  v.m..U{. ......`
+0220  08 35 07 A1 C5 5F FF D1 ED C8 57 A2 90 4F 75 39  .5..._....W..Ou9
+0230  CC 3B 87 13 41 41 F7 77 1E F8 AA DD 8F 41 F2 3D  .;..AA.w.....A.=
+0240  37 EC 71 57 17 20 54 8D 89 07 F0 AE 2A BD 28 45  7.qW. T.....*.(E
+0250  7A 96 C0 AD 01 C0 FC 3B F8 8C 2A F9 B3 5C 24 FF  z......;..*..\$.
+0260  00 CE 51 5A 92 58 FF 00 B9 2B 1D 9B B7 EE E3 D8  ..QZ.X...+......
+0270  7F 93 9B 9D 0F D2 1D 7E A3 99 6E CE CB 54 BB 8D  .......~..n..T..
+0280  21 32 AD 85 8C C4 F0 14 E3 EA D2 BB 84 5F 8E 5F  !2..........._._
+0290  F5 DB E0 FF 00 2F 3B 2D 4E 7C 38 01 99 1E 2C E0  ...../;-N|8...,.
+02a0  3F AD C1 FE F3 1F FB A7 91 D2 69 F3 6A 25 1C 71  ?.........i.j%.q
+02b0  23 0C 32 1F EA F1 FF 00 BF C9 FE E7 FA 4C 89 A4  #.2..........L..
+02c0  8F 4C D3 1E E2 08 3D 24 86 20 21 46 15 92 47 FB  .L....=$. !F..G.
+02d0  31 BB 31 E9 CD CD 55 57 E1 FD AF 8B 3C EB 53 96  1.1...UW....<.S.
+02e0  59 72 13 23 BC E5 C5 2F C7 F4 62 FA 96 93 0C 70  Yr.#.../..b....p
+02f0  E2 02 3F 4C 23 C3 1F C7 F4 A4 C3 35 1B 47 92 D2  ..?L#......5.G..
+0300  FE 27 62 ED E9 A4 00 B5 49 E4 DD 4F FC 30 C1 09  .'b.....I..O.0..
+0310  D4 A2 7C F8 9B 32 63 B8 48 79 08 31 7F 2E 69 32  ..|..2c.Hy.1..i2
+0320  58 B2 DE B1 78 EF 11 8B 40 CA 48 2A A8 DC 5B E6  X...x...@.H*..[.
+0330  73 B7 D2 F6 76 3C B8 78 B2 0E 2F 10 71 47 FA 9F  s...v<.x../.qG..
+0340  C5 FE 77 F1 3E 73 AA ED 3C 98 73 F0 E3 3C 27 19  ..w.>s..<.s..<'.
+0350  E1 97 FC 33 F8 7F CC FE 19 3D 4B CB 3E 61 84 BC  ...3.....=K.>a..
+0360  12 92 12 FE D6 47 8E 48 E9 F0 49 05 D1 3D BF 93  .....G.H..I..=..
+0370  99 42 7F 97 39 5E D2 D0 4B 4B 96 51 FA A0 47 A6  .B..9^..KK.Q..G.
+0380  5F CE FC 45 ED 7B 2B B4 61 AC C3 19 FD 39 22 7D  _..E.{+.a....9"}
+0390  71 FE 6F 11 FF 00 8A 66 91 4D 0D F5 BB C9 6C 19  q.o....f.M....l.
+03a0  0C 12 14 B9 B6 6F B7 03 D0 1A 1A 1F 89 1B ED 23  .....o.........#
+03b0  FF 00 2E 6A B2 62 A1 C5 1D E2 5D BE 2C D6 78 65  ...j.b....].,.xe
+03c0  B4 C3 19 BF F2 CA 5E 6B 16 D7 76 09 4B 85 B8 89  ......^k..v.K...
+03d0  A6 51 B2 3D 24 15 23 B0 7C E9 BB 1B B7 CE 31 E1  .Q.=$.#.|.....1.
+03e0  66 37 8F E9 84 FF 00 8A 1F D6 FE 87 FB 97 95 ED  f7..............
+03f0  EF 66 A3 94 F8 F8 07 0E 4F AB 26 3F E1 C9 FD 28  .f......O.&?...(
+0400  FF 00 36 7F EE 90 7F 92 24 7F CA E4 F3 EE DB 97  ..6.....$.......
+0410  BA A1 F0 FF 00 4E 39 AD D6 FD 23 DE 9D 3F 32 F7  .....N9...#..?2.
+0420  AC D6 B9 6E C5 54 3F BE 97 FE 2B 4F C4 E1 55 7C  ...n.T?...+O..U|
+0430  0A 86 66 0F 23 48 DB C7 16 CA 3C 4E 15 55 B7 42  ..f.#H....<N.U.B
+0440  91 00 7A 93 5A 78 57 12 AF FF D2 ED C4 A9 EA CA  ..z.ZxW.........
+0450  C3 DF 39 87 70 B0 FC 4F 4A EC 3A 6F 51 8A B9 A4  ..9.p..OJ.:oQ...
+0460  A7 5D BD F1 55 AA EA C7 AD 40 C5 57 93 FB 5D 3C  .]..U....@.W..]<
+0470  69 B5 71 56 F9 57 E1 25 40 EF 4D F1 57 CE BE 66  i.qV.W.%@.M.W..f
+0480  5E 3F F3 94 5A 67 17 69 09 BC D3 8E E0 6D 54 4A  ^?..Zg.i.....mTJ
+0490  28 A7 50 33 73 A1 FA 43 81 A9 E6 51 FA 35 9D CC  (.P3s..C...Q.5..
+04a0  17 F3 5C DD 0F AD EA AF C8 2A 31 F5 04 20 54 BB  ..\......*1.. T.
+04b0  CA 07 56 45 FD 8A F1 5F DA F8 BE 0C D9 F6 F6 BA  ..VE..._........
+04c0  06 03 0E 31 C3 8C 7A E5 FD 3F E6 70 FF 00 C5 7F  ...1..z..?.p....
+04d0  13 8B EC E7 67 4C 4C E7 CA 6F 24 BF 77 1F E8 7F  ....gLL..o$.w...
+04e0  3F FC EF E8 FF 00 0B 7A DD D3 CD 35 A5 AC FC B8  ?......z...5....
+04f0  96 FA C4 CE ED 56 01 05 23 E7 FF 00 08 7F C9 CE  .....V..#.......
+0500  4C 75 3F E6 BD B5 01 C3 1E 9F 57 FA 54 9E 44 63  Lu?.......W.T.Dc
+0510  68 D2 C4 0B 3C F7 14 54 AF 5A 3D 17 73 B6 FC 33  h...<..T.Z=.s..3
+0520  27 4B 80 E5 CB 18 7E 38 7E A9 B8 DA CD 40 C3 82  'K....~8~....@..
+0530  59 3C FF 00 D9 5F 0C 12 99 2D DE 29 5D 19 68 F1  Y<..._...-.)].h.
+0540  B9 6E 27 A8 3D 1D 7F 5E 7A 88 02 22 A3 F4 C7 F7  .n'.=..^z.."....
+0550  98 FF 00 A9 FC 51 FC 7F 39 F1 C9 48 C8 DC FE A9  .....Q..9..H....
+0560  5E 3C 9F D7 FE 09 7E 3F 9A B1 E3 2A 55 93 A8 F8  ^<....~?...*U...
+0570  36 DB 66 FB 3D 3C 33 5B DA 9A 58 CE 00 9E 50 F4  6.f.=<3[..X...P.
+0580  FF 00 C9 29 FD 12 FF 00 35 D9 F6 46 B2 50 99 03  ...)....5..F.P..
+0590  9E 4F 57 FC 95 87 D7 1F F3 D9 F6 8F AC DC DB DE  .OW.............
+05a0  AD F4 DF BB 96 89 05 E2 D0 AA 32 9A 18 E5 AF ED  ..........2.....
+05b0  51 9F 8B 7F 2F 3F F2 73 83 CF A7 38 4D 0F 54 3F  Q.../?.s...8M.T?
+05c0  C9 FF 00 4B F9 D0 FE B3 E9 5A 7D 54 75 11 04 FA  ...K.....Z}Tu...
+05d0  66 2A 39 7F A3 FC CC 91 FE 8B 37 B6 8A 39 6E 6D  f*9.......7..9nm
+05e0  A6 B5 14 1E AA 72 84 76 21 81                    .....r.v!.
+
+ramec 52
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 CE 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C2 19 32 50 10  .R...P.... ..2P.
+0030  FA F0 4F 6C 00 00                                ..Ol..
+
+ramec 53
+dlzka ramca poskytnuta pcap API - 1514 B
+dlzka ramca prenasaneho po mediu - 1518 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 DC 46 BB 40 00 33 06 AC 0F 86 F1 06 52 C0 A8  ..F.@.3......R..
+0020  01 66 00 50 10 D5 20 C2 19 32 FD 1E FE 10 50 10  .f.P.. ..2....P.
+0030  C0 00 A6 39 00 00 3C 47 B7 52 BF EC 97 FC 8C 33  ...9..<G.R.....3
+0040  8C 12 25 1E 4E 68 CA 40 31 97 3A 79 67 E5 05 EC  ..%.Nh.@1.:yg...
+0050  90 7E 7F 79 96 D9 49 F4 EF 24 D5 16 41 FF 00 18  .~.y..I..$..A...
+0060  EE 7D 45 FF 00 88 E6 CF 58 3D 3F 17 98 D3 9D DF  .}E.....X=?.....
+0070  46 E6 AD CC 76 2A D2 AA A8 A2 8A 0C 55 65 C3 95  F...v*......Ue..
+0080  8F 6E AC 78 83 F3 C2 15 4C 20 2E B1 2F D8 8F 76  .n.x....L ../..v
+0090  F7 38 AA 20 90 01 27 A0 EB 81 5F FF D3 ED AC E4  .8. ..'..._.....
+00a0  0D CD 1B E5 5F EB 9C C3 B8 71 DA 9E 07 6D E9 D7  ...._....q...m..
+00b0  E8 C5 54 E5 4A FC FA 62 AA 29 6F C5 C9 07 6F 0C  ..T.J..b.)o...o.
+00c0  2A 89 53 45 DC 74 C0 AD A7 D9 15 3D 7A F7 18 AB  *.SE.t.....=z...
+00d0  C1 BF 3D B4 FD 47 CB 5E 7B D0 7F 31 6D 21 FA CD  ..=..G.^{..1m!..
+00e0  BC 2D 0A 5C 2D 28 8B 35 B3 F2 8C 3B 0E 9E B2 1E  .-.\-(.5...;....
+00f0  21 BF 99 73 65 A1 CA 06 CE 26 A6 1D 52 2B 5F CE  !..se....&..R+_.
+0100  EF 22 DA 5B FA 16 FE 52 BE 44 35 12 11 A9 A7 27  .".[...R.D5....'
+0110  04 D6 8C 7E AF BE FB FF 00 D7 2B 99 3A 98 C7 34  ...~......+.:..4
+0120  CC E7 7C 52 28 D2 E7 96 08 46 10 E1 E1 80 FC 7F  ..|R(....F......
+0130  9C A1 37 E7 27 90 E6 9E 49 E4 F2 AE A0 D2 48 28  ..7.'...I.....H(
+0140  4F E9 44 D8 56 BB 7F A3 65 03 49 8A AB 77 2B F9  O.D.V...e.I..w+.
+0150  4F 35 DF A7 E4 A1 FF 00 2B 63 F2 F3 EA C9 6C 3C  O5......+c....l<
+0160  A9 A8 88 A3 A7 1F F7 28 95 D8 7F CC 36 66 68 E7  .......(....6fh.
+0170  1D 3E 4F 12 03 D5 5C 3E A7 07 5F 39 6A B1 0C 53  .>O...\>.._9j..S
+0180  3E 8B E2 F4 7F 45 BB AF CD 8F CB BB 9B 97 B8 93  >....E..........
+0190  CA 7A 8F A8 E7 93 F1 D5 10 02 48 DC FF 00 BC DD  .z........H.....
+01a0  FA 9C D9 63 ED 8C 90 00 0A F4 7D 2E A7 27 64 62  ...c......}..'db
+01b0  99 24 DF AF EA FF 00 8A 50 3F 99 BF 96 C5 4A 9F  .$......P?....J.
+01c0  2A 6A 54 22 9F F1 D5 8F A7 FD 23 62 7B 63 21 8F  *jT"......#b{c!.
+01d0  09 11 AA E1 44 7B 23 10 97 10 32 BB E2 FF 00 39  ....D{#...2....9
+01e0  19 2F E7 17 90 A5 81 61 93 CA BA 89 45 FB 3F EE  ./.....a....E.?.
+01f0  51 05 3E 12 A7 A5 B7 ED 03 F1 66 B7 8A 35 54 ED  Q.>.......f..5T.
+0200  84 A4 24 24 0E FF 00 8F 4A 6B 61 FF 00 39 0F E5  ..$$....Jka..9..
+0210  6B 1E 06 0F 2A DE B3 46 16 86 4D 4D 4F 22 9B A9  k...*..F..MMO"..
+0220  6A 5B 8D F9 0A D4 66 24 74 D8 E2 6C 5B 9B 3E D1  j[....f$t..l[.>.
+0230  CB 21 47 87 E4 9F 7F CE 39 E8 52 DF DC EB DE 7E  .!G.....9.R....~
+0240  BE 45 17 3A B5 CC D0 DB 2A 8D 97 94 9E B5 C1 5D  .E.:....*......]
+0250  C9 A1 76 58 FF 00 D8 66 3E B7 26 FC 2D 5A 78 F5  ..vX...f>.&.-Zx.
+0260  7B 7E 60 B9 2E C5 5D 8A B4 CA AC 28 C2 A3 C3 15  {~`...]....(....
+0270  69 23 44 14 51 41 8A AC 9B E3 65 88 77 DD FE 43  i#D.QA....e.w..C
+0280  0A BF FF D4 ED AA 4B 1D 87 00 BD 7E 79 CC 3B 87  ......K....~y.;.
+0290  14 52 09 15 00 FE D7 73 8A AC AB 01 56 DC 76 23  .R.....s....V.v#
+02a0  A0 F0 C5 5B AA 76 3E F5 F6 1B 62 AE 00 BF 62 07  ...[.v>...b...b.
+02b0  6E DF 76 2A BC 1A 1D CD 09 E8 DD 8F CC 62 A8 7B  n.v*.........b.{
+02c0  FB 1B 1D 46 DE 4B 1B FB 78 EE 6D 26 52 B3 C3 2A  ...F.K..x.m&R..*
+02d0  87 8D C7 81 52 29 88 24 6E 14 8B 61 AB F9 1B F9  ....R).$n..a....
+02e0  58 B3 DC 4A 74 18 D9 A7 04 15 32 CC 51 2B DE 34  X..Jt.....2.Q+.4
+02f0  E7 48 FF 00 D8 FD 9C BB F3 33 EF 6B F0 63 DC 96  .H.......3.k.c..
+0300  DF FF 00 CE 3B FE 59 CF A7 CD 6F 69 6B 35 9D C4  ....;.Y...oik5..
+0310  DB C7 7A 26 92 57 88 F6 2A AE 78 15 ED C5 B2 43  ..z&.W..*.x....C
+0320  55 3B DD 07 0C 52 CB 8F F9 C6 7F 22 35 8C 10 45  U;...R....."5..E
+0330  75 7B 0D C2 10 67 BD 2C AF 24 82 BD 38 10 23 4F  u{...g.,.$..8.#O
+0340  A1 72 43 57 2B 63 E0 07 5D 7F CE 2E F9 16 48 E9  .rCW+c..].....H.
+0350  6D A8 EA 36 F2 6D F1 97 8A 41 D3 F9 4A 2F EB C4  m..6.m...A..J/..
+0360  6B 25 DC 14 E0 0A 0B FF 00 38 B1 E5 11 0F 16 D6  k%.......8......
+0370  B5 06 9B FD F8 16 00 BF F0 3C 4F FC 4B 0F E7 25  .........<O.K..%
+0380  DC 17 F2 E3 BD 55 3F E7 17 3C 90 1A AF A9 EA 2C  .....U?..<.....,
+0390  B4 A7 10 D0 8D FC 6B C0 E0 FC E4 BB 82 F8 01 56  ......k........V
+03a0  C7 FE 71 8B C8 50 9A DD DD DF DD FC 61 80 F5 12  ..q..P......a...
+03b0  31 C0 7E C1 E2 95 DF BB 62 75 92 E8 A3 00 7A A6  1.~.....bu....z.
+03c0  93 A4 E9 DA 46 9B 6F A6 E9 B6 E9 6B 63 6A 82 38  ....F.o....kcj.8
+03d0  21 41 40 14 7E B2 7F 69 8F DA CC 59 48 93 65 B8  !A@.~..i...YH.e.
+03e0  0A 45 E0 4B B1 57 62 AE C5 5D 8A BA 82 B5 EF E3  .E.K.Wb..]......
+03f0  8A BF FF D5 ED 6B 51 F1 B8 E2 4E E5 7B 1F A7 39  .....kQ...N.{..9
+0400  87 70 B8 B8 22 BF 87 7A 7F 53 8A AE 0A 6A A3 E9  .p.."..z.S...j..
+0410  6F 9E 05 58 07 40 3A 1A D4 7C F7 A0 C2 AB 94 D4  o..X.@:..|......
+0420  0F F2 87 5F 71 8A B9 8D 41 1D FF 00 6B DB DF 15  ..._q...A...k...
+0430  72 0A 6C 7A 78 78 0E D8 AB A4 AA AF 8F 65 F1 DF  r.lzxx.......e..
+0440  15 6D 40 2B 51 FB 5D 47 6C 55 63 7C 51 81 4F 89  .m@+Q.]GlUc|Q.O.
+0450  4F EA C5 55 10 D5 41 C0 AD E2 AD D3 15 76 2A D6  O..U..A......v*.
+0460  2A DD 0E 2A EA 1A 57 B6 2A D6 2A EC 55 D8 AB B1  *..*..W.*.*.U...
+0470  57 FF D6 ED F5 E5 FE A8 FC 73 97 77 0A 62 22 58  W........s.w.b"X
+0480  BA FC 27 C3 B5 70 AA 1B 53 B9 68 B4 DB B7 E0 F2  ..'..p..S.h.....
+0490  39 8D D5 52 24 67 7A 95 2A 28 A8 09 3F 11 C9 40  9..R$gz.*(..?..@
+04a0  59 08 91 D9 88 59 CD E7 78 E4 B7 D3 A2 8E E2 DA  Y....Y..x.......
+04b0  08 A1 B5 B7 69 9E 18 E4 11 B0 6B 64 95 E3 25 78  ....i.....kd..%x
+04c0  BF EE 9A E5 BE 39 26 F8 93 97 C1 C7 8E 65 11 8F  .....9&......e..
+04d0  9F BF FD F7 FC 75 C7 06 7C BF 1D 1A 7B 8F CC 65  .....u..|...{..e
+04e0  48 A1 F5 8A F3 92 27 9E F1 AD 16 43 1A B4 72 D5  H.....'....C..r.
+04f0  3D 28 85 59 7D 44 8B 9B 7E CF 3F D9 8D BE 01 58  =(.Y}D..~.?....X
+0500  BF 12 4D CF F0 11 F7 6B AF 5E F9 63 CC 76 B3 2C  ..M....k.^.c.v.,
+0510  B7 17 66 29 E2 B2 98 47 E9 2C A2 44 6E 2B 14 7C  ..f)...G.,.Dn+.|
+0520  63 71 E9 ED 1B 72 32 72 FB 49 2F F2 C6 3C 22 71  cq...r2r.I/..<"q
+0530  3D 12 78 8C 64 11 3A BE 9D 73 17 93 35 4D 2F 4F  =.x.d.:..s..5M/O
+0540  88 2D DA 41 24 56 C2 DE 03 0C 6D 2C 8B C8 7A 51  .-.A$V....m,..zQ
+0550  F2 6E 4B F1 6F 47 FB 7C B2 30 90 F1 04 8F 26 46  .nK.oG.|.0....&F
+0560  3E 82 02 0E CE E3 CC 36 49 67 6A 96 B7 0D 71 24  >......6Igj...q$
+0570  B1 8B F9 B8 7A AA D3 1B A1 F5 A9 8C B4 E2 23 92  ....z.........#.
+0580  03 CE 3F E4 5F DD AF C5 16 48 88 9B 37 F8 E1 F4  ..?._....H..7...
+0590  B1 06 43 65 91 5D 79 E6 2F AB A4 F3 48 25 96 DA  ..Ce.]y./...H%..
+05a0  29 1E 43 6A A6 25 79 23 95 AE 0B 84 1C 83 5B 38  ).Cj.%y#......[8
+05b0  83 D3 88 37 29 7F E2 CE 7F 09 23 1F 4E FE FF 00  ...7).....#.N...
+05c0  F4 BF E9 90 0C D5 74 6B BF 37 CD AC 5B 9B E2 F6  ......tk.7..[...
+05d0  DA 68 B7 03 D1 96 0E 6D 70 E3 D4 0C E6 65 48 BD  .h.....mp....eH.
+05e0  12 08 8D D1 24 8E 36 F4 BF 63                    ....$.6..c
+
+ramec 54
+dlzka ramca poskytnuta pcap API - 1096 B
+dlzka ramca prenasaneho po mediu - 1100 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  04 3A 46 BC 40 00 33 06 AD B0 86 F1 06 52 C0 A8  .:F.@.3......R..
+0020  01 66 00 50 10 D5 20 C2 1E E6 FD 1E FE 10 50 19  .f.P.. .......P.
+0030  C0 00 4B 40 00 00 97 2E 23 24 60 23 B7 D4 CA 06  ..K@....#$`#....
+0040  44 EF C9 1F E7 6B AF 32 DB 68 06 4F 2E C7 EA DF  D....k.2.h.O....
+0050  09 A3 57 A0 E4 E2 32 DD 55 48 A3 54 F1 0F FE 47  ..W...2.UH.T...G
+0060  2C CA EC 9C 7A 79 E6 AC E6 A1 C3 2F F4 DF 8F A7  ,...zy...../....
+0070  FA 4E 2F 69 CF 3C 71 5E 11 EB B1 FE 97 F1 FE C5  .N/i.<q^........
+0080  90 42 66 30 C6 67 55 59 8A A9 95 50 D5 43 D3 E2  .Bf0.gUY...P.C..
+0090  0A 4F 51 5C D6 CE AC D7 D3 D1 CF 8D D0 BE 6C 1E  .OQ\..........l.
+00a0  F6 DF CD 76 97 DA B5 CD AC 72 19 6E 2E 48 D3 2E  ...v.....r.n.H..
+00b0  84 66 65 B6 B5 69 93 EB 47 D1 FD A9 24 5F DE 46  .fe..i..G...$_.F
+00c0  DF 17 28 D3 D3 45 E5 1F EF 72 A2 60 40 07 BB D5  ..(..E...r.`@...
+00d0  FD 29 7F 0B 41 12 04 AA DC DB 79 91 98 13 24 DF  .)..A.....y...$.
+00e0  BC FA C2 4C D6 F0 7A 71 DC BB E9 B1 08 DE 54 21  ...L..zq......T!
+00f0  9D 15 A7 0E AB F1 2F A6 DF 07 2C 00 C3 EE FF 00  ....../...,.....
+0100  37 D6 B2 12 FC 7F 55 1F 24 7E 61 1E 57 D4 E3 98  7.....U.$~a.W...
+0110  3D E6 A3 67 27 A9 A7 9E 0B 1B CE 20 11 4E 81 55  =..g'...... .N.U
+0120  28 BF 14 81 E2 5F F8 6C 80 31 E3 1D 01 E6 CE A5  (...._.l.1......
+0130  C2 7B D0 9E 5A B1 D6 6C 75 70 2F A3 B9 6B 53 11  .{..Z..lup/..kS.
+0140  B9 57 6A C8 05 D6 A6 E8 F3 45 51 D1 6D 9E 29 2B  .Wj......EQ.m.)+
+0150  FB 31 A4 AB 92 CB 28 98 ED 5F F1 DC 7F F1 4C 71  .1....(.._....Lq
+0160  82 0E FF 00 8E 35 0D 6B 4B F3 14 5E 64 BC D6 B4  .....5.kK..^d...
+0170  DB 54 96 44 25 6D 48 52 25 66 1A 79 09 57 2D C1  .T.D%mHR%f.y.W-.
+0180  ED BD 6F 85 A2 E0 BF BF E0 DC F2 50 9C 78 04 49  ..o........P.x.I
+0190  FC 71 FF 00 BA 44 A3 2E 22 47 E3 D2 AE D7 9E 6E  .q...D.."G.....n
+01a0  35 58 E7 98 44 C2 E1 2D A7 92 D4 F3 0A A0 B4 57  5X..D..-.......W
+01b0  13 C6 B1 7C 5B FE E8 44 9E 94 9F 62 5F 4A 5E 5C  ...|[..D...b_J^\
+01c0  72 3C 30 FB BA FF 00 B1 4D CB F0 19 36 8F 3D D4  r<0.....M...6.=.
+01d0  FA 5D AC D7 71 49 05 CB A0 32 C5 31 53 20 6A 91  .]..qI...2.1S j.
+01e0  F1 71 54 1B FD AF B0 9F EA 2F D9 CA 26 00 91 A6  .qT....../..&...
+01f0  D8 93 5B A2 F2 0C 9D 8A BF FF D7 ED 6F 26 E1 3C  ..[.........o&.<
+0200  29 5E DF 2A 8C E6 1D C2 A3 1E 31 FC 3B F6 5F 72  )^.*......1.;._r
+0210  70 2A D6 40 12 87 ED 1A 0A E1 56 D9 8F 35 5F DA  p*.@......V..5_.
+0220  AD 69 DA 94 3B E2 AD AA D2 42 7B B0 DC FC BF DB  .i..;....B{.....
+0230  C0 AB 6A A8 48 27 62 7E CF CF 0A B9 6A D5 53 B9  ..j.H'b~....j.S.
+0240  1B 13 D8 7C BD F1 57 47 B5 63 3F E6 7F B7 AE 2A  ...|..WG.c?....*
+0250  B4 B3 B3 71 EC BF 15 7F 98 0E 98 AA E9 08 50 01  ...q..........P.
+0260  E9 5E 4B F4 6E 46 2A DC 20 80 47 7A FD DB 74 C0  .^K.nF*. .Gz..t.
+0270  AB F1 57 62 AE C5 5D 8A BB 15 76 2A DE 2A D6 2A  ..Wb..]...v*.*.*
+0280  EC 55 D8 AB FF D0 ED A8 A0 D5 DB B7 42 3F 13 9C  .U..........B?..
+0290  C3 B8 5A 16 B2 0A FC 3D C1 1F 85 47 8E 2A B9 BD  ..Z....=...G.*..
+02a0  4A A8 14 63 5A F8 74 C5 5A 60 F5 5A 2F C5 5A F2  J..cZ.t.Z`.Z/.Z.
+02b0  AF B7 7D B1 56 9A 47 2E A1 40 E7 B8 20 9A D3 E7  ..}.V.G..@.. ...
+02c0  8A B6 D1 8E 63 99 2C 1E AA 47 41 E3 8A B6 1B 8D  ....c.,..GA.....
+02d0  0B 7F AA DF 31 D3 15 59 39 22 8E 76 03 A2 77 3F  ....1..Y9".v..w?
+02e0  3C 55 54 AE DC BA B0 DC FB 8E E3 02 A9 95 E6 BE  <UT.............
+02f0  2A 95 A1 F1 FF 00 31 85 57 C2 6A A4 F8 9C 0A BF  *.....1.W.j.....
+0300  15 76 2A EC 55 D8 AB B1 57 62 AE C5 5D 8A BB 15  .v*.U...Wb..]...
+0310  76 2A FF 00 FF D1 ED A1 81 FB 43 8A 0E 9E 06 9E  v*........C.....
+0320  F9 CC 3B 86 C1 E4 0D 3F 6B A9 F0 F0 C5 5A 4A 2C  ..;....?k....ZJ,
+0330  84 13 F6 47 DA 3D EB E3 8A B8 D5 9D 69 B0 DC D7  ...G.=......i...
+0340  B9 F9 62 AD 95 0A CA 46 D5 34 3F 3E D8 15 D2 36  ..b....F.4?>...6
+0350  D5 5D CA 91 5F 01 E3 85 56 30 05 EA BF 13 30 D9  .].._...V0....0.
+0360  BB 02 37 18 AA A0 0A 50 B3 1F B4 37 3E C7 02 AC  ..7....P...7>...
+0370  46 62 8A BD FA 7C E9 B5 7E 58 55 DF DD C6 C0 54  Fb...|..~XU....T
+0380  D0 D0 7D 38 AB 76 E2 90 AE 25 55 30 2B B1 57 62  ..}8.v...%U0+.Wb
+0390  AE C5 5D 8A BB 15 76 2A A1 72 D2 D4 22 F4 23 B7  ..]...v*.r..".#.
+03a0  53 84 2B 56 92 54 18 CF 55 DC 7C B1 2A 88 C0 AF  S.+V.T..U.|.*...
+03b0  FF D2 ED AD F6 0F 1F EE E9 BD 3C 3B D3 39 87 70  ..........<;.9.p
+03c0  D8 F4 A9 F0 7F C2 E2 AA 0D EA F2 3C BA F2 1C 39  ...........<...9
+03d0  52 95 ED D3 15 56 3E AF A8 3A 74 3E 3E D8 AA 95  R....V>..:t>>...
+03e0  CF A9 E9 FC 5F 66 A3 EC D3 A7 D3 8A AA 1F 4B D3  ...._f........K.
+03f0  35 E9 43 D7 A7 D1 DB 15 5E DD 16 9D 6A 29 FE 7F  5.C.....^...j)..
+0400  2C 0A B2 2E 83 D4 EB 53 C6 BF 67 AF 6C 2A E8 6B  ,......S..g.l*.k
+0410  EA 4B 5E B5 C5 56 BD 3D 49 7C 69 F0 F8 57 8F F4  .K^..V.=I|i..W..
+0420  C5 55 A3 A7 05 A7 4A 0C 0A DE 2A EC 55 D8 AB B1  .U....J...*.U...
+0430  57 62 AE C5 5D 8A BB 15 41 AF FB D9 FB BE 95 DF  Wb..]...A.......
+0440  F8 E1 54 66 05 7F FF D9                          ..Tf....
+
+ramec 55
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 CF 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C2 22 F9 50 10  .R...P.... .".P.
+0030  FA F0 4F 6C 00 00                                ..Ol..
+
+ramec 56
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 02 D2 40 00 80 06 00 00 C0 A8 01 66 86 F1  .(..@........f..
+0020  06 52 10 D5 00 50 FD 1E FE 10 20 C2 22 F9 50 11  .R...P.... .".P.
+0030  FA F0 4F 6C 00 00                                ..Ol..
+
+ramec 57
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 28 46 BD 40 00 33 06 B1 C1 86 F1 06 52 C0 A8  .(F.@.3......R..
+0020  01 66 00 50 10 D5 20 C2 22 F9 FD 1E FE 11 50 10  .f.P.. .".....P.
+0030  BF FF 50 72 00 00 02 75 00 00 A5 89              ..Pr...u....
+
+ramec 58
+dlzka ramca poskytnuta pcap API - 92 B
+dlzka ramca prenasaneho po mediu - 96 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 30 C1 61 EB ED
+IPv4
+0000  00 30 C1 61 EB ED 00 08 74 4F 36 23 08 00 45 00  .0.a....tO6#..E.
+0010  00 4E 02 D3 00 00 80 11 00 00 C0 A8 01 66 C0 A8  .N...........f..
+0020  01 68 10 D6 00 A1 00 3A 7D 10 30 30 02 01 00 04  .h.....:}.00....
+0030  06 70 75 62 6C 69 63 A0 23 02 02 18 E4 02 01 00  .public.#.......
+0040  02 01 00 30 17 30 15 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 05 00              ............
+
+ramec 59
+dlzka ramca poskytnuta pcap API - 93 B
+dlzka ramca prenasaneho po mediu - 97 B
+Ether II
+zdrojova MAC adresa: 00 30 C1 61 EB ED
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 30 C1 61 EB ED 08 00 45 00  ..tO6#.0.a....E.
+0010  00 4F ED 8B 00 00 3C 11 0C F4 C0 A8 01 68 C0 A8  .O....<......h..
+0020  01 66 00 A1 10 D6 00 3B 6B 0A 30 31 02 01 00 04  .f.....;k.01....
+0030  06 70 75 62 6C 69 63 A2 24 02 02 18 E4 02 01 00  .public.$.......
+0040  02 01 00 30 18 30 16 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 04 01 10           .............
+
+ramec 60
+dlzka ramca poskytnuta pcap API - 92 B
+dlzka ramca prenasaneho po mediu - 96 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 30 C1 61 EB ED
+IPv4
+0000  00 30 C1 61 EB ED 00 08 74 4F 36 23 08 00 45 00  .0.a....tO6#..E.
+0010  00 4E 02 D4 00 00 80 11 00 00 C0 A8 01 66 C0 A8  .N...........f..
+0020  01 68 10 D7 00 A1 00 3A 7C 0F 30 30 02 01 00 04  .h.....:|.00....
+0030  06 70 75 62 6C 69 63 A0 23 02 02 18 E5 02 01 00  .public.#.......
+0040  02 01 00 30 17 30 15 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 05 00              ............
+
+ramec 61
+dlzka ramca poskytnuta pcap API - 93 B
+dlzka ramca prenasaneho po mediu - 97 B
+Ether II
+zdrojova MAC adresa: 00 30 C1 61 EB ED
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 30 C1 61 EB ED 08 00 45 00  ..tO6#.0.a....E.
+0010  00 4F ED 8C 00 00 3C 11 0C F3 C0 A8 01 68 C0 A8  .O....<......h..
+0020  01 66 00 A1 10 D7 00 3B 6A 09 30 31 02 01 00 04  .f.....;j.01....
+0030  06 70 75 62 6C 69 63 A2 24 02 02 18 E5 02 01 00  .public.$.......
+0040  02 01 00 30 18 30 16 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 04 01 10           .............
+

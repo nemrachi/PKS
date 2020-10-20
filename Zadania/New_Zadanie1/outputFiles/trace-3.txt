@@ -1,0 +1,401 @@
+ramec 1
+dlzka ramca poskytnuta pcap API - 92 B
+dlzka ramca prenasaneho po mediu - 96 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 30 C1 61 EB ED
+IPv4
+0000  00 30 C1 61 EB ED 00 08 74 4F 36 23 08 00 45 00  .0.a....tO6#..E.
+0010  00 4E 01 C2 00 00 80 11 00 00 C0 A8 01 66 C0 A8  .N...........f..
+0020  01 68 10 1D 00 A1 00 3A 30 CA 30 30 02 01 00 04  .h.....:0.00....
+0030  06 70 75 62 6C 69 63 A0 23 02 02 18 31 02 01 00  .public.#...1...
+0040  02 01 00 30 17 30 15 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 05 00              ............
+
+ramec 2
+dlzka ramca poskytnuta pcap API - 93 B
+dlzka ramca prenasaneho po mediu - 97 B
+Ether II
+zdrojova MAC adresa: 00 30 C1 61 EB ED
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 30 C1 61 EB ED 08 00 45 00  ..tO6#.0.a....E.
+0010  00 4F EC D8 00 00 3C 11 0D A7 C0 A8 01 68 C0 A8  .O....<......h..
+0020  01 66 00 A1 10 1D 00 3B 1E C4 30 31 02 01 00 04  .f.....;..01....
+0030  06 70 75 62 6C 69 63 A2 24 02 02 18 31 02 01 00  .public.$...1...
+0040  02 01 00 30 18 30 16 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 04 01 10           .............
+
+ramec 3
+dlzka ramca poskytnuta pcap API - 92 B
+dlzka ramca prenasaneho po mediu - 96 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 30 C1 61 EB ED
+IPv4
+0000  00 30 C1 61 EB ED 00 08 74 4F 36 23 08 00 45 00  .0.a....tO6#..E.
+0010  00 4E 01 C3 00 00 80 11 00 00 C0 A8 01 66 C0 A8  .N...........f..
+0020  01 68 10 1E 00 A1 00 3A 2F C9 30 30 02 01 00 04  .h.....:/.00....
+0030  06 70 75 62 6C 69 63 A0 23 02 02 18 32 02 01 00  .public.#...2...
+0040  02 01 00 30 17 30 15 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 05 00              ............
+
+ramec 4
+dlzka ramca poskytnuta pcap API - 93 B
+dlzka ramca prenasaneho po mediu - 97 B
+Ether II
+zdrojova MAC adresa: 00 30 C1 61 EB ED
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 30 C1 61 EB ED 08 00 45 00  ..tO6#.0.a....E.
+0010  00 4F EC D9 00 00 3C 11 0D A6 C0 A8 01 68 C0 A8  .O....<......h..
+0020  01 66 00 A1 10 1E 00 3B 1D C3 30 31 02 01 00 04  .f.....;..01....
+0030  06 70 75 62 6C 69 63 A2 24 02 02 18 32 02 01 00  .public.$...2...
+0040  02 01 00 30 18 30 16 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 04 01 10           .............
+
+ramec 5
+dlzka ramca poskytnuta pcap API - 77 B
+dlzka ramca prenasaneho po mediu - 81 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 3F 01 C8 00 00 80 11 00 00 C0 A8 01 66 3F F0  .?...........f?.
+0020  4C 13 04 02 00 35 00 2B 2D 97 04 4D 01 00 00 01  L....5.+-..M....
+0030  00 00 00 00 00 00 04 67 61 69 61 02 63 73 05 75  .......gaia.cs.u
+0040  6D 61 73 73 03 65 64 75 00 00 01 00 01           mass.edu.....
+
+ramec 6
+dlzka ramca poskytnuta pcap API - 293 B
+dlzka ramca prenasaneho po mediu - 297 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  01 17 64 32 40 00 F1 11 D6 91 3F F0 4C 13 C0 A8  ..d2@.....?.L...
+0020  01 66 00 35 04 02 01 03 E1 6A 04 4D 85 80 00 01  .f.5.....j.M....
+0030  00 01 00 05 00 05 04 67 61 69 61 02 63 73 05 75  .......gaia.cs.u
+0040  6D 61 73 73 03 65 64 75 00 00 01 00 01 04 67 61  mass.edu......ga
+0050  69 61 02 63 73 05 75 6D 61 73 73 03 65 64 75 00  ia.cs.umass.edu.
+0060  00 01 00 01 00 00 54 60 00 04 80 77 F5 0C C0 28  ......T`...w...(
+0070  00 02 00 01 00 00 32 6E 00 08 05 75 6E 69 78 31  ......2n...unix1
+0080  C0 28 C0 28 00 02 00 01 00 00 32 6E 00 06 03 6E  .(.(......2n...n
+0090  69 63 C0 2B C0 28 00 02 00 01 00 00 32 6E 00 06  ic.+.(......2n..
+00a0  03 6E 73 31 C0 2B C0 28 00 02 00 01 00 00 32 6E  .ns1.+.(......2n
+00b0  00 0C 03 6E 73 34 02 63 77 03 6E 65 74 00 C0 28  ...ns4.cw.net..(
+00c0  00 02 00 01 00 00 32 6E 00 0B 04 6B 69 72 61 03  ......2n...kira.
+00d0  65 63 73 C0 2B C0 50 00 01 00 01 00 00 32 6E 00  ecs.+.P......2n.
+00e0  04 80 77 28 0C C0 64 00 01 00 01 00 00 5B B6 00  ..w(..d......[..
+00f0  04 80 77 AF 0E C0 76 00 01 00 01 00 00 D8 DD 00  ..w...v.........
+0100  04 80 77 A6 0E C0 88 00 01 00 01 00 00 00 19 00  ..w.............
+0110  04 CC 46 31 EA C0 A0 00 01 00 01 00 00 EA 4C 00  ..F1..........L.
+0120  04 80 77 5B 0A                                   ..w[.
+
+ramec 7
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 30 01 CB 40 00 80 06 00 00 C0 A8 01 66 80 77  .0..@........f.w
+0020  F5 0C 10 1F 00 50 F5 32 64 B1 00 00 00 00 70 02  .....P.2d.....p.
+0030  FA F0 E6 48 00 00 02 04 05 B4 01 01 04 02        ...H..........
+
+ramec 8
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 66 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 30 00 00 40 00 37 06 0C 36 80 77 F5 0C C0 A8  .0..@.7..6.w....
+0020  01 66 00 50 10 1F 6B A6 54 91 F5 32 64 B2 70 12  .f.P..k.T..2d.p.
+0030  16 D0 0A 21 00 00 02 04 05 B4 01 01 04 02        ...!..........
+
+ramec 9
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 01 CC 40 00 80 06 00 00 C0 A8 01 66 80 77  .(..@........f.w
+0020  F5 0C 10 1F 00 50 F5 32 64 B2 6B A6 54 92 50 10  .....P.2d.k.T.P.
+0030  FA F0 37 AD 00 00                                ..7...
+
+ramec 10
+dlzka ramca poskytnuta pcap API - 555 B
+dlzka ramca prenasaneho po mediu - 559 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  02 1D 01 CD 40 00 80 06 00 00 C0 A8 01 66 80 77  ....@........f.w
+0020  F5 0C 10 1F 00 50 F5 32 64 B2 6B A6 54 92 50 18  .....P.2d.k.T.P.
+0030  FA F0 39 A2 00 00 47 45 54 20 2F 65 74 68 65 72  ..9...GET /ether
+0040  65 61 6C 2D 6C 61 62 73 2F 6C 61 62 32 2D 31 2E  eal-labs/lab2-1.
+0050  68 74 6D 6C 20 48 54 54 50 2F 31 2E 31 0D 0A 48  html HTTP/1.1..H
+0060  6F 73 74 3A 20 67 61 69 61 2E 63 73 2E 75 6D 61  ost: gaia.cs.uma
+0070  73 73 2E 65 64 75 0D 0A 55 73 65 72 2D 41 67 65  ss.edu..User-Age
+0080  6E 74 3A 20 4D 6F 7A 69 6C 6C 61 2F 35 2E 30 20  nt: Mozilla/5.0 
+0090  28 57 69 6E 64 6F 77 73 3B 20 55 3B 20 57 69 6E  (Windows; U; Win
+00a0  64 6F 77 73 20 4E 54 20 35 2E 31 3B 20 65 6E 2D  dows NT 5.1; en-
+00b0  55 53 3B 20 72 76 3A 31 2E 30 2E 32 29 20 47 65  US; rv:1.0.2) Ge
+00c0  63 6B 6F 2F 32 30 30 32 31 31 32 30 20 4E 65 74  cko/20021120 Net
+00d0  73 63 61 70 65 2F 37 2E 30 31 0D 0A 41 63 63 65  scape/7.01..Acce
+00e0  70 74 3A 20 74 65 78 74 2F 78 6D 6C 2C 61 70 70  pt: text/xml,app
+00f0  6C 69 63 61 74 69 6F 6E 2F 78 6D 6C 2C 61 70 70  lication/xml,app
+0100  6C 69 63 61 74 69 6F 6E 2F 78 68 74 6D 6C 2B 78  lication/xhtml+x
+0110  6D 6C 2C 74 65 78 74 2F 68 74 6D 6C 3B 71 3D 30  ml,text/html;q=0
+0120  2E 39 2C 74 65 78 74 2F 70 6C 61 69 6E 3B 71 3D  .9,text/plain;q=
+0130  30 2E 38 2C 76 69 64 65 6F 2F 78 2D 6D 6E 67 2C  0.8,video/x-mng,
+0140  69 6D 61 67 65 2F 70 6E 67 2C 69 6D 61 67 65 2F  image/png,image/
+0150  6A 70 65 67 2C 69 6D 61 67 65 2F 67 69 66 3B 71  jpeg,image/gif;q
+0160  3D 30 2E 32 2C 74 65 78 74 2F 63 73 73 2C 2A 2F  =0.2,text/css,*/
+0170  2A 3B 71 3D 30 2E 31 0D 0A 41 63 63 65 70 74 2D  *;q=0.1..Accept-
+0180  4C 61 6E 67 75 61 67 65 3A 20 65 6E 2D 75 73 2C  Language: en-us,
+0190  20 65 6E 3B 71 3D 30 2E 35 30 0D 0A 41 63 63 65   en;q=0.50..Acce
+01a0  70 74 2D 45 6E 63 6F 64 69 6E 67 3A 20 67 7A 69  pt-Encoding: gzi
+01b0  70 2C 20 64 65 66 6C 61 74 65 2C 20 63 6F 6D 70  p, deflate, comp
+01c0  72 65 73 73 3B 71 3D 30 2E 39 0D 0A 41 63 63 65  ress;q=0.9..Acce
+01d0  70 74 2D 43 68 61 72 73 65 74 3A 20 49 53 4F 2D  pt-Charset: ISO-
+01e0  38 38 35 39 2D 31 2C 20 75 74 66 2D 38 3B 71 3D  8859-1, utf-8;q=
+01f0  30 2E 36 36 2C 20 2A 3B 71 3D 30 2E 36 36 0D 0A  0.66, *;q=0.66..
+0200  4B 65 65 70 2D 41 6C 69 76 65 3A 20 33 30 30 0D  Keep-Alive: 300.
+0210  0A 43 6F 6E 6E 65 63 74 69 6F 6E 3A 20 6B 65 65  .Connection: kee
+0220  70 2D 61 6C 69 76 65 0D 0A 0D 0A                 p-alive....
+
+ramec 11
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  00 28 B6 F9 40 00 37 06 55 44 80 77 F5 0C C0 A8  .(..@.7.UD.w....
+0020  01 66 00 50 10 1F 6B A6 54 92 F5 32 66 A7 50 10  .f.P..k.T..2f.P.
+0030  19 20 32 A0 00 00 62 B0 00 00 11 A7              . 2...b.....
+
+ramec 12
+dlzka ramca poskytnuta pcap API - 439 B
+dlzka ramca prenasaneho po mediu - 443 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  01 A9 B6 FA 40 00 37 06 53 C2 80 77 F5 0C C0 A8  ....@.7.S..w....
+0020  01 66 00 50 10 1F 6B A6 54 92 F5 32 66 A7 50 18  .f.P..k.T..2f.P.
+0030  19 20 7A 1C 00 00 48 54 54 50 2F 31 2E 31 20 32  . z...HTTP/1.1 2
+0040  30 30 20 4F 4B 0D 0A 44 61 74 65 3A 20 54 75 65  00 OK..Date: Tue
+0050  2C 20 32 33 20 53 65 70 20 32 30 30 33 20 30 35  , 23 Sep 2003 05
+0060  3A 32 39 3A 35 30 20 47 4D 54 0D 0A 53 65 72 76  :29:50 GMT..Serv
+0070  65 72 3A 20 41 70 61 63 68 65 2F 32 2E 30 2E 34  er: Apache/2.0.4
+0080  30 20 28 52 65 64 20 48 61 74 20 4C 69 6E 75 78  0 (Red Hat Linux
+0090  29 0D 0A 4C 61 73 74 2D 4D 6F 64 69 66 69 65 64  )..Last-Modified
+00a0  3A 20 54 75 65 2C 20 32 33 20 53 65 70 20 32 30  : Tue, 23 Sep 20
+00b0  30 33 20 30 35 3A 32 39 3A 30 30 20 47 4D 54 0D  03 05:29:00 GMT.
+00c0  0A 45 54 61 67 3A 20 22 31 62 66 65 64 2D 34 39  .ETag: "1bfed-49
+00d0  2D 37 39 64 35 62 66 30 30 22 0D 0A 41 63 63 65  -79d5bf00"..Acce
+00e0  70 74 2D 52 61 6E 67 65 73 3A 20 62 79 74 65 73  pt-Ranges: bytes
+00f0  0D 0A 43 6F 6E 74 65 6E 74 2D 4C 65 6E 67 74 68  ..Content-Length
+0100  3A 20 37 33 0D 0A 4B 65 65 70 2D 41 6C 69 76 65  : 73..Keep-Alive
+0110  3A 20 74 69 6D 65 6F 75 74 3D 31 30 2C 20 6D 61  : timeout=10, ma
+0120  78 3D 31 30 30 0D 0A 43 6F 6E 6E 65 63 74 69 6F  x=100..Connectio
+0130  6E 3A 20 4B 65 65 70 2D 41 6C 69 76 65 0D 0A 43  n: Keep-Alive..C
+0140  6F 6E 74 65 6E 74 2D 54 79 70 65 3A 20 74 65 78  ontent-Type: tex
+0150  74 2F 68 74 6D 6C 3B 20 63 68 61 72 73 65 74 3D  t/html; charset=
+0160  49 53 4F 2D 38 38 35 39 2D 31 0D 0A 0D 0A 3C 68  ISO-8859-1....<h
+0170  74 6D 6C 3E 0A 43 6F 6E 67 72 61 74 75 6C 61 74  tml>.Congratulat
+0180  69 6F 6E 73 2E 20 20 59 6F 75 27 76 65 20 64 6F  ions.  You've do
+0190  77 6E 6C 6F 61 64 65 64 20 74 68 65 20 66 69 6C  wnloaded the fil
+01a0  65 20 6C 61 62 32 2D 31 2E 68 74 6D 6C 21 0A 3C  e lab2-1.html!.<
+01b0  2F 68 74 6D 6C 3E 0A                             /html>.
+
+ramec 13
+dlzka ramca poskytnuta pcap API - 541 B
+dlzka ramca prenasaneho po mediu - 545 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  02 0F 01 D4 40 00 80 06 00 00 C0 A8 01 66 80 77  ....@........f.w
+0020  F5 0C 10 1F 00 50 F5 32 66 A7 6B A6 56 13 50 18  .....P.2f.k.V.P.
+0030  F9 6F 39 94 00 00 47 45 54 20 2F 66 61 76 69 63  .o9...GET /favic
+0040  6F 6E 2E 69 63 6F 20 48 54 54 50 2F 31 2E 31 0D  on.ico HTTP/1.1.
+0050  0A 48 6F 73 74 3A 20 67 61 69 61 2E 63 73 2E 75  .Host: gaia.cs.u
+0060  6D 61 73 73 2E 65 64 75 0D 0A 55 73 65 72 2D 41  mass.edu..User-A
+0070  67 65 6E 74 3A 20 4D 6F 7A 69 6C 6C 61 2F 35 2E  gent: Mozilla/5.
+0080  30 20 28 57 69 6E 64 6F 77 73 3B 20 55 3B 20 57  0 (Windows; U; W
+0090  69 6E 64 6F 77 73 20 4E 54 20 35 2E 31 3B 20 65  indows NT 5.1; e
+00a0  6E 2D 55 53 3B 20 72 76 3A 31 2E 30 2E 32 29 20  n-US; rv:1.0.2) 
+00b0  47 65 63 6B 6F 2F 32 30 30 32 31 31 32 30 20 4E  Gecko/20021120 N
+00c0  65 74 73 63 61 70 65 2F 37 2E 30 31 0D 0A 41 63  etscape/7.01..Ac
+00d0  63 65 70 74 3A 20 74 65 78 74 2F 78 6D 6C 2C 61  cept: text/xml,a
+00e0  70 70 6C 69 63 61 74 69 6F 6E 2F 78 6D 6C 2C 61  pplication/xml,a
+00f0  70 70 6C 69 63 61 74 69 6F 6E 2F 78 68 74 6D 6C  pplication/xhtml
+0100  2B 78 6D 6C 2C 74 65 78 74 2F 68 74 6D 6C 3B 71  +xml,text/html;q
+0110  3D 30 2E 39 2C 74 65 78 74 2F 70 6C 61 69 6E 3B  =0.9,text/plain;
+0120  71 3D 30 2E 38 2C 76 69 64 65 6F 2F 78 2D 6D 6E  q=0.8,video/x-mn
+0130  67 2C 69 6D 61 67 65 2F 70 6E 67 2C 69 6D 61 67  g,image/png,imag
+0140  65 2F 6A 70 65 67 2C 69 6D 61 67 65 2F 67 69 66  e/jpeg,image/gif
+0150  3B 71 3D 30 2E 32 2C 74 65 78 74 2F 63 73 73 2C  ;q=0.2,text/css,
+0160  2A 2F 2A 3B 71 3D 30 2E 31 0D 0A 41 63 63 65 70  */*;q=0.1..Accep
+0170  74 2D 4C 61 6E 67 75 61 67 65 3A 20 65 6E 2D 75  t-Language: en-u
+0180  73 2C 20 65 6E 3B 71 3D 30 2E 35 30 0D 0A 41 63  s, en;q=0.50..Ac
+0190  63 65 70 74 2D 45 6E 63 6F 64 69 6E 67 3A 20 67  cept-Encoding: g
+01a0  7A 69 70 2C 20 64 65 66 6C 61 74 65 2C 20 63 6F  zip, deflate, co
+01b0  6D 70 72 65 73 73 3B 71 3D 30 2E 39 0D 0A 41 63  mpress;q=0.9..Ac
+01c0  63 65 70 74 2D 43 68 61 72 73 65 74 3A 20 49 53  cept-Charset: IS
+01d0  4F 2D 38 38 35 39 2D 31 2C 20 75 74 66 2D 38 3B  O-8859-1, utf-8;
+01e0  71 3D 30 2E 36 36 2C 20 2A 3B 71 3D 30 2E 36 36  q=0.66, *;q=0.66
+01f0  0D 0A 4B 65 65 70 2D 41 6C 69 76 65 3A 20 33 30  ..Keep-Alive: 30
+0200  30 0D 0A 43 6F 6E 6E 65 63 74 69 6F 6E 3A 20 6B  0..Connection: k
+0210  65 65 70 2D 61 6C 69 76 65 0D 0A 0D 0A           eep-alive....
+
+ramec 14
+dlzka ramca poskytnuta pcap API - 1395 B
+dlzka ramca prenasaneho po mediu - 1399 B
+Ether II
+zdrojova MAC adresa: 00 06 25 DA AF 73
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 06 25 DA AF 73 08 00 45 00  ..tO6#..%..s..E.
+0010  05 65 B6 FB 40 00 37 06 50 05 80 77 F5 0C C0 A8  .e..@.7.P..w....
+0020  01 66 00 50 10 1F 6B A6 56 13 F5 32 68 8E 50 18  .f.P..k.V..2h.P.
+0030  1D 50 63 71 00 00 48 54 54 50 2F 31 2E 31 20 34  .Pcq..HTTP/1.1 4
+0040  30 34 20 4E 6F 74 20 46 6F 75 6E 64 0D 0A 44 61  04 Not Found..Da
+0050  74 65 3A 20 54 75 65 2C 20 32 33 20 53 65 70 20  te: Tue, 23 Sep 
+0060  32 30 30 33 20 30 35 3A 32 39 3A 35 30 20 47 4D  2003 05:29:50 GM
+0070  54 0D 0A 53 65 72 76 65 72 3A 20 41 70 61 63 68  T..Server: Apach
+0080  65 2F 32 2E 30 2E 34 30 20 28 52 65 64 20 48 61  e/2.0.40 (Red Ha
+0090  74 20 4C 69 6E 75 78 29 0D 0A 56 61 72 79 3A 20  t Linux)..Vary: 
+00a0  61 63 63 65 70 74 2D 6C 61 6E 67 75 61 67 65 0D  accept-language.
+00b0  0A 41 63 63 65 70 74 2D 52 61 6E 67 65 73 3A 20  .Accept-Ranges: 
+00c0  62 79 74 65 73 0D 0A 43 6F 6E 74 65 6E 74 2D 4C  bytes..Content-L
+00d0  65 6E 67 74 68 3A 20 31 30 37 31 0D 0A 4B 65 65  ength: 1071..Kee
+00e0  70 2D 41 6C 69 76 65 3A 20 74 69 6D 65 6F 75 74  p-Alive: timeout
+00f0  3D 31 30 2C 20 6D 61 78 3D 39 39 0D 0A 43 6F 6E  =10, max=99..Con
+0100  6E 65 63 74 69 6F 6E 3A 20 4B 65 65 70 2D 41 6C  nection: Keep-Al
+0110  69 76 65 0D 0A 43 6F 6E 74 65 6E 74 2D 54 79 70  ive..Content-Typ
+0120  65 3A 20 74 65 78 74 2F 68 74 6D 6C 3B 20 63 68  e: text/html; ch
+0130  61 72 73 65 74 3D 49 53 4F 2D 38 38 35 39 2D 31  arset=ISO-8859-1
+0140  0D 0A 0D 0A 0A 3C 3F 78 6D 6C 20 76 65 72 73 69  .....<?xml versi
+0150  6F 6E 3D 22 31 2E 30 22 20 65 6E 63 6F 64 69 6E  on="1.0" encodin
+0160  67 3D 22 49 53 4F 2D 38 38 35 39 2D 31 22 3F 3E  g="ISO-8859-1"?>
+0170  0A 3C 21 44 4F 43 54 59 50 45 20 68 74 6D 6C 20  .<!DOCTYPE html 
+0180  50 55 42 4C 49 43 20 22 2D 2F 2F 57 33 43 2F 2F  PUBLIC "-//W3C//
+0190  44 54 44 20 58 48 54 4D 4C 20 31 2E 31 2F 2F 45  DTD XHTML 1.1//E
+01a0  4E 22 0A 20 20 20 20 22 68 74 74 70 3A 2F 2F 77  N".    "http://w
+01b0  77 77 2E 77 33 2E 6F 72 67 2F 54 52 2F 78 68 74  ww.w3.org/TR/xht
+01c0  6D 6C 31 31 2F 44 54 44 2F 78 68 74 6D 6C 31 31  ml11/DTD/xhtml11
+01d0  2E 64 74 64 22 3E 0A 3C 68 74 6D 6C 20 78 6D 6C  .dtd">.<html xml
+01e0  6E 73 3D 22 68 74 74 70 3A 2F 2F 77 77 77 2E 77  ns="http://www.w
+01f0  33 2E 6F 72 67 2F 31 39 39 39 2F 78 68 74 6D 6C  3.org/1999/xhtml
+0200  22 20 78 6D 6C 3A 6C 61 6E 67 3D 22 65 6E 22 3E  " xml:lang="en">
+0210  0A 3C 68 65 61 64 3E 0A 3C 74 69 74 6C 65 3E 4F  .<head>.<title>O
+0220  62 6A 65 63 74 20 6E 6F 74 20 66 6F 75 6E 64 21  bject not found!
+0230  3C 2F 74 69 74 6C 65 3E 0A 3C 6D 65 74 61 20 68  </title>.<meta h
+0240  74 74 70 2D 65 71 75 69 76 3D 22 43 6F 6E 74 65  ttp-equiv="Conte
+0250  6E 74 2D 54 79 70 65 22 20 63 6F 6E 74 65 6E 74  nt-Type" content
+0260  3D 22 74 65 78 74 2F 68 74 6D 6C 3B 20 63 68 61  ="text/html; cha
+0270  72 73 65 74 3D 69 73 6F 2D 38 38 35 39 2D 31 22  rset=iso-8859-1"
+0280  20 2F 3E 0A 3C 6C 69 6E 6B 20 72 65 76 3D 22 6D   />.<link rev="m
+0290  61 64 65 22 20 68 72 65 66 3D 22 6D 61 69 6C 74  ade" href="mailt
+02a0  6F 3A 73 79 73 74 65 6D 40 67 61 69 61 2E 63 73  o:system@gaia.cs
+02b0  2E 75 6D 61 73 73 2E 65 64 75 22 20 2F 3E 0A 3C  .umass.edu" />.<
+02c0  73 74 79 6C 65 20 74 79 70 65 3D 22 74 65 78 74  style type="text
+02d0  2F 63 73 73 22 3E 0A 3C 21 2D 2D 0A 62 6F 64 79  /css">.<!--.body
+02e0  20 7B 20 63 6F 6C 6F 72 3A 20 23 30 30 30 30 30   { color: #00000
+02f0  30 3B 20 62 61 63 6B 67 72 6F 75 6E 64 2D 63 6F  0; background-co
+0300  6C 6F 72 3A 20 23 46 46 46 46 46 46 3B 20 7D 0A  lor: #FFFFFF; }.
+0310  61 3A 6C 69 6E 6B 20 7B 20 63 6F 6C 6F 72 3A 20  a:link { color: 
+0320  23 30 30 30 30 43 43 3B 20 7D 0A 2D 2D 3E 0A 3C  #0000CC; }.-->.<
+0330  2F 73 74 79 6C 65 3E 0A 3C 2F 68 65 61 64 3E 0A  /style>.</head>.
+0340  0A 3C 62 6F 64 79 3E 0A 3C 68 31 3E 4F 62 6A 65  .<body>.<h1>Obje
+0350  63 74 20 6E 6F 74 20 66 6F 75 6E 64 21 3C 2F 68  ct not found!</h
+0360  31 3E 0A 3C 64 6C 3E 0A 3C 64 64 3E 0A 0A 0A 20  1>.<dl>.<dd>... 
+0370  20 20 20 54 68 65 20 72 65 71 75 65 73 74 65 64     The requested
+0380  20 55 52 4C 20 77 61 73 20 6E 6F 74 20 66 6F 75   URL was not fou
+0390  6E 64 20 6F 6E 20 74 68 69 73 20 73 65 72 76 65  nd on this serve
+03a0  72 2E 0A 0A 20 20 0A 0A 20 20 20 20 49 66 20 79  r...  ..    If y
+03b0  6F 75 20 65 6E 74 65 72 65 64 20 74 68 65 20 55  ou entered the U
+03c0  52 4C 20 6D 61 6E 75 61 6C 6C 79 20 70 6C 65 61  RL manually plea
+03d0  73 65 20 63 68 65 63 6B 20 79 6F 75 72 0A 20 20  se check your.  
+03e0  20 20 73 70 65 6C 6C 69 6E 67 20 61 6E 64 20 74    spelling and t
+03f0  72 79 20 61 67 61 69 6E 2E 0A 0A 20 20 0A 0A 3C  ry again...  ..<
+0400  2F 64 64 3E 3C 2F 64 6C 3E 3C 64 6C 3E 3C 64 64  /dd></dl><dl><dd
+0410  3E 0A 49 66 20 79 6F 75 20 74 68 69 6E 6B 20 74  >.If you think t
+0420  68 69 73 20 69 73 20 61 20 73 65 72 76 65 72 20  his is a server 
+0430  65 72 72 6F 72 2C 20 70 6C 65 61 73 65 20 63 6F  error, please co
+0440  6E 74 61 63 74 0A 74 68 65 20 3C 61 20 68 72 65  ntact.the <a hre
+0450  66 3D 22 6D 61 69 6C 74 6F 3A 73 79 73 74 65 6D  f="mailto:system
+0460  40 67 61 69 61 2E 63 73 2E 75 6D 61 73 73 2E 65  @gaia.cs.umass.e
+0470  64 75 22 3E 77 65 62 6D 61 73 74 65 72 3C 2F 61  du">webmaster</a
+0480  3E 0A 0A 3C 2F 64 64 3E 3C 2F 64 6C 3E 0A 0A 3C  >..</dd></dl>..<
+0490  68 32 3E 45 72 72 6F 72 20 34 30 34 3C 2F 68 32  h2>Error 404</h2
+04a0  3E 0A 3C 64 6C 3E 0A 3C 64 64 3E 0A 3C 61 64 64  >.<dl>.<dd>.<add
+04b0  72 65 73 73 3E 0A 20 20 3C 61 20 68 72 65 66 3D  ress>.  <a href=
+04c0  22 2F 22 3E 77 77 77 2D 6E 65 74 2E 63 73 2E 75  "/">www-net.cs.u
+04d0  6D 61 73 73 2E 65 64 75 3C 2F 61 3E 0A 20 20 3C  mass.edu</a>.  <
+04e0  62 72 20 2F 3E 0A 20 20 0A 20 20 3C 73 6D 61 6C  br />.  .  <smal
+04f0  6C 3E 54 75 65 20 53 65 70 20 32 33 20 30 31 3A  l>Tue Sep 23 01:
+0500  32 39 3A 35 30 20 32 30 30 33 3C 2F 73 6D 61 6C  29:50 2003</smal
+0510  6C 3E 0A 20 20 3C 62 72 20 2F 3E 0A 20 20 3C 73  l>.  <br />.  <s
+0520  6D 61 6C 6C 3E 41 70 61 63 68 65 2F 32 2E 30 2E  mall>Apache/2.0.
+0530  34 30 20 28 52 65 64 20 48 61 74 20 4C 69 6E 75  40 (Red Hat Linu
+0540  78 29 3C 2F 73 6D 61 6C 6C 3E 0A 3C 2F 61 64 64  x)</small>.</add
+0550  72 65 73 73 3E 0A 3C 2F 64 64 3E 0A 3C 2F 64 6C  ress>.</dd>.</dl
+0560  3E 0A 3C 2F 62 6F 64 79 3E 0A 3C 2F 68 74 6D 6C  >.</body>.</html
+0570  3E 0A 0A                                         >..
+
+ramec 15
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 06 25 DA AF 73
+IPv4
+0000  00 06 25 DA AF 73 00 08 74 4F 36 23 08 00 45 00  ..%..s..tO6#..E.
+0010  00 28 01 D7 40 00 80 06 00 00 C0 A8 01 66 80 77  .(..@........f.w
+0020  F5 0C 10 1F 00 50 F5 32 68 8E 6B A6 5B 50 50 10  .....P.2h.k.[PP.
+0030  FA F0 37 AD 00 00                                ..7...
+
+ramec 16
+dlzka ramca poskytnuta pcap API - 92 B
+dlzka ramca prenasaneho po mediu - 96 B
+Ether II
+zdrojova MAC adresa: 00 08 74 4F 36 23
+cielova MAC adresa: 00 30 C1 61 EB ED
+IPv4
+0000  00 30 C1 61 EB ED 00 08 74 4F 36 23 08 00 45 00  .0.a....tO6#..E.
+0010  00 4E 01 D8 00 00 80 11 00 00 C0 A8 01 66 C0 A8  .N...........f..
+0020  01 68 10 20 00 A1 00 3A 2E C7 30 30 02 01 00 04  .h. ...:..00....
+0030  06 70 75 62 6C 69 63 A0 23 02 02 18 33 02 01 00  .public.#...3...
+0040  02 01 00 30 17 30 15 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 05 00              ............
+
+ramec 17
+dlzka ramca poskytnuta pcap API - 93 B
+dlzka ramca prenasaneho po mediu - 97 B
+Ether II
+zdrojova MAC adresa: 00 30 C1 61 EB ED
+cielova MAC adresa: 00 08 74 4F 36 23
+IPv4
+0000  00 08 74 4F 36 23 00 30 C1 61 EB ED 08 00 45 00  ..tO6#.0.a....E.
+0010  00 4F EC DA 00 00 3C 11 0D A5 C0 A8 01 68 C0 A8  .O....<......h..
+0020  01 66 00 A1 10 20 00 3B 1C C1 30 31 02 01 00 04  .f... .;..01....
+0030  06 70 75 62 6C 69 63 A2 24 02 02 18 33 02 01 00  .public.$...3...
+0040  02 01 00 30 18 30 16 06 11 2B 06 01 04 01 0B 02  ...0.0...+......
+0050  03 09 04 02 01 02 02 02 01 00 04 01 10           .............
+

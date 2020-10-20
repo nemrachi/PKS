@@ -1,0 +1,849 @@
+ramec 1
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 78 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 3C 0A 31 40 00 40 06 17 3C 0A 28 04 02 0A 14  .<.1@.@..<.(....
+0020  01 02 97 22 00 17 87 4B AD BD 00 00 00 00 A0 02  ..."...K........
+0030  16 D0 A1 A6 00 00 02 04 05 B4 04 02 08 0A 02 7B  ...............{
+0040  A7 8C 00 00 00 00 01 03 03 07                    ..........
+
+ramec 2
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 10  ...$.e...'.:..E.
+0010  00 2C 1E 90 00 00 FA 06 88 EC 0A 14 01 02 0A 28  .,.............(
+0020  04 02 00 17 97 22 32 9E DF B1 87 4B AD BE 60 12  ....."2....K..`.
+0030  10 20 93 BF 00 00 02 04 02 18 00 00              . ..........
+
+ramec 3
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 32 40 00 40 06 17 4F 0A 28 04 02 0A 14  .(.2@.@..O.(....
+0020  01 02 97 22 00 17 87 4B AD BE 32 9E DF B2 50 10  ..."...K..2...P.
+0030  16 D0 A1 30 00 00                                ...0..
+
+ramec 4
+dlzka ramca poskytnuta pcap API - 66 B
+dlzka ramca prenasaneho po mediu - 70 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 34 1E 91 00 00 FA 06 88 F3 0A 14 01 02 0A 28  .4.............(
+0020  04 02 00 17 97 22 32 9E DF B2 87 4B AD BE 50 18  ....."2....K..P.
+0030  10 20 94 B0 00 00 FF FB 01 FF FB 03 FF FD 18 FF  . ..............
+0040  FD 1F                                            ..
+
+ramec 5
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 33 40 00 40 06 17 4E 0A 28 04 02 0A 14  .(.3@.@..N.(....
+0020  01 02 97 22 00 17 87 4B AD BE 32 9E DF BE 50 10  ..."...K..2...P.
+0030  16 D0 A1 24 00 00                                ...$..
+
+ramec 6
+dlzka ramca poskytnuta pcap API - 96 B
+dlzka ramca prenasaneho po mediu - 100 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 52 1E 92 00 00 FA 06 88 D4 0A 14 01 02 0A 28  .R.............(
+0020  04 02 00 17 97 22 32 9E DF BE 87 4B AD BE 50 18  ....."2....K..P.
+0030  10 20 FE 21 00 00 0D 0A 0D 0A 55 73 65 72 20 41  . .!......User A
+0040  63 63 65 73 73 20 56 65 72 69 66 69 63 61 74 69  ccess Verificati
+0050  6F 6E 0D 0A 0D 0A 50 61 73 73 77 6F 72 64 3A 20  on....Password: 
+
+ramec 7
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 34 40 00 40 06 17 4D 0A 28 04 02 0A 14  .(.4@.@..M.(....
+0020  01 02 97 22 00 17 87 4B AD BE 32 9E DF E8 50 10  ..."...K..2...P.
+0030  16 D0 A0 FA 00 00                                ......
+
+ramec 8
+dlzka ramca poskytnuta pcap API - 81 B
+dlzka ramca prenasaneho po mediu - 85 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 43 0A 35 40 00 40 06 17 31 0A 28 04 02 0A 14  .C.5@.@..1.(....
+0020  01 02 97 22 00 17 87 4B AD BE 32 9E DF E8 50 18  ..."...K..2...P.
+0030  16 D0 21 8A 00 00 FF FD 03 FF FB 18 FF FB 1F FF  ..!.............
+0040  FB 20 FF FB 21 FF FB 22 FF FB 27 FF FD 05 FF FB  . ..!.."..'.....
+0050  23                                               #
+
+ramec 9
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 2E 1E 93 00 00 FA 06 88 F7 0A 14 01 02 0A 28  ...............(
+0020  04 02 00 17 97 22 32 9E DF E8 87 4B AD D9 50 18  ....."2....K..P.
+0030  10 05 8F AF 00 00 FF FA 18 01 FF F0              ............
+
+ramec 10
+dlzka ramca poskytnuta pcap API - 66 B
+dlzka ramca prenasaneho po mediu - 70 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 34 0A 36 40 00 40 06 17 3F 0A 28 04 02 0A 14  .4.6@.@..?.(....
+0020  01 02 97 22 00 17 87 4B AD D9 32 9E DF EE 50 18  ..."...K..2...P.
+0030  16 D0 A4 4F 00 00 FF FD 01 FF FA 1F 00 50 00 18  ...O.........P..
+0040  FF F0                                            ..
+
+ramec 11
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 2B 1E 94 00 00 FA 06 88 F9 0A 14 01 02 0A 28  .+.............(
+0020  04 02 00 17 97 22 32 9E DF EE 87 4B AD D9 50 18  ....."2....K..P.
+0030  10 05 87 9A 00 00 FF FE 20 00 00 00              ........ ...
+
+ramec 12
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 2B 1E 95 00 00 FA 06 88 F8 0A 14 01 02 0A 28  .+.............(
+0020  04 02 00 17 97 22 32 9E DF F1 87 4B AD D9 50 18  ....."2....K..P.
+0030  10 05 86 98 00 00 FF FD 21 00 00 00              ........!...
+
+ramec 13
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 37 40 00 40 06 17 4A 0A 28 04 02 0A 14  .(.7@.@..J.(....
+0020  01 02 97 22 00 17 87 4B AD E5 32 9E DF F4 50 10  ..."...K..2...P.
+0030  16 D0 A0 C7 00 00                                ......
+
+ramec 14
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 2E 1E 96 00 00 FA 06 88 F4 0A 14 01 02 0A 28  ...............(
+0020  04 02 00 17 97 22 32 9E DF F4 87 4B AD D9 50 18  ....."2....K..P.
+0030  10 05 86 A4 00 00 FF FA 21 00 FF F0              ........!...
+
+ramec 15
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 2B 1E 97 00 00 FA 06 88 F6 0A 14 01 02 0A 28  .+.............(
+0020  04 02 00 17 97 22 32 9E DF FA 87 4B AD D9 50 18  ....."2....K..P.
+0030  10 05 85 8E 00 00 FF FE 22 00 00 00              ........"...
+
+ramec 16
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 2B 1E 98 00 00 FA 06 88 F5 0A 14 01 02 0A 28  .+.............(
+0020  04 02 00 17 97 22 32 9E DF FD 87 4B AD D9 50 18  ....."2....K..P.
+0030  10 05 80 8B 00 00 FF FE 27 00 00 00              ........'...
+
+ramec 17
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 2B 1E 99 00 00 FA 06 88 F4 0A 14 01 02 0A 28  .+.............(
+0020  04 02 00 17 97 22 32 9E E0 00 87 4B AD D9 50 18  ....."2....K..P.
+0030  10 05 A2 8A 00 00 FF FC 05 00 00 00              ............
+
+ramec 18
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 38 40 00 40 06 17 49 0A 28 04 02 0A 14  .(.8@.@..I.(....
+0020  01 02 97 22 00 17 87 4B AD E5 32 9E E0 00 50 10  ..."...K..2...P.
+0030  16 D0 A0 BB 00 00                                ......
+
+ramec 19
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 2B 1E 9A 00 00 FA 06 88 F3 0A 14 01 02 0A 28  .+.............(
+0020  04 02 00 17 97 22 32 9E E0 03 87 4B AD D9 50 18  ....."2....K..P.
+0030  10 05 84 85 00 00 FF FE 23 00 00 00              ........#...
+
+ramec 20
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 39 40 00 40 06 17 48 0A 28 04 02 0A 14  .(.9@.@..H.(....
+0020  01 02 97 22 00 17 87 4B AD E5 32 9E E0 06 50 10  ..."...K..2...P.
+0030  16 D0 A0 B5 00 00                                ......
+
+ramec 21
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 28 1E 9B 00 00 FA 06 88 F5 0A 14 01 02 0A 28  .(.............(
+0020  04 02 00 17 97 22 32 9E E0 06 87 4B AD E5 50 10  ....."2....K..P.
+0030  0F F9 A7 8C 00 00 00 00 00 00 00 00              ............
+
+ramec 22
+dlzka ramca poskytnuta pcap API - 65 B
+dlzka ramca prenasaneho po mediu - 69 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 33 0A 3A 40 00 40 06 17 3C 0A 28 04 02 0A 14  .3.:@.@..<.(....
+0020  01 02 97 22 00 17 87 4B AD E5 32 9E E0 06 50 18  ..."...K..2...P.
+0030  16 D0 AD 00 00 00 FF FA 18 00 58 54 45 52 4D FF  ..........XTERM.
+0040  F0                                               .
+
+ramec 23
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 28 1E 9C 00 00 FA 06 88 F4 0A 14 01 02 0A 28  .(.............(
+0020  04 02 00 17 97 22 32 9E E0 06 87 4B AD F0 50 10  ....."2....K..P.
+0030  0F EE A7 8C 00 00 00 00 00 00 00 00              ............
+
+ramec 24
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 3B 40 00 40 06 17 45 0A 28 04 02 0A 14  .).;@.@..E.(....
+0020  01 02 97 22 00 17 87 4B AD F0 32 9E E0 06 50 18  ..."...K..2...P.
+0030  16 D0 3D A1 00 00 63                             ..=...c
+
+ramec 25
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 28 1E 9D 00 00 FA 06 88 F3 0A 14 01 02 0A 28  .(.............(
+0020  04 02 00 17 97 22 32 9E E0 06 87 4B AD F1 50 10  ....."2....K..P.
+0030  0F ED A7 8C 00 00 00 00 00 00 00 00              ............
+
+ramec 26
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 3C 40 00 40 06 17 44 0A 28 04 02 0A 14  .).<@.@..D.(....
+0020  01 02 97 22 00 17 87 4B AD F1 32 9E E0 06 50 18  ..."...K..2...P.
+0030  16 D0 37 A0 00 00 69                             ..7...i
+
+ramec 27
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 28 1E 9E 00 00 FA 06 88 F2 0A 14 01 02 0A 28  .(.............(
+0020  04 02 00 17 97 22 32 9E E0 06 87 4B AD F2 50 10  ....."2....K..P.
+0030  0F EC A7 8C 00 00 00 00 00 00 00 00              ............
+
+ramec 28
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 3D 40 00 40 06 17 43 0A 28 04 02 0A 14  .).=@.@..C.(....
+0020  01 02 97 22 00 17 87 4B AD F2 32 9E E0 06 50 18  ..."...K..2...P.
+0030  16 D0 2D 9F 00 00 73                             ..-...s
+
+ramec 29
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 28 1E 9F 00 00 FA 06 88 F1 0A 14 01 02 0A 28  .(.............(
+0020  04 02 00 17 97 22 32 9E E0 06 87 4B AD F3 50 10  ....."2....K..P.
+0030  0F EB A7 8C 00 00 00 00 00 00 00 00              ............
+
+ramec 30
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 3E 40 00 40 06 17 42 0A 28 04 02 0A 14  .).>@.@..B.(....
+0020  01 02 97 22 00 17 87 4B AD F3 32 9E E0 06 50 18  ..."...K..2...P.
+0030  16 D0 3D 9E 00 00 63                             ..=...c
+
+ramec 31
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 28 1E A0 00 00 FA 06 88 F0 0A 14 01 02 0A 28  .(.............(
+0020  04 02 00 17 97 22 32 9E E0 06 87 4B AD F4 50 10  ....."2....K..P.
+0030  0F EA A7 8C 00 00 00 00 00 00 00 00              ............
+
+ramec 32
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 3F 40 00 40 06 17 41 0A 28 04 02 0A 14  .).?@.@..A.(....
+0020  01 02 97 22 00 17 87 4B AD F4 32 9E E0 06 50 18  ..."...K..2...P.
+0030  16 D0 31 9D 00 00 6F                             ..1...o
+
+ramec 33
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 28 1E A1 00 00 FA 06 88 EF 0A 14 01 02 0A 28  .(.............(
+0020  04 02 00 17 97 22 32 9E E0 06 87 4B AD F5 50 10  ....."2....K..P.
+0030  0F E9 A7 8C 00 00 00 00 00 00 00 00              ............
+
+ramec 34
+dlzka ramca poskytnuta pcap API - 56 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 2A 0A 40 40 00 40 06 17 3F 0A 28 04 02 0A 14  .*.@@.@..?.(....
+0020  01 02 97 22 00 17 87 4B AD F5 32 9E E0 06 50 18  ..."...K..2...P.
+0030  16 D0 93 9B 00 00 0D 00                          ........
+
+ramec 35
+dlzka ramca poskytnuta pcap API - 66 B
+dlzka ramca prenasaneho po mediu - 70 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 34 1E A2 00 00 FA 06 88 E2 0A 14 01 02 0A 28  .4.............(
+0020  04 02 00 17 97 22 32 9E E0 06 87 4B AD F7 50 18  ....."2....K..P.
+0030  0F E7 EC 1B 00 00 0D 0A 63 69 73 63 6F 32 38 30  ........cisco280
+0040  30 23                                            0#
+
+ramec 36
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 41 40 00 40 06 17 40 0A 28 04 02 0A 14  .(.A@.@..@.(....
+0020  01 02 97 22 00 17 87 4B AD F7 32 9E E0 12 50 10  ..."...K..2...P.
+0030  16 D0 A0 97 00 00                                ......
+
+ramec 37
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 42 40 00 40 06 17 3E 0A 28 04 02 0A 14  .).B@.@..>.(....
+0020  01 02 97 22 00 17 87 4B AD F7 32 9E E0 12 50 18  ..."...K..2...P.
+0030  16 D0 2D 8E 00 00 73                             ..-...s
+
+ramec 38
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 29 1E A3 00 00 FA 06 88 EC 0A 14 01 02 0A 28  .).............(
+0020  04 02 00 17 97 22 32 9E E0 12 87 4B AD F8 50 18  ....."2....K..P.
+0030  0F E6 34 77 00 00 73 00 00 00 00 00              ..4w..s.....
+
+ramec 39
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 43 40 00 40 06 17 3E 0A 28 04 02 0A 14  .(.C@.@..>.(....
+0020  01 02 97 22 00 17 87 4B AD F8 32 9E E0 13 50 10  ..."...K..2...P.
+0030  16 D0 A0 95 00 00                                ......
+
+ramec 40
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 44 40 00 40 06 17 3C 0A 28 04 02 0A 14  .).D@.@..<.(....
+0020  01 02 97 22 00 17 87 4B AD F8 32 9E E0 13 50 18  ..."...K..2...P.
+0030  16 D0 38 8C 00 00 68                             ..8...h
+
+ramec 41
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 29 1E A4 00 00 FA 06 88 EB 0A 14 01 02 0A 28  .).............(
+0020  04 02 00 17 97 22 32 9E E0 13 87 4B AD F9 50 18  ....."2....K..P.
+0030  0F E5 3F 76 00 00 68 00 00 00 00 00              ..?v..h.....
+
+ramec 42
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 45 40 00 40 06 17 3C 0A 28 04 02 0A 14  .(.E@.@..<.(....
+0020  01 02 97 22 00 17 87 4B AD F9 32 9E E0 14 50 10  ..."...K..2...P.
+0030  16 D0 A0 93 00 00                                ......
+
+ramec 43
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 46 40 00 40 06 17 3A 0A 28 04 02 0A 14  .).F@.@..:.(....
+0020  01 02 97 22 00 17 87 4B AD F9 32 9E E0 14 50 18  ..."...K..2...P.
+0030  16 D0 31 8A 00 00 6F                             ..1...o
+
+ramec 44
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 29 1E A5 00 00 FA 06 88 EA 0A 14 01 02 0A 28  .).............(
+0020  04 02 00 17 97 22 32 9E E0 14 87 4B AD FA 50 18  ....."2....K..P.
+0030  0F E4 38 75 00 00 6F 00 00 00 00 00              ..8u..o.....
+
+ramec 45
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 47 40 00 40 06 17 3A 0A 28 04 02 0A 14  .(.G@.@..:.(....
+0020  01 02 97 22 00 17 87 4B AD FA 32 9E E0 15 50 10  ..."...K..2...P.
+0030  16 D0 A0 91 00 00                                ......
+
+ramec 46
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 48 40 00 40 06 17 38 0A 28 04 02 0A 14  .).H@.@..8.(....
+0020  01 02 97 22 00 17 87 4B AD FA 32 9E E0 15 50 18  ..."...K..2...P.
+0030  16 D0 29 88 00 00 77                             ..)...w
+
+ramec 47
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 29 1E A6 00 00 FA 06 88 E9 0A 14 01 02 0A 28  .).............(
+0020  04 02 00 17 97 22 32 9E E0 15 87 4B AD FB 50 18  ....."2....K..P.
+0030  0F E3 30 74 00 00 77 00 00 00 00 00              ..0t..w.....
+
+ramec 48
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 49 40 00 40 06 17 38 0A 28 04 02 0A 14  .(.I@.@..8.(....
+0020  01 02 97 22 00 17 87 4B AD FB 32 9E E0 16 50 10  ..."...K..2...P.
+0030  16 D0 A0 8F 00 00                                ......
+
+ramec 49
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 4A 40 00 40 06 17 36 0A 28 04 02 0A 14  .).J@.@..6.(....
+0020  01 02 97 22 00 17 87 4B AD FB 32 9E E0 16 50 18  ..."...K..2...P.
+0030  16 D0 80 86 00 00 20                             ...... 
+
+ramec 50
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 29 1E A7 00 00 FA 06 88 E8 0A 14 01 02 0A 28  .).............(
+0020  04 02 00 17 97 22 32 9E E0 16 87 4B AD FC 50 18  ....."2....K..P.
+0030  0F E2 87 73 00 00 20 00 00 00 00 00              ...s.. .....
+
+ramec 51
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 4B 40 00 40 06 17 36 0A 28 04 02 0A 14  .(.K@.@..6.(....
+0020  01 02 97 22 00 17 87 4B AD FC 32 9E E0 17 50 10  ..."...K..2...P.
+0030  16 D0 A0 8D 00 00                                ......
+
+ramec 52
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 4C 40 00 40 06 17 34 0A 28 04 02 0A 14  .).L@.@..4.(....
+0020  01 02 97 22 00 17 87 4B AD FC 32 9E E0 17 50 18  ..."...K..2...P.
+0030  16 D0 3D 84 00 00 63                             ..=...c
+
+ramec 53
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 29 1E A8 00 00 FA 06 88 E7 0A 14 01 02 0A 28  .).............(
+0020  04 02 00 17 97 22 32 9E E0 17 87 4B AD FD 50 18  ....."2....K..P.
+0030  0F E1 44 72 00 00 63 00 00 00 00 00              ..Dr..c.....
+
+ramec 54
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 4D 40 00 40 06 17 34 0A 28 04 02 0A 14  .(.M@.@..4.(....
+0020  01 02 97 22 00 17 87 4B AD FD 32 9E E0 18 50 10  ..."...K..2...P.
+0030  16 D0 A0 8B 00 00                                ......
+
+ramec 55
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 4E 40 00 40 06 17 32 0A 28 04 02 0A 14  .).N@.@..2.(....
+0020  01 02 97 22 00 17 87 4B AD FD 32 9E E0 18 50 18  ..."...K..2...P.
+0030  16 D0 31 82 00 00 6F                             ..1...o
+
+ramec 56
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 29 1E A9 00 00 FA 06 88 E6 0A 14 01 02 0A 28  .).............(
+0020  04 02 00 17 97 22 32 9E E0 18 87 4B AD FE 50 18  ....."2....K..P.
+0030  0F E0 38 71 00 00 6F 00 00 00 00 00              ..8q..o.....
+
+ramec 57
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 4F 40 00 40 06 17 32 0A 28 04 02 0A 14  .(.O@.@..2.(....
+0020  01 02 97 22 00 17 87 4B AD FE 32 9E E0 19 50 10  ..."...K..2...P.
+0030  16 D0 A0 89 00 00                                ......
+
+ramec 58
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 50 40 00 40 06 17 30 0A 28 04 02 0A 14  .).P@.@..0.(....
+0020  01 02 97 22 00 17 87 4B AD FE 32 9E E0 19 50 18  ..."...K..2...P.
+0030  16 D0 32 80 00 00 6E                             ..2...n
+
+ramec 59
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 29 1E AA 00 00 FA 06 88 E5 0A 14 01 02 0A 28  .).............(
+0020  04 02 00 17 97 22 32 9E E0 19 87 4B AD FF 50 18  ....."2....K..P.
+0030  0F DF 39 70 00 00 6E 00 00 00 00 00              ..9p..n.....
+
+ramec 60
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 51 40 00 40 06 17 30 0A 28 04 02 0A 14  .(.Q@.@..0.(....
+0020  01 02 97 22 00 17 87 4B AD FF 32 9E E0 1A 50 10  ..."...K..2...P.
+0030  16 D0 A0 87 00 00                                ......
+
+ramec 61
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 52 40 00 40 06 17 2E 0A 28 04 02 0A 14  .).R@.@....(....
+0020  01 02 97 22 00 17 87 4B AD FF 32 9E E0 1A 50 18  ..."...K..2...P.
+0030  16 D0 3A 7E 00 00 66                             ..:~..f
+
+ramec 62
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 29 1E AB 00 00 FA 06 88 E4 0A 14 01 02 0A 28  .).............(
+0020  04 02 00 17 97 22 32 9E E0 1A 87 4B AE 00 50 18  ....."2....K..P.
+0030  0F DE 41 6F 00 00 66 00 00 00 00 00              ..Ao..f.....
+
+ramec 63
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 53 40 00 40 06 17 2E 0A 28 04 02 0A 14  .(.S@.@....(....
+0020  01 02 97 22 00 17 87 4B AE 00 32 9E E0 1B 50 10  ..."...K..2...P.
+0030  16 D0 A0 85 00 00                                ......
+
+ramec 64
+dlzka ramca poskytnuta pcap API - 56 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 2A 0A 54 40 00 40 06 17 2B 0A 28 04 02 0A 14  .*.T@.@..+.(....
+0020  01 02 97 22 00 17 87 4B AE 00 32 9E E0 1B 50 18  ..."...K..2...P.
+0030  16 D0 93 7B 00 00 0D 00                          ...{....
+
+ramec 65
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 2A 1E AC 00 00 FA 06 88 E2 0A 14 01 02 0A 28  .*.............(
+0020  04 02 00 17 97 22 32 9E E0 1B 87 4B AE 02 50 18  ....."2....K..P.
+0030  0F DC 9A 63 00 00 0D 0A 00 00 00 00              ...c........
+
+ramec 66
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 28 0A 55 40 00 40 06 17 2C 0A 28 04 02 0A 14  .(.U@.@..,.(....
+0020  01 02 97 22 00 17 87 4B AE 02 32 9E E0 1D 50 10  ..."...K..2...P.
+0030  16 D0 A0 81 00 00                                ......
+
+ramec 67
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 56 40 00 40 06 17 2A 0A 28 04 02 0A 14  .).V@.@..*.(....
+0020  01 02 97 22 00 17 87 4B AE 02 32 9E E0 1D 50 18  ..."...K..2...P.
+0030  16 D0 80 78 00 00 20                             ...x.. 
+
+ramec 68
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 28 1E AD 00 00 FA 06 88 E3 0A 14 01 02 0A 28  .(.............(
+0020  04 02 00 17 97 22 32 9E E0 1D 87 4B AE 03 50 10  ....."2....K..P.
+0030  0F DB A7 75 00 00 00 00 00 00 00 00              ...u........
+
+ramec 69
+dlzka ramca poskytnuta pcap API - 55 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 15 17 24 CD 65
+cielova MAC adresa: 00 04 96 27 C8 3A
+IPv4
+0000  00 04 96 27 C8 3A 00 15 17 24 CD 65 08 00 45 10  ...'.:...$.e..E.
+0010  00 29 0A 57 40 00 40 06 17 29 0A 28 04 02 0A 14  .).W@.@..).(....
+0020  01 02 97 22 00 17 87 4B AE 03 32 9E E0 1D 50 18  ..."...K..2...P.
+0030  16 D0 80 77 00 00 20                             ...w.. 
+
+ramec 70
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 64 B
+Ether II
+zdrojova MAC adresa: 00 04 96 27 C8 3A
+cielova MAC adresa: 00 15 17 24 CD 65
+IPv4
+0000  00 15 17 24 CD 65 00 04 96 27 C8 3A 08 00 45 00  ...$.e...'.:..E.
+0010  00 28 C5 9C 00 00 3F 06 9C F4 0A 14 01 02 0A 28  .(....?........(
+0020  04 02 00 17 97 22 32 9E E0 1D 87 4B AE 03 50 04  ....."2....K..P.
+0030  00 00 B7 5C 00 00 00 00 00 00 00 00              ...\........
+

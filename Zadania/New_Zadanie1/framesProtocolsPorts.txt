@@ -1,0 +1,66 @@
+# frames
+aaaa IEEE 802.3 LLC + SNAP
+e0e0 IEEE 802.3 LLC
+ffff Novell 802.3 RAW
+
+# protocols
+# lsaps
+00 Null SAP
+02 LLC Sublayer Management / Individual
+03 LLC Sublayer Management / Group
+06 IP
+0e PROWAY Network Management, Maintenance and Installation
+42 STP
+4e MMS
+5e ISI IP
+7e ISO8202
+8e PROWAY Active Station List Maintenance
+aa SNAP
+e0 IPX
+f0 NetBIOS
+f4 LAN Management
+fe ISO Network Layer Protocols
+ff Global DSAP
+# ethertypes
+0200 XEROX PUP
+0201 PUP AddrTrans
+0800 IPv4
+0801 X.75 Internet
+0805 X.25 Level 3 
+0806 ARP
+8035 Reverse ARP
+809b Appletalk
+80f3 AppleTalk AARP
+8100 IEEE 802.1Q
+8137 Novell IPX
+86dd IPv6
+880b PPP
+8847 MPLS
+8848 MPLS Upstream
+8863 PPPoE Discovery Stage
+8864 PPPoE Session Stage
+88a7 Unknown
+88cc LLDP 802.1
+9000 Loopback
+
+# ip protocol numbers
+01 ICMP
+06 TCP
+11 UDP
+
+# ports
+# TCP ports
+14 FTP - data
+15 FTP - controller 
+16 SSH
+17 Telnet
+50 HTTP
+01bb HTTPS
+# UDP ports
+35 DNS
+43 DHCP
+44 DHCP
+45 TFTP
+89 NBMS
+a1 SNMP
+0208 RIP

@@ -1,12 +1,14 @@
-import analyzer as a
+import analyser as a
 import os
 from scapy.all import *
 import ntpath
 
 
-# opens a pcap file and returns data
-def getDataFromPcap():
+# opens a pcap file and returns data and file's name
+def getDataFromPcap() -> Tuple[PacketList, str]:
+    # safety catch, when fileName is constant (not infinite loop)
     count = 0
+
     while True:
         fileName = input("> Enter a path to the pcap file (e - exit): ")
         # fileName = "C:\\Users\\emari\\projects\\PKS\\Zadania\\New_Zadanie1\\vzorky_pcap_na_analyzu\\trace-26.pcap"
@@ -30,23 +32,21 @@ def getDataFromPcap():
 def main():
     nextFile = True
 
+    # loop for inserting files continually
     while nextFile:
         dump, traceName = getDataFromPcap()
 
-        outChoice = input("> Write output to a text file ('f') or to the console (other)?: ")
+        outChoice = input("> Write output to a text file (f) or to the console (other)?: ")
         # outChoice = ""
 
-        # start analyzing
-        analyzer = a.Analyzer(dump, traceName, outChoice)
-        analyzer.firstPoint()
+        # start analysing
+        analyser = a.Analyser(dump, traceName, outChoice)
+        analyser.analyse()
+        print("> Analysis is done.\n")
 
         nfInput = input("> Open a new file? (y/n): ")
         nextFile = True if (nfInput == 'y') else False
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Scapy_Exception as scapyE:
-        print("\t>>> Error: " + str(scapyE) + "\n")
-        main()
+    main()

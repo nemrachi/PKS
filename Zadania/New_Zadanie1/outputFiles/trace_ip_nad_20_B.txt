@@ -1,0 +1,3146 @@
+ramec 1
+dlzka ramca poskytnuta pcap API - 86 B
+dlzka ramca prenasaneho po mediu - 86 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: FF FF FF FF FF FF
+IPv4
+192.168.1.1
+192.168.1.255
+0000  FF FF FF FF FF FF 00 02 CF AB A2 4C 08 00 45 00  ...........L..E.
+0010  00 48 03 33 00 00 01 11 32 22 C0 A8 01 01 C0 A8  .H.3....2"......
+0020  01 FF 02 08 02 08 00 34 C0 C3 02 01 00 00 00 02  .......4........
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 02 00 02 00 00 D4 37 E0 21 00 00 00 00 00 00  .......7.!......
+0050  00 00 00 00 00 01                                ......
+
+ramec 2
+dlzka ramca poskytnuta pcap API - 110 B
+dlzka ramca prenasaneho po mediu - 110 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 4E 00  .....L..8.....N.
+0010  00 60 BB 9C 00 00 80 01 C7 C4 C0 A8 01 21 9E C3  .`...........!..
+0020  04 8A 44 24 05 01 00 00 00 00 00 00 00 00 00 00  ..D$............
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 00 00 00 00 00 08 00 36 5C 03 00 14 00 61 62  ........6\....ab
+0050  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0060  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 3
+dlzka ramca poskytnuta pcap API - 110 B
+dlzka ramca prenasaneho po mediu - 110 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 4E 00  ..8........L..N.
+0010  00 60 C2 2E 00 00 37 01 C8 43 9E C3 04 8A C0 A8  .`....7..C......
+0020  01 21 44 24 25 81 C3 1C 4B 81 05 02 91 43 C0 6C  .!D$%...K....C.l
+0030  94 4B 05 02 91 42 C1 57 03 89 05 02 91 44 9E C3  .K...B.W.....D..
+0040  01 5D 05 02 91 44 00 00 3E 5C 03 00 14 00 61 62  .]...D..>\....ab
+0050  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0060  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 4
+dlzka ramca poskytnuta pcap API - 110 B
+dlzka ramca prenasaneho po mediu - 110 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 4E 00  .....L..8.....N.
+0010  00 60 BB 9D 00 00 80 01 C7 C3 C0 A8 01 21 9E C3  .`...........!..
+0020  04 8A 44 24 05 01 00 00 00 00 00 00 00 00 00 00  ..D$............
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 00 00 00 00 00 08 00 35 5C 03 00 15 00 61 62  ........5\....ab
+0050  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0060  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 5
+dlzka ramca poskytnuta pcap API - 110 B
+dlzka ramca prenasaneho po mediu - 110 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 4E 00  ..8........L..N.
+0010  00 60 C2 2F 00 00 37 01 B8 9C 9E C3 04 8A C0 A8  .`./..7.........
+0020  01 21 44 24 25 81 C3 1C 4B 81 05 02 95 2D C0 6C  .!D$%...K....-.l
+0030  94 4B 05 02 95 2C C1 57 03 89 05 02 95 2D 9E C3  .K...,.W.....-..
+0040  01 5D 05 02 95 2D 00 00 3D 5C 03 00 15 00 61 62  .]...-..=\....ab
+0050  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0060  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 6
+dlzka ramca poskytnuta pcap API - 110 B
+dlzka ramca prenasaneho po mediu - 110 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 4E 00  .....L..8.....N.
+0010  00 60 BB 9E 00 00 80 01 C7 C2 C0 A8 01 21 9E C3  .`...........!..
+0020  04 8A 44 24 05 01 00 00 00 00 00 00 00 00 00 00  ..D$............
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 00 00 00 00 00 08 00 34 5C 03 00 16 00 61 62  ........4\....ab
+0050  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0060  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 7
+dlzka ramca poskytnuta pcap API - 110 B
+dlzka ramca prenasaneho po mediu - 110 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 4E 00  ..8........L..N.
+0010  00 60 C2 30 00 00 37 01 A8 FB 9E C3 04 8A C0 A8  .`.0..7.........
+0020  01 21 44 24 25 81 C3 1C 4B 81 05 02 99 15 C0 6C  .!D$%...K......l
+0030  94 4B 05 02 99 14 C1 57 03 89 05 02 99 15 9E C3  .K.....W........
+0040  01 5D 05 02 99 15 00 00 3C 5C 03 00 16 00 61 62  .]......<\....ab
+0050  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0060  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 8
+dlzka ramca poskytnuta pcap API - 110 B
+dlzka ramca prenasaneho po mediu - 110 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 4E 00  .....L..8.....N.
+0010  00 60 BB 9F 00 00 80 01 C7 C1 C0 A8 01 21 9E C3  .`...........!..
+0020  04 8A 44 24 05 01 00 00 00 00 00 00 00 00 00 00  ..D$............
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 00 00 00 00 00 08 00 33 5C 03 00 17 00 61 62  ........3\....ab
+0050  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0060  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 9
+dlzka ramca poskytnuta pcap API - 110 B
+dlzka ramca prenasaneho po mediu - 110 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 4E 00  ..8........L..N.
+0010  00 60 C2 31 00 00 37 01 99 56 9E C3 04 8A C0 A8  .`.1..7..V......
+0020  01 21 44 24 25 81 C3 1C 4B 81 05 02 9C FE C0 6C  .!D$%...K......l
+0030  94 4B 05 02 9C FD C1 57 03 89 05 02 9C FE 9E C3  .K.....W........
+0040  01 5D 05 02 9C FE 00 00 3B 5C 03 00 17 00 61 62  .]......;\....ab
+0050  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0060  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 10
+dlzka ramca poskytnuta pcap API - 86 B
+dlzka ramca prenasaneho po mediu - 86 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: FF FF FF FF FF FF
+IPv4
+192.168.1.1
+192.168.1.255
+0000  FF FF FF FF FF FF 00 02 CF AB A2 4C 08 00 45 00  ...........L..E.
+0010  00 48 03 34 00 00 01 11 32 21 C0 A8 01 01 C0 A8  .H.4....2!......
+0020  01 FF 02 08 02 08 00 34 C0 C3 02 01 00 00 00 02  .......4........
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 02 00 02 00 00 D4 37 E0 21 00 00 00 00 00 00  .......7.!......
+0050  00 00 00 00 00 01                                ......
+
+ramec 11
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+173.194.70.101
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 D9 AA 00 00 2F 06 FC 34 AD C2 46 65 C0 A8  .(..../..4..Fe..
+0020  01 21 00 50 12 12 9A 88 A4 33 60 90 92 37 50 11  .!.P.....3`..7P.
+0030  3B 91 7A 6B 00 00 00 00 00 00 00 00              ;.zk........
+
+ramec 12
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+173.194.70.101
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB A0 40 00 80 06 89 3E C0 A8 01 21 AD C2  .(..@....>...!..
+0020  46 65 12 12 00 50 60 90 92 37 9A 88 A4 34 50 10  Fe...P`..7...4P.
+0030  FE 87 B7 74 00 00                                ...t..
+
+ramec 13
+dlzka ramca poskytnuta pcap API - 247 B
+dlzka ramca prenasaneho po mediu - 247 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: FF FF FF FF FF FF
+IPv4
+192.168.1.33
+192.168.1.255
+0000  FF FF FF FF FF FF 00 14 38 06 E0 93 08 00 45 00  ........8.....E.
+0010  00 E9 BB A3 00 00 80 11 F9 EF C0 A8 01 21 C0 A8  .............!..
+0020  01 FF 00 8A 00 8A 00 D5 73 28 11 02 80 C6 C0 A8  ........s(......
+0030  01 21 00 8A 00 BF 00 00 20 45 42 45 45 45 4C 45  .!...... EBEEELE
+0040  42 43 41 43 41 43 41 43 41 43 41 43 41 43 41 43  BCACACACACACACAC
+0050  41 43 41 43 41 43 41 41 41 00 20 41 42 41 43 46  ACACACAAA. ABACF
+0060  50 46 50 45 4E 46 44 45 43 46 43 45 50 46 48 46  PFPENFDECFCEPFHF
+0070  44 45 46 46 50 46 50 41 43 41 42 00 FF 53 4D 42  DEFFPFPACAB..SMB
+0080  25 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  %...............
+0090  00 00 00 00 00 00 00 00 00 00 00 00 11 00 00 25  ...............%
+00a0  00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00  ................
+00b0  00 00 00 25 00 56 00 03 00 01 00 01 00 02 00 36  ...%.V.........6
+00c0  00 5C 4D 41 49 4C 53 4C 4F 54 5C 42 52 4F 57 53  .\MAILSLOT\BROWS
+00d0  45 00 0C 00 A0 BB 0D 00 44 4F 4D 41 00 00 00 00  E.......DOMA....
+00e0  00 00 D0 3D 12 00 00 20 03 0A 00 10 00 80 00 20  ...=... ....... 
+00f0  F9 7F 41 44 4B 41 00                             ..ADKA.
+
+ramec 14
+dlzka ramca poskytnuta pcap API - 86 B
+dlzka ramca prenasaneho po mediu - 86 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: FF FF FF FF FF FF
+IPv4
+192.168.1.1
+192.168.1.255
+0000  FF FF FF FF FF FF 00 02 CF AB A2 4C 08 00 45 00  ...........L..E.
+0010  00 48 03 35 00 00 01 11 32 20 C0 A8 01 01 C0 A8  .H.5....2 ......
+0020  01 FF 02 08 02 08 00 34 C0 C3 02 01 00 00 00 02  .......4........
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 02 00 02 00 00 D4 37 E0 21 00 00 00 00 00 00  .......7.!......
+0050  00 00 00 00 00 01                                ......
+
+ramec 15
+dlzka ramca poskytnuta pcap API - 86 B
+dlzka ramca prenasaneho po mediu - 86 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: FF FF FF FF FF FF
+IPv4
+192.168.1.1
+192.168.1.255
+0000  FF FF FF FF FF FF 00 02 CF AB A2 4C 08 00 45 00  ...........L..E.
+0010  00 48 03 36 00 00 01 11 32 1F C0 A8 01 01 C0 A8  .H.6....2.......
+0020  01 FF 02 08 02 08 00 34 C0 C3 02 01 00 00 00 02  .......4........
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 02 00 02 00 00 D4 37 E0 21 00 00 00 00 00 00  .......7.!......
+0050  00 00 00 00 00 01                                ......
+
+ramec 16
+dlzka ramca poskytnuta pcap API - 86 B
+dlzka ramca prenasaneho po mediu - 86 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: FF FF FF FF FF FF
+IPv4
+192.168.1.1
+192.168.1.255
+0000  FF FF FF FF FF FF 00 02 CF AB A2 4C 08 00 45 00  ...........L..E.
+0010  00 48 03 37 00 00 01 11 32 1E C0 A8 01 01 C0 A8  .H.7....2.......
+0020  01 FF 02 08 02 08 00 34 C0 C3 02 01 00 00 00 02  .......4........
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 02 00 02 00 00 D4 37 E0 21 00 00 00 00 00 00  .......7.!......
+0050  00 00 00 00 00 01                                ......
+
+ramec 17
+dlzka ramca poskytnuta pcap API - 94 B
+dlzka ramca prenasaneho po mediu - 94 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 4A 00  .....L..8.....J.
+0010  00 50 BB A4 00 00 80 01 09 DF C0 A8 01 21 9E C3  .P...........!..
+0020  04 8A 07 13 04 00 00 00 00 00 00 00 00 00 00 00  ................
+0030  00 00 00 00 00 00 08 00 32 5C 03 00 18 00 61 62  ........2\....ab
+0040  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0050  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 18
+dlzka ramca poskytnuta pcap API - 94 B
+dlzka ramca prenasaneho po mediu - 94 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 4A 00  ..8........L..J.
+0010  00 50 C2 32 00 00 37 01 F3 1B 9E C3 04 8A C0 A8  .P.2..7.........
+0020  01 21 07 13 14 55 87 B7 8A C3 1C 4B 81 C0 6C 94  .!...U.....K..l.
+0030  4B C1 57 03 89 00 00 00 3A 5C 03 00 18 00 61 62  K.W.....:\....ab
+0040  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0050  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 19
+dlzka ramca poskytnuta pcap API - 94 B
+dlzka ramca prenasaneho po mediu - 94 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 4A 00  .....L..8.....J.
+0010  00 50 BB A5 00 00 80 01 09 DE C0 A8 01 21 9E C3  .P...........!..
+0020  04 8A 07 13 04 00 00 00 00 00 00 00 00 00 00 00  ................
+0030  00 00 00 00 00 00 08 00 31 5C 03 00 19 00 61 62  ........1\....ab
+0040  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0050  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 20
+dlzka ramca poskytnuta pcap API - 94 B
+dlzka ramca prenasaneho po mediu - 94 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 4A 00  ..8........L..J.
+0010  00 50 C2 33 00 00 37 01 F3 1A 9E C3 04 8A C0 A8  .P.3..7.........
+0020  01 21 07 13 14 55 87 B7 8A C3 1C 4B 81 C0 6C 94  .!...U.....K..l.
+0030  4B C1 57 03 89 00 00 00 39 5C 03 00 19 00 61 62  K.W.....9\....ab
+0040  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0050  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 21
+dlzka ramca poskytnuta pcap API - 94 B
+dlzka ramca prenasaneho po mediu - 94 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 4A 00  .....L..8.....J.
+0010  00 50 BB A6 00 00 80 01 09 DD C0 A8 01 21 9E C3  .P...........!..
+0020  04 8A 07 13 04 00 00 00 00 00 00 00 00 00 00 00  ................
+0030  00 00 00 00 00 00 08 00 30 5C 03 00 1A 00 61 62  ........0\....ab
+0040  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0050  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 22
+dlzka ramca poskytnuta pcap API - 94 B
+dlzka ramca prenasaneho po mediu - 94 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 4A 00  ..8........L..J.
+0010  00 50 C2 34 00 00 37 01 F3 19 9E C3 04 8A C0 A8  .P.4..7.........
+0020  01 21 07 13 14 55 87 B7 8A C3 1C 4B 81 C0 6C 94  .!...U.....K..l.
+0030  4B C1 57 03 89 00 00 00 38 5C 03 00 1A 00 61 62  K.W.....8\....ab
+0040  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0050  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 23
+dlzka ramca poskytnuta pcap API - 94 B
+dlzka ramca prenasaneho po mediu - 94 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 4A 00  .....L..8.....J.
+0010  00 50 BB A7 00 00 80 01 09 DC C0 A8 01 21 9E C3  .P...........!..
+0020  04 8A 07 13 04 00 00 00 00 00 00 00 00 00 00 00  ................
+0030  00 00 00 00 00 00 08 00 2F 5C 03 00 1B 00 61 62  ......../\....ab
+0040  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0050  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 24
+dlzka ramca poskytnuta pcap API - 94 B
+dlzka ramca prenasaneho po mediu - 94 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 4A 00  ..8........L..J.
+0010  00 50 C2 35 00 00 37 01 F3 18 9E C3 04 8A C0 A8  .P.5..7.........
+0020  01 21 07 13 14 55 87 B7 8A C3 1C 4B 81 C0 6C 94  .!...U.....K..l.
+0030  4B C1 57 03 89 00 00 00 37 5C 03 00 1B 00 61 62  K.W.....7\....ab
+0040  63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72  cdefghijklmnopqr
+0050  73 74 75 76 77 61 62 63 64 65 66 67 68 69        stuvwabcdefghi
+
+ramec 25
+dlzka ramca poskytnuta pcap API - 86 B
+dlzka ramca prenasaneho po mediu - 86 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: FF FF FF FF FF FF
+IPv4
+192.168.1.1
+192.168.1.255
+0000  FF FF FF FF FF FF 00 02 CF AB A2 4C 08 00 45 00  ...........L..E.
+0010  00 48 03 3C 00 00 01 11 32 19 C0 A8 01 01 C0 A8  .H.<....2.......
+0020  01 FF 02 08 02 08 00 34 C0 C3 02 01 00 00 00 02  .......4........
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 02 00 02 00 00 D4 37 E0 21 00 00 00 00 00 00  .......7.!......
+0050  00 00 00 00 00 01                                ......
+
+ramec 26
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+173.194.70.101
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB A8 40 00 80 06 89 36 C0 A8 01 21 AD C2  .(..@....6...!..
+0020  46 65 12 12 00 50 60 90 92 37 9A 88 A4 34 50 11  Fe...P`..7...4P.
+0030  FE 87 B7 73 00 00                                ...s..
+
+ramec 27
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+173.194.70.101
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 D9 AB 00 00 2F 06 FC 33 AD C2 46 65 C0 A8  .(..../..3..Fe..
+0020  01 21 00 50 12 12 9A 88 A4 34 00 00 00 00 50 04  .!.P.....4....P.
+0030  00 00 A8 D0 00 00 00 00 00 00 00 00              ............
+
+ramec 28
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 3C BB A9 40 00 80 01 DA 00 C0 A8 01 21 9E C3  .<..@........!..
+0020  04 8A 08 00 2E 5C 03 00 1C 00 61 62 63 64 65 66  .....\....abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 29
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 3C C2 36 00 00 37 01 5C 74 9E C3 04 8A C0 A8  .<.6..7.\t......
+0020  01 21 00 00 36 5C 03 00 1C 00 61 62 63 64 65 66  .!..6\....abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 30
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 3C BB AA 40 00 80 01 D9 FF C0 A8 01 21 9E C3  .<..@........!..
+0020  04 8A 08 00 2D 5C 03 00 1D 00 61 62 63 64 65 66  ....-\....abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 31
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 3C C2 37 00 00 37 01 5C 73 9E C3 04 8A C0 A8  .<.7..7.\s......
+0020  01 21 00 00 35 5C 03 00 1D 00 61 62 63 64 65 66  .!..5\....abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 32
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 3C BB AB 40 00 80 01 D9 FE C0 A8 01 21 9E C3  .<..@........!..
+0020  04 8A 08 00 2C 5C 03 00 1E 00 61 62 63 64 65 66  ....,\....abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 33
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 3C C2 38 00 00 37 01 5C 72 9E C3 04 8A C0 A8  .<.8..7.\r......
+0020  01 21 00 00 34 5C 03 00 1E 00 61 62 63 64 65 66  .!..4\....abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 34
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 3C BB AC 40 00 80 01 D9 FD C0 A8 01 21 9E C3  .<..@........!..
+0020  04 8A 08 00 2B 5C 03 00 1F 00 61 62 63 64 65 66  ....+\....abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 35
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 3C C2 39 00 00 37 01 5C 71 9E C3 04 8A C0 A8  .<.9..7.\q......
+0020  01 21 00 00 33 5C 03 00 1F 00 61 62 63 64 65 66  .!..3\....abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 36
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 30 BB B6 40 00 80 06 E8 61 C0 A8 01 21 93 AF  .0..@....a...!..
+0020  01 37 12 18 00 50 78 8E 28 9F 00 00 00 00 70 02  .7...Px.(.....p.
+0030  FF FF 78 DA 00 00 02 04 05 B4 01 01 04 02        ..x...........
+
+ramec 37
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 30 00 00 40 00 3A 06 EA 18 93 AF 01 37 C0 A8  .0..@.:......7..
+0020  01 21 00 50 12 18 4D 9B FE 55 78 8E 28 A0 70 12  .!.P..M..Ux.(.p.
+0030  16 D0 16 58 00 00 02 04 05 64 01 01 04 02        ...X.....d....
+
+ramec 38
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB B7 40 00 80 06 E8 68 C0 A8 01 21 93 AF  .(..@....h...!..
+0020  01 37 12 18 00 50 78 8E 28 A0 4D 9B FE 56 50 10  .7...Px.(.M..VP.
+0030  FF FF 59 9C 00 00                                ..Y...
+
+ramec 39
+dlzka ramca poskytnuta pcap API - 1171 B
+dlzka ramca prenasaneho po mediu - 1171 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  04 85 BB B8 40 00 80 06 E4 0A C0 A8 01 21 93 AF  ....@........!..
+0020  01 37 12 18 00 50 78 8E 28 A0 4D 9B FE 56 50 18  .7...Px.(.M..VP.
+0030  FF FF BA 0D 00 00 47 45 54 20 2F 67 65 6E 65 72  ......GET /gener
+0040  61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67  ate_page.php?pag
+0050  65 5F 69 64 3D 31 36 39 36 20 48 54 54 50 2F 31  e_id=1696 HTTP/1
+0060  2E 31 0D 0A 41 63 63 65 70 74 3A 20 69 6D 61 67  .1..Accept: imag
+0070  65 2F 67 69 66 2C 20 69 6D 61 67 65 2F 6A 70 65  e/gif, image/jpe
+0080  67 2C 20 69 6D 61 67 65 2F 70 6A 70 65 67 2C 20  g, image/pjpeg, 
+0090  69 6D 61 67 65 2F 70 6A 70 65 67 2C 20 61 70 70  image/pjpeg, app
+00a0  6C 69 63 61 74 69 6F 6E 2F 78 2D 73 68 6F 63 6B  lication/x-shock
+00b0  77 61 76 65 2D 66 6C 61 73 68 2C 20 61 70 70 6C  wave-flash, appl
+00c0  69 63 61 74 69 6F 6E 2F 78 2D 6D 73 2D 61 70 70  ication/x-ms-app
+00d0  6C 69 63 61 74 69 6F 6E 2C 20 61 70 70 6C 69 63  lication, applic
+00e0  61 74 69 6F 6E 2F 78 2D 6D 73 2D 78 62 61 70 2C  ation/x-ms-xbap,
+00f0  20 61 70 70 6C 69 63 61 74 69 6F 6E 2F 76 6E 64   application/vnd
+0100  2E 6D 73 2D 78 70 73 64 6F 63 75 6D 65 6E 74 2C  .ms-xpsdocument,
+0110  20 61 70 70 6C 69 63 61 74 69 6F 6E 2F 78 61 6D   application/xam
+0120  6C 2B 78 6D 6C 2C 20 61 70 70 6C 69 63 61 74 69  l+xml, applicati
+0130  6F 6E 2F 76 6E 64 2E 6D 73 2D 65 78 63 65 6C 2C  on/vnd.ms-excel,
+0140  20 61 70 70 6C 69 63 61 74 69 6F 6E 2F 76 6E 64   application/vnd
+0150  2E 6D 73 2D 70 6F 77 65 72 70 6F 69 6E 74 2C 20  .ms-powerpoint, 
+0160  61 70 70 6C 69 63 61 74 69 6F 6E 2F 6D 73 77 6F  application/mswo
+0170  72 64 2C 20 2A 2F 2A 0D 0A 52 65 66 65 72 65 72  rd, */*..Referer
+0180  3A 20 68 74 74 70 3A 2F 2F 77 77 77 2E 66 63 68  : http://www.fch
+0190  70 74 2E 73 74 75 62 61 2E 73 6B 2F 67 65 6E 65  pt.stuba.sk/gene
+01a0  72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61  rate_page.php?pa
+01b0  67 65 5F 69 64 3D 31 0D 0A 41 63 63 65 70 74 2D  ge_id=1..Accept-
+01c0  4C 61 6E 67 75 61 67 65 3A 20 65 6E 2D 75 73 0D  Language: en-us.
+01d0  0A 55 73 65 72 2D 41 67 65 6E 74 3A 20 4D 6F 7A  .User-Agent: Moz
+01e0  69 6C 6C 61 2F 34 2E 30 20 28 63 6F 6D 70 61 74  illa/4.0 (compat
+01f0  69 62 6C 65 3B 20 4D 53 49 45 20 38 2E 30 3B 20  ible; MSIE 8.0; 
+0200  57 69 6E 64 6F 77 73 20 4E 54 20 35 2E 31 3B 20  Windows NT 5.1; 
+0210  54 72 69 64 65 6E 74 2F 34 2E 30 3B 20 2E 4E 45  Trident/4.0; .NE
+0220  54 20 43 4C 52 20 32 2E 30 2E 35 30 37 32 37 3B  T CLR 2.0.50727;
+0230  20 2E 4E 45 54 20 43 4C 52 20 33 2E 30 2E 34 35   .NET CLR 3.0.45
+0240  30 36 2E 32 31 35 32 3B 20 2E 4E 45 54 20 43 4C  06.2152; .NET CL
+0250  52 20 33 2E 35 2E 33 30 37 32 39 3B 20 49 6E 66  R 3.5.30729; Inf
+0260  6F 50 61 74 68 2E 33 29 0D 0A 41 63 63 65 70 74  oPath.3)..Accept
+0270  2D 45 6E 63 6F 64 69 6E 67 3A 20 67 7A 69 70 2C  -Encoding: gzip,
+0280  20 64 65 66 6C 61 74 65 0D 0A 48 6F 73 74 3A 20   deflate..Host: 
+0290  77 77 77 2E 66 63 68 70 74 2E 73 74 75 62 61 2E  www.fchpt.stuba.
+02a0  73 6B 0D 0A 43 6F 6E 6E 65 63 74 69 6F 6E 3A 20  sk..Connection: 
+02b0  4B 65 65 70 2D 41 6C 69 76 65 0D 0A 43 6F 6F 6B  Keep-Alive..Cook
+02c0  69 65 3A 20 5F 5F 75 74 6D 61 3D 33 31 35 35 38  ie: __utma=31558
+02d0  32 36 2E 31 39 38 30 33 31 37 39 37 34 2E 31 31  26.1980317974.11
+02e0  36 39 39 39 30 39 31 39 2E 31 33 33 30 37 39 36  69990919.1330796
+02f0  32 36 35 2E 31 33 33 30 38 39 33 30 37 38 2E 34  265.1330893078.4
+0300  31 35 3B 20 5F 5F 75 74 6D 7A 3D 33 31 35 35 38  15; __utmz=31558
+0310  32 36 2E 31 33 33 30 38 39 33 30 37 38 2E 34 31  26.1330893078.41
+0320  35 2E 33 33 39 2E 75 74 6D 63 73 72 3D 66 63 68  5.339.utmcsr=fch
+0330  70 74 2E 73 74 75 62 61 2E 73 6B 7C 75 74 6D 63  pt.stuba.sk|utmc
+0340  63 6E 3D 28 72 65 66 65 72 72 61 6C 29 7C 75 74  cn=(referral)|ut
+0350  6D 63 6D 64 3D 72 65 66 65 72 72 61 6C 7C 75 74  mcmd=referral|ut
+0360  6D 63 63 74 3D 2F 67 65 6E 65 72 61 74 65 5F 70  mcct=/generate_p
+0370  61 67 65 2E 70 68 70 3B 20 5F 5F 75 74 6D 61 3D  age.php; __utma=
+0380  31 32 39 35 37 38 32 36 37 2E 31 36 34 38 36 36  129578267.164866
+0390  36 39 35 2E 31 32 39 36 33 32 30 39 38 37 2E 31  695.1296320987.1
+03a0  33 33 31 38 35 31 31 34 39 2E 31 33 33 31 38 35  331851149.133185
+03b0  33 34 34 33 2E 31 31 32 33 3B 20 5F 5F 75 74 6D  3443.1123; __utm
+03c0  7A 3D 31 32 39 35 37 38 32 36 37 2E 31 33 33 30  z=129578267.1330
+03d0  37 39 36 38 32 31 2E 31 30 39 31 2E 33 32 36 2E  796821.1091.326.
+03e0  75 74 6D 63 73 72 3D 73 74 75 62 61 2E 73 6B 7C  utmcsr=stuba.sk|
+03f0  75 74 6D 63 63 6E 3D 28 72 65 66 65 72 72 61 6C  utmccn=(referral
+0400  29 7C 75 74 6D 63 6D 64 3D 72 65 66 65 72 72 61  )|utmcmd=referra
+0410  6C 7C 75 74 6D 63 63 74 3D 2F 6E 65 77 2F 67 65  l|utmcct=/new/ge
+0420  6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68 70 3B  nerate_page.php;
+0430  20 5F 5F 75 74 6D 62 3D 31 32 39 35 37 38 32 36   __utmb=12957826
+0440  37 2E 31 2E 31 30 2E 31 33 33 31 38 35 33 34 34  7.1.10.133185344
+0450  33 3B 20 5F 5F 75 74 6D 63 3D 31 32 39 35 37 38  3; __utmc=129578
+0460  32 36 37 3B 20 62 75 78 75 73 5F 73 74 75 5F 66  267; buxus_stu_f
+0470  63 68 70 74 3D 73 62 67 6E 62 6C 67 35 33 68 74  chpt=sbgnblg53ht
+0480  66 63 6A 35 67 6B 63 75 61 30 76 34 70 69 36 0D  fcj5gkcua0v4pi6.
+0490  0A 0D 0A                                         ...
+
+ramec 40
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 D2 E2 40 00 3A 06 17 3E 93 AF 01 37 C0 A8  .(..@.:..>...7..
+0020  01 21 00 50 12 18 4D 9B FE 56 78 8E 2C FD 50 10  .!.P..M..Vx.,.P.
+0030  1E 8B 36 B4 00 00 00 00 00 00 00 00              ..6.........
+
+ramec 41
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 E3 40 00 3A 06 11 D9 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9B FE 56 78 8E 2C FD 50 10  .!.P..M..Vx.,.P.
+0030  1E 8B C1 C8 00 00 48 54 54 50 2F 31 2E 31 20 32  ......HTTP/1.1 2
+0040  30 30 20 4F 4B 0D 0A 44 61 74 65 3A 20 54 68 75  00 OK..Date: Thu
+0050  2C 20 31 35 20 4D 61 72 20 32 30 31 32 20 32 33  , 15 Mar 2012 23
+0060  3A 32 33 3A 34 30 20 47 4D 54 0D 0A 53 65 72 76  :23:40 GMT..Serv
+0070  65 72 3A 20 41 70 61 63 68 65 2F 32 2E 32 2E 38  er: Apache/2.2.8
+0080  20 28 46 65 64 6F 72 61 29 0D 0A 58 2D 50 6F 77   (Fedora)..X-Pow
+0090  65 72 65 64 2D 42 79 3A 20 50 48 50 2F 35 2E 32  ered-By: PHP/5.2
+00a0  2E 36 0D 0A 45 78 70 69 72 65 73 3A 20 54 68 75  .6..Expires: Thu
+00b0  2C 20 31 39 20 4E 6F 76 20 31 39 38 31 20 30 38  , 19 Nov 1981 08
+00c0  3A 35 32 3A 30 30 20 47 4D 54 0D 0A 43 61 63 68  :52:00 GMT..Cach
+00d0  65 2D 43 6F 6E 74 72 6F 6C 3A 20 6E 6F 2D 73 74  e-Control: no-st
+00e0  6F 72 65 2C 20 6E 6F 2D 63 61 63 68 65 2C 20 6D  ore, no-cache, m
+00f0  75 73 74 2D 72 65 76 61 6C 69 64 61 74 65 2C 20  ust-revalidate, 
+0100  70 6F 73 74 2D 63 68 65 63 6B 3D 30 2C 20 70 72  post-check=0, pr
+0110  65 2D 63 68 65 63 6B 3D 30 0D 0A 50 72 61 67 6D  e-check=0..Pragm
+0120  61 3A 20 6E 6F 2D 63 61 63 68 65 0D 0A 43 6F 6E  a: no-cache..Con
+0130  6E 65 63 74 69 6F 6E 3A 20 63 6C 6F 73 65 0D 0A  nection: close..
+0140  54 72 61 6E 73 66 65 72 2D 45 6E 63 6F 64 69 6E  Transfer-Encodin
+0150  67 3A 20 63 68 75 6E 6B 65 64 0D 0A 43 6F 6E 74  g: chunked..Cont
+0160  65 6E 74 2D 54 79 70 65 3A 20 74 65 78 74 2F 68  ent-Type: text/h
+0170  74 6D 6C 0D 0A 0D 0A 32 31 62 35 0D 0A 3C 21 44  tml....21b5..<!D
+0180  4F 43 54 59 50 45 20 68 74 6D 6C 20 50 55 42 4C  OCTYPE html PUBL
+0190  49 43 20 22 2D 2F 2F 57 33 43 2F 2F 44 54 44 20  IC "-//W3C//DTD 
+01a0  58 48 54 4D 4C 20 31 2E 30 20 54 72 61 6E 73 69  XHTML 1.0 Transi
+01b0  74 69 6F 6E 61 6C 2F 2F 45 4E 22 20 22 68 74 74  tional//EN" "htt
+01c0  70 3A 2F 2F 77 77 77 2E 77 33 2E 6F 72 67 2F 54  p://www.w3.org/T
+01d0  52 2F 78 68 74 6D 6C 31 2F 44 54 44 2F 78 68 74  R/xhtml1/DTD/xht
+01e0  6D 6C 31 2D 74 72 61 6E 73 69 74 69 6F 6E 61 6C  ml1-transitional
+01f0  2E 64 74 64 22 3E 0A 3C 68 74 6D 6C 20 78 6D 6C  .dtd">.<html xml
+0200  6E 73 3D 22 68 74 74 70 3A 2F 2F 77 77 77 2E 77  ns="http://www.w
+0210  33 2E 6F 72 67 2F 31 39 39 39 2F 78 68 74 6D 6C  3.org/1999/xhtml
+0220  22 20 64 69 72 3D 22 6C 74 72 22 20 6C 61 6E 67  " dir="ltr" lang
+0230  3D 22 73 6B 22 20 78 6D 6C 3A 6C 61 6E 67 3D 22  ="sk" xml:lang="
+0240  73 6B 22 3E 0A 3C 68 65 61 64 3E 0A 09 3C 6D 65  sk">.<head>..<me
+0250  74 61 20 68 74 74 70 2D 65 71 75 69 76 3D 22 43  ta http-equiv="C
+0260  6F 6E 74 65 6E 74 2D 54 79 70 65 22 20 63 6F 6E  ontent-Type" con
+0270  74 65 6E 74 3D 22 74 65 78 74 2F 68 74 6D 6C 3B  tent="text/html;
+0280  20 63 68 61 72 73 65 74 3D 77 69 6E 64 6F 77 73   charset=windows
+0290  2D 31 32 35 30 22 20 2F 3E 0A 09 3C 6D 65 74 61  -1250" />..<meta
+02a0  20 68 74 74 70 2D 65 71 75 69 76 3D 22 63 6F 6E   http-equiv="con
+02b0  74 65 6E 74 2D 6C 61 6E 67 75 61 67 65 22 20 63  tent-language" c
+02c0  6F 6E 74 65 6E 74 3D 22 73 6B 22 20 2F 3E 0A 09  ontent="sk" />..
+02d0  3C 6D 65 74 61 20 68 74 74 70 2D 65 71 75 69 76  <meta http-equiv
+02e0  3D 22 63 6F 6E 74 65 6E 74 2D 73 63 72 69 70 74  ="content-script
+02f0  2D 74 79 70 65 22 20 63 6F 6E 74 65 6E 74 3D 22  -type" content="
+0300  74 65 78 74 2F 6A 61 76 61 73 63 72 69 70 74 22  text/javascript"
+0310  20 2F 3E 0A 09 3C 6D 65 74 61 20 68 74 74 70 2D   />..<meta http-
+0320  65 71 75 69 76 3D 22 63 6F 6E 74 65 6E 74 2D 73  equiv="content-s
+0330  74 79 6C 65 2D 74 79 70 65 22 20 63 6F 6E 74 65  tyle-type" conte
+0340  6E 74 3D 22 74 65 78 74 2F 63 73 73 22 20 2F 3E  nt="text/css" />
+0350  0A 09 3C 6D 65 74 61 20 6E 61 6D 65 3D 22 63 6F  ..<meta name="co
+0360  70 79 72 69 67 68 74 22 20 63 6F 6E 74 65 6E 74  pyright" content
+0370  3D 22 22 20 2F 3E 0A 09 3C 6D 65 74 61 20 6E 61  ="" />..<meta na
+0380  6D 65 3D 22 64 65 73 63 72 69 70 74 69 6F 6E 22  me="description"
+0390  20 63 6F 6E 74 65 6E 74 3D 22 22 20 2F 3E 0A 09   content="" />..
+03a0  3C 6D 65 74 61 20 6E 61 6D 65 3D 22 6B 65 79 77  <meta name="keyw
+03b0  6F 72 64 73 22 20 63 6F 6E 74 65 6E 74 3D 22 22  ords" content=""
+03c0  20 2F 3E 0A 09 3C 6D 65 74 61 20 68 74 74 70 2D   />..<meta http-
+03d0  65 71 75 69 76 3D 22 63 61 63 68 65 2D 63 6F 6E  equiv="cache-con
+03e0  74 72 6F 6C 22 20 63 6F 6E 74 65 6E 74 3D 22 6E  trol" content="n
+03f0  6F 2D 63 61 63 68 65 22 20 2F 3E 0A 09 3C 6D 65  o-cache" />..<me
+0400  74 61 20 68 74 74 70 2D 65 71 75 69 76 3D 22 70  ta http-equiv="p
+0410  72 61 67 6D 61 22 20 63 6F 6E 74 65 6E 74 3D 22  ragma" content="
+0420  6E 6F 2D 63 61 63 68 65 22 20 2F 3E 0A 09 3C 6D  no-cache" />..<m
+0430  65 74 61 20 68 74 74 70 2D 65 71 75 69 76 3D 22  eta http-equiv="
+0440  65 78 70 69 72 65 73 22 20 63 6F 6E 74 65 6E 74  expires" content
+0450  3D 22 46 72 69 2C 20 31 36 20 4D 61 72 20 32 30  ="Fri, 16 Mar 20
+0460  31 32 20 30 30 3A 32 33 3A 34 30 20 2B 30 31 30  12 00:23:40 +010
+0470  30 22 20 2F 3E 0A 09 3C 6C 69 6E 6B 20 72 65 6C  0" />..<link rel
+0480  3D 22 73 68 6F 72 74 63 75 74 20 69 63 6F 6E 22  ="shortcut icon"
+0490  20 68 72 65 66 3D 22 66 61 76 69 63 6F 6E 2E 69   href="favicon.i
+04a0  63 6F 22 20 2F 3E 0A 09 3C 6D 65 74 61 20 6E 61  co" />..<meta na
+04b0  6D 65 3D 22 72 61 74 69 6E 67 22 20 63 6F 6E 74  me="rating" cont
+04c0  65 6E 74 3D 22 67 65 6E 65 72 61 6C 22 20 2F 3E  ent="general" />
+04d0  0A 09 3C 6D 65 74 61 20 6E 61 6D 65 3D 22 67 6F  ..<meta name="go
+04e0  6F 67 6C 65 2D 73 69 74 65 2D 76 65 72 69 66 69  ogle-site-verifi
+04f0  63 61 74 69 6F 6E 22 20 63 6F 6E 74 65 6E 74 3D  cation" content=
+0500  22 55 2D 55 4E 54 59 61 56 6F 33 58 31 4A 63 7A  "U-UNTYaVo3X1Jcz
+0510  44 77 30 72 2D 33 63 55 34 72 33 75 76 71 59 65  Dw0r-3cU4r3uvqYe
+0520  37 52 66 33 68 51 39 54 7A 59 79 67 22 20 2F 3E  7Rf3hQ9TzYyg" />
+0530  0A 09 3C 74 69 74 6C 65 3E DA 73 74 61 76 79 20  ..<title>.stavy 
+0540  61 20 6F 64 64 65 6C 65 6E 69 61 20 2D 20 46 61  a oddelenia - Fa
+0550  6B 75 6C 74 61 20 63 68 65 6D 69 63 6B 65 6A 20  kulta chemickej 
+0560  61 20 70 6F 74 72 61 76 69 6E 61 72 73 6B 65 6A  a potravinarskej
+0570  20 74 65 63 68 6E 6F 6C 6F 67 69 65 3C 2F 74 69   technologie</ti
+0580  74 6C 65 3E 0A 09 3C 6C 69 6E 6B 20 68 72 65 66  tle>..<link href
+0590  3D 22 68 74 74 70 3A 2F 2F 77                    ="http://w
+
+ramec 42
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 E4 40 00 3A 06 11 D8 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 03 BA 78 8E 2C FD 50 10  .!.P..M...x.,.P.
+0030  1E 8B 68 84 00 00 77 77 2E 73 74 75 62 61 2E 73  ..h...ww.stuba.s
+0040  6B 2F 6E 65 77 2F 63 73 73 2F 73 74 79 6C 65 5F  k/new/css/style_
+0050  6E 65 77 2E 63 73 73 22 20 72 65 6C 3D 22 73 74  new.css" rel="st
+0060  79 6C 65 73 68 65 65 74 22 20 74 79 70 65 3D 22  ylesheet" type="
+0070  74 65 78 74 2F 63 73 73 22 20 6D 65 64 69 61 3D  text/css" media=
+0080  22 61 6C 6C 22 20 2F 3E 0A 09 3C 6C 69 6E 6B 20  "all" />..<link 
+0090  68 72 65 66 3D 22 68 74 74 70 3A 2F 2F 77 77 77  href="http://www
+00a0  2E 73 74 75 62 61 2E 73 6B 2F 6E 65 77 2F 73 74  .stuba.sk/new/st
+00b0  75 5F 75 70 67 72 61 64 65 2F 6C 69 67 68 74 62  u_upgrade/lightb
+00c0  6F 78 2E 63 73 73 22 20 72 65 6C 3D 22 73 74 79  ox.css" rel="sty
+00d0  6C 65 73 68 65 65 74 22 20 74 79 70 65 3D 22 74  lesheet" type="t
+00e0  65 78 74 2F 63 73 73 22 20 6D 65 64 69 61 3D 22  ext/css" media="
+00f0  61 6C 6C 22 20 2F 3E 0A 09 3C 73 63 72 69 70 74  all" />..<script
+0100  20 74 79 70 65 3D 22 74 65 78 74 2F 6A 61 76 61   type="text/java
+0110  73 63 72 69 70 74 22 20 73 72 63 3D 22 68 74 74  script" src="htt
+0120  70 3A 2F 2F 77 77 77 2E 73 74 75 62 61 2E 73 6B  p://www.stuba.sk
+0130  2F 6E 65 77 2F 73 74 75 5F 75 70 67 72 61 64 65  /new/stu_upgrade
+0140  2F 6A 73 2F 70 72 6F 74 6F 74 79 70 65 2E 6A 73  /js/prototype.js
+0150  22 3E 3C 2F 73 63 72 69 70 74 3E 0A 09 3C 73 63  "></script>..<sc
+0160  72 69 70 74 20 74 79 70 65 3D 22 74 65 78 74 2F  ript type="text/
+0170  6A 61 76 61 73 63 72 69 70 74 22 20 73 72 63 3D  javascript" src=
+0180  22 68 74 74 70 3A 2F 2F 77 77 77 2E 73 74 75 62  "http://www.stub
+0190  61 2E 73 6B 2F 6E 65 77 2F 73 74 75 5F 75 70 67  a.sk/new/stu_upg
+01a0  72 61 64 65 2F 6A 73 2F 73 63 72 69 70 74 61 63  rade/js/scriptac
+01b0  75 6C 6F 75 73 2E 6A 73 22 3E 3C 2F 73 63 72 69  ulous.js"></scri
+01c0  70 74 3E 0A 09 3C 73 63 72 69 70 74 20 74 79 70  pt>..<script typ
+01d0  65 3D 22 74 65 78 74 2F 6A 61 76 61 73 63 72 69  e="text/javascri
+01e0  70 74 22 20 73 72 63 3D 22 68 74 74 70 3A 2F 2F  pt" src="http://
+01f0  77 77 77 2E 73 74 75 62 61 2E 73 6B 2F 6E 65 77  www.stuba.sk/new
+0200  2F 73 74 75 5F 75 70 67 72 61 64 65 2F 6A 73 2F  /stu_upgrade/js/
+0210  6C 69 6E 6B 79 2E 6A 73 22 3E 3C 2F 73 63 72 69  linky.js"></scri
+0220  70 74 3E 0A 09 3C 73 63 72 69 70 74 20 74 79 70  pt>..<script typ
+0230  65 3D 22 74 65 78 74 2F 6A 61 76 61 73 63 72 69  e="text/javascri
+0240  70 74 22 20 73 72 63 3D 22 68 74 74 70 3A 2F 2F  pt" src="http://
+0250  77 77 77 2E 73 74 75 62 61 2E 73 6B 2F 6E 65 77  www.stuba.sk/new
+0260  2F 73 74 75 5F 75 70 67 72 61 64 65 2F 6A 73 2F  /stu_upgrade/js/
+0270  6C 69 67 68 74 62 6F 78 2E 6A 73 22 3E 3C 2F 73  lightbox.js"></s
+0280  63 72 69 70 74 3E 0A 09 3C 73 63 72 69 70 74 20  cript>..<script 
+0290  74 79 70 65 3D 22 74 65 78 74 2F 6A 61 76 61 73  type="text/javas
+02a0  63 72 69 70 74 22 20 73 72 63 3D 22 68 74 74 70  cript" src="http
+02b0  3A 2F 2F 77 77 77 2E 73 74 75 62 61 2E 73 6B 2F  ://www.stuba.sk/
+02c0  6E 65 77 2F 73 74 75 5F 75 70 67 72 61 64 65 2F  new/stu_upgrade/
+02d0  6A 73 2F 68 65 6C 70 5F 64 69 61 6C 6F 67 2E 6A  js/help_dialog.j
+02e0  73 22 3E 3C 2F 73 63 72 69 70 74 3E 0A 09 3C 73  s"></script>..<s
+02f0  63 72 69 70 74 20 74 79 70 65 3D 22 74 65 78 74  cript type="text
+0300  2F 6A 61 76 61 73 63 72 69 70 74 22 20 73 72 63  /javascript" src
+0310  3D 22 68 74 74 70 3A 2F 2F 77 77 77 2E 73 74 75  ="http://www.stu
+0320  62 61 2E 73 6B 2F 6E 65 77 2F 73 74 75 5F 75 70  ba.sk/new/stu_up
+0330  67 72 61 64 65 2F 6A 73 2F 73 6C 69 64 65 73 68  grade/js/slidesh
+0340  6F 77 2E 6A 73 22 3E 3C 2F 73 63 72 69 70 74 3E  ow.js"></script>
+0350  0A 09 3C 73 63 72 69 70 74 20 74 79 70 65 3D 22  ..<script type="
+0360  74 65 78 74 2F 6A 61 76 61 73 63 72 69 70 74 22  text/javascript"
+0370  3E 0A 09 09 6C 5F 70 72 69 64 61 74 5F 6E 61 3D  >...l_pridat_na=
+0380  22 50 72 69 64 61 9D 20 6E 61 22 3B 0A 09 09 6C  "Prida. na";...l
+0390  5F 70 72 69 64 61 74 5F 6F 64 5F 6F 62 6C 75 62  _pridat_od_oblub
+03a0  65 6E 79 63 68 3D 22 50 72 69 64 61 9D 20 64 6F  enych="Prida. do
+03b0  20 6F 62 BE FA 62 65 6E FD 63 68 22 3B 0A 09 3C   ob..ben.ch";..<
+03c0  2F 73 63 72 69 70 74 3E 0A 20 20 20 3C 73 63 72  /script>.   <scr
+03d0  69 70 74 20 74 79 70 65 3D 22 74 65 78 74 2F 6A  ipt type="text/j
+03e0  61 76 61 73 63 72 69 70 74 22 3E 0A 20 20 20 20  avascript">.    
+03f0  66 75 6E 63 74 69 6F 6E 20 53 65 61 72 63 68 54  function SearchT
+0400  79 70 65 28 74 79 70 65 29 20 7B 0A 20 20 20 20  ype(type) {.    
+0410  20 20 20 20 69 66 20 28 74 79 70 65 3D 3D 22 67      if (type=="g
+0420  6F 6F 67 6C 65 22 29 20 7B 0A 20 20 20 20 20 20  oogle") {.      
+0430  20 20 20 20 20 20 64 6F 63 75 6D 65 6E 74 2E 67        document.g
+0440  65 74 45 6C 65 6D 65 6E 74 42 79 49 64 28 22 73  etElementById("s
+0450  31 22 29 2E 76 61 6C 75 65 20 3D 20 32 31 34 30  1").value = 2140
+0460  3B 0A 20 20 20 20 20 20 20 20 20 20 20 20 64 6F  ;.            do
+0470  63 75 6D 65 6E 74 2E 67 65 74 45 6C 65 6D 65 6E  cument.getElemen
+0480  74 42 79 49 64 28 22 73 32 22 29 2E 64 69 73 61  tById("s2").disa
+0490  62 6C 65 64 20 3D 20 74 72 75 65 3B 0A 20 20 20  bled = true;.   
+04a0  20 20 20 20 20 20 20 20 20 64 6F 63 75 6D 65 6E           documen
+04b0  74 2E 67 65 74 45 6C 65 6D 65 6E 74 42 79 49 64  t.getElementById
+04c0  28 22 67 31 22 29 2E 64 69 73 61 62 6C 65 64 20  ("g1").disabled 
+04d0  3D 20 66 61 6C 73 65 3B 0A 20 20 20 20 20 20 20  = false;.       
+04e0  20 20 20 20 20 64 6F 63 75 6D 65 6E 74 2E 67 65       document.ge
+04f0  74 45 6C 65 6D 65 6E 74 42 79 49 64 28 22 67 32  tElementById("g2
+0500  22 29 2E 64 69 73 61 62 6C 65 64 20 3D 20 66 61  ").disabled = fa
+0510  6C 73 65 3B 0A 20 20 20 20 20 20 20 20 20 20 20  lse;.           
+0520  20 64 6F 63 75 6D 65 6E 74 2E 67 65 74 45 6C 65   document.getEle
+0530  6D 65 6E 74 42 79 49 64 28 22 67 35 22 29 2E 64  mentById("g5").d
+0540  69 73 61 62 6C 65 64 20 3D 20 66 61 6C 73 65 3B  isabled = false;
+0550  0A 20 20 20 20 20 20 20 20 20 20 20 20 64 6F 63  .            doc
+0560  75 6D 65 6E 74 2E 67 65 74 45 6C 65 6D 65 6E 74  ument.getElement
+0570  42 79 49 64 28 22 67 36 22 29 2E 64 69 73 61 62  ById("g6").disab
+0580  6C 65 64 20 3D 20 66 61 6C 73 65 3B 0A 20 20 20  led = false;.   
+0590  20 20 20 20 20 20 20 20 20 64                             d
+
+ramec 43
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB B9 40 00 80 06 E8 66 C0 A8 01 21 93 AF  .(..@....f...!..
+0020  01 37 12 18 00 50 78 8E 2C FD 4D 9C 09 1E 50 10  .7...Px.,.M...P.
+0030  FF FF 4A 77 00 00                                ..Jw..
+
+ramec 44
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 E5 40 00 3A 06 11 D7 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 09 1E 78 8E 2C FD 50 10  .!.P..M...x.,.P.
+0030  1E 8B 8D 29 00 00 6F 63 75 6D 65 6E 74 2E 67 65  ...)..ocument.ge
+0040  74 45 6C 65 6D 65 6E 74 42 79 49 64 28 22 67 37  tElementById("g7
+0050  22 29 2E 64 69 73 61 62 6C 65 64 20 3D 20 66 61  ").disabled = fa
+0060  6C 73 65 3B 0A 20 20 20 20 20 20 20 20 20 20 20  lse;.           
+0070  20 64 6F 63 75 6D 65 6E 74 2E 67 65 74 45 6C 65   document.getEle
+0080  6D 65 6E 74 42 79 49 64 28 22 67 34 22 29 2E 6E  mentById("g4").n
+0090  61 6D 65 20 3D 20 22 71 22 3B 0A 20 20 20 20 20  ame = "q";.     
+00a0  20 20 20 7D 0A 20 20 20 20 20 20 20 20 69 66 20     }.        if 
+00b0  28 74 79 70 65 3D 3D 22 73 74 75 62 61 22 29 20  (type=="stuba") 
+00c0  7B 0A 20 20 20 20 20 20 20 20 20 20 20 20 64 6F  {.            do
+00d0  63 75 6D 65 6E 74 2E 67 65 74 45 6C 65 6D 65 6E  cument.getElemen
+00e0  74 42 79 49 64 28 22 73 31 22 29 2E 76 61 6C 75  tById("s1").valu
+00f0  65 20 3D 20 31 35 34 38 3B 0A 20 20 20 20 20 20  e = 1548;.      
+0100  20 20 20 20 20 20 64 6F 63 75 6D 65 6E 74 2E 67        document.g
+0110  65 74 45 6C 65 6D 65 6E 74 42 79 49 64 28 22 73  etElementById("s
+0120  32 22 29 2E 64 69 73 61 62 6C 65 64 20 3D 20 66  2").disabled = f
+0130  61 6C 73 65 3B 0A 20 20 20 20 20 20 20 20 20 20  alse;.          
+0140  20 20 64 6F 63 75 6D 65 6E 74 2E 67 65 74 45 6C    document.getEl
+0150  65 6D 65 6E 74 42 79 49 64 28 22 67 31 22 29 2E  ementById("g1").
+0160  64 69 73 61 62 6C 65 64 20 3D 20 74 72 75 65 3B  disabled = true;
+0170  0A 20 20 20 20 20 20 20 20 20 20 20 20 64 6F 63  .            doc
+0180  75 6D 65 6E 74 2E 67 65 74 45 6C 65 6D 65 6E 74  ument.getElement
+0190  42 79 49 64 28 22 67 32 22 29 2E 64 69 73 61 62  ById("g2").disab
+01a0  6C 65 64 20 3D 20 74 72 75 65 3B 0A 20 20 20 20  led = true;.    
+01b0  20 20 20 20 20 20 20 20 64 6F 63 75 6D 65 6E 74          document
+01c0  2E 67 65 74 45 6C 65 6D 65 6E 74 42 79 49 64 28  .getElementById(
+01d0  22 67 35 22 29 2E 64 69 73 61 62 6C 65 64 20 3D  "g5").disabled =
+01e0  20 74 72 75 65 3B 0A 20 20 20 20 20 20 20 20 20   true;.         
+01f0  20 20 20 64 6F 63 75 6D 65 6E 74 2E 67 65 74 45     document.getE
+0200  6C 65 6D 65 6E 74 42 79 49 64 28 22 67 36 22 29  lementById("g6")
+0210  2E 64 69 73 61 62 6C 65 64 20 3D 20 74 72 75 65  .disabled = true
+0220  3B 0A 20 20 20 20 20 20 20 20 20 20 20 20 64 6F  ;.            do
+0230  63 75 6D 65 6E 74 2E 67 65 74 45 6C 65 6D 65 6E  cument.getElemen
+0240  74 42 79 49 64 28 22 67 37 22 29 2E 64 69 73 61  tById("g7").disa
+0250  62 6C 65 64 20 3D 20 74 72 75 65 3B 0A 20 20 20  bled = true;.   
+0260  20 20 20 20 20 20 20 20 20 64 6F 63 75 6D 65 6E           documen
+0270  74 2E 67 65 74 45 6C 65 6D 65 6E 74 42 79 49 64  t.getElementById
+0280  28 22 67 34 22 29 2E 6E 61 6D 65 20 3D 20 22 73  ("g4").name = "s
+0290  74 72 69 6E 67 22 3B 0A 20 20 20 20 20 20 20 20  tring";.        
+02a0  7D 0A 20 20 20 20 7D 0A 20 20 20 20 3C 2F 73 63  }.    }.    </sc
+02b0  72 69 70 74 3E 0A 09 3C 6C 69 6E 6B 20 72 65 6C  ript>..<link rel
+02c0  3D 22 61 6C 74 65 72 6E 61 74 65 22 20 74 69 74  ="alternate" tit
+02d0  6C 65 3D 22 46 61 6B 75 6C 74 61 20 63 68 65 6D  le="Fakulta chem
+02e0  69 63 6B 65 6A 20 61 20 70 6F 74 72 61 76 69 6E  ickej a potravin
+02f0  61 72 73 6B 65 6A 20 74 65 63 68 6E 6F 6C 6F 67  arskej technolog
+0300  69 65 22 20 68 72 65 66 3D 27 2F 67 65 6E 65 72  ie" href='/gener
+0310  61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67  ate_page.php?pag
+0320  65 5F 69 64 3D 32 31 31 31 27 20 74 79 70 65 3D  e_id=2111' type=
+0330  22 61 70 70 6C 69 63 61 74 69 6F 6E 2F 72 73 73  "application/rss
+0340  2B 78 6D 6C 22 20 2F 3E 0A 09 3C 21 2D 2D 5B 69  +xml" />..<!--[i
+0350  66 20 49 45 20 36 5D 3E 0A 09 09 3C 6C 69 6E 6B  f IE 6]>...<link
+0360  20 68 72 65 66 3D 22 68 74 74 70 3A 2F 2F 77 77   href="http://ww
+0370  77 2E 73 74 75 62 61 2E 73 6B 2F 6E 65 77 2F 63  w.stuba.sk/new/c
+0380  73 73 2F 73 74 79 6C 65 5F 69 65 36 5F 6E 65 77  ss/style_ie6_new
+0390  2E 63 73 73 22 20 72 65 6C 3D 22 73 74 79 6C 65  .css" rel="style
+03a0  73 68 65 65 74 22 20 74 79 70 65 3D 22 74 65 78  sheet" type="tex
+03b0  74 2F 63 73 73 22 20 6D 65 64 69 61 3D 22 61 6C  t/css" media="al
+03c0  6C 22 20 2F 3E 0A 09 3C 21 5B 65 6E 64 69 66 5D  l" />..<![endif]
+03d0  2D 2D 3E 0A 3C 2F 68 65 61 64 3E 0A 3C 62 6F 64  -->.</head>.<bod
+03e0  79 20 63 6C 61 73 73 3D 22 66 63 68 70 74 22 3E  y class="fchpt">
+03f0  0A 3C 64 69 76 20 69 64 3D 22 68 65 6C 70 5F 64  .<div id="help_d
+0400  69 61 6C 6F 67 22 3E 3C 2F 64 69 76 3E 0A 3C 61  ialog"></div>.<a
+0410  20 6E 61 6D 65 3D 22 74 6F 70 5F 70 61 67 65 22   name="top_page"
+0420  3E 3C 2F 61 3E 0A 0A 09 3C 61 20 68 72 65 66 3D  ></a>...<a href=
+0430  22 23 6F 62 73 61 68 5F 74 65 78 74 22 20 63 6C  "#obsah_text" cl
+0440  61 73 73 3D 22 70 72 65 6A 73 74 5F 6E 61 5F 6F  ass="prejst_na_o
+0450  62 73 61 68 22 20 74 69 74 6C 65 3D 22 50 72 65  bsah" title="Pre
+0460  6A 73 9D 20 6E 61 20 6F 62 73 61 68 22 3E 50 72  js. na obsah">Pr
+0470  65 6A 73 9D 20 6E 61 20 6F 62 73 61 68 3C 2F 61  ejs. na obsah</a
+0480  3E 0A 09 09 09 3C 61 20 68 72 65 66 3D 22 68 74  >....<a href="ht
+0490  74 70 3A 2F 2F 77 77 77 2E 66 63 68 70 74 2E 73  tp://www.fchpt.s
+04a0  74 75 62 61 2E 73 6B 2F 67 65 6E 65 72 61 74 65  tuba.sk/generate
+04b0  5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F 69  _page.php?page_i
+04c0  64 3D 31 36 39 36 26 61 6D 70 3B 62 65 7A 5F 67  d=1696&amp;bez_g
+04d0  72 61 66 69 6B 79 3D 31 22 20 63 6C 61 73 73 3D  rafiky=1" class=
+04e0  22 70 72 65 6A 73 74 5F 6E 61 5F 6F 62 73 61 68  "prejst_na_obsah
+04f0  22 20 74 69 74 6C 65 3D 22 54 65 78 74 6F 76 E1  " title="Textov.
+0500  20 76 65 72 7A 69 61 22 3E 54 65 78 74 6F 76 E1   verzia">Textov.
+0510  20 76 65 72 7A 69 61 3C 2F 61 3E 0A 3C 21 2D 2D   verzia</a>.<!--
+0520  20 4D 41 49 4E 20 2F 2F 2D 2D 3E 0A 09 3C 64 69   MAIN //-->..<di
+0530  76 20 63 6C 61 73 73 3D 22 68 6C 61 76 69 63 6B  v class="hlavick
+0540  61 22 3E 0A 09 3C 64 69 76 20 63 6C 61 73 73 3D  a">..<div class=
+0550  22 6F 62 72 61 7A 6F 6B 22 3E 0A 09 09 3C 64 69  "obrazok">...<di
+0560  76 20 63 6C 61 73 73 3D 22 6C 6F 67 6F 22 3E 0A  v class="logo">.
+0570  09 09 09 3C 61 20 68 72 65 66 3D 22 2F 67 65 6E  ...<a href="/gen
+0580  65 72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70  erate_page.php?p
+0590  61 67 65 5F 69 64 3D 31 32 35                    age_id=125
+
+ramec 45
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 E6 40 00 3A 06 11 D6 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 0E 82 78 8E 2C FD 50 10  .!.P..M...x.,.P.
+0030  1E 8B C2 A2 00 00 22 20 63 6C 61 73 73 3D 22 6C  ......" class="l
+0040  6F 67 6F 20 66 63 68 70 74 5F 73 6B 22 20 74 69  ogo fchpt_sk" ti
+0050  74 6C 65 3D 22 46 61 6B 75 6C 74 61 20 63 68 65  tle="Fakulta che
+0060  6D 69 63 6B 65 6A 20 61 20 70 6F 74 72 61 76 69  mickej a potravi
+0070  6E E1 72 73 6B 65 6A 20 74 65 63 68 6E 6F 6C F3  n.rskej technol.
+0080  67 69 65 22 3E 3C 73 70 61 6E 3E 46 61 6B 75 6C  gie"><span>Fakul
+0090  74 61 20 63 68 65 6D 69 63 6B 65 6A 20 61 20 70  ta chemickej a p
+00a0  6F 74 72 61 76 69 6E E1 72 73 6B 65 6A 20 74 65  otravin.rskej te
+00b0  63 68 6E 6F 6C F3 67 69 65 3C 2F 73 70 61 6E 3E  chnol.gie</span>
+00c0  3C 2F 61 3E 0A 09 09 09 3C 61 20 68 72 65 66 3D  </a>....<a href=
+00d0  68 74 74 70 3A 2F 2F 77 77 77 2E 73 74 75 62 61  http://www.stuba
+00e0  2E 73 6B 2F 6E 65 77 2F 67 65 6E 65 72 61 74 65  .sk/new/generate
+00f0  5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F 69  _page.php?page_i
+0100  64 3D 39 32 20 63 6C 61 73 73 3D 22 6E 61 7A 6F  d=92 class="nazo
+0110  76 20 66 63 68 70 74 5F 73 6B 22 20 74 69 74 6C  v fchpt_sk" titl
+0120  65 3D 22 53 6C 6F 76 65 6E 73 6B E1 20 74 65 63  e="Slovensk. tec
+0130  68 6E 69 63 6B E1 20 75 6E 69 76 65 72 7A 69 74  hnick. univerzit
+0140  61 22 3E 3C 73 70 61 6E 3E 53 6C 6F 76 65 6E 73  a"><span>Slovens
+0150  6B E1 20 74 65 63 68 6E 69 63 6B E1 20 75 6E 69  k. technick. uni
+0160  76 65 72 7A 69 74 61 3C 2F 73 70 61 6E 3E 3C 2F  verzita</span></
+0170  61 3E 0A 09 09 09 3C 61 20 68 72 65 66 3D 22 2F  a>....<a href="/
+0180  67 65 6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68  generate_page.ph
+0190  70 3F 70 61 67 65 5F 69 64 3D 31 32 35 22 20 63  p?page_id=125" c
+01a0  6C 61 73 73 3D 22 66 61 6B 75 6C 74 61 20 66 63  lass="fakulta fc
+01b0  68 70 74 5F 73 6B 22 20 74 69 74 6C 65 3D 22 46  hpt_sk" title="F
+01c0  61 6B 75 6C 74 61 20 63 68 65 6D 69 63 6B 65 6A  akulta chemickej
+01d0  20 61 20 70 6F 74 72 61 76 69 6E E1 72 73 6B 65   a potravin.rske
+01e0  6A 20 74 65 63 68 6E 6F 6C F3 67 69 65 22 3E 3C  j technol.gie"><
+01f0  73 70 61 6E 3E 53 6C 6F 76 65 6E 73 6B E1 20 74  span>Slovensk. t
+0200  65 63 68 6E 69 63 6B E1 20 75 6E 69 76 65 72 7A  echnick. univerz
+0210  69 74 61 3C 2F 73 70 61 6E 3E 3C 2F 61 3E 0A 09  ita</span></a>..
+0220  09 3C 2F 64 69 76 3E 0A 09 09 3C 64 69 76 20 63  .</div>...<div c
+0230  6C 61 73 73 3D 22 76 79 68 6C 61 64 61 76 61 6E  lass="vyhladavan
+0240  69 65 22 3E 0A 09 09 09 3C 66 6F 72 6D 20 61 63  ie">....<form ac
+0250  74 69 6F 6E 3D 22 22 20 69 64 3D 22 63 73 65 2D  tion="" id="cse-
+0260  73 65 61 72 63 68 2D 62 6F 78 22 3E 0A 09 09 09  search-box">....
+0270  09 3C 69 6E 70 75 74 20 74 79 70 65 3D 22 68 69  .<input type="hi
+0280  64 64 65 6E 22 20 69 64 3D 22 73 31 22 20 6E 61  dden" id="s1" na
+0290  6D 65 3D 22 70 61 67 65 5F 69 64 22 20 76 61 6C  me="page_id" val
+02a0  75 65 3D 22 31 35 34 38 22 20 2F 3E 0A 09 09 09  ue="1548" />....
+02b0  09 3C 69 6E 70 75 74 20 74 79 70 65 3D 22 68 69  .<input type="hi
+02c0  64 64 65 6E 22 20 69 64 3D 22 67 31 22 20 6E 61  dden" id="g1" na
+02d0  6D 65 3D 22 63 78 22 20 76 61 6C 75 65 3D 22 30  me="cx" value="0
+02e0  31 36 39 32 31 33 34 34 35 39 37 37 32 37 30 34  1692134459772704
+02f0  39 37 34 33 3A 69 72 76 36 6D 61 6D 70 5F 76 61  9743:irv6mamp_va
+0300  22 20 2F 3E 0A 09 09 09 09 3C 69 6E 70 75 74 20  " />.....<input 
+0310  74 79 70 65 3D 22 68 69 64 64 65 6E 22 20 69 64  type="hidden" id
+0320  3D 22 67 32 22 20 6E 61 6D 65 3D 22 63 6F 66 22  ="g2" name="cof"
+0330  20 76 61 6C 75 65 3D 22 47 41 4C 54 3A 23 30 30   value="GALT:#00
+0340  38 30 30 30 3B 47 4C 3A 31 3B 44 49 56 3A 23 30  8000;GL:1;DIV:#0
+0350  30 30 30 30 30 3B 56 4C 43 3A 30 30 30 30 30 30  00000;VLC:000000
+0360  3B 41 48 3A 63 65 6E 74 65 72 3B 42 47 43 3A 46  ;AH:center;BGC:F
+0370  46 46 46 46 46 3B 4C 42 47 43 3A 3B 41 4C 43 3A  FFFFF;LBGC:;ALC:
+0380  3B 4C 43 3A 3B 54 3A 30 30 30 30 30 30 3B 47 46  ;LC:;T:000000;GF
+0390  4E 54 3A 3B 47 49 4D 50 3A 3B 46 4F 52 49 44 3A  NT:;GIMP:;FORID:
+03a0  31 31 22 20 2F 3E 0A 09 09 09 09 3C 69 6E 70 75  11" />.....<inpu
+03b0  74 20 74 79 70 65 3D 22 68 69 64 64 65 6E 22 20  t type="hidden" 
+03c0  69 64 3D 22 67 35 22 20 6E 61 6D 65 3D 22 69 65  id="g5" name="ie
+03d0  22 20 76 61 6C 75 65 3D 22 77 69 6E 64 6F 77 73  " value="windows
+03e0  2D 31 32 35 30 22 20 2F 3E 0A 09 09 09 09 3C 69  -1250" />.....<i
+03f0  6E 70 75 74 20 74 79 70 65 3D 22 68 69 64 64 65  nput type="hidde
+0400  6E 22 20 69 64 3D 22 67 36 22 20 6E 61 6D 65 3D  n" id="g6" name=
+0410  22 69 6F 22 20 76 61 6C 75 65 3D 22 77 69 6E 64  "io" value="wind
+0420  6F 77 73 2D 31 32 35 30 22 20 2F 3E 0A 09 09 09  ows-1250" />....
+0430  09 3C 69 6E 70 75 74 20 74 79 70 65 3D 22 68 69  .<input type="hi
+0440  64 64 65 6E 22 20 69 64 3D 22 67 37 22 20 6E 61  dden" id="g7" na
+0450  6D 65 3D 22 68 6C 22 20 76 61 6C 75 65 3D 22 73  me="hl" value="s
+0460  6B 22 20 2F 3E 0A 09 09 09 09 3C 69 6E 70 75 74  k" />.....<input
+0470  20 74 79 70 65 3D 22 68 69 64 64 65 6E 22 20 69   type="hidden" i
+0480  64 3D 22 73 32 22 20 6E 61 6D 65 3D 22 66 61 6B  d="s2" name="fak
+0490  75 6C 74 61 5F 69 64 22 20 76 61 6C 75 65 3D 22  ulta_id" value="
+04a0  31 32 35 22 20 2F 3E 0A 09 09 09 09 3C 69 6E 70  125" />.....<inp
+04b0  75 74 20 74 79 70 65 3D 22 74 65 78 74 22 20 69  ut type="text" i
+04c0  64 3D 22 67 34 22 20 6E 61 6D 65 3D 22 73 74 72  d="g4" name="str
+04d0  69 6E 67 22 20 63 6C 61 73 73 3D 22 76 79 68 6C  ing" class="vyhl
+04e0  61 64 61 76 61 6E 69 65 5F 74 65 78 74 20 66 5F  adavanie_text f_
+04f0  66 63 68 70 74 22 20 2F 3E 3C 69 6E 70 75 74 20  fchpt" /><input 
+0500  74 79 70 65 3D 22 73 75 62 6D 69 74 22 20 6E 61  type="submit" na
+0510  6D 65 3D 22 73 61 22 20 76 61 6C 75 65 3D 22 48  me="sa" value="H
+0520  BE 61 64 61 9D 22 20 63 6C 61 73 73 3D 22 76 79  .ada." class="vy
+0530  68 6C 61 64 61 76 61 6E 69 65 5F 73 75 62 6D 69  hladavanie_submi
+0540  74 22 20 2F 3E 3C 62 72 20 2F 3E 0A 09 09 09 09  t" /><br />.....
+0550  3C 69 6E 70 75 74 20 74 79 70 65 3D 22 72 61 64  <input type="rad
+0560  69 6F 22 20 6E 61 6D 65 3D 22 68 6C 61 64 61 6A  io" name="hladaj
+0570  22 20 69 64 3D 22 74 79 70 5F 73 74 75 22 20 76  " id="typ_stu" v
+0580  61 6C 75 65 3D 22 73 74 75 22 20 63 68 65 63 6B  alue="stu" check
+0590  65 64 3D 22 63 68 65 63 6B 65                    ed="checke
+
+ramec 46
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB BA 40 00 80 06 E8 65 C0 A8 01 21 93 AF  .(..@....e...!..
+0020  01 37 12 18 00 50 78 8E 2C FD 4D 9C 13 E6 50 10  .7...Px.,.M...P.
+0030  FF FF 3F AF 00 00                                ..?...
+
+ramec 47
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 E7 40 00 3A 06 11 D5 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 13 E6 78 8E 2C FD 50 10  .!.P..M...x.,.P.
+0030  1E 8B 7F 76 00 00 64 22 20 6F 6E 63 6C 69 63 6B  ...v..d" onclick
+0040  3D 22 53 65 61 72 63 68 54 79 70 65 28 27 73 74  ="SearchType('st
+0050  75 62 61 27 29 22 20 2F 3E 3C 6C 61 62 65 6C 20  uba')" /><label 
+0060  66 6F 72 3D 22 74 79 70 5F 73 74 75 22 20 63 6C  for="typ_stu" cl
+0070  61 73 73 3D 22 66 5F 66 63 68 70 74 22 3E 46 43  ass="f_fchpt">FC
+0080  48 50 54 3C 2F 6C 61 62 65 6C 3E 0A 09 09 09 09  HPT</label>.....
+0090  3C 69 6E 70 75 74 20 74 79 70 65 3D 22 72 61 64  <input type="rad
+00a0  69 6F 22 20 6E 61 6D 65 3D 22 68 6C 61 64 61 6A  io" name="hladaj
+00b0  22 20 69 64 3D 22 74 79 70 5F 67 6F 22 20 76 61  " id="typ_go" va
+00c0  6C 75 65 3D 22 67 6F 6F 67 6C 65 22 20 20 6F 6E  lue="google"  on
+00d0  63 6C 69 63 6B 3D 22 53 65 61 72 63 68 54 79 70  click="SearchTyp
+00e0  65 28 27 67 6F 6F 67 6C 65 27 29 22 20 2F 3E 3C  e('google')" /><
+00f0  6C 61 62 65 6C 20 66 6F 72 3D 22 74 79 70 5F 67  label for="typ_g
+0100  6F 22 20 63 6C 61 73 73 3D 22 66 5F 66 63 68 70  o" class="f_fchp
+0110  74 22 3E 47 6F 6F 67 6C 65 20 28 46 43 48 50 54  t">Google (FCHPT
+0120  29 3C 2F 6C 61 62 65 6C 3E 0A 09 09 09 3C 2F 66  )</label>....</f
+0130  6F 72 6D 3E 0A 09 09 3C 75 6C 20 63 6C 61 73 73  orm>...<ul class
+0140  3D 22 6F 73 74 61 74 6E 65 20 66 5F 66 63 68 70  ="ostatne f_fchp
+0150  74 22 3E 0A 09 09 09 3C 6C 69 3E 3C 61 20 68 72  t">....<li><a hr
+0160  65 66 3D 22 68 74 74 70 3A 2F 2F 77 77 77 2E 66  ef="http://www.f
+0170  63 68 70 74 2E 73 74 75 62 61 2E 73 6B 2F 67 65  chpt.stuba.sk/ge
+0180  6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F  nerate_page.php?
+0190  70 61 67 65 5F 69 64 3D 31 36 39 36 26 61 6D 70  page_id=1696&amp
+01a0  3B 62 65 7A 5F 67 72 61 66 69 6B 79 3D 31 22 20  ;bez_grafiky=1" 
+01b0  63 6C 61 73 73 3D 22 62 65 7A 5F 67 72 61 66 69  class="bez_grafi
+01c0  6B 79 22 20 74 69 74 6C 65 3D 22 54 65 78 74 6F  ky" title="Texto
+01d0  76 E1 20 76 65 72 7A 69 61 22 3E 54 65 78 74 6F  v. verzia">Texto
+01e0  76 E1 20 76 65 72 7A 69 61 3C 2F 61 3E 3C 2F 6C  v. verzia</a></l
+01f0  69 3E 0A 09 09 09 3C 6C 69 3E 3C 61 20 68 72 65  i>....<li><a hre
+0200  66 3D 27 2F 67 65 6E 65 72 61 74 65 5F 70 61 67  f='/generate_pag
+0210  65 2E 70 68 70 3F 70 61 67 65 5F 69 64 3D 32 31  e.php?page_id=21
+0220  31 31 27 20 63 6C 61 73 73 3D 22 72 73 73 22 20  11' class="rss" 
+0230  74 69 74 6C 65 3D 22 52 53 53 22 3E 52 53 53 3C  title="RSS">RSS<
+0240  2F 61 3E 3C 2F 6C 69 3E 0A 09 09 09 3C 6C 69 20  /a></li>....<li 
+0250  63 6C 61 73 73 3D 22 70 6F 73 6C 65 64 6E 79 22  class="posledny"
+0260  3E 3C 61 20 68 72 65 66 3D 22 2F 67 65 6E 65 72  ><a href="/gener
+0270  61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67  ate_page.php?pag
+0280  65 5F 69 64 3D 37 38 32 22 20 63 6C 61 73 73 3D  e_id=782" class=
+0290  22 6A 61 7A 79 6B 5F 65 6E 22 20 74 69 74 6C 65  "jazyk_en" title
+02a0  3D 22 45 6E 67 6C 69 73 68 22 3E 45 6E 67 6C 69  ="English">Engli
+02b0  73 68 3C 2F 61 3E 3C 2F 6C 69 3E 0A 09 09 3C 2F  sh</a></li>...</
+02c0  75 6C 3E 0A 09 09 3C 2F 64 69 76 3E 0A 09 3C 2F  ul>...</div>..</
+02d0  64 69 76 3E 0A 09 09 3C 75 6C 20 63 6C 61 73 73  div>...<ul class
+02e0  3D 22 68 6C 61 76 6E 65 5F 6D 65 6E 75 22 3E 0A  ="hlavne_menu">.
+02f0  09 09 09 3C 6C 69 20 20 63 6C 61 73 73 3D 22 70  ...<li  class="p
+0300  72 76 79 22 3E 3C 61 20 68 72 65 66 3D 22 68 74  rvy"><a href="ht
+0310  74 70 3A 2F 2F 77 77 77 2E 73 74 75 62 61 2E 73  tp://www.stuba.s
+0320  6B 2F 6E 65 77 2F 67 65 6E 65 72 61 74 65 5F 70  k/new/generate_p
+0330  61 67 65 2E 70 68 70 3F 70 61 67 65 5F 69 64 3D  age.php?page_id=
+0340  32 39 39 30 22 20 72 65 6C 3D 22 65 78 74 65 72  2990" rel="exter
+0350  6E 61 6C 22 20 74 69 74 6C 65 3D 22 46 61 6B 75  nal" title="Faku
+0360  6C 74 79 22 3E 46 61 6B 75 6C 74 79 3C 2F 61 3E  lty">Fakulty</a>
+0370  3C 2F 6C 69 3E 0A 09 09 09 3C 6C 69 20 3E 3C 61  </li>....<li ><a
+0380  20 68 72 65 66 3D 22 68 74 74 70 3A 2F 2F 69 73   href="http://is
+0390  2E 73 74 75 62 61 2E 73 6B 2F 3F 6C 61 6E 67 3D  .stuba.sk/?lang=
+03a0  73 6B 22 20 74 61 72 67 65 74 3D 22 5F 62 6C 61  sk" target="_bla
+03b0  6E 6B 22 20 72 65 6C 3D 22 65 78 74 65 72 6E 61  nk" rel="externa
+03c0  6C 22 20 74 69 74 6C 65 3D 22 41 49 53 22 3E 41  l" title="AIS">A
+03d0  49 53 3C 2F 61 3E 3C 2F 6C 69 3E 0A 09 09 09 3C  IS</a></li>....<
+03e0  6C 69 20 3E 3C 61 20 68 72 65 66 3D 27 2F 67 65  li ><a href='/ge
+03f0  6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F  nerate_page.php?
+0400  70 61 67 65 5F 69 64 3D 31 36 39 36 27 20 74 69  page_id=1696' ti
+0410  74 6C 65 3D 22 DA 73 74 61 76 79 22 20 63 6C 61  tle=".stavy" cla
+0420  73 73 3D 22 6F 74 76 6F 72 65 6E 65 22 3E DA 73  ss="otvorene">.s
+0430  74 61 76 79 3C 2F 61 3E 3C 2F 6C 69 3E 0A 09 09  tavy</a></li>...
+0440  09 3C 6C 69 20 3E 3C 61 20 68 72 65 66 3D 27 2F  .<li ><a href='/
+0450  67 65 6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68  generate_page.ph
+0460  70 3F 70 61 67 65 5F 69 64 3D 35 39 37 27 20 74  p?page_id=597' t
+0470  69 74 6C 65 3D 22 50 72 61 63 6F 76 69 73 6B E1  itle="Pracovisk.
+0480  22 3E 50 72 61 63 6F 76 69 73 6B E1 3C 2F 61 3E  ">Pracovisk.</a>
+0490  3C 2F 6C 69 3E 0A 09 09 09 3C 6C 69 20 3E 3C 61  </li>....<li ><a
+04a0  20 68 72 65 66 3D 22 68 74 74 70 3A 2F 2F 77 77   href="http://ww
+04b0  77 2E 73 74 75 62 61 2E 73 6B 2F 62 75 78 75 73  w.stuba.sk/buxus
+04c0  2F 67 65 6E 65 72 61 74 65 5F 70 61 67 65 2E 70  /generate_page.p
+04d0  68 70 3F 70 61 67 65 5F 69 64 3D 31 22 20 74 61  hp?page_id=1" ta
+04e0  72 67 65 74 3D 22 5F 62 6C 61 6E 6B 22 20 72 65  rget="_blank" re
+04f0  6C 3D 22 65 78 74 65 72 6E 61 6C 22 20 74 69 74  l="external" tit
+0500  6C 65 3D 22 53 54 55 22 3E 53 54 55 3C 2F 61 3E  le="STU">STU</a>
+0510  3C 2F 6C 69 3E 0A 09 09 09 3C 6C 69 20 3E 3C 61  </li>....<li ><a
+0520  20 68 72 65 66 3D 27 2F 67 65 6E 65 72 61 74 65   href='/generate
+0530  5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F 69  _page.php?page_i
+0540  64 3D 34 32 34 27 20 74 69 74 6C 65 3D 22 DA 72  d=424' title=".r
+0550  61 64 6E E1 20 74 61 62 75 BE 61 22 3E DA 72 61  adn. tabu.a">.ra
+0560  64 6E E1 20 74 61 62 75 BE 61 3C 2F 61 3E 3C 2F  dn. tabu.a</a></
+0570  6C 69 3E 0A 09 09 09 3C 6C 69 20 3E 3C 61 20 68  li>....<li ><a h
+0580  72 65 66 3D 27 2F 67 65 6E 65 72 61 74 65 5F 70  ref='/generate_p
+0590  61 67 65 2E 70 68 70 3F 70 61                    age.php?pa
+
+ramec 48
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 E8 40 00 3A 06 11 D4 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 19 4A 78 8E 2C FD 50 10  .!.P..M..Jx.,.P.
+0030  1E 8B 9F 29 00 00 67 65 5F 69 64 3D 34 35 32 27  ...)..ge_id=452'
+0040  20 74 69 74 6C 65 3D 22 41 6B 74 75 61 6C 69 74   title="Aktualit
+0050  79 22 3E 41 6B 74 75 61 6C 69 74 79 3C 2F 61 3E  y">Aktuality</a>
+0060  3C 2F 6C 69 3E 0A 09 09 09 3C 6C 69 20 3E 3C 61  </li>....<li ><a
+0070  20 68 72 65 66 3D 22 68 74 74 70 73 3A 2F 2F 77   href="https://w
+0080  65 62 6D 61 69 6C 2E 73 74 75 62 61 2E 73 6B 2F  ebmail.stuba.sk/
+0090  22 20 74 61 72 67 65 74 3D 22 5F 62 6C 61 6E 6B  " target="_blank
+00a0  22 20 72 65 6C 3D 22 65 78 74 65 72 6E 61 6C 22  " rel="external"
+00b0  20 74 69 74 6C 65 3D 22 57 65 62 6D 61 69 6C 22   title="Webmail"
+00c0  3E 57 65 62 6D 61 69 6C 3C 2F 61 3E 3C 2F 6C 69  >Webmail</a></li
+00d0  3E 0A 09 09 09 3C 6C 69 20 3E 3C 61 20 68 72 65  >....<li ><a hre
+00e0  66 3D 22 68 74 74 70 3A 2F 2F 77 77 77 2E 73 74  f="http://www.st
+00f0  75 62 61 2E 73 6B 2F 6E 65 77 2F 67 65 6E 65 72  uba.sk/new/gener
+0100  61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67  ate_page.php?pag
+0110  65 5F 69 64 3D 31 36 31 36 22 20 72 65 6C 3D 22  e_id=1616" rel="
+0120  65 78 74 65 72 6E 61 6C 22 20 74 69 74 6C 65 3D  external" title=
+0130  22 56 69 72 74 75 E1 6C 6E 61 20 6B 6E 69 9E 6E  "Virtu.lna kni.n
+0140  69 63 61 22 3E 56 69 72 74 75 E1 6C 6E 61 20 6B  ica">Virtu.lna k
+0150  6E 69 9E 6E 69 63 61 3C 2F 61 3E 3C 2F 6C 69 3E  ni.nica</a></li>
+0160  0A 09 09 09 3C 6C 69 20 3E 3C 61 20 68 72 65 66  ....<li ><a href
+0170  3D 27 2F 67 65 6E 65 72 61 74 65 5F 70 61 67 65  ='/generate_page
+0180  2E 70 68 70 3F 70 61 67 65 5F 69 64 3D 31 39 38  .php?page_id=198
+0190  37 27 20 74 69 74 6C 65 3D 22 54 65 6C 65 66 F3  7' title="Telef.
+01a0  6E 6E 79 20 7A 6F 7A 6E 61 6D 22 3E 54 65 6C 2E  nny zoznam">Tel.
+01b0  20 7A 6F 7A 6E 61 6D 3C 2F 61 3E 3C 2F 6C 69 3E   zoznam</a></li>
+01c0  0A 09 09 09 3C 6C 69 20 3E 3C 61 20 68 72 65 66  ....<li ><a href
+01d0  3D 27 2F 67 65 6E 65 72 61 74 65 5F 70 61 67 65  ='/generate_page
+01e0  2E 70 68 70 3F 70 61 67 65 5F 69 64 3D 31 37 36  .php?page_id=176
+01f0  37 27 20 74 69 74 6C 65 3D 22 4B 6F 6E 74 61 6B  7' title="Kontak
+0200  74 79 22 3E 4B 6F 6E 74 61 6B 74 79 3C 2F 61 3E  ty">Kontakty</a>
+0210  3C 2F 6C 69 3E 0A 09 09 3C 2F 75 6C 3E 0A 09 3C  </li>...</ul>..<
+0220  2F 64 69 76 3E 0A 09 3C 61 20 6E 61 6D 65 3D 22  /div>..<a name="
+0230  6F 62 73 61 68 5F 74 65 78 74 22 3E 3C 2F 61 3E  obsah_text"></a>
+0240  0A 09 3C 64 69 76 20 63 6C 61 73 73 3D 22 63 6F  ..<div class="co
+0250  6E 74 65 6E 74 22 3E 0A 09 09 3C 64 69 76 20 63  ntent">...<div c
+0260  6C 61 73 73 3D 22 6F 62 73 61 68 22 3E 0A 09 09  lass="obsah">...
+0270  09 3C 64 69 76 20 63 6C 61 73 73 3D 22 73 70 61  .<div class="spa
+0280  74 22 3E 0A 09 09 09 09 3C 64 69 76 20 63 6C 61  t">.....<div cla
+0290  73 73 3D 22 63 65 73 74 61 22 3E 0A 09 09 09 09  ss="cesta">.....
+02a0  3C 61 20 68 72 65 66 3D 22 2F 67 65 6E 65 72 61  <a href="/genera
+02b0  74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65  te_page.php?page
+02c0  5F 69 64 3D 31 22 20 20 74 69 74 6C 65 3D 22 46  _id=1"  title="F
+02d0  43 48 50 54 22 3E 46 43 48 50 54 3C 2F 61 3E 0A  CHPT">FCHPT</a>.
+02e0  09 09 09 09 3C 2F 64 69 76 3E 0A 09 09 09 09 3C  ....</div>.....<
+02f0  64 69 76 20 63 6C 61 73 73 3D 22 64 61 74 75 6D  div class="datum
+0300  22 3E 0A 09 09 09 09 09 70 69 61 74 6F 6B 2C 20  ">......piatok, 
+0310  31 36 2E 20 6D 61 72 65 63 20 32 30 31 32 0A 09  16. marec 2012..
+0320  09 09 09 3C 2F 64 69 76 3E 0A 09 09 09 3C 2F 64  ...</div>....</d
+0330  69 76 3E 0A 09 09 09 3C 68 31 3E 20 DA 73 74 61  iv>....<h1> .sta
+0340  76 79 20 61 20 6F 64 64 65 6C 65 6E 69 61 3C 2F  vy a oddelenia</
+0350  68 31 3E 0A 3C 73 74 79 6C 65 3E 0D 0A 23 75 73  h1>.<style>..#us
+0360  74 61 76 79 20 6C 69 7B 70 61 64 64 69 6E 67 2D  tavy li{padding-
+0370  62 6F 74 74 6F 6D 3A 20 31 30 70 78 7D 20 0D 0A  bottom: 10px} ..
+0380  3C 2F 73 74 79 6C 65 3E 0D 0A 3C 75 6C 20 69 64  </style>..<ul id
+0390  3D 22 75 73 74 61 76 79 22 3E 0D 0A 09 3C 6C 69  ="ustavy">...<li
+03a0  3E 3C 61 20 68 72 65 66 3D 27 2F 67 65 6E 65 72  ><a href='/gener
+03b0  61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67  ate_page.php?pag
+03c0  65 5F 69 64 3D 31 36 39 37 27 3E 20 DA 73 74 61  e_id=1697'> .sta
+03d0  76 20 61 6E 61 6C 79 74 69 63 6B 65 6A 20 63 68  v analytickej ch
+03e0  E9 6D 69 65 20 3C 2F 61 3E 3C 62 72 20 2F 3E 0D  .mie </a><br />.
+03f0  0A 09 3C 2F 6C 69 3E 0D 0A 09 3C 6C 69 3E 3C 61  ..</li>...<li><a
+0400  20 68 72 65 66 3D 27 2F 67 65 6E 65 72 61 74 65   href='/generate
+0410  5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F 69  _page.php?page_i
+0420  64 3D 31 36 39 38 27 3E 20 DA 73 74 61 76 20 61  d=1698'> .stav a
+0430  6E 6F 72 67 61 6E 69 63 6B 65 6A 20 63 68 E9 6D  norganickej ch.m
+0440  69 65 2C 20 74 65 63 68 6E 6F 6C F3 67 69 65 20  ie, technol.gie 
+0450  61 20 6D 61 74 65 72 69 E1 6C 6F 76 20 3C 2F 61  a materi.lov </a
+0460  3E 3C 62 72 20 2F 3E 0D 0A 09 3C 2F 6C 69 3E 0D  ><br />...</li>.
+0470  0A 09 3C 6C 69 3E 3C 61 20 68 72 65 66 3D 27 2F  ..<li><a href='/
+0480  67 65 6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68  generate_page.ph
+0490  70 3F 70 61 67 65 5F 69 64 3D 31 37 30 38 27 3E  p?page_id=1708'>
+04a0  20 DA 73 74 61 76 20 62 69 6F 63 68 E9 6D 69 65   .stav bioch.mie
+04b0  2C 20 76 FD 9E 69 76 79 20 61 20 6F 63 68 72 61  , v..ivy a ochra
+04c0  6E 79 20 7A 64 72 61 76 69 61 20 3C 2F 61 3E 3C  ny zdravia </a><
+04d0  62 72 20 2F 3E 0D 0A 09 3C 2F 6C 69 3E 0D 0A 09  br />...</li>...
+04e0  3C 6C 69 3E 3C 61 20 68 72 65 66 3D 27 2F 67 65  <li><a href='/ge
+04f0  6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F  nerate_page.php?
+0500  70 61 67 65 5F 69 64 3D 31 37 30 37 27 3E 20 DA  page_id=1707'> .
+0510  73 74 61 76 20 62 69 6F 74 65 63 68 6E 6F 6C F3  stav biotechnol.
+0520  67 69 65 20 61 20 70 6F 74 72 61 76 69 6E E1 72  gie a potravin.r
+0530  73 74 76 61 20 3C 2F 61 3E 3C 62 72 20 2F 3E 0D  stva </a><br />.
+0540  0A 09 3C 2F 6C 69 3E 0D 0A 09 3C 6C 69 3E 3C 61  ..</li>...<li><a
+0550  20 68 72 65 66 3D 27 2F 67 65 6E 65 72 61 74 65   href='/generate
+0560  5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F 69  _page.php?page_i
+0570  64 3D 31 37 30 36 27 3E 20 DA 73 74 61 76 20 66  d=1706'> .stav f
+0580  79 7A 69 6B E1 6C 6E 65 6A 20 63 68 E9 6D 69 65  yzik.lnej ch.mie
+0590  20 61 20 63 68 65 6D 69 63 6B                     a chemick
+
+ramec 49
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB BB 40 00 80 06 E8 64 C0 A8 01 21 93 AF  .(..@....d...!..
+0020  01 37 12 18 00 50 78 8E 2C FD 4D 9C 1E AE 50 10  .7...Px.,.M...P.
+0030  FF FF 34 E7 00 00                                ..4...
+
+ramec 50
+dlzka ramca poskytnuta pcap API - 732 B
+dlzka ramca prenasaneho po mediu - 732 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  02 CE D2 E9 40 00 3A 06 14 91 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 1E AE 78 8E 2C FD 50 18  .!.P..M...x.,.P.
+0030  1E 8B F9 A5 00 00 65 6A 20 66 79 7A 69 6B 79 20  ......ej fyziky 
+0040  3C 2F 61 3E 3C 62 72 20 2F 3E 0D 0A 09 3C 2F 6C  </a><br />...</l
+0050  69 3E 0D 0A 09 3C 6C 69 3E 3C 61 20 68 72 65 66  i>...<li><a href
+0060  3D 27 2F 67 65 6E 65 72 61 74 65 5F 70 61 67 65  ='/generate_page
+0070  2E 70 68 70 3F 70 61 67 65 5F 69 64 3D 31 37 30  .php?page_id=170
+0080  35 27 3E 20 DA 73 74 61 76 20 63 68 65 6D 69 63  5'> .stav chemic
+0090  6B E9 68 6F 20 61 20 65 6E 76 69 72 6F 6E 6D 65  k.ho a environme
+00a0  6E 74 E1 6C 6E 65 68 6F 20 69 6E 9E 69 6E 69 65  nt.lneho in.inie
+00b0  72 73 74 76 61 20 3C 2F 61 3E 3C 62 72 20 2F 3E  rstva </a><br />
+00c0  0D 0A 09 3C 2F 6C 69 3E 0D 0A 09 3C 6C 69 3E 3C  ...</li>...<li><
+00d0  61 20 68 72 65 66 3D 27 2F 67 65 6E 65 72 61 74  a href='/generat
+00e0  65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F  e_page.php?page_
+00f0  69 64 3D 31 37 30 32 27 3E 20 DA 73 74 61 76 20  id=1702'> .stav 
+0100  69 6E 66 6F 72 6D 61 74 69 7A E1 63 69 65 2C 20  informatiz.cie, 
+0110  61 75 74 6F 6D 61 74 69 7A E1 63 69 65 20 61 20  automatiz.cie a 
+0120  6D 61 74 65 6D 61 74 69 6B 79 20 3C 2F 61 3E 3C  matematiky </a><
+0130  62 72 20 2F 3E 0D 0A 09 3C 2F 6C 69 3E 0D 0A 09  br />...</li>...
+0140  3C 6C 69 3E 3C 61 20 68 72 65 66 3D 27 2F 67 65  <li><a href='/ge
+0150  6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F  nerate_page.php?
+0160  70 61 67 65 5F 69 64 3D 31 37 30 34 27 3E 20 DA  page_id=1704'> .
+0170  73 74 61 76 20 6F 72 67 61 6E 69 63 6B 65 6A 20  stav organickej 
+0180  63 68 E9 6D 69 65 2C 20 6B 61 74 61 6C FD 7A 79  ch.mie, katal.zy
+0190  20 61 20 70 65 74 72 6F 63 68 E9 6D 69 65 20 3C   a petroch.mie <
+01a0  2F 61 3E 3C 62 72 20 2F 3E 0D 0A 09 3C 2F 6C 69  /a><br />...</li
+01b0  3E 0D 0A 09 3C 6C 69 3E 3C 61 20 68 72 65 66 3D  >...<li><a href=
+01c0  27 2F 67 65 6E 65 72 61 74 65 5F 70 61 67 65 2E  '/generate_page.
+01d0  70 68 70 3F 70 61 67 65 5F 69 64 3D 31 37 30 33  php?page_id=1703
+01e0  27 3E 20 DA 73 74 61 76 20 70 6F 6C 79 6D E9 72  '> .stav polym.r
+01f0  6E 79 63 68 20 6D 61 74 65 72 69 E1 6C 6F 76 20  nych materi.lov 
+0200  3C 2F 61 3E 3C 62 72 20 2F 3E 0D 0A 09 3C 2F 6C  </a><br />...</l
+0210  69 3E 0D 0A 09 3C 6C 69 3E 3C 61 20 68 72 65 66  i>...<li><a href
+0220  3D 27 2F 67 65 6E 65 72 61 74 65 5F 70 61 67 65  ='/generate_page
+0230  2E 70 68 70 3F 70 61 67 65 5F 69 64 3D 31 37 30  .php?page_id=170
+0240  30 27 3E 20 4F 64 64 65 6C 65 6E 69 65 20 6A 61  0'> Oddelenie ja
+0250  7A 79 6B 6F 76 20 3C 2F 61 3E 3C 62 72 20 2F 3E  zykov </a><br />
+0260  0D 0A 09 0D 0A 09 3C 2F 6C 69 3E 0D 0A 09 3C 6C  ......</li>...<l
+0270  69 3E 3C 61 20 68 72 65 66 3D 27 2F 67 65 6E 65  i><a href='/gene
+0280  72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61  rate_page.php?pa
+0290  67 65 5F 69 64 3D 31 36 39 39 27 3E 20 4F 64 64  ge_id=1699'> Odd
+02a0  65 6C 65 6E 69 65 20 74 65 6C 65 73 6E 65 6A 20  elenie telesnej 
+02b0  76 FD 63 68 6F 76 79 20 61 20 9A 70 6F 72 74 75  v.chovy a .portu
+02c0  20 3C 2F 61 3E 3C 62 72 20 2F 3E 0D 0A 09 3C 2F   </a><br />...</
+02d0  6C 69 3E 0D 0A 3C 2F 75 6C 3E 0D 0A              li>..</ul>..
+
+ramec 51
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 EA 40 00 3A 06 11 D2 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 21 54 78 8E 2C FD 50 10  .!.P..M.!Tx.,.P.
+0030  1E 8B 8F 5E 00 00 31 61 65 39 0D 0A 09 09 09 3C  ...^..1ae9.....<
+0040  64 69 76 20 69 64 3D 22 63 6C 61 6E 6F 6B 5F 6C  div id="clanok_l
+0050  69 73 74 61 22 20 63 6C 61 73 73 3D 22 66 63 68  ista" class="fch
+0060  70 74 22 3E 0A 09 09 09 09 3C 64 69 76 20 63 6C  pt">.....<div cl
+0070  61 73 73 3D 22 64 61 74 75 6D 22 3E 3C 73 70 61  ass="datum"><spa
+0080  6E 3E 50 72 69 64 61 6E E9 3A 3C 2F 73 70 61 6E  n>Pridan.:</span
+0090  3E 20 31 38 2E 31 31 2E 32 30 31 31 3C 2F 64 69  > 18.11.2011</di
+00a0  76 3E 0A 09 09 09 09 3C 64 69 76 20 63 6C 61 73  v>.....<div clas
+00b0  73 3D 22 74 6C 61 63 69 64 6C 61 22 3E 0A 09 09  s="tlacidla">...
+00c0  09 09 09 3C 61 20 68 72 65 66 3D 22 23 22 20 6F  ...<a href="#" o
+00d0  6E 63 6C 69 63 6B 3D 22 73 65 6C 66 2E 70 72 69  nclick="self.pri
+00e0  6E 74 28 29 22 20 63 6C 61 73 73 3D 22 74 6C 61  nt()" class="tla
+00f0  63 22 20 74 69 74 6C 65 3D 22 54 6C 61 E8 69 9D  c" title="Tla.i.
+0100  22 3E 54 6C 61 E8 69 9D 3C 2F 61 3E 0A 09 09 09  ">Tla.i.</a>....
+0110  09 09 3C 61 20 68 72 65 66 3D 22 23 22 20 63 6C  ..<a href="#" cl
+0120  61 73 73 3D 22 68 6F 72 65 22 20 6F 6E 63 6C 69  ass="hore" oncli
+0130  63 6B 3D 22 45 66 66 65 63 74 2E 53 63 72 6F 6C  ck="Effect.Scrol
+0140  6C 54 6F 28 27 68 65 6C 70 5F 64 69 61 6C 6F 67  lTo('help_dialog
+0150  27 29 3B 20 72 65 74 75 72 6E 20 66 61 6C 73 65  '); return false
+0160  3B 22 20 74 69 74 6C 65 3D 22 68 6F 72 65 22 3E  ;" title="hore">
+0170  68 6F 72 65 3C 2F 61 3E 0A 09 09 09 09 09 3C 61  hore</a>......<a
+0180  20 68 72 65 66 3D 22 23 22 20 63 6C 61 73 73 3D   href="#" class=
+0190  22 7A 64 69 65 6C 61 74 22 20 6F 6E 63 6C 69 63  "zdielat" onclic
+01a0  6B 3D 22 57 63 6D 73 2E 72 6F 6C 6F 76 61 63 69  k="Wcms.rolovaci
+01b0  5A 6F 7A 6E 61 6D 28 65 76 65 6E 74 2C 27 6E 6F  Zoznam(event,'no
+01c0  76 61 5F 73 74 72 61 6E 6B 61 27 2C 27 68 74 74  va_stranka','htt
+01d0  70 25 33 41 25 32 46 25 32 46 77 77 77 2E 66 63  p%3A%2F%2Fwww.fc
+01e0  68 70 74 2E 73 74 75 62 61 2E 73 6B 25 32 46 67  hpt.stuba.sk%2Fg
+01f0  65 6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68 70  enerate_page.php
+0200  25 33 46 70 61 67 65 5F 69 64 25 33 44 31 36 39  %3Fpage_id%3D169
+0210  36 27 2C 27 26 55 61 63 75 74 65 3B 73 74 61 76  6','&Uacute;stav
+0220  79 20 61 20 6F 64 64 65 6C 65 6E 69 61 27 29 3B  y a oddelenia');
+0230  72 65 74 75 72 6E 20 66 61 6C 73 65 3B 22 20 74  return false;" t
+0240  69 74 6C 65 3D 22 5A 64 69 65 6C 61 9D 22 3E 5A  itle="Zdiela.">Z
+0250  64 69 65 6C 61 9D 3C 2F 61 3E 0A 09 09 09 09 3C  diela.</a>.....<
+0260  2F 64 69 76 3E 0A 09 09 09 09 3C 64 69 76 20 63  /div>.....<div c
+0270  6C 61 73 73 3D 22 61 75 74 6F 72 22 3E 26 6E 62  lass="autor">&nb
+0280  73 70 3B 09 09 09 09 3C 2F 64 69 76 3E 0A 09 09  sp;....</div>...
+0290  09 3C 2F 64 69 76 3E 0A 0A 09 09 3C 2F 64 69 76  .</div>....</div
+02a0  3E 0A 09 09 3C 64 69 76 20 63 6C 61 73 73 3D 22  >...<div class="
+02b0  6D 65 6E 75 22 3E 0A 09 09 09 3C 75 6C 3E 0A 09  menu">....<ul>..
+02c0  09 09 09 3C 6C 69 3E 0A 09 09 09 09 09 3C 73 70  ...<li>......<sp
+02d0  61 6E 3E 49 6E 66 6F 72 6D E1 63 69 65 20 70 72  an>Inform.cie pr
+02e0  65 3C 2F 73 70 61 6E 3E 0A 09 09 09 09 09 3C 75  e</span>......<u
+02f0  6C 3E 0A 09 09 09 09 09 09 3C 6C 69 20 63 6C 61  l>.......<li cla
+0300  73 73 3D 22 70 72 76 65 22 3E 0A 09 09 09 09 09  ss="prve">......
+0310  09 09 3C 61 20 68 72 65 66 3D 22 2F 67 65 6E 65  ..<a href="/gene
+0320  72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61  rate_page.php?pa
+0330  67 65 5F 69 64 3D 32 38 36 36 22 20 20 74 69 74  ge_id=2866"  tit
+0340  6C 65 3D 22 49 6E 66 6F 72 6D E1 63 69 65 20 70  le="Inform.cie p
+0350  72 65 20 75 63 68 E1 64 7A 61 E8 6F 76 20 6F 20  re uch.dza.ov o 
+0360  9A 74 FA 64 69 75 6D 20 6E 61 20 46 43 48 50 54  .t.dium na FCHPT
+0370  22 3E 75 63 68 E1 64 7A 61 E8 6F 76 3C 2F 61 3E  ">uch.dza.ov</a>
+0380  0A 09 09 09 09 09 09 3C 2F 6C 69 3E 0A 09 09 09  .......</li>....
+0390  09 09 09 3C 6C 69 3E 0A 09 09 09 09 09 09 09 3C  ...<li>........<
+03a0  61 20 68 72 65 66 3D 22 2F 67 65 6E 65 72 61 74  a href="/generat
+03b0  65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F  e_page.php?page_
+03c0  69 64 3D 32 38 34 22 20 20 74 69 74 6C 65 3D 22  id=284"  title="
+03d0  49 6E 66 6F 72 6D E1 63 69 65 20 70 72 65 20 9A  Inform.cie pre .
+03e0  74 75 64 65 6E 74 6F 76 22 3E 9A 74 75 64 65 6E  tudentov">.tuden
+03f0  74 6F 76 3C 2F 61 3E 0A 09 09 09 09 09 09 3C 2F  tov</a>.......</
+0400  6C 69 3E 0A 09 09 09 09 09 09 3C 6C 69 3E 0A 09  li>.......<li>..
+0410  09 09 09 09 09 09 3C 61 20 68 72 65 66 3D 22 2F  ......<a href="/
+0420  67 65 6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68  generate_page.ph
+0430  70 3F 70 61 67 65 5F 69 64 3D 32 37 37 22 20 20  p?page_id=277"  
+0440  74 69 74 6C 65 3D 22 49 6E 66 6F 72 6D E1 63 69  title="Inform.ci
+0450  65 20 70 72 65 20 61 62 73 6F 6C 76 65 6E 74 6F  e pre absolvento
+0460  76 22 3E 61 62 73 6F 6C 76 65 6E 74 6F 76 3C 2F  v">absolventov</
+0470  61 3E 0A 09 09 09 09 09 09 3C 2F 6C 69 3E 0A 09  a>.......</li>..
+0480  09 09 09 09 09 3C 6C 69 3E 0A 09 09 09 09 09 09  .....<li>.......
+0490  09 3C 61 20 68 72 65 66 3D 22 2F 67 65 6E 65 72  .<a href="/gener
+04a0  61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67  ate_page.php?pag
+04b0  65 5F 69 64 3D 33 34 30 22 20 20 74 69 74 6C 65  e_id=340"  title
+04c0  3D 22 76 65 72 65 6A 6E 6F 73 9D 22 3E 76 65 72  ="verejnos.">ver
+04d0  65 6A 6E 6F 73 9D 3C 2F 61 3E 0A 09 09 09 09 09  ejnos.</a>......
+04e0  09 3C 2F 6C 69 3E 0A 09 09 09 09 09 3C 2F 75 6C  .</li>......</ul
+04f0  3E 0A 09 09 09 09 3C 2F 6C 69 3E 0A 0A 09 09 09  >.....</li>.....
+0500  09 3C 6C 69 3E 0A 09 09 09 09 09 3C 73 70 61 6E  .<li>......<span
+0510  3E 49 6E 66 6F 72 6D E1 63 69 65 20 6F 3C 2F 73  >Inform.cie o</s
+0520  70 61 6E 3E 0A 09 09 09 09 09 3C 75 6C 3E 0A 09  pan>......<ul>..
+0530  09 09 09 09 09 3C 6C 69 20 63 6C 61 73 73 3D 22  .....<li class="
+0540  70 72 76 65 22 3E 0A 09 09 09 09 09 09 09 3C 61  prve">........<a
+0550  20 68 72 65 66 3D 22 2F 67 65 6E 65 72 61 74 65   href="/generate
+0560  5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F 69  _page.php?page_i
+0570  64 3D 33 38 39 22 20 20 74 69 74 6C 65 3D 22 50  d=389"  title="P
+0580  72 ED 68 6F 76 6F 72 20 64 65 6B 61 6E 61 22 3E  r.hovor dekana">
+0590  46 43 48 50 54 3C 2F 61 3E 0A                    FCHPT</a>.
+
+ramec 52
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB CA 40 00 80 06 E8 55 C0 A8 01 21 93 AF  .(..@....U...!..
+0020  01 37 12 18 00 50 78 8E 2C FD 4D 9C 26 B8 50 10  .7...Px.,.M.&.P.
+0030  FF FF 2C DD 00 00                                ..,...
+
+ramec 53
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 EB 40 00 3A 06 11 D1 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 26 B8 78 8E 2C FD 50 10  .!.P..M.&.x.,.P.
+0030  1E 8B EC 87 00 00 09 09 09 09 09 09 3C 2F 6C 69  ............</li
+0040  3E 0A 09 09 09 09 09 09 3C 6C 69 3E 0A 09 09 09  >.......<li>....
+0050  09 09 09 09 3C 61 20 68 72 65 66 3D 22 2F 67 65  ....<a href="/ge
+0060  6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F  nerate_page.php?
+0070  70 61 67 65 5F 69 64 3D 33 37 35 22 20 20 74 69  page_id=375"  ti
+0080  74 6C 65 3D 22 56 FD 73 6B 75 6D 22 3E 76 FD 73  tle="V.skum">v.s
+0090  6B 75 6D 65 3C 2F 61 3E 0A 09 09 09 09 09 09 3C  kume</a>.......<
+00a0  2F 6C 69 3E 0A 09 09 09 09 09 09 3C 6C 69 3E 0A  /li>.......<li>.
+00b0  09 09 09 09 09 09 09 3C 61 20 68 72 65 66 3D 22  .......<a href="
+00c0  2F 67 65 6E 65 72 61 74 65 5F 70 61 67 65 2E 70  /generate_page.p
+00d0  68 70 3F 70 61 67 65 5F 69 64 3D 33 36 31 22 20  hp?page_id=361" 
+00e0  20 74 69 74 6C 65 3D 22 4D 65 64 7A 69 6E E1 72   title="Medzin.r
+00f0  6F 64 6E E9 20 61 6B 74 69 76 69 74 79 22 3E 4D  odn. aktivity">M
+0100  65 64 7A 69 6E E1 72 6F 64 6E FD 63 68 20 61 6B  edzin.rodn.ch ak
+0110  74 69 76 69 74 E1 63 68 3C 2F 61 3E 0A 09 09 09  tivit.ch</a>....
+0120  09 09 09 3C 2F 6C 69 3E 0A 09 09 09 09 09 09 3C  ...</li>.......<
+0130  6C 69 3E 0A 09 09 09 09 09 09 09 3C 61 20 68 72  li>........<a hr
+0140  65 66 3D 22 2F 67 65 6E 65 72 61 74 65 5F 70 61  ef="/generate_pa
+0150  67 65 2E 70 68 70 3F 70 61 67 65 5F 69 64 3D 34  ge.php?page_id=4
+0160  35 32 22 20 20 74 69 74 6C 65 3D 22 64 69 61 6E  52"  title="dian
+0170  ED 20 6E 61 20 46 43 48 50 54 22 3E 64 69 61 6E  . na FCHPT">dian
+0180  ED 20 6E 61 20 46 43 48 50 54 3C 2F 61 3E 0A 09  . na FCHPT</a>..
+0190  09 09 09 09 09 3C 2F 6C 69 3E 0A 09 09 09 09 09  .....</li>......
+01a0  3C 2F 75 6C 3E 0A 09 09 09 09 3C 2F 6C 69 3E 0A  </ul>.....</li>.
+01b0  0A 09 09 09 09 3C 6C 69 3E 0A 09 09 09 09 09 3C  .....<li>......<
+01c0  61 20 68 72 65 66 3D 22 23 22 3E 42 6C 61 63 6B  a href="#">Black
+01d0  20 42 6F 78 3C 2F 61 3E 0A 09 09 09 09 09 3C 75   Box</a>......<u
+01e0  6C 3E 0A 09 09 09 09 09 09 3C 6C 69 20 63 6C 61  l>.......<li cla
+01f0  73 73 3D 22 70 72 76 65 22 3E 3C 61 20 68 72 65  ss="prve"><a hre
+0200  66 3D 22 2F 67 65 6E 65 72 61 74 65 5F 70 61 67  f="/generate_pag
+0210  65 2E 70 68 70 3F 70 61 67 65 5F 69 64 3D 31 39  e.php?page_id=19
+0220  30 34 22 3E 70 72 65 20 70 65 64 61 67 6F 67 69  04">pre pedagogi
+0230  63 6B E9 20 6F 64 64 65 6C 65 6E 69 65 20 3C 2F  ck. oddelenie </
+0240  61 3E 3C 2F 6C 69 3E 0A 09 09 09 09 09 09 3C 6C  a></li>.......<l
+0250  69 3E 3C 61 20 68 72 65 66 3D 22 2F 67 65 6E 65  i><a href="/gene
+0260  72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61  rate_page.php?pa
+0270  67 65 5F 69 64 3D 31 37 38 30 22 3E 70 72 65 20  ge_id=1780">pre 
+0280  72 65 64 61 6B 74 6F 72 61 20 77 65 62 20 73 74  redaktora web st
+0290  72 E1 6E 6F 6B 20 3C 2F 61 3E 3C 2F 6C 69 3E 0A  r.nok </a></li>.
+02a0  09 09 09 09 09 3C 2F 75 6C 3E 0A 09 09 09 09 3C  .....</ul>.....<
+02b0  2F 6C 69 3E 0A 0A 09 09 09 09 3C 6C 69 3E 0A 09  /li>......<li>..
+02c0  09 09 09 09 3C 73 70 61 6E 3E 41 6E 6B 65 74 61  ....<span>Anketa
+02d0  3C 2F 73 70 61 6E 3E 0A 09 09 09 09 09 3C 75 6C  </span>......<ul
+02e0  3E 0A 09 09 09 09 09 09 3C 6C 69 20 63 6C 61 73  >.......<li clas
+02f0  73 3D 22 61 6E 6B 65 74 61 22 3E 0A 09 09 09 09  s="anketa">.....
+0300  09 09 09 3C 62 72 20 2F 3E 0A 09 09 09 09 09 09  ...<br />.......
+0310  09 3C 61 20 68 72 65 66 3D 22 2F 67 65 6E 65 72  .<a href="/gener
+0320  61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67  ate_page.php?pag
+0330  65 5F 69 64 3D 32 32 33 33 0D 22 20 74 69 74 6C  e_id=2233." titl
+0340  65 3D 22 48 6F 64 6E 6F 74 65 6E 69 65 20 76 7A  e="Hodnotenie vz
+0350  64 65 6C E1 76 61 6E 69 61 22 20 63 6C 61 73 73  del.vania" class
+0360  3D 22 6F 64 6B 61 7A 22 3E 48 6F 64 6E 6F 74 65  ="odkaz">Hodnote
+0370  6E 69 65 20 76 7A 64 65 6C E1 76 61 6E 69 61 26  nie vzdel.vania&
+0380  6E 62 73 70 3B 26 23 31 38 37 3B 3C 2F 61 3E 0A  nbsp;&#187;</a>.
+0390  09 09 09 09 09 09 3C 2F 6C 69 3E 0A 09 09 09 09  ......</li>.....
+03a0  09 3C 2F 75 6C 3E 0A 09 09 09 09 3C 2F 6C 69 3E  .</ul>.....</li>
+03b0  0A 09 09 09 3C 2F 75 6C 3E 0A 09 09 09 3C 64 69  ....</ul>....<di
+03c0  76 20 63 6C 61 73 73 3D 22 72 65 6B 6C 61 6D 61  v class="reklama
+03d0  5F 76 6C 61 76 6F 22 3E 0A 09 09 09 09 3C 73 70  _vlavo">.....<sp
+03e0  61 6E 3E 0A 3C 64 69 76 20 73 74 79 6C 65 3D 22  an>.<div style="
+03f0  6D 61 72 67 69 6E 3A 20 33 70 78 20 30 70 78 3B  margin: 3px 0px;
+0400  20 74 65 78 74 2D 61 6C 69 67 6E 3A 20 63 65 6E   text-align: cen
+0410  74 65 72 3B 22 3E 0D 0A 0D 0A 09 09 09 3C 6F 62  ter;">.......<ob
+0420  6A 65 63 74 20 63 6C 61 73 73 69 64 3D 22 63 6C  ject classid="cl
+0430  73 69 64 3A 64 32 37 63 64 62 36 65 2D 61 65 36  sid:d27cdb6e-ae6
+0440  64 2D 31 31 63 66 2D 39 36 62 38 2D 34 34 34 35  d-11cf-96b8-4445
+0450  35 33 35 34 30 30 30 30 22 20 77 69 64 74 68 3D  53540000" width=
+0460  22 31 36 33 22 20 68 65 69 67 68 74 3D 22 37 30  "163" height="70
+0470  22 20 69 64 3D 22 62 61 6E 6E 65 72 4E 45 57 32  " id="bannerNEW2
+0480  22 20 61 6C 69 67 6E 3D 22 6D 69 64 64 6C 65 22  " align="middle"
+0490  3E 0D 0A 09 09 09 09 3C 70 61 72 61 6D 20 6E 61  >......<param na
+04a0  6D 65 3D 22 6D 6F 76 69 65 22 20 76 61 6C 75 65  me="movie" value
+04b0  3D 22 64 6F 63 73 2F 72 65 6B 6C 61 6D 61 2F 62  ="docs/reklama/b
+04c0  61 6E 6E 65 72 4E 45 57 32 2E 73 77 66 22 20 2F  annerNEW2.swf" /
+04d0  3E 0D 0A 09 09 09 09 3C 70 61 72 61 6D 20 6E 61  >......<param na
+04e0  6D 65 3D 22 71 75 61 6C 69 74 79 22 20 76 61 6C  me="quality" val
+04f0  75 65 3D 22 68 69 67 68 22 20 2F 3E 0D 0A 09 09  ue="high" />....
+0500  09 09 3C 70 61 72 61 6D 20 6E 61 6D 65 3D 22 62  ..<param name="b
+0510  67 63 6F 6C 6F 72 22 20 76 61 6C 75 65 3D 22 23  gcolor" value="#
+0520  66 66 66 66 66 66 22 20 2F 3E 0D 0A 09 09 09 09  ffffff" />......
+0530  3C 70 61 72 61 6D 20 6E 61 6D 65 3D 22 70 6C 61  <param name="pla
+0540  79 22 20 76 61 6C 75 65 3D 22 74 72 75 65 22 20  y" value="true" 
+0550  2F 3E 0D 0A 09 09 09 09 3C 70 61 72 61 6D 20 6E  />......<param n
+0560  61 6D 65 3D 22 6C 6F 6F 70 22 20 76 61 6C 75 65  ame="loop" value
+0570  3D 22 74 72 75 65 22 20 2F 3E 0D 0A 09 09 09 09  ="true" />......
+0580  3C 70 61 72 61 6D 20 6E 61 6D 65 3D 22 77 6D 6F  <param name="wmo
+0590  64 65 22 20 76 61 6C 75 65 3D                    de" value=
+
+ramec 54
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 EC 40 00 3A 06 11 D0 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 2C 1C 78 8E 2C FD 50 10  .!.P..M.,.x.,.P.
+0030  1E 8B BB 2A 00 00 22 77 69 6E 64 6F 77 22 20 2F  ...*.."window" /
+0040  3E 0D 0A 09 09 09 09 3C 70 61 72 61 6D 20 6E 61  >......<param na
+0050  6D 65 3D 22 73 63 61 6C 65 22 20 76 61 6C 75 65  me="scale" value
+0060  3D 22 73 68 6F 77 61 6C 6C 22 20 2F 3E 0D 0A 09  ="showall" />...
+0070  09 09 09 3C 70 61 72 61 6D 20 6E 61 6D 65 3D 22  ...<param name="
+0080  6D 65 6E 75 22 20 76 61 6C 75 65 3D 22 74 72 75  menu" value="tru
+0090  65 22 20 2F 3E 0D 0A 0D 0A 09 09 09 09 3C 70 61  e" />........<pa
+00a0  72 61 6D 20 6E 61 6D 65 3D 22 64 65 76 69 63 65  ram name="device
+00b0  66 6F 6E 74 22 20 76 61 6C 75 65 3D 22 66 61 6C  font" value="fal
+00c0  73 65 22 20 2F 3E 0D 0A 09 09 09 09 3C 70 61 72  se" />......<par
+00d0  61 6D 20 6E 61 6D 65 3D 22 73 61 6C 69 67 6E 22  am name="salign"
+00e0  20 76 61 6C 75 65 3D 22 22 20 2F 3E 0D 0A 09 09   value="" />....
+00f0  09 09 3C 70 61 72 61 6D 20 6E 61 6D 65 3D 22 61  ..<param name="a
+0100  6C 6C 6F 77 53 63 72 69 70 74 41 63 63 65 73 73  llowScriptAccess
+0110  22 20 76 61 6C 75 65 3D 22 73 61 6D 65 44 6F 6D  " value="sameDom
+0120  61 69 6E 22 20 2F 3E 0D 0A 09 09 09 09 3C 21 2D  ain" />......<!-
+0130  2D 5B 69 66 20 21 49 45 5D 3E 2D 2D 3E 0D 0A 09  -[if !IE]>-->...
+0140  09 09 09 3C 6F 62 6A 65 63 74 20 74 79 70 65 3D  ...<object type=
+0150  22 61 70 70 6C 69 63 61 74 69 6F 6E 2F 78 2D 73  "application/x-s
+0160  68 6F 63 6B 77 61 76 65 2D 66 6C 61 73 68 22 20  hockwave-flash" 
+0170  64 61 74 61 3D 22 64 6F 63 73 2F 72 65 6B 6C 61  data="docs/rekla
+0180  6D 61 2F 62 61 6E 6E 65 72 4E 45 57 32 2E 73 77  ma/bannerNEW2.sw
+0190  66 22 20 77 69 64 74 68 3D 22 31 36 33 22 20 68  f" width="163" h
+01a0  65 69 67 68 74 3D 22 37 30 22 3E 0D 0A 09 09 09  eight="70">.....
+01b0  09 09 3C 70 61 72 61 6D 20 6E 61 6D 65 3D 22 6D  ..<param name="m
+01c0  6F 76 69 65 22 20 76 61 6C 75 65 3D 22 64 6F 63  ovie" value="doc
+01d0  73 2F 72 65 6B 6C 61 6D 61 2F 62 61 6E 6E 65 72  s/reklama/banner
+01e0  4E 45 57 32 2E 73 77 66 22 20 2F 3E 0D 0A 09 09  NEW2.swf" />....
+01f0  09 09 09 3C 70 61 72 61 6D 20 6E 61 6D 65 3D 22  ...<param name="
+0200  71 75 61 6C 69 74 79 22 20 76 61 6C 75 65 3D 22  quality" value="
+0210  68 69 67 68 22 20 2F 3E 0D 0A 09 09 09 09 09 3C  high" />.......<
+0220  70 61 72 61 6D 20 6E 61 6D 65 3D 22 62 67 63 6F  param name="bgco
+0230  6C 6F 72 22 20 76 61 6C 75 65 3D 22 23 66 66 66  lor" value="#fff
+0240  66 66 66 22 20 2F 3E 0D 0A 0D 0A 09 09 09 09 09  fff" />.........
+0250  3C 70 61 72 61 6D 20 6E 61 6D 65 3D 22 70 6C 61  <param name="pla
+0260  79 22 20 76 61 6C 75 65 3D 22 74 72 75 65 22 20  y" value="true" 
+0270  2F 3E 0D 0A 0D 0A 09 09 09 09 09 3C 70 61 72 61  />.........<para
+0280  6D 20 6E 61 6D 65 3D 22 6C 6F 6F 70 22 20 76 61  m name="loop" va
+0290  6C 75 65 3D 22 74 72 75 65 22 20 2F 3E 0D 0A 09  lue="true" />...
+02a0  09 09 09 09 3C 70 61 72 61 6D 20 6E 61 6D 65 3D  ....<param name=
+02b0  22 77 6D 6F 64 65 22 20 76 61 6C 75 65 3D 22 77  "wmode" value="w
+02c0  69 6E 64 6F 77 22 20 2F 3E 0D 0A 09 09 09 09 09  indow" />.......
+02d0  3C 70 61 72 61 6D 20 6E 61 6D 65 3D 22 73 63 61  <param name="sca
+02e0  6C 65 22 20 76 61 6C 75 65 3D 22 73 68 6F 77 61  le" value="showa
+02f0  6C 6C 22 20 2F 3E 0D 0A 09 09 09 09 09 3C 70 61  ll" />.......<pa
+0300  72 61 6D 20 6E 61 6D 65 3D 22 6D 65 6E 75 22 20  ram name="menu" 
+0310  76 61 6C 75 65 3D 22 74 72 75 65 22 20 2F 3E 0D  value="true" />.
+0320  0A 09 09 09 09 09 3C 70 61 72 61 6D 20 6E 61 6D  ......<param nam
+0330  65 3D 22 64 65 76 69 63 65 66 6F 6E 74 22 20 76  e="devicefont" v
+0340  61 6C 75 65 3D 22 66 61 6C 73 65 22 20 2F 3E 0D  alue="false" />.
+0350  0A 09 09 09 09 09 3C 70 61 72 61 6D 20 6E 61 6D  ......<param nam
+0360  65 3D 22 73 61 6C 69 67 6E 22 20 76 61 6C 75 65  e="salign" value
+0370  3D 22 22 20 2F 3E 0D 0A 09 09 09 09 09 3C 70 61  ="" />.......<pa
+0380  72 61 6D 20 6E 61 6D 65 3D 22 61 6C 6C 6F 77 53  ram name="allowS
+0390  63 72 69 70 74 41 63 63 65 73 73 22 20 76 61 6C  criptAccess" val
+03a0  75 65 3D 22 73 61 6D 65 44 6F 6D 61 69 6E 22 20  ue="sameDomain" 
+03b0  2F 3E 0D 0A 0D 0A 09 09 09 09 3C 21 2D 2D 3C 21  />........<!--<!
+03c0  5B 65 6E 64 69 66 5D 2D 2D 3E 0D 0A 09 09 09 09  [endif]-->......
+03d0  09 3C 61 20 68 72 65 66 3D 22 68 74 74 70 3A 2F  .<a href="http:/
+03e0  2F 77 77 77 2E 61 64 6F 62 65 2E 63 6F 6D 2F 67  /www.adobe.com/g
+03f0  6F 2F 67 65 74 66 6C 61 73 68 22 3E 0D 0A 0D 0A  o/getflash">....
+0400  09 09 09 09 09 09 3C 69 6D 67 20 73 72 63 3D 22  ......<img src="
+0410  68 74 74 70 3A 2F 2F 77 77 77 2E 61 64 6F 62 65  http://www.adobe
+0420  2E 63 6F 6D 2F 69 6D 61 67 65 73 2F 73 68 61 72  .com/images/shar
+0430  65 64 2F 64 6F 77 6E 6C 6F 61 64 5F 62 75 74 74  ed/download_butt
+0440  6F 6E 73 2F 67 65 74 5F 66 6C 61 73 68 5F 70 6C  ons/get_flash_pl
+0450  61 79 65 72 2E 67 69 66 22 20 61 6C 74 3D 22 47  ayer.gif" alt="G
+0460  65 74 20 41 64 6F 62 65 20 46 6C 61 73 68 20 70  et Adobe Flash p
+0470  6C 61 79 65 72 22 20 2F 3E 0D 0A 09 09 09 09 09  layer" />.......
+0480  3C 2F 61 3E 0D 0A 09 09 09 09 3C 21 2D 2D 5B 69  </a>......<!--[i
+0490  66 20 21 49 45 5D 3E 2D 2D 3E 0D 0A 09 09 09 09  f !IE]>-->......
+04a0  3C 2F 6F 62 6A 65 63 74 3E 0D 0A 09 09 09 09 3C  </object>......<
+04b0  21 2D 2D 3C 21 5B 65 6E 64 69 66 5D 2D 2D 3E 0D  !--<![endif]-->.
+04c0  0A 09 09 09 3C 2F 6F 62 6A 65 63 74 3E 0D 0A 0D  ....</object>...
+04d0  0A 09 09 09 09 3C 2F 64 69 76 3E 0D 0A 09 09 09  .....</div>.....
+04e0  09 3C 2F 73 70 61 6E 3E 0A 09 09 09 3C 2F 64 69  .</span>....</di
+04f0  76 3E 0A 09 09 3C 2F 64 69 76 3E 0A 09 09 3C 64  v>...</div>...<d
+0500  69 76 20 73 74 79 6C 65 3D 22 63 6C 65 61 72 3A  iv style="clear:
+0510  20 62 6F 74 68 3B 22 3E 26 6E 62 73 70 3B 3C 2F   both;">&nbsp;</
+0520  64 69 76 3E 0A 09 3C 2F 64 69 76 3E 0A 09 3C 64  div>..</div>..<d
+0530  69 76 20 63 6C 61 73 73 3D 22 70 61 74 61 5F 70  iv class="pata_p
+0540  6F 7A 61 64 69 65 22 3E 0A 09 09 3C 64 69 76 20  ozadie">...<div 
+0550  63 6C 61 73 73 3D 22 70 61 74 61 22 3E 0A 09 09  class="pata">...
+0560  09 3C 64 69 76 20 63 6C 61 73 73 3D 22 76 69 7A  .<div class="viz
+0570  69 74 6B 61 22 3E 0A 09 09 09 09 26 63 6F 70 79  itka">.....&copy
+0580  3B 26 6E 62 73 70 3B 32 30 31 32 0A 09 09 09 09  ;&nbsp;2012.....
+0590  46 61 6B 75 6C 74 61 20 63 68                    Fakulta ch
+
+ramec 55
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB CB 40 00 80 06 E8 54 C0 A8 01 21 93 AF  .(..@....T...!..
+0020  01 37 12 18 00 50 78 8E 2C FD 4D 9C 31 80 50 10  .7...Px.,.M.1.P.
+0030  FF FF 22 15 00 00                                .."...
+
+ramec 56
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 ED 40 00 3A 06 11 CF 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 31 80 78 8E 2C FD 50 10  .!.P..M.1.x.,.P.
+0030  1E 8B 91 DF 00 00 65 6D 69 63 6B 65 6A 20 61 20  ......emickej a 
+0040  70 6F 74 72 61 76 69 6E E1 72 73 6B 65 6A 20 74  potravin.rskej t
+0050  65 63 68 6E 6F 6C F3 67 69 65 20 53 54 55 20 76  echnol.gie STU v
+0060  20 42 72 61 74 69 73 6C 61 76 65 2C 26 6E 62 73   Bratislave,&nbs
+0070  70 3B 0A 09 09 09 09 52 61 64 6C 69 6E 73 6B E9  p;.....Radlinsk.
+0080  68 6F 20 39 2C 20 38 31 32 20 33 37 20 42 72 61  ho 9, 812 37 Bra
+0090  74 69 73 6C 61 76 61 20 31 2C 20 74 65 6C 2E 3A  tislava 1, tel.:
+00a0  20 28 30 32 29 20 35 32 20 34 39 20 36 33 20 38   (02) 52 49 63 8
+00b0  34 2C 20 66 61 78 3A 20 28 30 32 29 20 35 32 20  4, fax: (02) 52 
+00c0  34 39 20 35 33 20 38 31 0A 09 09 09 3C 2F 64 69  49 53 81....</di
+00d0  76 3E 0A 09 09 09 3C 64 69 76 20 63 6C 61 73 73  v>....<div class
+00e0  3D 22 63 69 61 72 61 20 63 69 61 72 61 5F 66 63  ="ciara ciara_fc
+00f0  68 70 74 22 3E 26 6E 62 73 70 3B 3C 2F 64 69 76  hpt">&nbsp;</div
+0100  3E 0A 09 09 09 3C 64 69 76 20 63 6C 61 73 73 3D  >....<div class=
+0110  22 6C 6F 67 6F 20 6C 6F 67 6F 5F 66 63 68 70 74  "logo logo_fchpt
+0120  22 3E 0A 09 09 09 09 26 6E 62 73 70 3B 0A 09 09  ">.....&nbsp;...
+0130  09 3C 2F 64 69 76 3E 0A 09 09 09 3C 64 69 76 20  .</div>....<div 
+0140  63 6C 61 73 73 3D 22 6D 65 6E 75 22 3E 0A 09 09  class="menu">...
+0150  09 09 3C 75 6C 3E 0A 09 09 09 09 09 3C 6C 69 20  ..<ul>......<li 
+0160  63 6C 61 73 73 3D 22 70 72 76 61 22 3E 56 7A 64  class="prva">Vzd
+0170  65 6C E1 76 61 6E 69 65 3C 2F 6C 69 3E 0A 09 09  el.vanie</li>...
+0180  09 09 09 3C 6C 69 3E 3C 61 20 68 72 65 66 3D 22  ...<li><a href="
+0190  68 74 74 70 3A 2F 2F 77 77 77 2E 6B 69 72 70 2E  http://www.kirp.
+01a0  63 68 74 66 2E 73 74 75 62 61 2E 73 6B 2F 6D 6F  chtf.stuba.sk/mo
+01b0  6F 64 6C 65 22 20 74 61 72 67 65 74 3D 22 5F 62  odle" target="_b
+01c0  6C 61 6E 6B 22 20 72 65 6C 3D 22 65 78 74 65 72  lank" rel="exter
+01d0  6E 61 6C 22 20 74 69 74 6C 65 3D 22 65 2D 6C 65  nal" title="e-le
+01e0  61 72 6E 69 6E 67 22 3E 65 2D 6C 65 61 72 6E 69  arning">e-learni
+01f0  6E 67 3C 2F 61 3E 3C 2F 6C 69 3E 0A 09 09 09 09  ng</a></li>.....
+0200  09 3C 6C 69 3E 3C 61 20 68 72 65 66 3D 22 68 74  .<li><a href="ht
+0210  74 70 3A 2F 2F 77 77 77 2E 73 74 75 62 61 2E 73  tp://www.stuba.s
+0220  6B 2F 62 75 78 75 73 2F 67 65 6E 65 72 61 74 65  k/buxus/generate
+0230  5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F 69  _page.php?page_i
+0240  64 3D 32 38 37 33 22 20 74 61 72 67 65 74 3D 22  d=2873" target="
+0250  5F 62 6C 61 6E 6B 22 20 72 65 6C 3D 22 65 78 74  _blank" rel="ext
+0260  65 72 6E 61 6C 22 20 74 69 74 6C 65 3D 22 4A 61  ernal" title="Ja
+0270  7A 79 6B 6F 76 E9 20 63 65 6E 74 72 75 6D 22 3E  zykov. centrum">
+0280  4A 61 7A 79 6B 6F 76 E9 20 63 65 6E 74 72 75 6D  Jazykov. centrum
+0290  3C 2F 61 3E 3C 2F 6C 69 3E 0A 09 09 09 09 09 3C  </a></li>......<
+02a0  6C 69 3E 3C 61 20 68 72 65 66 3D 22 2F 67 65 6E  li><a href="/gen
+02b0  65 72 61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70  erate_page.php?p
+02c0  61 67 65 5F 69 64 3D 31 39 30 31 22 20 74 69 74  age_id=1901" tit
+02d0  6C 65 3D 22 43 65 6E 74 72 75 6D 20 63 65 6C 6F  le="Centrum celo
+02e0  9E 69 76 6F 74 6E E9 68 6F 20 76 7A 64 65 6C E1  .ivotn.ho vzdel.
+02f0  76 61 6E 69 61 22 3E 43 65 6E 74 72 75 6D 20 63  vania">Centrum c
+0300  65 6C 6F 9E 69 76 6F 74 6E E9 68 6F 20 76 2E 2E  elo.ivotn.ho v..
+0310  2E 3C 2F 61 3E 3C 2F 6C 69 3E 0A 09 09 09 09 3C  .</a></li>.....<
+0320  2F 75 6C 3E 0A 09 09 09 09 3C 75 6C 3E 0A 09 09  /ul>.....<ul>...
+0330  09 09 09 3C 6C 69 20 63 6C 61 73 73 3D 22 70 72  ...<li class="pr
+0340  76 61 22 3E 56 65 64 61 20 61 20 76 FD 73 6B 75  va">Veda a v.sku
+0350  6D 3C 2F 6C 69 3E 0A 09 09 09 09 09 3C 6C 69 3E  m</li>......<li>
+0360  3C 61 20 68 72 65 66 3D 22 68 74 74 70 3A 2F 2F  <a href="http://
+0370  77 77 77 2E 61 63 73 2E 63 68 74 66 2E 73 74 75  www.acs.chtf.stu
+0380  62 61 2E 73 6B 2F 22 20 74 61 72 67 65 74 3D 22  ba.sk/" target="
+0390  5F 62 6C 61 6E 6B 22 20 72 65 6C 3D 22 65 78 74  _blank" rel="ext
+03a0  65 72 6E 61 6C 22 20 74 69 74 6C 65 3D 22 41 63  ernal" title="Ac
+03b0  74 61 20 43 68 69 6D 69 63 61 20 53 6C 6F 76 61  ta Chimica Slova
+03c0  63 61 22 3E 41 63 74 61 20 43 68 69 6D 69 63 61  ca">Acta Chimica
+03d0  20 53 6C 6F 76 61 63 61 3C 2F 61 3E 3C 2F 6C 69   Slovaca</a></li
+03e0  3E 0A 09 09 09 09 3C 2F 75 6C 3E 0A 09 09 09 09  >.....</ul>.....
+03f0  3C 75 6C 3E 0A 09 09 09 09 09 3C 6C 69 20 63 6C  <ul>......<li cl
+0400  61 73 73 3D 22 70 72 76 61 22 3E 4D 65 64 7A 69  ass="prva">Medzi
+0410  6E E1 72 6F 64 6E E9 20 61 6B 74 69 76 69 74 79  n.rodn. aktivity
+0420  3C 2F 6C 69 3E 0A 09 09 09 09 09 3C 6C 69 3E 3C  </li>......<li><
+0430  61 20 68 72 65 66 3D 22 2F 67 65 6E 65 72 61 74  a href="/generat
+0440  65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65 5F  e_page.php?page_
+0450  69 64 3D 33 36 31 22 20 74 69 74 6C 65 3D 22 4D  id=361" title="M
+0460  65 64 7A 69 6E E1 72 6F 64 6E E1 20 73 70 6F 6C  edzin.rodn. spol
+0470  75 70 72 E1 63 61 22 3E 4D 65 64 7A 69 6E E1 72  upr.ca">Medzin.r
+0480  6F 64 6E E1 20 73 70 6F 6C 75 70 72 E1 63 61 3C  odn. spolupr.ca<
+0490  2F 61 3E 3C 2F 6C 69 3E 0A 09 09 09 09 3C 2F 75  /a></li>.....</u
+04a0  6C 3E 0A 09 09 09 09 3C 75 6C 3E 0A 09 09 09 09  l>.....<ul>.....
+04b0  09 3C 6C 69 20 63 6C 61 73 73 3D 22 70 72 76 61  .<li class="prva
+04c0  22 3E 4F 20 66 61 6B 75 6C 74 65 3C 2F 6C 69 3E  ">O fakulte</li>
+04d0  0A 09 09 09 09 09 3C 6C 69 3E 3C 61 20 68 72 65  ......<li><a hre
+04e0  66 3D 22 68 74 74 70 3A 2F 2F 77 77 77 2E 73 74  f="http://www.st
+04f0  75 62 61 2E 73 6B 2F 6E 65 77 2F 67 65 6E 65 72  uba.sk/new/gener
+0500  61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67  ate_page.php?pag
+0510  65 5F 69 64 3D 34 37 34 39 22 20 74 61 72 67 65  e_id=4749" targe
+0520  74 3D 22 5F 62 6C 61 6E 6B 22 20 72 65 6C 3D 22  t="_blank" rel="
+0530  65 78 74 65 72 6E 61 6C 22 20 74 69 74 6C 65 3D  external" title=
+0540  22 56 79 68 6C E1 73 65 6E 69 65 20 6F 20 70 72  "Vyhl.senie o pr
+0550  ED 73 74 75 70 6E 6F 73 74 69 22 3E 56 79 68 6C  .stupnosti">Vyhl
+0560  E1 73 65 6E 69 65 20 6F 20 70 72 ED 73 74 75 70  .senie o pr.stup
+0570  6E 6F 73 2E 2E 2E 3C 2F 61 3E 3C 2F 6C 69 3E 0A  nos...</a></li>.
+0580  09 09 09 09 09 3C 6C 69 3E 3C 61 20 68 72 65 66  .....<li><a href
+0590  3D 22 68 74 74 70 3A 2F 2F 77                    ="http://w
+
+ramec 57
+dlzka ramca poskytnuta pcap API - 1434 B
+dlzka ramca prenasaneho po mediu - 1434 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  05 8C D2 EE 40 00 3A 06 11 CE 93 AF 01 37 C0 A8  ....@.:......7..
+0020  01 21 00 50 12 18 4D 9C 36 E4 78 8E 2C FD 50 10  .!.P..M.6.x.,.P.
+0030  1E 8B 8A 52 00 00 77 77 2E 63 68 65 6D 69 6B 2E  ...R..ww.chemik.
+0040  73 6B 22 20 74 61 72 67 65 74 3D 22 5F 62 6C 61  sk" target="_bla
+0050  6E 6B 22 20 72 65 6C 3D 22 65 78 74 65 72 6E 61  nk" rel="externa
+0060  6C 22 20 74 69 74 6C 65 3D 22 8A 74 75 64 65 6E  l" title=".tuden
+0070  74 73 6B FD 20 70 61 72 6C 61 6D 65 6E 74 22 3E  tsk. parlament">
+0080  8A 74 75 64 65 6E 74 73 6B FD 20 70 61 72 6C 61  .tudentsk. parla
+0090  6D 65 6E 74 3C 2F 61 3E 3C 2F 6C 69 3E 0A 09 09  ment</a></li>...
+00a0  09 09 3C 2F 75 6C 3E 0A 09 09 09 09 3C 75 6C 3E  ..</ul>.....<ul>
+00b0  0A 09 09 09 09 09 3C 6C 69 20 63 6C 61 73 73 3D  ......<li class=
+00c0  22 70 72 76 61 22 3E 4F 64 6B 61 7A 79 3C 2F 6C  "prva">Odkazy</l
+00d0  69 3E 0A 09 09 09 09 09 3C 6C 69 3E 3C 61 20 68  i>......<li><a h
+00e0  72 65 66 3D 22 68 74 74 70 73 3A 2F 2F 77 77 77  ref="https://www
+00f0  2E 6A 65 64 61 6C 65 6E 2E 73 74 75 62 61 2E 73  .jedalen.stuba.s
+0100  6B 2F 22 20 74 61 72 67 65 74 3D 22 5F 62 6C 61  k/" target="_bla
+0110  6E 6B 22 20 72 65 6C 3D 22 65 78 74 65 72 6E 61  nk" rel="externa
+0120  6C 22 20 74 69 74 6C 65 3D 22 53 74 72 61 76 6F  l" title="Stravo
+0130  76 61 63 ED 20 73 79 73 74 E9 6D 22 3E 53 74 72  vac. syst.m">Str
+0140  61 76 6F 76 61 63 ED 20 73 79 73 74 E9 6D 3C 2F  avovac. syst.m</
+0150  61 3E 3C 2F 6C 69 3E 0A 09 09 09 09 09 3C 6C 69  a></li>......<li
+0160  3E 3C 61 20 68 72 65 66 3D 22 68 74 74 70 3A 2F  ><a href="http:/
+0170  2F 77 77 77 2E 73 63 68 65 6D 73 2E 73 6B 22 20  /www.schems.sk" 
+0180  74 61 72 67 65 74 3D 22 5F 62 6C 61 6E 6B 22 20  target="_blank" 
+0190  72 65 6C 3D 22 65 78 74 65 72 6E 61 6C 22 20 74  rel="external" t
+01a0  69 74 6C 65 3D 22 53 6C 6F 76 65 6E 73 6B E1 20  itle="Slovensk. 
+01b0  63 68 65 6D 69 63 6B E1 20 73 70 6F 6C 6F E8 6E  chemick. spolo.n
+01c0  6F 73 9D 22 3E 53 43 48 53 3C 2F 61 3E 3C 2F 6C  os.">SCHS</a></l
+01d0  69 3E 0A 09 09 09 09 09 3C 6C 69 3E 3C 61 20 68  i>......<li><a h
+01e0  72 65 66 3D 22 68 74 74 70 3A 2F 2F 77 77 77 2E  ref="http://www.
+01f0  73 61 76 2E 73 6B 22 20 74 61 72 67 65 74 3D 22  sav.sk" target="
+0200  5F 62 6C 61 6E 6B 22 20 72 65 6C 3D 22 65 78 74  _blank" rel="ext
+0210  65 72 6E 61 6C 22 20 74 69 74 6C 65 3D 22 53 6C  ernal" title="Sl
+0220  6F 76 65 6E 73 6B E1 20 61 6B 61 64 E9 6D 69 61  ovensk. akad.mia
+0230  20 76 69 65 64 22 3E 53 41 56 3C 2F 61 3E 3C 2F   vied">SAV</a></
+0240  6C 69 3E 0A 09 09 09 09 09 3C 6C 69 3E 3C 61 20  li>......<li><a 
+0250  68 72 65 66 3D 22 68 74 74 70 3A 2F 2F 77 77 77  href="http://www
+0260  2E 63 68 65 6D 6E 65 74 2E 73 6B 2F 22 20 74 61  .chemnet.sk/" ta
+0270  72 67 65 74 3D 22 5F 62 6C 61 6E 6B 22 20 72 65  rget="_blank" re
+0280  6C 3D 22 65 78 74 65 72 6E 61 6C 22 20 74 69 74  l="external" tit
+0290  6C 65 3D 22 43 68 65 6D 4E 65 74 22 3E 43 68 65  le="ChemNet">Che
+02a0  6D 4E 65 74 3C 2F 61 3E 3C 2F 6C 69 3E 0A 09 09  mNet</a></li>...
+02b0  09 09 09 3C 6C 69 3E 3C 61 20 68 72 65 66 3D 22  ...<li><a href="
+02c0  68 74 74 70 3A 2F 2F 77 77 77 2E 66 63 68 70 74  http://www.fchpt
+02d0  2E 73 74 75 62 61 2E 73 6B 2F 67 65 6E 65 72 61  .stuba.sk/genera
+02e0  74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67 65  te_page.php?page
+02f0  5F 69 64 3D 32 32 35 34 22 20 74 61 72 67 65 74  _id=2254" target
+0300  3D 22 5F 62 6C 61 6E 6B 22 20 72 65 6C 3D 22 65  ="_blank" rel="e
+0310  78 74 65 72 6E 61 6C 22 20 74 69 74 6C 65 3D 22  xternal" title="
+0320  4E 61 64 E1 63 69 61 20 70 72 65 20 72 6F 7A 76  Nad.cia pre rozv
+0330  6F 6A 20 46 43 48 50 54 20 53 54 55 22 3E 4E 61  oj FCHPT STU">Na
+0340  64 E1 63 69 61 20 70 72 65 20 72 6F 7A 76 6F 6A  d.cia pre rozvoj
+0350  20 46 43 48 50 2E 2E 2E 3C 2F 61 3E 3C 2F 6C 69   FCHP...</a></li
+0360  3E 0A 09 09 09 09 3C 2F 75 6C 3E 0A 09 09 09 3C  >.....</ul>....<
+0370  2F 64 69 76 3E 0A 09 09 09 3C 64 69 76 20 73 74  /div>....<div st
+0380  79 6C 65 3D 22 63 6C 65 61 72 3A 20 62 6F 74 68  yle="clear: both
+0390  3B 22 3E 26 6E 62 73 70 3B 3C 2F 64 69 76 3E 0A  ;">&nbsp;</div>.
+03a0  09 09 3C 2F 64 69 76 3E 0A 09 3C 2F 64 69 76 3E  ..</div>..</div>
+03b0  0A 09 3C 64 69 76 20 63 6C 61 73 73 3D 22 72 65  ..<div class="re
+03c0  6B 6C 61 6D 61 22 3E 0A 09 3C 2F 64 69 76 3E 0A  klama">..</div>.
+03d0  3C 64 69 76 20 69 64 3D 22 6C 69 6E 6B 79 22 3E  <div id="linky">
+03e0  3C 2F 64 69 76 3E 0A 09 3C 73 63 72 69 70 74 20  </div>..<script 
+03f0  74 79 70 65 3D 22 74 65 78 74 2F 6A 61 76 61 73  type="text/javas
+0400  63 72 69 70 74 22 3E 0A 09 76 61 72 20 67 61 4A  cript">..var gaJ
+0410  73 48 6F 73 74 20 3D 20 28 28 22 68 74 74 70 73  sHost = (("https
+0420  3A 22 20 3D 3D 20 64 6F 63 75 6D 65 6E 74 2E 6C  :" == document.l
+0430  6F 63 61 74 69 6F 6E 2E 70 72 6F 74 6F 63 6F 6C  ocation.protocol
+0440  29 20 3F 20 22 68 74 74 70 73 3A 2F 2F 73 73 6C  ) ? "https://ssl
+0450  2E 22 20 3A 20 22 68 74 74 70 3A 2F 2F 77 77 77  ." : "http://www
+0460  2E 22 29 3B 0A 09 64 6F 63 75 6D 65 6E 74 2E 77  .");..document.w
+0470  72 69 74 65 28 75 6E 65 73 63 61 70 65 28 22 25  rite(unescape("%
+0480  33 43 73 63 72 69 70 74 20 73 72 63 3D 27 22 20  3Cscript src='" 
+0490  2B 20 67 61 4A 73 48 6F 73 74 20 2B 20 22 67 6F  + gaJsHost + "go
+04a0  6F 67 6C 65 2D 61 6E 61 6C 79 74 69 63 73 2E 63  ogle-analytics.c
+04b0  6F 6D 2F 67 61 2E 6A 73 27 20 74 79 70 65 3D 27  om/ga.js' type='
+04c0  74 65 78 74 2F 6A 61 76 61 73 63 72 69 70 74 27  text/javascript'
+04d0  25 33 45 25 33 43 2F 73 63 72 69 70 74 25 33 45  %3E%3C/script%3E
+04e0  22 29 29 3B 0A 09 3C 2F 73 63 72 69 70 74 3E 0A  "));..</script>.
+04f0  09 3C 73 63 72 69 70 74 20 74 79 70 65 3D 22 74  .<script type="t
+0500  65 78 74 2F 6A 61 76 61 73 63 72 69 70 74 22 3E  ext/javascript">
+0510  0A 09 74 72 79 20 7B 0A 09 76 61 72 20 70 61 67  ..try {..var pag
+0520  65 54 72 61 63 6B 65 72 20 3D 20 5F 67 61 74 2E  eTracker = _gat.
+0530  5F 67 65 74 54 72 61 63 6B 65 72 28 22 55 41 2D  _getTracker("UA-
+0540  32 38 30 35 32 34 2D 38 22 29 3B 0A 09 70 61 67  280524-8");..pag
+0550  65 54 72 61 63 6B 65 72 2E 5F 74 72 61 63 6B 50  eTracker._trackP
+0560  61 67 65 76 69 65 77 28 29 3B 0A 09 7D 20 63 61  ageview();..} ca
+0570  74 63 68 28 65 72 72 29 20 7B 7D 3C 2F 73 63 72  tch(err) {}</scr
+0580  69 70 74 3E 0A 3C 2F 62 6F 64 79 3E 0A 3C 2F 68  ipt>.</body>.</h
+0590  74 6D 6C 3E 0A 0D 0A 30 0D 0A                    tml>...0..
+
+ramec 58
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB CD 40 00 80 06 E8 52 C0 A8 01 21 93 AF  .(..@....R...!..
+0020  01 37 12 18 00 50 78 8E 2C FD 4D 9C 3C 48 50 10  .7...Px.,.M.<HP.
+0030  FF FF 17 4D 00 00                                ...M..
+
+ramec 59
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 2A D2 EF 40 00 3A 06 17 2F 93 AF 01 37 C0 A8  .*..@.:../...7..
+0020  01 21 00 50 12 18 4D 9C 3C 48 78 8E 2C FD 50 19  .!.P..M.<Hx.,.P.
+0030  1E 8B EB AC 00 00 0D 0A 00 00 00 00              ............
+
+ramec 60
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB CE 40 00 80 06 E8 51 C0 A8 01 21 93 AF  .(..@....Q...!..
+0020  01 37 12 18 00 50 78 8E 2C FD 4D 9C 3C 4B 50 10  .7...Px.,.M.<KP.
+0030  FF FD 17 4C 00 00                                ...L..
+
+ramec 61
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.55
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB DD 40 00 80 06 E8 42 C0 A8 01 21 93 AF  .(..@....B...!..
+0020  01 37 12 18 00 50 78 8E 2C FD 4D 9C 3C 4B 50 11  .7...Px.,.M.<KP.
+0030  FF FD 17 4B 00 00                                ...K..
+
+ramec 62
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.55
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 D2 F0 40 00 3A 06 17 30 93 AF 01 37 C0 A8  .(..@.:..0...7..
+0020  01 21 00 50 12 18 4D 9C 3C 4B 78 8E 2C FE 50 10  .!.P..M.<Kx.,.P.
+0030  1E 8B F8 BD 00 00 00 00 00 00 00 00              ............
+
+ramec 63
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 30 BB E1 40 00 80 06 E8 61 C0 A8 01 21 93 AF  .0..@....a...!..
+0020  01 0C 12 1A 00 50 B0 62 3C C1 00 00 00 00 70 02  .....P.b<.....p.
+0030  FF FF 2D 0D 00 00 02 04 05 B4 01 01 04 02        ..-...........
+
+ramec 64
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 30 00 00 40 00 3A 06 EA 43 93 AF 01 0C C0 A8  .0..@.:..C......
+0020  01 21 00 50 12 1A 4E 84 D9 57 B0 62 3C C2 70 12  .!.P..N..W.b<.p.
+0030  16 D0 EE 9F 00 00 02 04 05 64 01 01 04 02        .........d....
+
+ramec 65
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB E6 40 00 80 06 E8 64 C0 A8 01 21 93 AF  .(..@....d...!..
+0020  01 0C 12 1A 00 50 B0 62 3C C2 4E 84 D9 58 50 10  .....P.b<.N..XP.
+0030  FF FF 31 E4 00 00                                ..1...
+
+ramec 66
+dlzka ramca poskytnuta pcap API - 621 B
+dlzka ramca prenasaneho po mediu - 621 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  02 5F BB E7 40 00 80 06 E6 2C C0 A8 01 21 93 AF  ._..@....,...!..
+0020  01 0C 12 1A 00 50 B0 62 3C C2 4E 84 D9 58 50 18  .....P.b<.N..XP.
+0030  FF FF 6E E5 00 00 47 45 54 20 2F 6E 65 77 2F 73  ..n...GET /new/s
+0040  74 75 5F 75 70 67 72 61 64 65 2F 6A 73 2F 73 6F  tu_upgrade/js/so
+0050  75 6E 64 2E 6A 73 20 48 54 54 50 2F 31 2E 31 0D  und.js HTTP/1.1.
+0060  0A 41 63 63 65 70 74 3A 20 2A 2F 2A 0D 0A 52 65  .Accept: */*..Re
+0070  66 65 72 65 72 3A 20 68 74 74 70 3A 2F 2F 77 77  ferer: http://ww
+0080  77 2E 66 63 68 70 74 2E 73 74 75 62 61 2E 73 6B  w.fchpt.stuba.sk
+0090  2F 67 65 6E 65 72 61 74 65 5F 70 61 67 65 2E 70  /generate_page.p
+00a0  68 70 3F 70 61 67 65 5F 69 64 3D 31 36 39 36 0D  hp?page_id=1696.
+00b0  0A 41 63 63 65 70 74 2D 4C 61 6E 67 75 61 67 65  .Accept-Language
+00c0  3A 20 65 6E 2D 75 73 0D 0A 55 73 65 72 2D 41 67  : en-us..User-Ag
+00d0  65 6E 74 3A 20 4D 6F 7A 69 6C 6C 61 2F 34 2E 30  ent: Mozilla/4.0
+00e0  20 28 63 6F 6D 70 61 74 69 62 6C 65 3B 20 4D 53   (compatible; MS
+00f0  49 45 20 38 2E 30 3B 20 57 69 6E 64 6F 77 73 20  IE 8.0; Windows 
+0100  4E 54 20 35 2E 31 3B 20 54 72 69 64 65 6E 74 2F  NT 5.1; Trident/
+0110  34 2E 30 3B 20 2E 4E 45 54 20 43 4C 52 20 32 2E  4.0; .NET CLR 2.
+0120  30 2E 35 30 37 32 37 3B 20 2E 4E 45 54 20 43 4C  0.50727; .NET CL
+0130  52 20 33 2E 30 2E 34 35 30 36 2E 32 31 35 32 3B  R 3.0.4506.2152;
+0140  20 2E 4E 45 54 20 43 4C 52 20 33 2E 35 2E 33 30   .NET CLR 3.5.30
+0150  37 32 39 3B 20 49 6E 66 6F 50 61 74 68 2E 33 29  729; InfoPath.3)
+0160  0D 0A 41 63 63 65 70 74 2D 45 6E 63 6F 64 69 6E  ..Accept-Encodin
+0170  67 3A 20 67 7A 69 70 2C 20 64 65 66 6C 61 74 65  g: gzip, deflate
+0180  0D 0A 48 6F 73 74 3A 20 77 77 77 2E 73 74 75 62  ..Host: www.stub
+0190  61 2E 73 6B 0D 0A 43 6F 6E 6E 65 63 74 69 6F 6E  a.sk..Connection
+01a0  3A 20 4B 65 65 70 2D 41 6C 69 76 65 0D 0A 43 6F  : Keep-Alive..Co
+01b0  6F 6B 69 65 3A 20 5F 5F 75 74 6D 61 3D 33 31 35  okie: __utma=315
+01c0  35 38 32 36 2E 31 39 38 30 33 31 37 39 37 34 2E  5826.1980317974.
+01d0  31 31 36 39 39 39 30 39 31 39 2E 31 33 33 30 37  1169990919.13307
+01e0  39 36 32 36 35 2E 31 33 33 30 38 39 33 30 37 38  96265.1330893078
+01f0  2E 34 31 35 3B 20 5F 5F 75 74 6D 7A 3D 33 31 35  .415; __utmz=315
+0200  35 38 32 36 2E 31 33 33 30 38 39 33 30 37 38 2E  5826.1330893078.
+0210  34 31 35 2E 33 33 39 2E 75 74 6D 63 73 72 3D 66  415.339.utmcsr=f
+0220  63 68 70 74 2E 73 74 75 62 61 2E 73 6B 7C 75 74  chpt.stuba.sk|ut
+0230  6D 63 63 6E 3D 28 72 65 66 65 72 72 61 6C 29 7C  mccn=(referral)|
+0240  75 74 6D 63 6D 64 3D 72 65 66 65 72 72 61 6C 7C  utmcmd=referral|
+0250  75 74 6D 63 63 74 3D 2F 67 65 6E 65 72 61 74 65  utmcct=/generate
+0260  5F 70 61 67 65 2E 70 68 70 0D 0A 0D 0A           _page.php....
+
+ramec 67
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 F7 9F 40 00 3A 06 F2 AB 93 AF 01 0C C0 A8  .(..@.:.........
+0020  01 21 00 50 12 1A 4E 84 D9 58 B0 62 3E F9 50 10  .!.P..N..X.b>.P.
+0030  1A 94 15 19 00 00 00 00 00 00 00 00              ............
+
+ramec 68
+dlzka ramca poskytnuta pcap API - 535 B
+dlzka ramca prenasaneho po mediu - 535 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  02 09 F7 A0 40 00 3A 06 F0 C9 93 AF 01 0C C0 A8  ....@.:.........
+0020  01 21 00 50 12 1A 4E 84 D9 58 B0 62 3E F9 50 18  .!.P..N..X.b>.P.
+0030  1A 94 ED B5 00 00 48 54 54 50 2F 31 2E 31 20 34  ......HTTP/1.1 4
+0040  30 34 20 4E 6F 74 20 46 6F 75 6E 64 0D 0A 44 61  04 Not Found..Da
+0050  74 65 3A 20 54 68 75 2C 20 31 35 20 4D 61 72 20  te: Thu, 15 Mar 
+0060  32 30 31 32 20 32 33 3A 32 33 3A 34 31 20 47 4D  2012 23:23:41 GM
+0070  54 0D 0A 53 65 72 76 65 72 3A 20 41 70 61 63 68  T..Server: Apach
+0080  65 2F 32 2E 32 2E 38 20 28 46 65 64 6F 72 61 29  e/2.2.8 (Fedora)
+0090  0D 0A 43 6F 6E 74 65 6E 74 2D 4C 65 6E 67 74 68  ..Content-Length
+00a0  3A 20 33 30 32 0D 0A 43 6F 6E 6E 65 63 74 69 6F  : 302..Connectio
+00b0  6E 3A 20 63 6C 6F 73 65 0D 0A 43 6F 6E 74 65 6E  n: close..Conten
+00c0  74 2D 54 79 70 65 3A 20 74 65 78 74 2F 68 74 6D  t-Type: text/htm
+00d0  6C 3B 20 63 68 61 72 73 65 74 3D 69 73 6F 2D 38  l; charset=iso-8
+00e0  38 35 39 2D 31 0D 0A 0D 0A 3C 21 44 4F 43 54 59  859-1....<!DOCTY
+00f0  50 45 20 48 54 4D 4C 20 50 55 42 4C 49 43 20 22  PE HTML PUBLIC "
+0100  2D 2F 2F 49 45 54 46 2F 2F 44 54 44 20 48 54 4D  -//IETF//DTD HTM
+0110  4C 20 32 2E 30 2F 2F 45 4E 22 3E 0A 3C 68 74 6D  L 2.0//EN">.<htm
+0120  6C 3E 3C 68 65 61 64 3E 0A 3C 74 69 74 6C 65 3E  l><head>.<title>
+0130  34 30 34 20 4E 6F 74 20 46 6F 75 6E 64 3C 2F 74  404 Not Found</t
+0140  69 74 6C 65 3E 0A 3C 2F 68 65 61 64 3E 3C 62 6F  itle>.</head><bo
+0150  64 79 3E 0A 3C 68 31 3E 4E 6F 74 20 46 6F 75 6E  dy>.<h1>Not Foun
+0160  64 3C 2F 68 31 3E 0A 3C 70 3E 54 68 65 20 72 65  d</h1>.<p>The re
+0170  71 75 65 73 74 65 64 20 55 52 4C 20 2F 6E 65 77  quested URL /new
+0180  2F 73 74 75 5F 75 70 67 72 61 64 65 2F 6A 73 2F  /stu_upgrade/js/
+0190  73 6F 75 6E 64 2E 6A 73 20 77 61 73 20 6E 6F 74  sound.js was not
+01a0  20 66 6F 75 6E 64 20 6F 6E 20 74 68 69 73 20 73   found on this s
+01b0  65 72 76 65 72 2E 3C 2F 70 3E 0A 3C 68 72 3E 0A  erver.</p>.<hr>.
+01c0  3C 61 64 64 72 65 73 73 3E 41 70 61 63 68 65 2F  <address>Apache/
+01d0  32 2E 32 2E 38 20 28 46 65 64 6F 72 61 29 20 53  2.2.8 (Fedora) S
+01e0  65 72 76 65 72 20 61 74 20 77 77 77 2E 73 74 75  erver at www.stu
+01f0  62 61 2E 73 6B 20 50 6F 72 74 20 38 30 3C 2F 61  ba.sk Port 80</a
+0200  64 64 72 65 73 73 3E 0A 3C 2F 62 6F 64 79 3E 3C  ddress>.</body><
+0210  2F 68 74 6D 6C 3E 0A                             /html>.
+
+ramec 69
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 F7 A1 40 00 3A 06 F2 A9 93 AF 01 0C C0 A8  .(..@.:.........
+0020  01 21 00 50 12 1A 4E 84 DB 39 B0 62 3E F9 50 11  .!.P..N..9.b>.P.
+0030  1A 94 13 37 00 00 00 00 00 00 00 00              ...7........
+
+ramec 70
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB E8 40 00 80 06 E8 62 C0 A8 01 21 93 AF  .(..@....b...!..
+0020  01 0C 12 1A 00 50 B0 62 3E F9 4E 84 DB 3A 50 10  .....P.b>.N..:P.
+0030  FE 1E 2F AC 00 00                                ../...
+
+ramec 71
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB EF 40 00 80 06 E8 5B C0 A8 01 21 93 AF  .(..@....[...!..
+0020  01 0C 12 1A 00 50 B0 62 3E F9 4E 84 DB 3A 50 11  .....P.b>.N..:P.
+0030  FE 1E 2F AB 00 00                                ../...
+
+ramec 72
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 30 BB F3 40 00 80 06 E8 4F C0 A8 01 21 93 AF  .0..@....O...!..
+0020  01 0C 12 1C 00 50 78 73 E5 99 00 00 00 00 70 02  .....Pxs......p.
+0030  FF FF BC 21 00 00 02 04 05 B4 01 01 04 02        ...!..........
+
+ramec 73
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 F7 A2 40 00 3A 06 F2 A8 93 AF 01 0C C0 A8  .(..@.:.........
+0020  01 21 00 50 12 1A 4E 84 DB 3A B0 62 3E FA 50 10  .!.P..N..:.b>.P.
+0030  1A 94 13 36 00 00 00 00 00 00 00 00              ...6........
+
+ramec 74
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 30 00 00 40 00 3A 06 EA 43 93 AF 01 0C C0 A8  .0..@.:..C......
+0020  01 21 00 50 12 1C 4E 76 DF 2C 78 73 E5 9A 70 12  .!.P..Nv.,xs..p.
+0030  16 D0 77 ED 00 00 02 04 05 64 01 01 04 02        ..w......d....
+
+ramec 75
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB F8 40 00 80 06 E8 52 C0 A8 01 21 93 AF  .(..@....R...!..
+0020  01 0C 12 1C 00 50 78 73 E5 9A 4E 76 DF 2D 50 10  .....Pxs..Nv.-P.
+0030  FF FF BB 31 00 00                                ...1..
+
+ramec 76
+dlzka ramca poskytnuta pcap API - 625 B
+dlzka ramca prenasaneho po mediu - 625 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  02 63 BB F9 40 00 80 06 E6 16 C0 A8 01 21 93 AF  .c..@........!..
+0020  01 0C 12 1C 00 50 78 73 E5 9A 4E 76 DF 2D 50 18  .....Pxs..Nv.-P.
+0030  FF FF 8E 1F 00 00 47 45 54 20 2F 6E 65 77 2F 69  ......GET /new/i
+0040  6D 67 2F 74 6F 70 5F 6D 65 6E 75 5F 62 61 63 6B  mg/top_menu_back
+0050  67 5F 63 65 6C 65 32 67 69 66 20 48 54 54 50 2F  g_cele2gif HTTP/
+0060  31 2E 31 0D 0A 41 63 63 65 70 74 3A 20 2A 2F 2A  1.1..Accept: */*
+0070  0D 0A 52 65 66 65 72 65 72 3A 20 68 74 74 70 3A  ..Referer: http:
+0080  2F 2F 77 77 77 2E 66 63 68 70 74 2E 73 74 75 62  //www.fchpt.stub
+0090  61 2E 73 6B 2F 67 65 6E 65 72 61 74 65 5F 70 61  a.sk/generate_pa
+00a0  67 65 2E 70 68 70 3F 70 61 67 65 5F 69 64 3D 31  ge.php?page_id=1
+00b0  36 39 36 0D 0A 41 63 63 65 70 74 2D 4C 61 6E 67  696..Accept-Lang
+00c0  75 61 67 65 3A 20 65 6E 2D 75 73 0D 0A 55 73 65  uage: en-us..Use
+00d0  72 2D 41 67 65 6E 74 3A 20 4D 6F 7A 69 6C 6C 61  r-Agent: Mozilla
+00e0  2F 34 2E 30 20 28 63 6F 6D 70 61 74 69 62 6C 65  /4.0 (compatible
+00f0  3B 20 4D 53 49 45 20 38 2E 30 3B 20 57 69 6E 64  ; MSIE 8.0; Wind
+0100  6F 77 73 20 4E 54 20 35 2E 31 3B 20 54 72 69 64  ows NT 5.1; Trid
+0110  65 6E 74 2F 34 2E 30 3B 20 2E 4E 45 54 20 43 4C  ent/4.0; .NET CL
+0120  52 20 32 2E 30 2E 35 30 37 32 37 3B 20 2E 4E 45  R 2.0.50727; .NE
+0130  54 20 43 4C 52 20 33 2E 30 2E 34 35 30 36 2E 32  T CLR 3.0.4506.2
+0140  31 35 32 3B 20 2E 4E 45 54 20 43 4C 52 20 33 2E  152; .NET CLR 3.
+0150  35 2E 33 30 37 32 39 3B 20 49 6E 66 6F 50 61 74  5.30729; InfoPat
+0160  68 2E 33 29 0D 0A 41 63 63 65 70 74 2D 45 6E 63  h.3)..Accept-Enc
+0170  6F 64 69 6E 67 3A 20 67 7A 69 70 2C 20 64 65 66  oding: gzip, def
+0180  6C 61 74 65 0D 0A 48 6F 73 74 3A 20 77 77 77 2E  late..Host: www.
+0190  73 74 75 62 61 2E 73 6B 0D 0A 43 6F 6E 6E 65 63  stuba.sk..Connec
+01a0  74 69 6F 6E 3A 20 4B 65 65 70 2D 41 6C 69 76 65  tion: Keep-Alive
+01b0  0D 0A 43 6F 6F 6B 69 65 3A 20 5F 5F 75 74 6D 61  ..Cookie: __utma
+01c0  3D 33 31 35 35 38 32 36 2E 31 39 38 30 33 31 37  =3155826.1980317
+01d0  39 37 34 2E 31 31 36 39 39 39 30 39 31 39 2E 31  974.1169990919.1
+01e0  33 33 30 37 39 36 32 36 35 2E 31 33 33 30 38 39  330796265.133089
+01f0  33 30 37 38 2E 34 31 35 3B 20 5F 5F 75 74 6D 7A  3078.415; __utmz
+0200  3D 33 31 35 35 38 32 36 2E 31 33 33 30 38 39 33  =3155826.1330893
+0210  30 37 38 2E 34 31 35 2E 33 33 39 2E 75 74 6D 63  078.415.339.utmc
+0220  73 72 3D 66 63 68 70 74 2E 73 74 75 62 61 2E 73  sr=fchpt.stuba.s
+0230  6B 7C 75 74 6D 63 63 6E 3D 28 72 65 66 65 72 72  k|utmccn=(referr
+0240  61 6C 29 7C 75 74 6D 63 6D 64 3D 72 65 66 65 72  al)|utmcmd=refer
+0250  72 61 6C 7C 75 74 6D 63 63 74 3D 2F 67 65 6E 65  ral|utmcct=/gene
+0260  72 61 74 65 5F 70 61 67 65 2E 70 68 70 0D 0A 0D  rate_page.php...
+0270  0A                                               .
+
+ramec 77
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 F0 2A 40 00 3A 06 FA 20 93 AF 01 0C C0 A8  .(.*@.:.. ......
+0020  01 21 00 50 12 1C 4E 76 DF 2D 78 73 E7 D5 50 10  .!.P..Nv.-xs..P.
+0030  1A C4 9E 32 00 00 00 00 00 00 00 00              ...2........
+
+ramec 78
+dlzka ramca poskytnuta pcap API - 539 B
+dlzka ramca prenasaneho po mediu - 539 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  02 0D F0 2B 40 00 3A 06 F8 3A 93 AF 01 0C C0 A8  ...+@.:..:......
+0020  01 21 00 50 12 1C 4E 76 DF 2D 78 73 E7 D5 50 18  .!.P..Nv.-xs..P.
+0030  1A C4 08 BC 00 00 48 54 54 50 2F 31 2E 31 20 34  ......HTTP/1.1 4
+0040  30 34 20 4E 6F 74 20 46 6F 75 6E 64 0D 0A 44 61  04 Not Found..Da
+0050  74 65 3A 20 54 68 75 2C 20 31 35 20 4D 61 72 20  te: Thu, 15 Mar 
+0060  32 30 31 32 20 32 33 3A 32 33 3A 34 31 20 47 4D  2012 23:23:41 GM
+0070  54 0D 0A 53 65 72 76 65 72 3A 20 41 70 61 63 68  T..Server: Apach
+0080  65 2F 32 2E 32 2E 38 20 28 46 65 64 6F 72 61 29  e/2.2.8 (Fedora)
+0090  0D 0A 43 6F 6E 74 65 6E 74 2D 4C 65 6E 67 74 68  ..Content-Length
+00a0  3A 20 33 30 36 0D 0A 43 6F 6E 6E 65 63 74 69 6F  : 306..Connectio
+00b0  6E 3A 20 63 6C 6F 73 65 0D 0A 43 6F 6E 74 65 6E  n: close..Conten
+00c0  74 2D 54 79 70 65 3A 20 74 65 78 74 2F 68 74 6D  t-Type: text/htm
+00d0  6C 3B 20 63 68 61 72 73 65 74 3D 69 73 6F 2D 38  l; charset=iso-8
+00e0  38 35 39 2D 31 0D 0A 0D 0A 3C 21 44 4F 43 54 59  859-1....<!DOCTY
+00f0  50 45 20 48 54 4D 4C 20 50 55 42 4C 49 43 20 22  PE HTML PUBLIC "
+0100  2D 2F 2F 49 45 54 46 2F 2F 44 54 44 20 48 54 4D  -//IETF//DTD HTM
+0110  4C 20 32 2E 30 2F 2F 45 4E 22 3E 0A 3C 68 74 6D  L 2.0//EN">.<htm
+0120  6C 3E 3C 68 65 61 64 3E 0A 3C 74 69 74 6C 65 3E  l><head>.<title>
+0130  34 30 34 20 4E 6F 74 20 46 6F 75 6E 64 3C 2F 74  404 Not Found</t
+0140  69 74 6C 65 3E 0A 3C 2F 68 65 61 64 3E 3C 62 6F  itle>.</head><bo
+0150  64 79 3E 0A 3C 68 31 3E 4E 6F 74 20 46 6F 75 6E  dy>.<h1>Not Foun
+0160  64 3C 2F 68 31 3E 0A 3C 70 3E 54 68 65 20 72 65  d</h1>.<p>The re
+0170  71 75 65 73 74 65 64 20 55 52 4C 20 2F 6E 65 77  quested URL /new
+0180  2F 69 6D 67 2F 74 6F 70 5F 6D 65 6E 75 5F 62 61  /img/top_menu_ba
+0190  63 6B 67 5F 63 65 6C 65 32 67 69 66 20 77 61 73  ckg_cele2gif was
+01a0  20 6E 6F 74 20 66 6F 75 6E 64 20 6F 6E 20 74 68   not found on th
+01b0  69 73 20 73 65 72 76 65 72 2E 3C 2F 70 3E 0A 3C  is server.</p>.<
+01c0  68 72 3E 0A 3C 61 64 64 72 65 73 73 3E 41 70 61  hr>.<address>Apa
+01d0  63 68 65 2F 32 2E 32 2E 38 20 28 46 65 64 6F 72  che/2.2.8 (Fedor
+01e0  61 29 20 53 65 72 76 65 72 20 61 74 20 77 77 77  a) Server at www
+01f0  2E 73 74 75 62 61 2E 73 6B 20 50 6F 72 74 20 38  .stuba.sk Port 8
+0200  30 3C 2F 61 64 64 72 65 73 73 3E 0A 3C 2F 62 6F  0</address>.</bo
+0210  64 79 3E 3C 2F 68 74 6D 6C 3E 0A                 dy></html>.
+
+ramec 79
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 F0 2C 40 00 3A 06 FA 1E 93 AF 01 0C C0 A8  .(.,@.:.........
+0020  01 21 00 50 12 1C 4E 76 E1 12 78 73 E7 D5 50 11  .!.P..Nv..xs..P.
+0030  1A C4 9C 4C 00 00 00 00 00 00 00 00              ...L........
+
+ramec 80
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BB FA 40 00 80 06 E8 50 C0 A8 01 21 93 AF  .(..@....P...!..
+0020  01 0C 12 1C 00 50 78 73 E7 D5 4E 76 E1 13 50 10  .....Pxs..Nv..P.
+0030  FE 1A B8 F5 00 00                                ......
+
+ramec 81
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BC 01 40 00 80 06 E8 49 C0 A8 01 21 93 AF  .(..@....I...!..
+0020  01 0C 12 1C 00 50 78 73 E7 D5 4E 76 E1 13 50 11  .....Pxs..Nv..P.
+0030  FE 1A B8 F4 00 00                                ......
+
+ramec 82
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 F0 2D 40 00 3A 06 FA 1D 93 AF 01 0C C0 A8  .(.-@.:.........
+0020  01 21 00 50 12 1C 4E 76 E1 13 78 73 E7 D6 50 10  .!.P..Nv..xs..P.
+0030  1A C4 9C 4B 00 00 00 00 00 00 00 00              ...K........
+
+ramec 83
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 30 BC 05 40 00 80 06 E8 3D C0 A8 01 21 93 AF  .0..@....=...!..
+0020  01 0C 12 1E 00 50 CD 07 CA 30 00 00 00 00 70 02  .....P...0....p.
+0030  FF FF 82 F4 00 00 02 04 05 B4 01 01 04 02        ..............
+
+ramec 84
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 30 00 00 40 00 3A 06 EA 43 93 AF 01 0C C0 A8  .0..@.:..C......
+0020  01 21 00 50 12 1E 4E 77 21 42 CD 07 CA 31 70 12  .!.P..Nw!B...1p.
+0030  16 D0 FC A9 00 00 02 04 05 64 01 01 04 02        .........d....
+
+ramec 85
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BC 0A 40 00 80 06 E8 40 C0 A8 01 21 93 AF  .(..@....@...!..
+0020  01 0C 12 1E 00 50 CD 07 CA 31 4E 77 21 43 50 10  .....P...1Nw!CP.
+0030  FF FF 3F EE 00 00                                ..?...
+
+ramec 86
+dlzka ramca poskytnuta pcap API - 619 B
+dlzka ramca prenasaneho po mediu - 619 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  02 5D BC 0B 40 00 80 06 E6 0A C0 A8 01 21 93 AF  .]..@........!..
+0020  01 0C 12 1E 00 50 CD 07 CA 31 4E 77 21 43 50 18  .....P...1Nw!CP.
+0030  FF FF 0C 0A 00 00 47 45 54 20 2F 6E 65 77 2F 69  ......GET /new/i
+0040  6D 67 2F 74 6F 70 5F 6C 6F 67 6F 5F 62 61 63 6B  mg/top_logo_back
+0050  67 70 6E 67 20 48 54 54 50 2F 31 2E 31 0D 0A 41  gpng HTTP/1.1..A
+0060  63 63 65 70 74 3A 20 2A 2F 2A 0D 0A 52 65 66 65  ccept: */*..Refe
+0070  72 65 72 3A 20 68 74 74 70 3A 2F 2F 77 77 77 2E  rer: http://www.
+0080  66 63 68 70 74 2E 73 74 75 62 61 2E 73 6B 2F 67  fchpt.stuba.sk/g
+0090  65 6E 65 72 61 74 65 5F 70 61 67 65 2E 70 68 70  enerate_page.php
+00a0  3F 70 61 67 65 5F 69 64 3D 31 36 39 36 0D 0A 41  ?page_id=1696..A
+00b0  63 63 65 70 74 2D 4C 61 6E 67 75 61 67 65 3A 20  ccept-Language: 
+00c0  65 6E 2D 75 73 0D 0A 55 73 65 72 2D 41 67 65 6E  en-us..User-Agen
+00d0  74 3A 20 4D 6F 7A 69 6C 6C 61 2F 34 2E 30 20 28  t: Mozilla/4.0 (
+00e0  63 6F 6D 70 61 74 69 62 6C 65 3B 20 4D 53 49 45  compatible; MSIE
+00f0  20 38 2E 30 3B 20 57 69 6E 64 6F 77 73 20 4E 54   8.0; Windows NT
+0100  20 35 2E 31 3B 20 54 72 69 64 65 6E 74 2F 34 2E   5.1; Trident/4.
+0110  30 3B 20 2E 4E 45 54 20 43 4C 52 20 32 2E 30 2E  0; .NET CLR 2.0.
+0120  35 30 37 32 37 3B 20 2E 4E 45 54 20 43 4C 52 20  50727; .NET CLR 
+0130  33 2E 30 2E 34 35 30 36 2E 32 31 35 32 3B 20 2E  3.0.4506.2152; .
+0140  4E 45 54 20 43 4C 52 20 33 2E 35 2E 33 30 37 32  NET CLR 3.5.3072
+0150  39 3B 20 49 6E 66 6F 50 61 74 68 2E 33 29 0D 0A  9; InfoPath.3)..
+0160  41 63 63 65 70 74 2D 45 6E 63 6F 64 69 6E 67 3A  Accept-Encoding:
+0170  20 67 7A 69 70 2C 20 64 65 66 6C 61 74 65 0D 0A   gzip, deflate..
+0180  48 6F 73 74 3A 20 77 77 77 2E 73 74 75 62 61 2E  Host: www.stuba.
+0190  73 6B 0D 0A 43 6F 6E 6E 65 63 74 69 6F 6E 3A 20  sk..Connection: 
+01a0  4B 65 65 70 2D 41 6C 69 76 65 0D 0A 43 6F 6F 6B  Keep-Alive..Cook
+01b0  69 65 3A 20 5F 5F 75 74 6D 61 3D 33 31 35 35 38  ie: __utma=31558
+01c0  32 36 2E 31 39 38 30 33 31 37 39 37 34 2E 31 31  26.1980317974.11
+01d0  36 39 39 39 30 39 31 39 2E 31 33 33 30 37 39 36  69990919.1330796
+01e0  32 36 35 2E 31 33 33 30 38 39 33 30 37 38 2E 34  265.1330893078.4
+01f0  31 35 3B 20 5F 5F 75 74 6D 7A 3D 33 31 35 35 38  15; __utmz=31558
+0200  32 36 2E 31 33 33 30 38 39 33 30 37 38 2E 34 31  26.1330893078.41
+0210  35 2E 33 33 39 2E 75 74 6D 63 73 72 3D 66 63 68  5.339.utmcsr=fch
+0220  70 74 2E 73 74 75 62 61 2E 73 6B 7C 75 74 6D 63  pt.stuba.sk|utmc
+0230  63 6E 3D 28 72 65 66 65 72 72 61 6C 29 7C 75 74  cn=(referral)|ut
+0240  6D 63 6D 64 3D 72 65 66 65 72 72 61 6C 7C 75 74  mcmd=referral|ut
+0250  6D 63 63 74 3D 2F 67 65 6E 65 72 61 74 65 5F 70  mcct=/generate_p
+0260  61 67 65 2E 70 68 70 0D 0A 0D 0A                 age.php....
+
+ramec 87
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 30 BC 10 40 00 80 06 E8 32 C0 A8 01 21 93 AF  .0..@....2...!..
+0020  01 0C 12 20 00 50 7B 1F F3 78 00 00 00 00 70 02  ... .P{..x....p.
+0030  FF FF AB 92 00 00 02 04 05 B4 01 01 04 02        ..............
+
+ramec 88
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 0E DB 40 00 3A 06 DB 70 93 AF 01 0C C0 A8  .(..@.:..p......
+0020  01 21 00 50 12 1E 4E 77 21 43 CD 07 CC 66 50 10  .!.P..Nw!C...fP.
+0030  1A 7C 23 3D 00 00 00 00 00 00 00 00              .|#=........
+
+ramec 89
+dlzka ramca poskytnuta pcap API - 533 B
+dlzka ramca prenasaneho po mediu - 533 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  02 07 0E DC 40 00 3A 06 D9 90 93 AF 01 0C C0 A8  ....@.:.........
+0020  01 21 00 50 12 1E 4E 77 21 43 CD 07 CC 66 50 18  .!.P..Nw!C...fP.
+0030  1A 7C 8C F4 00 00 48 54 54 50 2F 31 2E 31 20 34  .|....HTTP/1.1 4
+0040  30 34 20 4E 6F 74 20 46 6F 75 6E 64 0D 0A 44 61  04 Not Found..Da
+0050  74 65 3A 20 54 68 75 2C 20 31 35 20 4D 61 72 20  te: Thu, 15 Mar 
+0060  32 30 31 32 20 32 33 3A 32 33 3A 34 31 20 47 4D  2012 23:23:41 GM
+0070  54 0D 0A 53 65 72 76 65 72 3A 20 41 70 61 63 68  T..Server: Apach
+0080  65 2F 32 2E 32 2E 38 20 28 46 65 64 6F 72 61 29  e/2.2.8 (Fedora)
+0090  0D 0A 43 6F 6E 74 65 6E 74 2D 4C 65 6E 67 74 68  ..Content-Length
+00a0  3A 20 33 30 30 0D 0A 43 6F 6E 6E 65 63 74 69 6F  : 300..Connectio
+00b0  6E 3A 20 63 6C 6F 73 65 0D 0A 43 6F 6E 74 65 6E  n: close..Conten
+00c0  74 2D 54 79 70 65 3A 20 74 65 78 74 2F 68 74 6D  t-Type: text/htm
+00d0  6C 3B 20 63 68 61 72 73 65 74 3D 69 73 6F 2D 38  l; charset=iso-8
+00e0  38 35 39 2D 31 0D 0A 0D 0A 3C 21 44 4F 43 54 59  859-1....<!DOCTY
+00f0  50 45 20 48 54 4D 4C 20 50 55 42 4C 49 43 20 22  PE HTML PUBLIC "
+0100  2D 2F 2F 49 45 54 46 2F 2F 44 54 44 20 48 54 4D  -//IETF//DTD HTM
+0110  4C 20 32 2E 30 2F 2F 45 4E 22 3E 0A 3C 68 74 6D  L 2.0//EN">.<htm
+0120  6C 3E 3C 68 65 61 64 3E 0A 3C 74 69 74 6C 65 3E  l><head>.<title>
+0130  34 30 34 20 4E 6F 74 20 46 6F 75 6E 64 3C 2F 74  404 Not Found</t
+0140  69 74 6C 65 3E 0A 3C 2F 68 65 61 64 3E 3C 62 6F  itle>.</head><bo
+0150  64 79 3E 0A 3C 68 31 3E 4E 6F 74 20 46 6F 75 6E  dy>.<h1>Not Foun
+0160  64 3C 2F 68 31 3E 0A 3C 70 3E 54 68 65 20 72 65  d</h1>.<p>The re
+0170  71 75 65 73 74 65 64 20 55 52 4C 20 2F 6E 65 77  quested URL /new
+0180  2F 69 6D 67 2F 74 6F 70 5F 6C 6F 67 6F 5F 62 61  /img/top_logo_ba
+0190  63 6B 67 70 6E 67 20 77 61 73 20 6E 6F 74 20 66  ckgpng was not f
+01a0  6F 75 6E 64 20 6F 6E 20 74 68 69 73 20 73 65 72  ound on this ser
+01b0  76 65 72 2E 3C 2F 70 3E 0A 3C 68 72 3E 0A 3C 61  ver.</p>.<hr>.<a
+01c0  64 64 72 65 73 73 3E 41 70 61 63 68 65 2F 32 2E  ddress>Apache/2.
+01d0  32 2E 38 20 28 46 65 64 6F 72 61 29 20 53 65 72  2.8 (Fedora) Ser
+01e0  76 65 72 20 61 74 20 77 77 77 2E 73 74 75 62 61  ver at www.stuba
+01f0  2E 73 6B 20 50 6F 72 74 20 38 30 3C 2F 61 64 64  .sk Port 80</add
+0200  72 65 73 73 3E 0A 3C 2F 62 6F 64 79 3E 3C 2F 68  ress>.</body></h
+0210  74 6D 6C 3E 0A                                   tml>.
+
+ramec 90
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 0E DD 40 00 3A 06 DB 6E 93 AF 01 0C C0 A8  .(..@.:..n......
+0020  01 21 00 50 12 1E 4E 77 23 22 CD 07 CC 66 50 11  .!.P..Nw#"...fP.
+0030  1A 7C 21 5D 00 00 00 00 00 00 00 00              .|!]........
+
+ramec 91
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BC 14 40 00 80 06 E8 36 C0 A8 01 21 93 AF  .(..@....6...!..
+0020  01 0C 12 1E 00 50 CD 07 CC 66 4E 77 23 23 50 10  .....P...fNw##P.
+0030  FE 20 3D B8 00 00                                . =...
+
+ramec 92
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BC 1B 40 00 80 06 E8 2F C0 A8 01 21 93 AF  .(..@..../...!..
+0020  01 0C 12 1E 00 50 CD 07 CC 66 4E 77 23 23 50 11  .....P...fNw##P.
+0030  FE 20 3D B7 00 00                                . =...
+
+ramec 93
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 30 00 00 40 00 3A 06 EA 43 93 AF 01 0C C0 A8  .0..@.:..C......
+0020  01 21 00 50 12 20 4E 27 FA 54 7B 1F F3 79 70 12  .!.P. N'.T{..yp.
+0030  16 D0 4C 85 00 00 02 04 05 64 01 01 04 02        ..L......d....
+
+ramec 94
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BC 1C 40 00 80 06 E8 2E C0 A8 01 21 93 AF  .(..@........!..
+0020  01 0C 12 20 00 50 7B 1F F3 79 4E 27 FA 55 50 10  ... .P{..yN'.UP.
+0030  FF FF 8F C9 00 00                                ......
+
+ramec 95
+dlzka ramca poskytnuta pcap API - 615 B
+dlzka ramca prenasaneho po mediu - 615 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  02 59 BC 1D 40 00 80 06 E5 FC C0 A8 01 21 93 AF  .Y..@........!..
+0020  01 0C 12 20 00 50 7B 1F F3 79 4E 27 FA 55 50 18  ... .P{..yN'.UP.
+0030  FF FF 52 A9 00 00 47 45 54 20 2F 6E 65 77 2F 69  ..R...GET /new/i
+0040  6D 67 2F 62 75 74 5F 70 72 69 6E 74 2E 70 6E 67  mg/but_print.png
+0050  20 48 54 54 50 2F 31 2E 31 0D 0A 41 63 63 65 70   HTTP/1.1..Accep
+0060  74 3A 20 2A 2F 2A 0D 0A 52 65 66 65 72 65 72 3A  t: */*..Referer:
+0070  20 68 74 74 70 3A 2F 2F 77 77 77 2E 66 63 68 70   http://www.fchp
+0080  74 2E 73 74 75 62 61 2E 73 6B 2F 67 65 6E 65 72  t.stuba.sk/gener
+0090  61 74 65 5F 70 61 67 65 2E 70 68 70 3F 70 61 67  ate_page.php?pag
+00a0  65 5F 69 64 3D 31 36 39 36 0D 0A 41 63 63 65 70  e_id=1696..Accep
+00b0  74 2D 4C 61 6E 67 75 61 67 65 3A 20 65 6E 2D 75  t-Language: en-u
+00c0  73 0D 0A 55 73 65 72 2D 41 67 65 6E 74 3A 20 4D  s..User-Agent: M
+00d0  6F 7A 69 6C 6C 61 2F 34 2E 30 20 28 63 6F 6D 70  ozilla/4.0 (comp
+00e0  61 74 69 62 6C 65 3B 20 4D 53 49 45 20 38 2E 30  atible; MSIE 8.0
+00f0  3B 20 57 69 6E 64 6F 77 73 20 4E 54 20 35 2E 31  ; Windows NT 5.1
+0100  3B 20 54 72 69 64 65 6E 74 2F 34 2E 30 3B 20 2E  ; Trident/4.0; .
+0110  4E 45 54 20 43 4C 52 20 32 2E 30 2E 35 30 37 32  NET CLR 2.0.5072
+0120  37 3B 20 2E 4E 45 54 20 43 4C 52 20 33 2E 30 2E  7; .NET CLR 3.0.
+0130  34 35 30 36 2E 32 31 35 32 3B 20 2E 4E 45 54 20  4506.2152; .NET 
+0140  43 4C 52 20 33 2E 35 2E 33 30 37 32 39 3B 20 49  CLR 3.5.30729; I
+0150  6E 66 6F 50 61 74 68 2E 33 29 0D 0A 41 63 63 65  nfoPath.3)..Acce
+0160  70 74 2D 45 6E 63 6F 64 69 6E 67 3A 20 67 7A 69  pt-Encoding: gzi
+0170  70 2C 20 64 65 66 6C 61 74 65 0D 0A 48 6F 73 74  p, deflate..Host
+0180  3A 20 77 77 77 2E 73 74 75 62 61 2E 73 6B 0D 0A  : www.stuba.sk..
+0190  43 6F 6E 6E 65 63 74 69 6F 6E 3A 20 4B 65 65 70  Connection: Keep
+01a0  2D 41 6C 69 76 65 0D 0A 43 6F 6F 6B 69 65 3A 20  -Alive..Cookie: 
+01b0  5F 5F 75 74 6D 61 3D 33 31 35 35 38 32 36 2E 31  __utma=3155826.1
+01c0  39 38 30 33 31 37 39 37 34 2E 31 31 36 39 39 39  980317974.116999
+01d0  30 39 31 39 2E 31 33 33 30 37 39 36 32 36 35 2E  0919.1330796265.
+01e0  31 33 33 30 38 39 33 30 37 38 2E 34 31 35 3B 20  1330893078.415; 
+01f0  5F 5F 75 74 6D 7A 3D 33 31 35 35 38 32 36 2E 31  __utmz=3155826.1
+0200  33 33 30 38 39 33 30 37 38 2E 34 31 35 2E 33 33  330893078.415.33
+0210  39 2E 75 74 6D 63 73 72 3D 66 63 68 70 74 2E 73  9.utmcsr=fchpt.s
+0220  74 75 62 61 2E 73 6B 7C 75 74 6D 63 63 6E 3D 28  tuba.sk|utmccn=(
+0230  72 65 66 65 72 72 61 6C 29 7C 75 74 6D 63 6D 64  referral)|utmcmd
+0240  3D 72 65 66 65 72 72 61 6C 7C 75 74 6D 63 63 74  =referral|utmcct
+0250  3D 2F 67 65 6E 65 72 61 74 65 5F 70 61 67 65 2E  =/generate_page.
+0260  70 68 70 0D 0A 0D 0A                             php....
+
+ramec 96
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 0E DE 40 00 3A 06 DB 6D 93 AF 01 0C C0 A8  .(..@.:..m......
+0020  01 21 00 50 12 1E 4E 77 23 23 CD 07 CC 67 50 10  .!.P..Nw##...gP.
+0030  1A 7C 21 5C 00 00 00 00 00 00 00 00              .|!\........
+
+ramec 97
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 D5 E7 40 00 3A 06 14 64 93 AF 01 0C C0 A8  .(..@.:..d......
+0020  01 21 00 50 12 20 4E 27 FA 55 7B 1F F5 AA 50 10  .!.P. N'.U{...P.
+0030  1A 4C 73 4C 00 00 00 00 00 00 00 00              .LsL........
+
+ramec 98
+dlzka ramca poskytnuta pcap API - 735 B
+dlzka ramca prenasaneho po mediu - 735 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  02 D1 D5 E8 40 00 3A 06 11 BA 93 AF 01 0C C0 A8  ....@.:.........
+0020  01 21 00 50 12 20 4E 27 FA 55 7B 1F F5 AA 50 18  .!.P. N'.U{...P.
+0030  1A 4C 61 1F 00 00 48 54 54 50 2F 31 2E 31 20 32  .La...HTTP/1.1 2
+0040  30 30 20 4F 4B 0D 0A 44 61 74 65 3A 20 54 68 75  00 OK..Date: Thu
+0050  2C 20 31 35 20 4D 61 72 20 32 30 31 32 20 32 33  , 15 Mar 2012 23
+0060  3A 32 33 3A 34 31 20 47 4D 54 0D 0A 53 65 72 76  :23:41 GMT..Serv
+0070  65 72 3A 20 41 70 61 63 68 65 2F 32 2E 32 2E 38  er: Apache/2.2.8
+0080  20 28 46 65 64 6F 72 61 29 0D 0A 4C 61 73 74 2D   (Fedora)..Last-
+0090  4D 6F 64 69 66 69 65 64 3A 20 54 68 75 2C 20 31  Modified: Thu, 1
+00a0  38 20 4E 6F 76 20 32 30 31 30 20 31 32 3A 33 36  8 Nov 2010 12:36
+00b0  3A 30 30 20 47 4D 54 0D 0A 45 54 61 67 3A 20 22  :00 GMT..ETag: "
+00c0  31 30 30 35 34 64 2D 31 61 62 2D 34 39 35 35 33  10054d-1ab-49553
+00d0  30 38 33 65 63 63 30 30 22 0D 0A 41 63 63 65 70  083ecc00"..Accep
+00e0  74 2D 52 61 6E 67 65 73 3A 20 62 79 74 65 73 0D  t-Ranges: bytes.
+00f0  0A 43 6F 6E 74 65 6E 74 2D 4C 65 6E 67 74 68 3A  .Content-Length:
+0100  20 34 32 37 0D 0A 43 6F 6E 6E 65 63 74 69 6F 6E   427..Connection
+0110  3A 20 63 6C 6F 73 65 0D 0A 43 6F 6E 74 65 6E 74  : close..Content
+0120  2D 54 79 70 65 3A 20 69 6D 61 67 65 2F 70 6E 67  -Type: image/png
+0130  0D 0A 0D 0A 89 50 4E 47 0D 0A 1A 0A 00 00 00 0D  .....PNG........
+0140  49 48 44 52 00 00 00 40 00 00 00 17 08 06 00 00  IHDR...@........
+0150  00 BB E2 49 91 00 00 00 19 74 45 58 74 53 6F 66  ...I.....tEXtSof
+0160  74 77 61 72 65 00 41 64 6F 62 65 20 49 6D 61 67  tware.Adobe Imag
+0170  65 52 65 61 64 79 71 C9 65 3C 00 00 01 4D 49 44  eReadyq.e<...MID
+0180  41 54 78 DA 62 F4 0D 0C 63 63 60 60 A8 03 E2 04  ATx.b...cc``....
+0190  20 96 66 18 19 E0 29 10 2F 00 E2 26 96 FF 0C FF   .f...)./..&....
+01a0  1B 81 8C 0A 86 91 05 40 11 5D 0D C4 CC 2C FF FF  .......@.]...,..
+01b0  33 24 33 8C 5C 90 0C 0C 80 FF A2 23 38 00 44 41  3$3.\......#8.DA
+01c0  01 40 50 D5 B6 8D 6B 70 CA BD 7C F5 8A 61 CB E6  .@P...kp..|..a..
+01d0  2D 0C 1B B7 ED 62 F8 F3 E7 CF 90 0B 01 60 00 FC  -....b.......`..
+01e0  23 A8 E8 DF 3F DC 6A 44 45 44 18 BE 7F F9 CC 10  #...?.jDED......
+01f0  EA EF C5 70 E2 CC 05 86 7B 0F 1E 0C B1 00 F8 F7  ...p....{.......
+0200  9F A2 00 80 81 8F EF DF 33 18 1B E8 32 DC BD 77  ........3...2..w
+0210  7F 48 05 00 13 28 0B 10 C2 7F FF FE C5 8B 61 E0  .H...(........a.
+0220  CF CF 1F 0C E1 41 7E 0C C4 98 39 58 30 51 65 00  .....A~...9X0Qe.
+0230  B2 27 B1 81 A4 D4 54 14 FE F2 35 1B 86 4E 16 F8  .'....T...5..N..
+0240  47 44 19 40 6A E1 46 8C 99 83 A8 10 A4 3C 05 A0  GD.@j.F......<..
+0250  03 62 CC 1C 34 01 F0 ED CB 17 AA A7 00 62 CC 1C  .b..4........b..
+0260  34 01 F0 E7 CF 6F AA 07 00 31 66 0E 9E 32 80 88  4....o...1f..2..
+0270  2A 8E D4 2C 40 8C 99 43 2A 00 48 2E 04 87 5B 00  *..,@..C*.H...[.
+0280  8C F8 14 30 E2 03 80 54 0F 0D A5 00 60 D4 D0 D6  ...0...T....`...
+0290  1D 3A 95 F6 40 A5 80 E1 1E 00 AF 41 BD DA 11 EA  .:..@......A....
+02a0  FF D7 CC 82 42 22 42 0C FF 19 6C 18 40 19 61 E4  ....B"B...l.@.a.
+02b0  E1 69 A0 CE 50 3D 90 09 1A 19 8E 02 62 89 11 12  .i..P=......b...
+02c0  F3 2F 80 78 19 10 D7 00 04 18 00 B5 30 97 1A C0  ./.x........0...
+02d0  9D 0A B6 00 00 00 00 49 45 4E 44 AE 42 60 82     .......IEND.B`.
+
+ramec 99
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 D5 E9 40 00 3A 06 14 62 93 AF 01 0C C0 A8  .(..@.:..b......
+0020  01 21 00 50 12 20 4E 27 FC FE 7B 1F F5 AA 50 11  .!.P. N'..{...P.
+0030  1A 4C 70 A2 00 00 00 00 00 00 00 00              .Lp.........
+
+ramec 100
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BC 1E 40 00 80 06 E8 2C C0 A8 01 21 93 AF  .(..@....,...!..
+0020  01 0C 12 20 00 50 7B 1F F5 AA 4E 27 FC FF 50 10  ... .P{...N'..P.
+0030  FD 56 8D 97 00 00                                .V....
+
+ramec 101
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+147.175.1.12
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BC 25 40 00 80 06 E8 25 C0 A8 01 21 93 AF  .(.%@....%...!..
+0020  01 0C 12 20 00 50 7B 1F F5 AA 4E 27 FC FF 50 11  ... .P{...N'..P.
+0030  FD 56 8D 96 00 00                                .V....
+
+ramec 102
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+147.175.1.12
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 D5 EA 40 00 3A 06 14 61 93 AF 01 0C C0 A8  .(..@.:..a......
+0020  01 21 00 50 12 20 4E 27 FC FF 7B 1F F5 AB 50 10  .!.P. N'..{...P.
+0030  1A 4C 70 A1 00 00 00 00 00 00 00 00              .Lp.........
+
+ramec 103
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+173.194.70.101
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 30 BC 2D 40 00 80 06 88 A9 C0 A8 01 21 AD C2  .0.-@........!..
+0020  46 65 12 22 00 50 0D DE 3F F3 00 00 00 00 70 02  Fe.".P..?.....p.
+0030  FF FF 6C EB 00 00 02 04 05 B4 01 01 04 02        ..l...........
+
+ramec 104
+dlzka ramca poskytnuta pcap API - 62 B
+dlzka ramca prenasaneho po mediu - 62 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+173.194.70.101
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 30 78 C2 00 00 2F 06 5D 15 AD C2 46 65 C0 A8  .0x.../.]...Fe..
+0020  01 21 00 50 12 22 82 BD 3D F6 0D DE 3F F4 70 12  .!.P."..=...?.p.
+0030  37 DC 74 9A 00 00 02 04 05 64 01 01 04 02        7.t......d....
+
+ramec 105
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+173.194.70.101
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BC 2E 40 00 80 06 88 B0 C0 A8 01 21 AD C2  .(..@........!..
+0020  46 65 12 22 00 50 0D DE 3F F4 82 BD 3D F7 50 10  Fe.".P..?...=.P.
+0030  FF FF D8 EA 00 00                                ......
+
+ramec 106
+dlzka ramca poskytnuta pcap API - 991 B
+dlzka ramca prenasaneho po mediu - 991 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+173.194.70.101
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  03 D1 BC 2F 40 00 80 06 85 06 C0 A8 01 21 AD C2  .../@........!..
+0020  46 65 12 22 00 50 0D DE 3F F4 82 BD 3D F7 50 18  Fe.".P..?...=.P.
+0030  FF FF F0 07 00 00 47 45 54 20 2F 5F 5F 75 74 6D  ......GET /__utm
+0040  2E 67 69 66 3F 75 74 6D 77 76 3D 35 2E 32 2E 36  .gif?utmwv=5.2.6
+0050  26 75 74 6D 73 3D 32 26 75 74 6D 6E 3D 31 35 39  &utms=2&utmn=159
+0060  39 30 36 32 32 33 33 26 75 74 6D 68 6E 3D 77 77  9062233&utmhn=ww
+0070  77 2E 66 63 68 70 74 2E 73 74 75 62 61 2E 73 6B  w.fchpt.stuba.sk
+0080  26 75 74 6D 63 73 3D 77 69 6E 64 6F 77 73 2D 31  &utmcs=windows-1
+0090  32 35 30 26 75 74 6D 73 72 3D 31 30 32 34 78 37  250&utmsr=1024x7
+00a0  36 38 26 75 74 6D 76 70 3D 31 30 30 33 78 35 34  68&utmvp=1003x54
+00b0  36 26 75 74 6D 73 63 3D 33 32 2D 62 69 74 26 75  6&utmsc=32-bit&u
+00c0  74 6D 75 6C 3D 65 6E 2D 75 73 26 75 74 6D 6A 65  tmul=en-us&utmje
+00d0  3D 31 26 75 74 6D 66 6C 3D 31 30 2E 31 25 32 30  =1&utmfl=10.1%20
+00e0  72 35 33 26 75 74 6D 64 74 3D 25 43 33 25 39 41  r53&utmdt=%C3%9A
+00f0  73 74 61 76 79 25 32 30 61 25 32 30 6F 64 64 65  stavy%20a%20odde
+0100  6C 65 6E 69 61 25 32 30 2D 25 32 30 46 61 6B 75  lenia%20-%20Faku
+0110  6C 74 61 25 32 30 63 68 65 6D 69 63 6B 65 6A 25  lta%20chemickej%
+0120  32 30 61 25 32 30 70 6F 74 72 61 76 69 6E 61 72  20a%20potravinar
+0130  73 6B 65 6A 25 32 30 74 65 63 68 6E 6F 6C 6F 67  skej%20technolog
+0140  69 65 26 75 74 6D 68 69 64 3D 35 39 32 31 37 38  ie&utmhid=592178
+0150  36 34 32 26 75 74 6D 72 3D 30 26 75 74 6D 70 3D  642&utmr=0&utmp=
+0160  25 32 46 67 65 6E 65 72 61 74 65 5F 70 61 67 65  %2Fgenerate_page
+0170  2E 70 68 70 25 33 46 70 61 67 65 5F 69 64 25 33  .php%3Fpage_id%3
+0180  44 31 36 39 36 26 75 74 6D 61 63 3D 55 41 2D 32  D1696&utmac=UA-2
+0190  38 30 35 32 34 2D 38 26 75 74 6D 63 63 3D 5F 5F  80524-8&utmcc=__
+01a0  75 74 6D 61 25 33 44 31 32 39 35 37 38 32 36 37  utma%3D129578267
+01b0  2E 31 36 34 38 36 36 36 39 35 2E 31 32 39 36 33  .164866695.12963
+01c0  32 30 39 38 37 2E 31 33 33 31 38 35 31 31 34 39  20987.1331851149
+01d0  2E 31 33 33 31 38 35 33 34 34 33 2E 31 31 32 33  .1331853443.1123
+01e0  25 33 42 25 32 42 5F 5F 75 74 6D 7A 25 33 44 31  %3B%2B__utmz%3D1
+01f0  32 39 35 37 38 32 36 37 2E 31 33 33 30 37 39 36  29578267.1330796
+0200  38 32 31 2E 31 30 39 31 2E 33 32 36 2E 75 74 6D  821.1091.326.utm
+0210  63 73 72 25 33 44 73 74 75 62 61 2E 73 6B 25 37  csr%3Dstuba.sk%7
+0220  43 75 74 6D 63 63 6E 25 33 44 28 72 65 66 65 72  Cutmccn%3D(refer
+0230  72 61 6C 29 25 37 43 75 74 6D 63 6D 64 25 33 44  ral)%7Cutmcmd%3D
+0240  72 65 66 65 72 72 61 6C 25 37 43 75 74 6D 63 63  referral%7Cutmcc
+0250  74 25 33 44 25 32 46 6E 65 77 25 32 46 67 65 6E  t%3D%2Fnew%2Fgen
+0260  65 72 61 74 65 5F 70 61 67 65 2E 70 68 70 25 33  erate_page.php%3
+0270  42 26 75 74 6D 75 3D 44 7E 20 48 54 54 50 2F 31  B&utmu=D~ HTTP/1
+0280  2E 31 0D 0A 41 63 63 65 70 74 3A 20 2A 2F 2A 0D  .1..Accept: */*.
+0290  0A 52 65 66 65 72 65 72 3A 20 68 74 74 70 3A 2F  .Referer: http:/
+02a0  2F 77 77 77 2E 66 63 68 70 74 2E 73 74 75 62 61  /www.fchpt.stuba
+02b0  2E 73 6B 2F 67 65 6E 65 72 61 74 65 5F 70 61 67  .sk/generate_pag
+02c0  65 2E 70 68 70 3F 70 61 67 65 5F 69 64 3D 31 36  e.php?page_id=16
+02d0  39 36 0D 0A 41 63 63 65 70 74 2D 4C 61 6E 67 75  96..Accept-Langu
+02e0  61 67 65 3A 20 65 6E 2D 75 73 0D 0A 55 73 65 72  age: en-us..User
+02f0  2D 41 67 65 6E 74 3A 20 4D 6F 7A 69 6C 6C 61 2F  -Agent: Mozilla/
+0300  34 2E 30 20 28 63 6F 6D 70 61 74 69 62 6C 65 3B  4.0 (compatible;
+0310  20 4D 53 49 45 20 38 2E 30 3B 20 57 69 6E 64 6F   MSIE 8.0; Windo
+0320  77 73 20 4E 54 20 35 2E 31 3B 20 54 72 69 64 65  ws NT 5.1; Tride
+0330  6E 74 2F 34 2E 30 3B 20 2E 4E 45 54 20 43 4C 52  nt/4.0; .NET CLR
+0340  20 32 2E 30 2E 35 30 37 32 37 3B 20 2E 4E 45 54   2.0.50727; .NET
+0350  20 43 4C 52 20 33 2E 30 2E 34 35 30 36 2E 32 31   CLR 3.0.4506.21
+0360  35 32 3B 20 2E 4E 45 54 20 43 4C 52 20 33 2E 35  52; .NET CLR 3.5
+0370  2E 33 30 37 32 39 3B 20 49 6E 66 6F 50 61 74 68  .30729; InfoPath
+0380  2E 33 29 0D 0A 41 63 63 65 70 74 2D 45 6E 63 6F  .3)..Accept-Enco
+0390  64 69 6E 67 3A 20 67 7A 69 70 2C 20 64 65 66 6C  ding: gzip, defl
+03a0  61 74 65 0D 0A 48 6F 73 74 3A 20 77 77 77 2E 67  ate..Host: www.g
+03b0  6F 6F 67 6C 65 2D 61 6E 61 6C 79 74 69 63 73 2E  oogle-analytics.
+03c0  63 6F 6D 0D 0A 43 6F 6E 6E 65 63 74 69 6F 6E 3A  com..Connection:
+03d0  20 4B 65 65 70 2D 41 6C 69 76 65 0D 0A 0D 0A      Keep-Alive....
+
+ramec 107
+dlzka ramca poskytnuta pcap API - 60 B
+dlzka ramca prenasaneho po mediu - 60 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+173.194.70.101
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 28 78 C3 00 00 2F 06 5D 1C AD C2 46 65 C0 A8  .(x.../.]...Fe..
+0020  01 21 00 50 12 22 82 BD 3D F7 0D DE 43 9D 50 10  .!.P."..=...C.P.
+0030  3E 39 97 08 00 00 00 00 00 00 00 00              >9..........
+
+ramec 108
+dlzka ramca poskytnuta pcap API - 430 B
+dlzka ramca prenasaneho po mediu - 430 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+173.194.70.101
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  01 A0 78 C4 00 00 2F 06 5B A3 AD C2 46 65 C0 A8  ..x.../.[...Fe..
+0020  01 21 00 50 12 22 82 BD 3D F7 0D DE 43 9D 50 18  .!.P."..=...C.P.
+0030  3E 39 82 DF 00 00 48 54 54 50 2F 31 2E 31 20 32  >9....HTTP/1.1 2
+0040  30 30 20 4F 4B 0D 0A 44 61 74 65 3A 20 57 65 64  00 OK..Date: Wed
+0050  2C 20 31 34 20 4D 61 72 20 32 30 31 32 20 31 36  , 14 Mar 2012 16
+0060  3A 32 30 3A 31 37 20 47 4D 54 0D 0A 43 6F 6E 74  :20:17 GMT..Cont
+0070  65 6E 74 2D 4C 65 6E 67 74 68 3A 20 33 35 0D 0A  ent-Length: 35..
+0080  58 2D 43 6F 6E 74 65 6E 74 2D 54 79 70 65 2D 4F  X-Content-Type-O
+0090  70 74 69 6F 6E 73 3A 20 6E 6F 73 6E 69 66 66 0D  ptions: nosniff.
+00a0  0A 50 72 61 67 6D 61 3A 20 6E 6F 2D 63 61 63 68  .Pragma: no-cach
+00b0  65 0D 0A 45 78 70 69 72 65 73 3A 20 57 65 64 2C  e..Expires: Wed,
+00c0  20 31 39 20 41 70 72 20 32 30 30 30 20 31 31 3A   19 Apr 2000 11:
+00d0  34 33 3A 30 30 20 47 4D 54 0D 0A 4C 61 73 74 2D  43:00 GMT..Last-
+00e0  4D 6F 64 69 66 69 65 64 3A 20 57 65 64 2C 20 32  Modified: Wed, 2
+00f0  31 20 4A 61 6E 20 32 30 30 34 20 31 39 3A 35 31  1 Jan 2004 19:51
+0100  3A 33 30 20 47 4D 54 0D 0A 43 6F 6E 74 65 6E 74  :30 GMT..Content
+0110  2D 54 79 70 65 3A 20 69 6D 61 67 65 2F 67 69 66  -Type: image/gif
+0120  0D 0A 43 61 63 68 65 2D 43 6F 6E 74 72 6F 6C 3A  ..Cache-Control:
+0130  20 70 72 69 76 61 74 65 2C 20 6E 6F 2D 63 61 63   private, no-cac
+0140  68 65 2C 20 6E 6F 2D 63 61 63 68 65 3D 53 65 74  he, no-cache=Set
+0150  2D 43 6F 6F 6B 69 65 2C 20 70 72 6F 78 79 2D 72  -Cookie, proxy-r
+0160  65 76 61 6C 69 64 61 74 65 0D 0A 41 67 65 3A 20  evalidate..Age: 
+0170  31 31 31 38 30 34 0D 0A 53 65 72 76 65 72 3A 20  111804..Server: 
+0180  47 46 45 2F 32 2E 30 0D 0A 0D 0A 47 49 46 38 39  GFE/2.0....GIF89
+0190  61 01 00 01 00 80 FF 00 FF FF FF 00 00 00 2C 00  a.............,.
+01a0  00 00 00 01 00 01 00 00 02 02 44 01 00 3B        ..........D..;
+
+ramec 109
+dlzka ramca poskytnuta pcap API - 54 B
+dlzka ramca prenasaneho po mediu - 54 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+173.194.70.101
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 28 BC 32 40 00 80 06 88 AC C0 A8 01 21 AD C2  .(.2@........!..
+0020  46 65 12 22 00 50 0D DE 43 9D 82 BD 3F 6F 50 10  Fe.".P..C...?oP.
+0030  FE 87 D5 41 00 00                                ...A..
+
+ramec 110
+dlzka ramca poskytnuta pcap API - 86 B
+dlzka ramca prenasaneho po mediu - 86 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: FF FF FF FF FF FF
+IPv4
+192.168.1.1
+192.168.1.255
+0000  FF FF FF FF FF FF 00 02 CF AB A2 4C 08 00 45 00  ...........L..E.
+0010  00 48 03 3D 00 00 01 11 32 18 C0 A8 01 01 C0 A8  .H.=....2.......
+0020  01 FF 02 08 02 08 00 34 C0 C3 02 01 00 00 00 02  .......4........
+0030  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0040  00 02 00 02 00 00 D4 37 E0 21 00 00 00 00 00 00  .......7.!......
+0050  00 00 00 00 00 01                                ......
+
+ramec 111
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 3C BC 33 00 00 80 01 19 77 C0 A8 01 21 9E C3  .<.3.....w...!..
+0020  04 8A 08 00 2A 5C 03 00 20 00 61 62 63 64 65 66  ....*\.. .abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 112
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 3C C2 3A 00 00 37 01 5C 70 9E C3 04 8A C0 A8  .<.:..7.\p......
+0020  01 21 00 00 32 5C 03 00 20 00 61 62 63 64 65 66  .!..2\.. .abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 113
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 3C BC 34 00 00 80 01 19 76 C0 A8 01 21 9E C3  .<.4.....v...!..
+0020  04 8A 08 00 29 5C 03 00 21 00 61 62 63 64 65 66  ....)\..!.abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 114
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 3C C2 3B 00 00 37 01 5C 6F 9E C3 04 8A C0 A8  .<.;..7.\o......
+0020  01 21 00 00 31 5C 03 00 21 00 61 62 63 64 65 66  .!..1\..!.abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 115
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 3C BC 35 00 00 80 01 19 75 C0 A8 01 21 9E C3  .<.5.....u...!..
+0020  04 8A 08 00 28 5C 03 00 22 00 61 62 63 64 65 66  ....(\..".abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 116
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 3C C2 3C 00 00 37 01 5C 6E 9E C3 04 8A C0 A8  .<.<..7.\n......
+0020  01 21 00 00 30 5C 03 00 22 00 61 62 63 64 65 66  .!..0\..".abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 117
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 14 38 06 E0 93
+cielova MAC adresa: 00 02 CF AB A2 4C
+IPv4
+192.168.1.33
+158.195.4.138
+0000  00 02 CF AB A2 4C 00 14 38 06 E0 93 08 00 45 00  .....L..8.....E.
+0010  00 3C BC 36 00 00 80 01 19 74 C0 A8 01 21 9E C3  .<.6.....t...!..
+0020  04 8A 08 00 27 5C 03 00 23 00 61 62 63 64 65 66  ....'\..#.abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
+ramec 118
+dlzka ramca poskytnuta pcap API - 74 B
+dlzka ramca prenasaneho po mediu - 74 B
+Ether II
+zdrojova MAC adresa: 00 02 CF AB A2 4C
+cielova MAC adresa: 00 14 38 06 E0 93
+IPv4
+158.195.4.138
+192.168.1.33
+0000  00 14 38 06 E0 93 00 02 CF AB A2 4C 08 00 45 00  ..8........L..E.
+0010  00 3C C2 3D 00 00 37 01 5C 6D 9E C3 04 8A C0 A8  .<.=..7.\m......
+0020  01 21 00 00 2F 5C 03 00 23 00 61 62 63 64 65 66  .!../\..#.abcdef
+0030  67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76  ghijklmnopqrstuv
+0040  77 61 62 63 64 65 66 67 68 69                    wabcdefghi
+
