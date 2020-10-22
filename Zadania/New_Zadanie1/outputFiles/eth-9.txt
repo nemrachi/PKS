@@ -1,10 +1,15 @@
 ramec 1
 dlzka ramca poskytnuta pcap API - 73 B
-dlzka ramca prenasaneho po mediu - 77 B
+dlzka ramca prenasaneho po mediu - 73 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 69 TFTP
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 3B 00 00 40 00 40 11 E2 65 AC 1A 00 04 AC 1A  .;..@.@..e......
 0020  00 14 A5 3D 00 45 00 27 58 85 00 01 6B 65 69 72  ...=.E.'X...keir
@@ -13,11 +18,16 @@ IPv4
 
 ramec 2
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 B1 40 00 40 11 AF CF AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 6B D3 00 03 00 01 FF D8  .....=..k.......
@@ -56,22 +66,32 @@ IPv4
 
 ramec 3
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 01        ...=....Xj....
 
 ramec 4
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 B2 40 00 40 11 AF CE AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 4E 9C 00 03 00 02 47 48  .....=..N.....GH
@@ -110,22 +130,32 @@ IPv4
 
 ramec 5
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 02        ...=....Xj....
 
 ramec 6
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 B3 40 00 40 11 AF CD AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C DA 03 00 03 00 03 03 2F  .....=........./
@@ -164,22 +194,32 @@ IPv4
 
 ramec 7
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 03        ...=....Xj....
 
 ramec 8
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 B4 40 00 40 11 AF CC AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C B4 9A 00 03 00 04 94 00  .....=..........
@@ -218,22 +258,32 @@ IPv4
 
 ramec 9
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 04        ...=....Xj....
 
 ramec 10
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 B5 40 00 40 11 AF CB AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C BB 9D 00 03 00 05 1B 71  .....=.........q
@@ -272,22 +322,32 @@ IPv4
 
 ramec 11
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 05        ...=....Xj....
 
 ramec 12
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 B6 40 00 40 11 AF CA AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C CB 96 00 03 00 06 F9 A2  .....=..........
@@ -326,22 +386,32 @@ IPv4
 
 ramec 13
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 06        ...=....Xj....
 
 ramec 14
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 B7 40 00 40 11 AF C9 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C E1 96 00 03 00 07 B3 B3  .....=..........
@@ -380,22 +450,32 @@ IPv4
 
 ramec 15
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 07        ...=....Xj....
 
 ramec 16
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 B8 40 00 40 11 AF C8 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 02 60 00 03 00 08 43 66  .....=...`....Cf
@@ -434,22 +514,32 @@ IPv4
 
 ramec 17
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 08        ...=....Xj....
 
 ramec 18
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 B9 40 00 40 11 AF C7 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 5A DB 00 03 00 09 91 D5  .....=..Z.......
@@ -488,22 +578,32 @@ IPv4
 
 ramec 19
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 09        ...=....Xj....
 
 ramec 20
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 BA 40 00 40 11 AF C6 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 36 3F 00 03 00 0A C6 9D  .....=..6?......
@@ -542,22 +642,32 @@ IPv4
 
 ramec 21
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 0A        ...=....Xj....
 
 ramec 22
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 BB 40 00 40 11 AF C5 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 9E 16 00 03 00 0B D1 89  .....=..........
@@ -596,22 +706,32 @@ IPv4
 
 ramec 23
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 0B        ...=....Xj....
 
 ramec 24
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 BC 40 00 40 11 AF C4 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C CC 46 00 03 00 0C 22 34  .....=...F...."4
@@ -650,22 +770,32 @@ IPv4
 
 ramec 25
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 0C        ...=....Xj....
 
 ramec 26
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 BD 40 00 40 11 AF C3 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 62 97 00 03 00 0D 47 5F  .....=..b.....G_
@@ -704,22 +834,32 @@ IPv4
 
 ramec 27
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 0D        ...=....Xj....
 
 ramec 28
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 BE 40 00 40 11 AF C2 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C E1 FB 00 03 00 0E 94 DC  .....=..........
@@ -758,22 +898,32 @@ IPv4
 
 ramec 29
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 0E        ...=....Xj....
 
 ramec 30
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 BF 40 00 40 11 AF C1 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 60 7D 00 03 00 0F 94 99  .....=..`}......
@@ -812,22 +962,32 @@ IPv4
 
 ramec 31
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 0F        ...=....Xj....
 
 ramec 32
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C0 40 00 40 11 AF C0 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 45 99 00 03 00 10 FA D4  .....=..E.......
@@ -866,22 +1026,32 @@ IPv4
 
 ramec 33
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 10        ...=....Xj....
 
 ramec 34
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C1 40 00 40 11 AF BF AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 7A E6 00 03 00 11 33 22  .....=..z.....3"
@@ -920,22 +1090,32 @@ IPv4
 
 ramec 35
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 11        ...=....Xj....
 
 ramec 36
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C2 40 00 40 11 AF BE AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 8A 20 00 03 00 12 C6 40  .....=... .....@
@@ -974,22 +1154,32 @@ IPv4
 
 ramec 37
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 12        ...=....Xj....
 
 ramec 38
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C3 40 00 40 11 AF BD AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C DE 54 00 03 00 13 1C AE  .....=...T......
@@ -1028,22 +1218,32 @@ IPv4
 
 ramec 39
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 13        ...=....Xj....
 
 ramec 40
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C4 40 00 40 11 AF BC AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C C6 DA 00 03 00 14 1A 31  .....=.........1
@@ -1082,22 +1282,32 @@ IPv4
 
 ramec 41
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 14        ...=....Xj....
 
 ramec 42
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C5 40 00 40 11 AF BB AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 3A 27 00 03 00 15 A3 68  .....=..:'.....h
@@ -1136,22 +1346,32 @@ IPv4
 
 ramec 43
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 15        ...=....Xj....
 
 ramec 44
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C6 40 00 40 11 AF BA AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C D3 DE 00 03 00 16 35 BB  .....=........5.
@@ -1190,22 +1410,32 @@ IPv4
 
 ramec 45
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 16        ...=....Xj....
 
 ramec 46
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C7 40 00 40 11 AF B9 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C C9 6D 00 03 00 17 95 B1  .....=...m......
@@ -1244,22 +1474,32 @@ IPv4
 
 ramec 47
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 17        ...=....Xj....
 
 ramec 48
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C8 40 00 40 11 AF B8 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C F5 4B 00 03 00 18 35 D9  .....=...K....5.
@@ -1298,22 +1538,32 @@ IPv4
 
 ramec 49
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 18        ...=....Xj....
 
 ramec 50
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 C9 40 00 40 11 AF B7 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 39 6A 00 03 00 19 0D 0A  .....=..9j......
@@ -1352,22 +1602,32 @@ IPv4
 
 ramec 51
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 19        ...=....Xj....
 
 ramec 52
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 CA 40 00 40 11 AF B6 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C C3 33 00 03 00 1A 07 5D  .....=...3.....]
@@ -1406,22 +1666,32 @@ IPv4
 
 ramec 53
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 1A        ...=....Xj....
 
 ramec 54
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 CB 40 00 40 11 AF B5 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 86 81 00 03 00 1B 0D 00  .....=..........
@@ -1460,22 +1730,32 @@ IPv4
 
 ramec 55
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 1B        ...=....Xj....
 
 ramec 56
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 CC 40 00 40 11 AF B4 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 2F 53 00 03 00 1C 99 F1  .....=../S......
@@ -1514,22 +1794,32 @@ IPv4
 
 ramec 57
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 1C        ...=....Xj....
 
 ramec 58
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 CD 40 00 40 11 AF B3 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 1A 5D 00 03 00 1D DE E7  .....=...]......
@@ -1568,22 +1858,32 @@ IPv4
 
 ramec 59
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 1D        ...=....Xj....
 
 ramec 60
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 CE 40 00 40 11 AF B2 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 5B A8 00 03 00 1E D4 E1  .....=..[.......
@@ -1622,22 +1922,32 @@ IPv4
 
 ramec 61
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 1E        ...=....Xj....
 
 ramec 62
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 CF 40 00 40 11 AF B1 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C C1 82 00 03 00 1F 2D 30  .....=........-0
@@ -1676,22 +1986,32 @@ IPv4
 
 ramec 63
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 1F        ...=....Xj....
 
 ramec 64
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D0 40 00 40 11 AF B0 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 91 F6 00 03 00 20 E9 FF  .....=....... ..
@@ -1730,22 +2050,32 @@ IPv4
 
 ramec 65
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 20        ...=....Xj... 
 
 ramec 66
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D1 40 00 40 11 AF AF AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C BB DF 00 03 00 21 48 51  .....=.......!HQ
@@ -1784,22 +2114,32 @@ IPv4
 
 ramec 67
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 21        ...=....Xj...!
 
 ramec 68
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D2 40 00 40 11 AF AE AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C A6 0F 00 03 00 22 F4 2D  .....=.......".-
@@ -1838,22 +2178,32 @@ IPv4
 
 ramec 69
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 22        ...=....Xj..."
 
 ramec 70
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D3 40 00 40 11 AF AD AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 71 B1 00 03 00 23 76 42  .....=..q....#vB
@@ -1892,22 +2242,32 @@ IPv4
 
 ramec 71
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 23        ...=....Xj...#
 
 ramec 72
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D4 40 00 40 11 AF AC AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C E8 4D 00 03 00 24 CA E4  .....=...M...$..
@@ -1946,22 +2306,32 @@ IPv4
 
 ramec 73
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 24        ...=....Xj...$
 
 ramec 74
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D5 40 00 40 11 AF AB AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C BD E6 00 03 00 25 14 DE  .....=.......%..
@@ -2000,22 +2370,32 @@ IPv4
 
 ramec 75
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 25        ...=....Xj...%
 
 ramec 76
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D6 40 00 40 11 AF AA AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 93 38 00 03 00 26 20 0D  .....=...8...& .
@@ -2054,22 +2434,32 @@ IPv4
 
 ramec 77
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 26        ...=....Xj...&
 
 ramec 78
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D7 40 00 40 11 AF A9 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C A8 7C 00 03 00 27 13 57  .....=...|...'.W
@@ -2108,22 +2498,32 @@ IPv4
 
 ramec 79
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 27        ...=....Xj...'
 
 ramec 80
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D8 40 00 40 11 AF A8 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C DC 53 00 03 00 28 E6 02  .....=...S...(..
@@ -2162,22 +2562,32 @@ IPv4
 
 ramec 81
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 28        ...=....Xj...(
 
 ramec 82
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 D9 40 00 40 11 AF A7 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 92 E1 00 03 00 29 E7 A7  .....=.......)..
@@ -2216,22 +2626,32 @@ IPv4
 
 ramec 83
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 29        ...=....Xj...)
 
 ramec 84
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 DA 40 00 40 11 AF A6 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 8B D6 00 03 00 2A 8E D5  .....=.......*..
@@ -2270,22 +2690,32 @@ IPv4
 
 ramec 85
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 2A        ...=....Xj...*
 
 ramec 86
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 DB 40 00 40 11 AF A5 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 58 5E 00 03 00 2B 5B D0  .....=..X^...+[.
@@ -2324,22 +2754,32 @@ IPv4
 
 ramec 87
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 2B        ...=....Xj...+
 
 ramec 88
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 DC 40 00 40 11 AF A4 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 0C 95 00 03 00 2C A3 00  .....=.......,..
@@ -2378,22 +2818,32 @@ IPv4
 
 ramec 89
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 2C        ...=....Xj...,
 
 ramec 90
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 DD 40 00 40 11 AF A3 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 08 41 00 03 00 2D E7 49  .....=...A...-.I
@@ -2432,22 +2882,32 @@ IPv4
 
 ramec 91
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 2D        ...=....Xj...-
 
 ramec 92
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 DE 40 00 40 11 AF A2 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C D7 9F 00 03 00 2E 67 55  .....=........gU
@@ -2486,22 +2946,32 @@ IPv4
 
 ramec 93
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 2E        ...=....Xj....
 
 ramec 94
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 DF 40 00 40 11 AF A1 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 33 C7 00 03 00 2F B6 D8  .....=..3..../..
@@ -2540,22 +3010,32 @@ IPv4
 
 ramec 95
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 2F        ...=....Xj.../
 
 ramec 96
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E0 40 00 40 11 AF A0 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C F4 F6 00 03 00 30 44 78  .....=.......0Dx
@@ -2594,22 +3074,32 @@ IPv4
 
 ramec 97
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 30        ...=....Xj...0
 
 ramec 98
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E1 40 00 40 11 AF 9F AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C A0 ED 00 03 00 31 5E 9C  .....=.......1^.
@@ -2648,22 +3138,32 @@ IPv4
 
 ramec 99
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 31        ...=....Xj...1
 
 ramec 100
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E2 40 00 40 11 AF 9E AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 20 8E 00 03 00 32 25 C7  .....=.. ....2%.
@@ -2702,22 +3202,32 @@ IPv4
 
 ramec 101
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 32        ...=....Xj...2
 
 ramec 102
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E3 40 00 40 11 AF 9D AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 92 BA 00 03 00 33 E5 5E  .....=.......3.^
@@ -2756,22 +3266,32 @@ IPv4
 
 ramec 103
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 33        ...=....Xj...3
 
 ramec 104
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E4 40 00 40 11 AF 9C AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 8F F2 00 03 00 34 BE 23  .....=.......4.#
@@ -2810,22 +3330,32 @@ IPv4
 
 ramec 105
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 34        ...=....Xj...4
 
 ramec 106
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E5 40 00 40 11 AF 9B AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 53 7E 00 03 00 35 28 00  .....=..S~...5(.
@@ -2864,22 +3394,32 @@ IPv4
 
 ramec 107
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 35        ...=....Xj...5
 
 ramec 108
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E6 40 00 40 11 AF 9A AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C C5 84 00 03 00 36 AF 1A  .....=.......6..
@@ -2918,22 +3458,32 @@ IPv4
 
 ramec 109
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 36        ...=....Xj...6
 
 ramec 110
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E7 40 00 40 11 AF 99 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 83 2E 00 03 00 37 F2 3C  .....=.......7.<
@@ -2972,22 +3522,32 @@ IPv4
 
 ramec 111
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 37        ...=....Xj...7
 
 ramec 112
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E8 40 00 40 11 AF 98 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C 52 A8 00 03 00 38 8A DF  .....=..R....8..
@@ -3026,22 +3586,32 @@ IPv4
 
 ramec 113
 dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
+dlzka ramca prenasaneho po mediu - 46 B
 Ether II
 zdrojova MAC adresa: 00 16 E6 54 C8 97
 cielova MAC adresa: 08 00 27 F6 18 F9
 IPv4
+zdrojova IP adresa: 172.26.0.4
+cielova IP adresa: 172.26.0.20
+UDP
+zdrojovy port: 42301
+cielovy port: 55064
 0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
 0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
 0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 38        ...=....Xj...8
 
 ramec 114
 dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
+dlzka ramca prenasaneho po mediu - 558 B
 Ether II
 zdrojova MAC adresa: 08 00 27 F6 18 F9
 cielova MAC adresa: 00 16 E6 54 C8 97
 IPv4
+zdrojova IP adresa: 172.26.0.20
+cielova IP adresa: 172.26.0.4
+UDP
+zdrojovy port: 55064
+cielovy port: 42301
 0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
 0010  02 20 30 E9 40 00 40 11 AF 97 AC 1A 00 14 AC 1A  . 0.@.@.........
 0020  00 04 D7 18 A5 3D 02 0C B6 6A 00 03 00 39 02 80  .....=...j...9..
@@ -3077,211 +3647,4 @@ IPv4
 0200  AA 48 49 9D 06 9B 17 97 1A E7 00 54 C9 DB 43 44  .HI........T..CD
 0210  6A 2B 60 0C 8A C5 9A 18 1A 91 26 6D 8B 8C 0D 0A  j+`.......&m....
 0220  FA 68 E8 7C E4 47 58 29 8D B7 0E 82 87 B8        .h.|.GX)......
-
-ramec 115
-dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
-Ether II
-zdrojova MAC adresa: 00 16 E6 54 C8 97
-cielova MAC adresa: 08 00 27 F6 18 F9
-IPv4
-0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
-0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
-0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 39        ...=....Xj...9
-
-ramec 116
-dlzka ramca poskytnuta pcap API - 558 B
-dlzka ramca prenasaneho po mediu - 562 B
-Ether II
-zdrojova MAC adresa: 08 00 27 F6 18 F9
-cielova MAC adresa: 00 16 E6 54 C8 97
-IPv4
-0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
-0010  02 20 30 EA 40 00 40 11 AF 96 AC 1A 00 14 AC 1A  . 0.@.@.........
-0020  00 04 D7 18 A5 3D 02 0C 2D 0F 00 03 00 3A DA 45  .....=..-....:.E
-0030  7D 5E E4 4C A4 8E A0 55 10 D5 91 E3 5E 36 D2 85  }^.L...U....^6..
-0040  D5 BC AE A3 92 3D 2A 92 30 92 3E 6F F1 2E 8D 2D  .....=*.0.>o...-
-0050  9D C9 65 43 B6 A9 33 16 8E 74 8C 1C 55 88 4C 52  ..eC..3..t..U.LR
-0060  00 E9 40 05 00 28 1E 94 00 A1 33 D2 95 C0 91 6D  ..@..(....3....m
-0070  DB B8 A4 E4 03 C5 A9 C6 71 4B 9C 03 EC C4 76 A3  ........qK....v.
-0080  98 2C 34 45 8E 94 73 0D 00 0D 0A B1 7A 75 A2 E2  .,4E..s.....zu..
-0090  64 AB 1A 81 CF 5A 96 C0 78 40 78 A5 76 03 8C 60  d....Z..x@x.v..`
-00a0  8F A5 24 C0 8D E2 07 15 77 01 A6 11 9E 07 4A 5C  ..$.....w.....J\
-00b0  C0 30 C5 83 C0 FC 2A AE 02 79 27 07 02 8B 80 C2  .0....*..y'.....
-00c0  9D B1 4D 30 3A 5B 60 A2 04 11 A6 76 80 DF 2D 00  ..M0:[`....v..-.
-00d0  69 5A 40 F2 2B F9 51 B3 2C 6A 5D F9 EC 7B D0 04  iZ@.+.Q.,j]..{..
-00e0  21 8C 60 FD DC 48 BB 72 DF D2 80 31 EF 94 34 6A  !.`..H.r...1..4j
-00f0  4F CB B4 F1 8A 00 AD 1B EC 3F 29 C0 03 06 8B 5B  O........?)....[
-0100  51 37 63 B4 F0 5F 81 6E 7C 40 D1 DC 12 63 B4 DD  Q7c.._.n|@...c..
-0110  F7 88 E5 BE 82 B9 EB 62 39 74 3B F0 D8 4E 6D 59  .......b9t;..NmY
-0120  F4 17 87 3C 21 6F 61 02 C7 04 61 11 4F 20 0F BE  ...<!oa...a.O ..
-0130  7D 4D 79 B3 AC D9 EB 46 8C 60 AC 76 FA 66 8E 81  }My....F.`.v.f..
-0140  87 C8 00 5E 3A 56 12 93 37 8C 52 3A CB 3B 55 52  ...^:V..7.R:.;UR
-0150  A3 68 FF 00 0D 0A C9 B1 F3 24 6E C0 16 2E 7A 9C  .h.......$n...z.
-0160  71 50 17 34 E1 9C 2A 80 38 AA B8 0E 7B CC 0C 2D  qP.4..*.8...{..-
-0170  4B 65 22 16 B8 C7 4E F4 0C A9 71 39 00 E4 F3 48  Ke"...N...q9...H
-0180  67 33 AB DC ED 5C 9C 77 E9 57 14 4B 39 34 63 34  g3...\.w.W.K94c4
-0190  C4 E3 8A D3 64 65 63 52 DA DF 00 16 A4 55 EC 17  ....decR.....U..
-01a0  4E 23 1B 45 09 10 D8 58 DB 6F 60 D8 EF 4D BB 15  N#.E...X.o`..M..
-01b0  13 A0 82 3E C7 B5 63 26 6D 12 EA 27 18 C1 AC AE  ...>..c&m..'....
-01c0  51 CF DC 7F C7 C9 AF A7 47 CE C4 B7 18 FD C3 7D  Q.......G......}
-01d0  29 8F A9 83 75 F7 5B F1 AA 14 8E 27 5C 03 EC ED  )...u.[....'\...
-01e0  C5 5A D8 E7 91 E2 1E 31 45 CB 7C A3 F2 A9 32 67  .Z.....1E.|...2g
-01f0  90 5E 00 2E 1F 03 1C D6 A8 82 11 4D 80 94 80 28  .^.........M...(
-0200  01 C9 D6 80 27 8F A8 A9 60 5D 8E A1 94 4E 07 15  ....'...`]...N..
-0210  28 A8 91 C9 C5 32 99 05 06 44 6B F7 A8 10 FE C6  (....2...Dk.....
-0220  90 0F 5E 94 C0 5A 00 43 D0 53 01 3A 54 80        ..^..Z.C.S.:T.
-
-ramec 117
-dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
-Ether II
-zdrojova MAC adresa: 00 16 E6 54 C8 97
-cielova MAC adresa: 08 00 27 F6 18 F9
-IPv4
-0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
-0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
-0020  00 14 A5 3D D7 18 00 0C 58 6A 00 04 00 3A        ...=....Xj...:
-
-ramec 118
-dlzka ramca poskytnuta pcap API - 238 B
-dlzka ramca prenasaneho po mediu - 242 B
-Ether II
-zdrojova MAC adresa: 08 00 27 F6 18 F9
-cielova MAC adresa: 00 16 E6 54 C8 97
-IPv4
-0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
-0010  00 E0 30 EB 40 00 40 11 B0 D5 AC 1A 00 14 AC 1A  ..0.@.@.........
-0020  00 04 D7 18 A5 3D 00 CC AF FF 00 03 00 3B 83 EF  .....=.......;..
-0030  50 80 63 70 F5 40 34 F4 34 20 37 6D 89 5B 71 B4  P.cp.@4.4 7m.[q.
-0040  E3 E4 1D 2A D0 16 A0 91 ED EF E5 30 3B 46 42 B0  ...*.......0;FB.
-0050  1B 0E 31 95 E6 87 B8 10 9F F5 90 2F 60 DC 0F 4A  ..1......../`..J
-0060  42 33 B5 4E 2D 93 1F DE 34 C6 8A 70 FF 00 AD 23  B3.N-...4..p...#
-0070  B6 07 14 4B 60 67 D4 5E 04 50 BA 26 96 14 00 3C  ...K`g.^.P.&...<
-0080  A1 D0 57 93 89 DC FA 3C 37 C0 8F 4D B3 18 89 3E  ..W....<7..M...>
-0090  B5 C4 74 CC E8 AD 7F D5 1F AD 4B 1B D8 D7 B4 EA  ..t.......K.....
-00a0  3E 95 2C 92 FA 7D CA 43 45 95 E1 68 60 33 F8 8D  >.,..}.CE..h`3..
-00b0  48 D0 8D FC 34 C6 57 BA 3C 52 28 E4 75 B2 47 EB  H...4.W.<R(.u.G.
-00c0  57 13 36 64 58 56 AF 62 4D B4 FF 00 57 50 26 51  W.6dXV.bM...WP&Q
-00d0  B9 FF 00 5D 54 41 A9 A6 0E 0D 00 4C 8D 60 6B C7  ...]TA.....L.`k.
-00e0  F7 85 63 23 78 9A 28 3E 5A C8 A6 7F FF D9        ..c#x.(>Z.....
-
-ramec 119
-dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
-Ether II
-zdrojova MAC adresa: 00 16 E6 54 C8 97
-cielova MAC adresa: 08 00 27 F6 18 F9
-IPv4
-0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
-0010  00 20 00 00 40 00 40 11 E2 80 AC 1A 00 04 AC 1A  . ..@.@.........
-0020  00 14 E5 B2 D7 18 00 0C 58 6A 00 04 00 3B        ........Xj...;
-
-ramec 120
-dlzka ramca poskytnuta pcap API - 74 B
-dlzka ramca prenasaneho po mediu - 78 B
-Ether II
-zdrojova MAC adresa: 08 00 27 F6 18 F9
-cielova MAC adresa: 00 16 E6 54 C8 97
-IPv4
-0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 C0  ...T....'.....E.
-0010  00 3C AA E0 00 00 40 01 76 D4 AC 1A 00 14 AC 1A  .<....@.v.......
-0020  00 04 03 03 55 67 00 00 00 00 45 00 00 20 00 00  ....Ug....E.. ..
-0030  40 00 40 11 E2 80 AC 1A 00 04 AC 1A 00 14 E5 B2  @.@.............
-0040  D7 18 00 0C EA 7E 00 04 00 3B                    .....~...;
-
-ramec 121
-dlzka ramca poskytnuta pcap API - 238 B
-dlzka ramca prenasaneho po mediu - 242 B
-Ether II
-zdrojova MAC adresa: 08 00 27 F6 18 F9
-cielova MAC adresa: 00 16 E6 54 C8 97
-IPv4
-0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
-0010  00 E0 30 EC 40 00 40 11 B0 D4 AC 1A 00 14 AC 1A  ..0.@.@.........
-0020  00 04 D7 18 A5 3D 00 CC AF FF 00 03 00 3B 83 EF  .....=.......;..
-0030  50 80 63 70 F5 40 34 F4 34 20 37 6D 89 5B 71 B4  P.cp.@4.4 7m.[q.
-0040  E3 E4 1D 2A D0 16 A0 91 ED EF E5 30 3B 46 42 B0  ...*.......0;FB.
-0050  1B 0E 31 95 E6 87 B8 10 9F F5 90 2F 60 DC 0F 4A  ..1......../`..J
-0060  42 33 B5 4E 2D 93 1F DE 34 C6 8A 70 FF 00 AD 23  B3.N-...4..p...#
-0070  B6 07 14 4B 60 67 D4 5E 04 50 BA 26 96 14 00 3C  ...K`g.^.P.&...<
-0080  A1 D0 57 93 89 DC FA 3C 37 C0 8F 4D B3 18 89 3E  ..W....<7..M...>
-0090  B5 C4 74 CC E8 AD 7F D5 1F AD 4B 1B D8 D7 B4 EA  ..t.......K.....
-00a0  3E 95 2C 92 FA 7D CA 43 45 95 E1 68 60 33 F8 8D  >.,..}.CE..h`3..
-00b0  48 D0 8D FC 34 C6 57 BA 3C 52 28 E4 75 B2 47 EB  H...4.W.<R(.u.G.
-00c0  57 13 36 64 58 56 AF 62 4D B4 FF 00 57 50 26 51  W.6dXV.bM...WP&Q
-00d0  B9 FF 00 5D 54 41 A9 A6 0E 0D 00 4C 8D 60 6B C7  ...]TA.....L.`k.
-00e0  F7 85 63 23 78 9A 28 3E 5A C8 A6 7F FF D9        ..c#x.(>Z.....
-
-ramec 122
-dlzka ramca poskytnuta pcap API - 266 B
-dlzka ramca prenasaneho po mediu - 270 B
-Ether II
-zdrojova MAC adresa: 00 16 E6 54 C8 97
-cielova MAC adresa: 08 00 27 F6 18 F9
-IPv4
-0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 C0  ..'......T....E.
-0010  00 FC 45 C6 00 00 40 01 DB 2E AC 1A 00 04 AC 1A  ..E...@.........
-0020  00 14 03 03 56 27 00 00 00 00 45 00 00 E0 30 EC  ....V'....E...0.
-0030  40 00 40 11 B0 D4 AC 1A 00 14 AC 1A 00 04 D7 18  @.@.............
-0040  A5 3D 00 CC AF FF 00 03 00 3B 83 EF 50 80 63 70  .=.......;..P.cp
-0050  F5 40 34 F4 34 20 37 6D 89 5B 71 B4 E3 E4 1D 2A  .@4.4 7m.[q....*
-0060  D0 16 A0 91 ED EF E5 30 3B 46 42 B0 1B 0E 31 95  .......0;FB...1.
-0070  E6 87 B8 10 9F F5 90 2F 60 DC 0F 4A 42 33 B5 4E  ......./`..JB3.N
-0080  2D 93 1F DE 34 C6 8A 70 FF 00 AD 23 B6 07 14 4B  -...4..p...#...K
-0090  60 67 D4 5E 04 50 BA 26 96 14 00 3C A1 D0 57 93  `g.^.P.&...<..W.
-00a0  89 DC FA 3C 37 C0 8F 4D B3 18 89 3E B5 C4 74 CC  ...<7..M...>..t.
-00b0  E8 AD 7F D5 1F AD 4B 1B D8 D7 B4 EA 3E 95 2C 92  ......K.....>.,.
-00c0  FA 7D CA 43 45 95 E1 68 60 33 F8 8D 48 D0 8D FC  .}.CE..h`3..H...
-00d0  34 C6 57 BA 3C 52 28 E4 75 B2 47 EB 57 13 36 64  4.W.<R(.u.G.W.6d
-00e0  58 56 AF 62 4D B4 FF 00 57 50 26 51 B9 FF 00 5D  XV.bM...WP&Q...]
-00f0  54 41 A9 A6 0E 0D 00 4C 8D 60 6B C7 F7 85 63 23  TA.....L.`k...c#
-0100  78 9A 28 3E 5A C8 A6 7F FF D9                    x.(>Z.....
-
-ramec 123
-dlzka ramca poskytnuta pcap API - 71 B
-dlzka ramca prenasaneho po mediu - 75 B
-Ether II
-zdrojova MAC adresa: 00 16 E6 54 C8 97
-cielova MAC adresa: 08 00 27 F6 18 F9
-IPv4
-0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
-0010  00 39 00 00 40 00 40 11 E2 67 AC 1A 00 04 AC 1A  .9..@.@..g......
-0020  00 14 E5 B2 00 45 00 25 58 83 00 02 73 68 69 72  .....E.%X...shir
-0030  6C 65 79 2E 70 68 6F 6E 65 2E 74 78 74 00 6E 65  ley.phone.txt.ne
-0040  74 61 73 63 69 69 00                             tascii.
-
-ramec 124
-dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
-Ether II
-zdrojova MAC adresa: 08 00 27 F6 18 F9
-cielova MAC adresa: 00 16 E6 54 C8 97
-IPv4
-0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
-0010  00 20 36 84 40 00 40 11 AB FC AC 1A 00 14 AC 1A  . 6.@.@.........
-0020  00 04 B4 79 E5 B2 00 0C 0D 59 00 04 00 00        ...y.....Y....
-
-ramec 125
-dlzka ramca poskytnuta pcap API - 58 B
-dlzka ramca prenasaneho po mediu - 64 B
-Ether II
-zdrojova MAC adresa: 00 16 E6 54 C8 97
-cielova MAC adresa: 08 00 27 F6 18 F9
-IPv4
-0000  08 00 27 F6 18 F9 00 16 E6 54 C8 97 08 00 45 00  ..'......T....E.
-0010  00 2C 00 00 40 00 40 11 E2 74 AC 1A 00 04 AC 1A  .,..@.@..t......
-0020  00 14 E5 B2 B4 79 00 18 58 76 00 03 00 01 31 32  .....y..Xv....12
-0030  33 34 35 36 37 38 39 30 0D 0A                    34567890..
-
-ramec 126
-dlzka ramca poskytnuta pcap API - 46 B
-dlzka ramca prenasaneho po mediu - 64 B
-Ether II
-zdrojova MAC adresa: 08 00 27 F6 18 F9
-cielova MAC adresa: 00 16 E6 54 C8 97
-IPv4
-0000  00 16 E6 54 C8 97 08 00 27 F6 18 F9 08 00 45 00  ...T....'.....E.
-0010  00 20 36 85 40 00 40 11 AB FB AC 1A 00 14 AC 1A  . 6.@.@.........
-0020  00 04 B4 79 E5 B2 00 0C 0D 58 00 04 00 01        ...y.....X....
 

@@ -50,10 +50,10 @@ ff Global DSAP
 
 # ports
 # TCP ports
-14 FTP - data
-15 FTP - controller 
+14 FTP datove
+15 FTP riadiace
 16 SSH
-17 Telnet
+17 TELNET
 50 HTTP
 01bb HTTPS
 # UDP ports
@@ -64,3 +64,16 @@ ff Global DSAP
 89 NBMS
 a1 SNMP
 0208 RIP
+# ICMP types
+00 Echo reply
+03 Destination unreachable
+04 Source quench
+05 Redirect
+08 Echo request
+09 Router advertisement
+0a Router selection
+0b Time exceeded
+0d Timestamp
+0e Timestamp reply
+11 Address mask request
+12 Address mask reply 
