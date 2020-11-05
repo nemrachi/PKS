@@ -20,7 +20,7 @@ class Analyser:
 
         self.frames, self.protocols, self.ipProtocols, self.ports = getFramesProtocolsPorts()
 
-        self.checkFilter()
+        # self.checkFilter()
 
         # for point 4
         # analyse TCP/UDP communication
@@ -56,6 +56,8 @@ class Analyser:
         
 
     def analyse(self):
+        lldpCount = 0
+
         frameCount = 0
 
         destIpCount = {} # dict of receiving Ips with their counts
@@ -78,11 +80,20 @@ class Analyser:
                 destIpCount, frame = self.getProtocolIpFromIpv4(destIpCount, f)
                 frame = self.getPortsFromIpv4(frame)
             elif (f.protocol["main"] == self.protocols["0806"]): # if ARP
-                destIpCount, frame = self.getIpFromArp(destIpCount, f)       
+                frame = self.getIpFromArp(f)  
+            elif (f.protocol["main"] == self.protocols["88cc"]) : # if LLDP
+                lldpCount += 1 
+                if (self.filteredProtocol == "LLDP"):
+                    if (self.outputChoice == "f"):
+                        self.printInfoToFile(f)
+                        self.outputFile.write("pocet LLDP ramcov:" + str(lldpCount) + "\n") # doimplemnetacia
+                    else:
+                        self.printInfo(f)  
+                        print("pocet LLDP ramcov:" + str(lldpCount)) # doimplemnetacia
+                    
+            if (self.filteredProtocol.rstrip() == "LLDP"):
+                continue
 
-
-            if (f.protocol["main"] == self.protocols["0806"]): # if ARP
-                pass
             # print in console or to the file
             if (self.outputChoice == "f"):
                 self.printInfoToFile(f)
@@ -128,27 +139,28 @@ class Analyser:
 
     # 802.3 LLC+SNAP, 802.3 LLC, 802.3 Raw and protocol
     def getIeeeType(self, data: bytearray) -> Tuple[str, str]:
-        llHeader = struct.unpack("!H", data[14:16])
-        llHeader = self.hex2(llHeader)
-        try:
+        ieeeType = None
+        llHeader = struct.unpack("!BB", data[14:16])
+        llHeader = map("{:02x}".format, llHeader)
+        llHeader = "".join(llHeader)
+
+        protocol = self.protocols[llHeader[:2]]
+
+        if (protocol == "SNAP"): # SNAP
             ieeeType = self.frames[llHeader]
-        except KeyError: 
-            ieeeType = None
-
-        protocol = None
-
-        if ("RAW" in ieeeType): # RAW
-            protocol = self.protocols["e0"] # IPX
-        elif ("SNAP" in ieeeType): # SNAP
-            protocol = self.protocols[llHeader[:2]] # SNAP is not depth-analysed
+            protocol = self.protocols[llHeader[:2]]
+            # inner protocol
+        elif (protocol == "Global DSAP"): # RAW
+            ieeeType = self.frames[llHeader]
+            protocol = "IPX"
+            # inner protocol
         else: # LLC
             ieeeType = self.frames["e0e0"]
-            protocol = self.protocols[llHeader[:2]]
 
         return ieeeType, protocol
 
 
-    def getIpFromArp(self, frame: Frame):
+    def getIpFromArp(self, frame: Frame) -> Frame:
         opcode, sourceMac, sourceIp, destMac, destIp = struct.unpack("!H6s4s6s4s", frame.data[20:42])
         # ip adresses
         frame.protocol["sourceIp"] = ".".join(map(str, sourceIp))
@@ -204,7 +216,10 @@ class Analyser:
             frame = self.getUdpInfo(frame)
 
         # checks ports if exists
-        sPortNum = frame.protocol["sourcePort"]
+        try:
+            sPortNum = frame.protocol["sourcePort"]
+        except:
+            return frame
         try:
             frame.protocol["sourcePort"] = self.ports[self.hex2(sPortNum)]
             frame.protocol["sourcePort"] = str(sPortNum) + " " + frame.protocol["sourcePort"]
@@ -403,8 +418,13 @@ class Analyser:
                 print(frame.protocol["ipProtocol"])
                 print("zdrojovy port: " + frame.protocol["sourcePort"])
                 print("cielovy port: " + frame.protocol["destPort"])
-            if (f.protocol["main"] == self.protocols["0806"]): # if ARP
-                pass # ARP
+            if (frame.protocol["main"] == self.protocols["0806"]): # if ARP
+                if (frame.protocol["opcode"] == 1):
+                    print("ARP - Request")
+                else:
+                    print("ARP - Reply")
+                print("zdrojova IP adresa: " + frame.protocol["sourceIp"] + "\tcielova IP adresa: " + frame.protocol["destIp"])
+                print("zdrojova MAC adresa: " + frame.protocol["sourceMac"] + "\tcielova MAC adresa: " + frame.protocol["destMac"])
                     
         print(hexdump(frame.data, True))
         print("")
@@ -422,13 +442,22 @@ class Analyser:
             self.outputFile.write(frame.protocol["main"]  + "\n")
 
             if (frame.protocol["main"] == self.protocols["0800"]): # if IPv4
-                self.outputFile.write("zdrojova IP adresa: " + frame.protocol["sourceIp"] + "\n")
-                self.outputFile.write("cielova IP adresa: " + frame.protocol["destIp"] + "\n")
+                self.outputFile.write("zdrojova IP adresa: " + frame.protocol["sourceIp"] if "sourceIp" in  frame.protocol else "" + "\n")
+                self.outputFile.write("cielova IP adresa: " + frame.protocol["destIp"] if "destIp" in  frame.protocol else "" + "\n")
                 self.outputFile.write(frame.protocol["ipProtocol"] + "\n")
-                self.outputFile.write("zdrojovy port: " + frame.protocol["sourcePort"] + "\n")
-                self.outputFile.write("cielovy port: " + frame.protocol["destPort"] + "\n")
-            else:
-                pass # ARP
+                try:
+                    self.outputFile.write("zdrojovy port: " + frame.protocol["sourcePort"] if "sourcePort" in  frame.protocol else "" + "\n")
+                    self.outputFile.write("cielovy port: " + frame.protocol["destPort"] if "destPort" in  frame.protocol else "" + "\n")
+                except KeyError:
+                    self.outputFile.write("zdrojovy port: \n")
+                    self.outputFile.write("cielovy port: \n")
+            # if (frame.protocol["main"] == self.protocols["0806"]): # if ARP
+            #     if (frame.protocol["opcode"] == 1):
+            #         self.outputFile.write("ARP - Request" + "\n")
+            #     else:
+            #         self.outputFile.write("ARP - Reply" + "\n")
+            #     self.outputFile.write("zdrojova IP adresa: " + frame.protocol["sourceIp"] + "\tcielova IP adresa: " + frame.protocol["destIp"] + "\n")
+            #     self.outputFile.write("zdrojova MAC adresa: " + frame.protocol["sourceMac"] + "\tcielova MAC adresa: " + frame.protocol["destMac"] + "\n")
 
         self.outputFile.write(hexdump(frame.data, True) + "\n\n")
 
@@ -485,25 +514,27 @@ class Analyser:
 
 
     def printFlags(self, frame: Frame) -> str:
+        if ("flagACK" not in frame.protocol.keys()):
+            return ""
         flagACK = frame.protocol["flagACK"] 
         flagRST = frame.protocol["flagRST"]
         flagSYN = frame.protocol["flagSYN"]
         flagFIN = frame.protocol["flagFIN"]
 
         # ( (1) and not (0) )
-        if ( (flagACK) and not (flagRST and flagSYN and flagFIN) ):
+        if ( (flagACK == 1) and (flagRST == 0 and flagSYN == 0 and flagFIN == 0) ):
             return "[ACK] " + frame.protocol["sourcePort"] + " -> " + frame.protocol["destPort"] 
-        elif ( (flagACK and flagRST) and not (flagSYN and flagFIN) ):
+        elif ( (flagACK == 1 and flagRST == 1) and not (flagSYN == 0 and flagFIN == 0) ):
             return "[RST, ACK] " + frame.protocol["sourcePort"] + " -> " + frame.protocol["destPort"] 
-        elif ( (flagACK and flagSYN) and not (flagRST and flagFIN) ):
+        elif ( (flagACK == 1 and flagSYN == 1) and not (flagRST == 0 and flagFIN == 0) ):
             return "[SYN, ACK] " + frame.protocol["sourcePort"] + " -> " + frame.protocol["destPort"] 
-        elif ( (flagACK and flagFIN) and not (flagRST and flagSYN) ):
+        elif ( (flagACK == 1 and flagFIN == 1) and not (flagRST == 0 and flagSYN == 0) ):
             return "[FIN, ACK] " + frame.protocol["sourcePort"] + " -> " + frame.protocol["destPort"]
-        elif ( (flagRST) and not (flagACK and flagSYN and flagFIN) ):
+        elif ( (flagRST == 1) and not (flagACK == 0 and flagSYN == 0 and flagFIN == 0) ):
             return "[RST] " + frame.protocol["sourcePort"] + " -> " + frame.protocol["destPort"]
-        elif ( (flagSYN) and not (flagACK and flagRST and flagFIN) ):
+        elif ( (flagSYN == 1) and not (flagACK == 0 and flagRST == 0 and flagFIN == 0) ):
             return "[SYN] " + frame.protocol["sourcePort"] + " -> " + frame.protocol["destPort"]
-        elif ( (flagFIN) and not (flagACK and flagRST and flagSYN) ):
+        elif ( (flagFIN == 1) and not (flagACK == 0 and flagRST == 0 and flagSYN == 0) ):
             return "[FIN] " + frame.protocol["sourcePort"] + " -> " + frame.protocol["destPort"]
         else:
             return "[???] " + frame.protocol["sourcePort"] + " -> " + frame.protocol["destPort"]
